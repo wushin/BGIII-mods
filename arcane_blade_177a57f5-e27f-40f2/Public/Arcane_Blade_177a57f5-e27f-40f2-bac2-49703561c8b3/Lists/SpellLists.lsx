@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+          <attribute id="Name" type="FixedString" value="ArcaneBladeCantrips" />
+          <attribute id="Spells" type="LSString" value="Target_GreenFlameBlade;Target_BoomingBladeMove;Target_ViciousMockery;Target_TrueStrike;Shout_BladeWard;Target_HideousLaughter;Target_MageArmor;Shout_Shield_Wizard;Shout_Blur;Shout_MirrorImage;Shout_FeatherFall;Target_Jump;Target_Longstrider" />
+          <attribute id="UUID" type="guid" value="9c57921c-0a34-408a-8b69-5c07b6f483a8" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

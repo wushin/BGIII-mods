@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="8" build="10" />
+  <region id="Progressions">
+    <node id="root">
+      <children>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="false" />
+                    <attribute id="IsMulticlass" type="bool" value="false" />
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(Skill,Performance);Proficiency(LightArmor);Proficiency(SimpleWeapons);Proficiency(HandCrossbows);Proficiency(Longswords);Proficiency(Scimitars);Proficiency(Rapiers);Proficiency(Shortswords);ActionResource(SneakAttack_Charge,1,0)" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="PassivesAdded" type="LSString" value="RakishAudacitySneakAttack;RakishAudacitySneakAttack_Unlock;TraininginWarandSong;Bladesong_Armor_Message;Bladesong_Weapon_Message;Bladesong_Shield_Message;Bladesong_Weapon;Bladesong_Shield;Bladesong_Unarmed;FightingStyle_TwoWeaponFighting" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(a1c2b712-2ed6-4e5b-820f-c5db654fe006,4);SelectSkillsExpertise(f974ebd6-3725-4b90-bb5c-2b647d41615d,2);SelectAbilityBonus(c5a81371-74b1-4578-b1b1-05ef4433094d,AbilityBonus,2,1);SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,3,0,,,,AlwaysPrepared);SelectEquipment(f372063f-130d-49cc-9311-220c0906cd79,1,WarAndSong)" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="16f00e7f-12f6-4cff-b610-4ee738b02d62" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="IsMulticlass" type="bool" value="true" />
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(Skill,Performance);Proficiency(LightArmor);Proficiency(SimpleWeapons);Proficiency(HandCrossbows);Proficiency(Longswords);Proficiency(Scimitars);Proficiency(Rapiers);Proficiency(Shortswords);ActionResource(SneakAttack_Charge,1,0)" />
+                    <attribute id="Level" type="uint8" value="1" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="PassivesAdded" type="LSString" value="RakishAudacitySneakAttack;RakishAudacitySneakAttack_Unlock;TraininginWarandSong;Bladesong_Armor_Message;Bladesong_Weapon_Message;Bladesong_Shield_Message;Bladesong_Weapon;Bladesong_Shield;Bladesong_Unarmed;FightingStyle_TwoWeaponFighting" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Selectors" type="LSString" value="SelectSkills(d3556470-7a84-4c3e-8dac-92461f64dd1a,4);SelectSkillsExpertise(8f539760-62d6-4d44-80d4-7c0908c1f6d0,2);SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,3,0,,,,AlwaysPrepared);SelectEquipment(f372063f-130d-49cc-9311-220c0906cd79,1,WarAndSong)" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="2eb5850f-107a-42b8-a860-58c5c95e2daf" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Level" type="uint8" value="2" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(2dc120ff-903b-494b-8dc8-38721098ce38);AddSpells(964e765d-5881-463e-b1b0-4fc6b8035aa8);AddSpells(80225e21-5acd-4122-b779-488dae33a31c)" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="3323d506-b89a-40bf-b414-c5ed25135a7a" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SuperiorityDie,2,0);ActionResource(Bladesong,2,0)" />
+                    <attribute id="PassivesAdded" type="LSString" value="RakishAudacityInit;FancyFootwork" />
+                    <attribute id="Level" type="uint8" value="3" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,3,Maneuvers)" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="d9ab231d-41ad-4baa-8f3b-6f65ad9db858" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Level" type="uint8" value="4" />
+                    <attribute id="PassivesAdded" type="LSString" value="FightingStyle_BlindFighting" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="1e446224-7be0-40f3-b7ea-92f8e60716a6" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="PassivesAdded" type="LSString" value="UncannyDodge;ExtraAttack" />
+                    <attribute id="Level" type="uint8" value="5" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="b5b78a1c-18ca-4fa2-9644-0436af1c9e99" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
+                    <attribute id="Level" type="uint8" value="6" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="19500704-6884-4fbb-8e43-2200a9214acf" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="PassivesAdded" type="LSString" value="Evasion" />
+                    <attribute id="Level" type="uint8" value="7" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="3f3be1c3-5968-47a3-a638-d6695e15b5d5" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
+                    <attribute id="Level" type="uint8" value="8" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="9455a6e1-a32f-4d37-b557-74f2638e9b1f" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="PassivesAdded" type="LSString" value="Indomitable" />
+                    <attribute id="Level" type="uint8" value="9" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="698ae753-9c40-45f3-b724-82d6d4a347e5" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="PassivesAdded" type="LSString" value="SongOfDefense" />
+                    <attribute id="Level" type="uint8" value="10" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="0951f59c-8d72-45e7-a439-72b4eceb9b80" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="PassivesAdded" type="LSString" value="SongOfDefense_6;ExtraAttack_2;ReliableTalent" />
+                    <attribute id="Level" type="uint8" value="11" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="7081bbfe-7ea7-47fa-a3c2-e4340a0d82b3" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
+                    <attribute id="Level" type="uint8" value="12" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="4e67e563-f5e8-4f81-a671-0174a7321122" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="PassivesAdded" type="LSString" value="Indomitable_2" />
+                    <attribute id="Level" type="uint8" value="13" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="674233b2-e0f4-4c05-b5e8-83ba518c95ba" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="PassivesAdded" type="LSString" value="Blindsense" />
+                    <attribute id="Level" type="uint8" value="14" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="d9286ead-c924-4f24-8476-5df5179ae202" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="PassivesAdded" type="LSString" value="SlipperyMind" />
+                    <attribute id="Level" type="uint8" value="15" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="0bc03ff2-847c-4720-9a07-0aca49ea87f9" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
+                    <attribute id="Level" type="uint8" value="16" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="406a07af-cea1-45eb-bc98-c10072bc6aa0" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="PassivesAdded" type="LSString" value="Indomitable_3" />
+                    <attribute id="Level" type="uint8" value="17" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="2cebeba5-70a6-40d1-858d-64449c0354c6" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="PassivesAdded" type="LSString" value="Elusive" />
+                    <attribute id="Level" type="uint8" value="18" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="406f1cf8-8346-486c-afda-c985af90ff91" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
+                    <attribute id="Level" type="uint8" value="19" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="8305a96b-93e3-48fa-97fe-60ee66702a02" />
+        </node>
+        <node id="Progression">
+                    <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="PassivesAdded" type="LSString" value="ExtraAttack_3" />
+                    <attribute id="Level" type="uint8" value="20" />
+                    <attribute id="Name" type="LSString" value="ArcaneBlade" />
+                    <attribute id="ProgressionType" type="uint8" value="0" />
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+                    <attribute id="UUID" type="guid" value="f4cfd05e-f58a-43e0-b5bb-06c33da556b2" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

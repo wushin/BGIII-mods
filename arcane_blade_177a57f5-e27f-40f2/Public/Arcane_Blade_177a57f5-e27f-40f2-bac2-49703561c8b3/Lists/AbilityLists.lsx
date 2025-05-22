@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="0"/>
+    <region id="AbilityLists">
+        <node id="root">
+            <children>
+                <node id="AbilityList">
+                    <attribute id="Abilities" type="LSString" value="Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma"/>
+                    <attribute id="Name" type="FixedString" value="Arcane Blade List"/>
+                    <attribute id="UUID" type="guid" value="c5a81371-74b1-4578-b1b1-05ef4433094d"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

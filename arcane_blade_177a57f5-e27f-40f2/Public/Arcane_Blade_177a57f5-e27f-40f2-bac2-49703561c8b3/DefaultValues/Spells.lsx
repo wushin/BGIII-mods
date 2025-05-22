@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="DefaultValues">
+        <node id="root">
+            <children>
+                <node id="DefaultValue">
+                    <attribute id="Add" type="LSString" value="Target_BoomingBladeMove;Target_GreenFlameBlade;Shout_BladeWard"/>
+                    <attribute id="Level" type="int32" value="1"/>
+                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
+                    <attribute id="UUID" type="guid" value="5adf5332-75c2-4c13-b88b-56c60627cb52"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
