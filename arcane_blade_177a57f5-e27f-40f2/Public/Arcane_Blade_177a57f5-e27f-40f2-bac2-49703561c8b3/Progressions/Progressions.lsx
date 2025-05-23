@@ -33,7 +33,8 @@
                     <attribute id="Level" type="uint8" value="2" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
-                    <attribute id="Selectors" type="LSString" value="AddSpells(2dc120ff-903b-494b-8dc8-38721098ce38);AddSpells(964e765d-5881-463e-b1b0-4fc6b8035aa8);AddSpells(80225e21-5acd-4122-b779-488dae33a31c)" />
+                    <attribute id="PassivesAdded" type="LSString" value="ArcaneHands" />
+                    <attribute id="Selectors" type="LSString" value="AddSpells(2dc120ff-903b-494b-8dc8-38721098ce38);AddSpells(80225e21-5acd-4122-b779-488dae33a31c)" />
                     <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
                     <attribute id="UUID" type="guid" value="3323d506-b89a-40bf-b414-c5ed25135a7a" />
         </node>
@@ -95,7 +96,7 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
-                    <attribute id="PassivesAdded" type="LSString" value="Indomitable" />
+                    <attribute id="PassivesAdded" type="LSString" value="ArcaneAction" />
                     <attribute id="Level" type="uint8" value="9" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
@@ -131,7 +132,7 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
-                    <attribute id="PassivesAdded" type="LSString" value="Indomitable_2" />
+                    <attribute id="PassivesAdded" type="LSString" value="ArcaneHands_2" />
                     <attribute id="Level" type="uint8" value="13" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
@@ -167,7 +168,7 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
-                    <attribute id="PassivesAdded" type="LSString" value="Indomitable_3" />
+                    <attribute id="PassivesAdded" type="LSString" value="ArcaneAction_2" />
                     <attribute id="Level" type="uint8" value="17" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
