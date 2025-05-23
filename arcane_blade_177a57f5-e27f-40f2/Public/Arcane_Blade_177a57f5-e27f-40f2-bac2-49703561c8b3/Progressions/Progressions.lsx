@@ -43,7 +43,7 @@
                     <attribute id="PassivesAdded" type="LSString" value="RakishAudacityInit;FancyFootwork" />
                     <attribute id="Level" type="uint8" value="3" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
-                    <attribute id="Selectors" type="LSString" value="SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,3,Maneuvers)" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(8f06728f-9776-48b7-96e3-0942a1a6009a,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,3,Maneuvers)" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
                     <attribute id="UUID" type="guid" value="d9ab231d-41ad-4baa-8f3b-6f65ad9db858" />
@@ -68,7 +68,7 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(5118713a-2c82-4469-b3d6-4b498ca5875b,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
                     <attribute id="Level" type="uint8" value="6" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
@@ -86,7 +86,7 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(5118713a-2c82-4469-b3d6-4b498ca5875b,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
                     <attribute id="Level" type="uint8" value="8" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
@@ -122,7 +122,7 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(5118713a-2c82-4469-b3d6-4b498ca5875b,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
                     <attribute id="Level" type="uint8" value="12" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
@@ -158,7 +158,7 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(5118713a-2c82-4469-b3d6-4b498ca5875b,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
                     <attribute id="Level" type="uint8" value="16" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
@@ -185,7 +185,7 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(5118713a-2c82-4469-b3d6-4b498ca5875b,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
                     <attribute id="Level" type="uint8" value="19" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
