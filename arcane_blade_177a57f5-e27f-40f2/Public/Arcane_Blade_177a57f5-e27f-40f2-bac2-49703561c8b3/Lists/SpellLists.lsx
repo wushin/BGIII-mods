@@ -10,6 +10,11 @@
           <attribute id="UUID" type="guid" value="9c57921c-0a34-408a-8b69-5c07b6f483a8" />
         </node>
         <node id="SpellList">
+          <attribute id="Name" type="FixedString" value="ArcaneBladeSneakAttack"/>
+          <attribute id="Spells" type="LSString" value="Target_SneakAttackRakishAudacity;Projectile_SneakAttackRakishAudacity"/>
+          <attribute id="UUID" type="guid" value="db021c8d-2080-4049-8d79-6fc163df914e"/>
+        </node>
+        <node id="SpellList">
           <attribute id="Name" type="FixedString" value="ArcaneBladeCantrips3" />
           <attribute id="Spells" type="LSString" value="Target_GreenFlameBlade;Target_BoomingBladeMove;Shout_ArcaneWard;Shout_ArcaneShield;Shout_ArcaneBlur;Shout_ArcaneImage;Shout_ArcaneFall;Target_ArcaneMockery;Target_ArcaneStrike;Target_ArcaneLaughter;Target_ArcaneArmor;Target_ArcaneJump;Target_ArcaneStrider" />
           <attribute id="UUID" type="guid" value="8f06728f-9776-48b7-96e3-0942a1a6009a" />
