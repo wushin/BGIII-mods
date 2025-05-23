@@ -11,7 +11,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="ArcaneBladeSneakAttack"/>
-          <attribute id="Spells" type="LSString" value="Target_SneakAttackRakishAudacity;Projectile_SneakAttackRakishAudacity"/>
+          <attribute id="Spells" type="LSString" value="Target_SneakAttackArcane;Projectile_SneakAttackArcane"/>
           <attribute id="UUID" type="guid" value="db021c8d-2080-4049-8d79-6fc163df914e"/>
         </node>
         <node id="SpellList">

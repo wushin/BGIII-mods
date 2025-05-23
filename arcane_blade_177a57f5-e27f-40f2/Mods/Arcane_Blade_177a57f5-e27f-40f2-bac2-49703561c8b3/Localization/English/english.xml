@@ -4,4 +4,49 @@
   <content contentuid="h826a670eg6980g4df8g8320g2f1cd9b2652c" version="1">You will learn skills from a mix of Bladesinger, Swashbuckler Rogue and Battle Master Fighter skills.</content>
   <content contentuid="he8a4275eg4c54g482eg9434ga668c33c20f7" version="1">Arcane Blade</content>
   <content contentuid="h438acd28g3728g4a2eg89ecgcab26b0c38c7" version="1">You will learn skills from a mix of Bladesinger, Swashbuckler Rogue and Battle Master Fighter skills.</content>
+  <content contentuid="he7f93188g5e28g4c89g8c54g37d12643881f" version="1">%%% Unlock Sneak Attack Arcane interrupt</content>
+  <content contentuid="h4d5b4c09g28f3g4c2bgbf9cg0d7819d81851" version="2">Sneak Attack (Melee) : Arcane </content>
+  <content contentuid="hfcc3686bg9128g4b6ag8d5eg79db57330e93" version="5">Also works if you have an ally within [1] of the target or there is no one but you and within [1] of the target. However you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+  <content contentuid="hb3137566g45dbg49c3gac35g39e9d286dfda" version="1">Arcane Initiative</content>
+  <content contentuid="hbdfb1160g8a27g4a6dg8416gd750cd35c098" version="2">your confidence propels you into battle. You can give yourself a bonus to your initiative rolls equal to your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; </content>
+  <content contentuid="h892bf9f9g2e92g4609gb4e2g8271666dfcef" version="1">Arcane Sneak Attack</content>
+  <content contentuid="hb83ff5a2g23a5g4f1cga48bg09a70ba7d131" version="4">You gain an additional way to use your Sneak Attack; You can now also perform sneak attacks if there are no other enemies within 5 feet of the target (the enemy is isolated).</content>
+  <content contentuid="h00081d9agb4e9g46aagbfe1ga6b7addc0c55" version="2">Arcane Footwork</content>
+  <content contentuid="hb24c36c5g3cedg4f48g9098g73e7c2086efb" version="1">If you move after making a melee attack, you don't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; from your target.</content>
+  <content contentuid="ha18d0b3eg1838g47b9g83aege6fcf45e5251" version="1">This effect still works if your attack misses.</content>
+  <content contentuid="hc02e03acg2d4eg4af9g880fg10bd50d41457" version="1">Sneak Attack (Ranged) : Arcane</content>
+  <content contentuid="h0ffe168egcdbdg4975ga685gcb0fc34df36a" version="3">Also works if you have an ally within [1] of the target or there is no one but you and within [1] of the target. However you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>  
+  <content contentuid="h185e568bg0bccg4f2ega9c1g69239d2aff17" version="1">Opportunity Attack</content>
+  <content contentuid="h4ec5ac65g324cg4065g86a8g7837c21272d8" version="1">Attack an enemy moving out of your reach.</content>
+  <content contentuid="hd70b74edgbfa8g4c53g8184g677ac65d17fd" version="1">Arcane Hands</content>
+  <content contentuid="h39a1435cg89ecg43efga4adgd2318a5173d1" version="1">All the time spent practicing with blades, spells and sleight of hand has paid off. You gain an additional bonus action.</content>
+  <content contentuid="hfdc38bbbg603cg46c9gbd00gb687292a2970" version="1">Arcane Action</content>
+  <content contentuid="hac9f8fcbg3a64g49ebg8dafg77d7261cf448" version="1">Your hands have become infused with the weave and anticipate your movements. You gain an additional action.</content>
+  <content contentuid="hca689969g26e5g4271g891agdc3d13d5f8e0" version="1">Arcane Ward</content>
+  <content contentuid="h9a4b8d21gaa93g4d78ga6a3gb09579907c86" version="1">Arcane Ward Desc</content>
+  <content contentuid="h385c63f4gc271g41fcg8bf1g04a4183a4c4e" version="1">Arcane Shield</content>
+  <content contentuid="hd5467959gf3b2g4b02ga729geac6663156e1" version="1">Arcane Shield Desc</content>
+  <content contentuid="h08b1f205ga7a2g454cgab41g5c4916590fda" version="1">Arcane Blur</content>
+  <content contentuid="hece3ec73gcd07g4be1gadbcg3203603fd233" version="1">Arcane Blur Desc</content>
+  <content contentuid="h5bcb862eg78b3g423ag9bc3g3f38ed8903e1" version="1">Arcane Blur ExDesc</content>
+  <content contentuid="hbee27d43g9926g45c6gaf88g79217a6aec99" version="1">Arcane Image</content>
+  <content contentuid="hd0de1c33g306bg4e79ga8f9g8527121e62d7" version="1">Arcane Image Desc</content>
+  <content contentuid="h57e194fdg3959g43e8gb994g7ffa82590ea7" version="1">Arcane Image ExDesc</content>
+  <content contentuid="h2e7b78a6g87a7g4910gb830g431368a24fd1" version="1">Arcane Fall</content>
+  <content contentuid="hba328959g46dfg4645g80e6gccaef6b1db20" version="1">Arcane Fall Desc</content>
+  <content contentuid="h61ae48c5gdc3ag4609ga020g1b817db1f2c9" version="1">Arcane Blade Wall</content>
+  <content contentuid="h042b53fcgc672g4db8g9e97gcbcbe53ba1ce" version="1">Arcane Blade Wall Desc</content>
+  <content contentuid="hb777ae33g478fg4591g9941gfc4a3d2055b1" version="1">Arcane Mockery</content>
+  <content contentuid="hd42770ccg5605g4b33gb09eg55f66a42bf93" version="1">Arcane Mockery Desc</content>
+  <content contentuid="he37eaa29gac75g409dg909egf11560ccb9e9" version="1">Arcane Strike</content>
+  <content contentuid="he9e8c09eg0f37g4ad9g8232gb8b19e40c206" version="1">Arcane Strike Desc</content>
+  <content contentuid="h43190a77gb3f9g46a3g873ag4a33744f9cfc" version="1">Arcane Laughter</content>
+  <content contentuid="h98c8f7acg61f3g46f8g9a5dgd41607c1fdf0" version="1">Arcane Laughter Desc</content>
+  <content contentuid="hc4cd677cg69eag449cgbd78g4be68b6924d1" version="1">Arcane Armor</content>
+  <content contentuid="h8122c1e5g1329g4decg8051geb5119f2d96f" version="1">Arcane Armor Desc</content>
+  <content contentuid="hace1ba74g60c9g4c9bgb2d2g4f1794522082" version="1">Arcane Armor ExDesc</content>
+  <content contentuid="hbf829dd6gbb18g4af2g86b6g2f786c838da8" version="1">Arcane Jump</content>
+  <content contentuid="hbe73661fge65bg47acg8547gd7a327a282f3" version="1">Arcane Jump</content>
+  <content contentuid="h933c4150ge7e3g4fbdgb8b8g2cf8eea211eb" version="1">Arcane Strider</content>
+  <content contentuid="h319193c0g7bc4g47f9g8f88g87d59140852a" version="1">Arcane Strider Desc</content>
 </contentList>

@@ -10,7 +10,7 @@
                     <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(Skill,Performance);Proficiency(LightArmor);Proficiency(SimpleWeapons);Proficiency(HandCrossbows);Proficiency(Longswords);Proficiency(Scimitars);Proficiency(Rapiers);Proficiency(Shortswords);ActionResource(SneakAttack_Charge,1,0)" />
                     <attribute id="Level" type="uint8" value="1" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
-                    <attribute id="PassivesAdded" type="LSString" value="RakishAudacitySneakAttack;RakishAudacitySneakAttack_Unlock;TraininginWarandSong;Bladesong_Armor_Message;Bladesong_Weapon_Message;Bladesong_Shield_Message;Bladesong_Weapon;Bladesong_Shield;Bladesong_Unarmed;FightingStyle_TwoWeaponFighting" />
+                    <attribute id="PassivesAdded" type="LSString" value="ArcaneSneakAttack;ArcaneSneakAttack_Unlock;TraininginWarandSong;Bladesong_Armor_Message;Bladesong_Weapon_Message;Bladesong_Shield_Message;Bladesong_Weapon;Bladesong_Shield;Bladesong_Unarmed;FightingStyle_TwoWeaponFighting" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="Selectors" type="LSString" value="SelectSkills(a1c2b712-2ed6-4e5b-820f-c5db654fe006,4);SelectSkillsExpertise(f974ebd6-3725-4b90-bb5c-2b647d41615d,2);SelectAbilityBonus(c5a81371-74b1-4578-b1b1-05ef4433094d,AbilityBonus,2,1);SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,3,0,,,,AlwaysPrepared);SelectEquipment(f372063f-130d-49cc-9311-220c0906cd79,1,WarAndSong);AddSpells(db021c8d-2080-4049-8d79-6fc163df914e)" />
                     <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
@@ -22,7 +22,7 @@
                     <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Intelligence);ProficiencyBonus(Skill,Performance);Proficiency(LightArmor);Proficiency(SimpleWeapons);Proficiency(HandCrossbows);Proficiency(Longswords);Proficiency(Scimitars);Proficiency(Rapiers);Proficiency(Shortswords);ActionResource(SneakAttack_Charge,1,0)" />
                     <attribute id="Level" type="uint8" value="1" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
-                    <attribute id="PassivesAdded" type="LSString" value="RakishAudacitySneakAttack;RakishAudacitySneakAttack_Unlock;TraininginWarandSong;Bladesong_Armor_Message;Bladesong_Weapon_Message;Bladesong_Shield_Message;Bladesong_Weapon;Bladesong_Shield;Bladesong_Unarmed;FightingStyle_TwoWeaponFighting" />
+                    <attribute id="PassivesAdded" type="LSString" value="ArcaneSneakAttack;ArcaneSneakAttack_Unlock;TraininginWarandSong;Bladesong_Armor_Message;Bladesong_Weapon_Message;Bladesong_Shield_Message;Bladesong_Weapon;Bladesong_Shield;Bladesong_Unarmed;FightingStyle_TwoWeaponFighting" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="Selectors" type="LSString" value="SelectSkills(d3556470-7a84-4c3e-8dac-92461f64dd1a,4);SelectSkillsExpertise(8f539760-62d6-4d44-80d4-7c0908c1f6d0,2);SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,3,0,,,,AlwaysPrepared);SelectEquipment(f372063f-130d-49cc-9311-220c0906cd79,1,WarAndSong)" />
                     <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
@@ -41,7 +41,7 @@
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
                     <attribute id="Boosts" type="LSString" value="ActionResource(SuperiorityDie,2,0);ActionResource(Bladesong,2,0)" />
-                    <attribute id="PassivesAdded" type="LSString" value="RakishAudacityInit;FancyFootwork" />
+                    <attribute id="PassivesAdded" type="LSString" value="ArcaneInit;ArcaneFootwork" />
                     <attribute id="Level" type="uint8" value="3" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="Selectors" type="LSString" value="SelectSpells(8f06728f-9776-48b7-96e3-0942a1a6009a,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,3,Maneuvers)" />
