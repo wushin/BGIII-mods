@@ -32,6 +32,6 @@ function ArcaneBladeSongAvaliable()
 end
 
 function HasArcaneBladeSongClimaxBlocked()
-    result = HasStatus('BLADESONG_ARMOR_MESSAGE') | HasStatus('BLADESONG_SHIELD_MESSAGE') | HasStatus('BLADESONG_WEAPON_MESSAGE') | HasStatus('BLADESONG_UNARMED_MESSAGE') | HasStatus('BLADESONG_SHIELD')
+    result = HasStatus('ARCANEBLADESONG_ARMOR_MESSAGE') | HasStatus('ARCANEBLADESONG_SHIELD_MESSAGE') | HasStatus('ARCANEBLADESONG_WEAPON_MESSAGE') | HasStatus('ARCANEBLADESONG_UNARMED_MESSAGE') | HasStatus('ARCANEBLADESONG_SHIELD')
     return ConditionResult(result.Result, {ConditionError("BladesongClimaxNotBlocked")}, {ConditionError("BladesongClimaxBlocked")})
 end
