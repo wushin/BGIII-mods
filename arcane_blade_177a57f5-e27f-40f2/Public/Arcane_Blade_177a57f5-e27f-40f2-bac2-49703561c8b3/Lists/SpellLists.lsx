@@ -8,6 +8,7 @@
           <attribute id="Name" type="FixedString" value="ArcaneBlades" />
           <attribute id="Spells" type="LSString" value="Target_GreenFlameBlade;Target_IcewindBlade;Target_CausticBlade;Target_NecroticBlade;Target_BoomingBladeMove;Target_DivineBladeMove;Target_PsionicBladeMove;Target_ShockingBladeMove" />
           <attribute id="UUID" type="guid" value="9c57921c-0a34-408a-8b69-5c07b6f483a8" />
+        </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="ArcaneBladeSneakAttack"/>
           <attribute id="Spells" type="LSString" value="Target_SneakAttackArcane"/>
@@ -17,7 +18,6 @@
             <attribute id="Name" type="FixedString" value="Arcane Blade Song"/>
             <attribute id="Spells" type="LSString" value="Shout_ArcaneBladeSong"/>
             <attribute id="UUID" type="guid" value="f0f16b73-6f4a-40a8-800d-6164c7a30d89"/>
-        </node>
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="ArcaneBladeCantripsLvl0" />
