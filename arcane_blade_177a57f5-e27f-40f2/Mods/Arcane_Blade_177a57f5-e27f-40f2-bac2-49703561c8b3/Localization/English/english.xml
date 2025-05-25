@@ -14,8 +14,10 @@
   <content contentuid="h00081d9agb4e9g46aagbfe1ga6b7addc0c55" version="2">Arcane Footwork</content>
   <content contentuid="hb24c36c5g3cedg4f48g9098g73e7c2086efb" version="1">If you move after making a melee attack, you don't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; from your target.</content>
   <content contentuid="ha18d0b3eg1838g47b9g83aege6fcf45e5251" version="1">This effect still works if your attack misses.</content>
-  <content contentuid="hc02e03acg2d4eg4af9g880fg10bd50d41457" version="1">Sneak Attack (Ranged) : Arcane</content>
-  <content contentuid="h0ffe168egcdbdg4975ga685gcb0fc34df36a" version="3">Also works if you have an ally within [1] of the target or there is no one but you and within [1] of the target. However you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>  
+  <content contentuid="h06f6bd5bg5fdfg11c3gd59agab9a9f3cbc8a" version="1">Sneak Attack : Arcane</content>
+  <content contentuid="ha4c3dbbbgc3e9gd518g1811g093cc24b6654" version="2">Also works if you have an ally within [1] of the target or there is no one but you and the target within [1] but for both you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+  <content contentuid="h2c0c17a4g0edcg8dc7g4901gda36c8130161" version="1">Sneak Attack (Critical Hit) : Arcane</content>
+  <content contentuid="h41b6ff1agbe53g8202gff3fg3e6154a25da1" version="2">Also works if you have an ally within [1] of the target or there is no one but you and the target within [1] but for both you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
   <content contentuid="h185e568bg0bccg4f2ega9c1g69239d2aff17" version="1">Opportunity Attack</content>
   <content contentuid="h4ec5ac65g324cg4065g86a8g7837c21272d8" version="1">Attack an enemy moving out of your reach.</content>
   <content contentuid="hd70b74edgbfa8g4c53g8184g677ac65d17fd" version="1">Arcane Hands</content>
@@ -49,4 +51,49 @@
   <content contentuid="hbe73661fge65bg47acg8547gd7a327a282f3" version="1">Arcane Jump</content>
   <content contentuid="h933c4150ge7e3g4fbdgb8b8g2cf8eea211eb" version="1">Arcane Strider</content>
   <content contentuid="h319193c0g7bc4g47f9g8f88g87d59140852a" version="1">Arcane Strider Desc</content>
+  <content contentuid="hfada4e61g2cf8g9fd5g4f34gf78868c05a45" version="2">Mystra's Booming Blade</content>
+  <content contentuid="h89f7afeagf533g9ff7ga8bdg974f7baa98f3" version="2">Mystra's Booming Blade</content>
+  <content contentuid="h4c58440eg7054g3b10gd36fg054016e2e29b" version="2">Mystra's Booming Blade: Sneak Attack</content>
+  <content contentuid="hd04a8346ga84egfb7cg6d4fga10fa03bcf48" version="2">Mystra's Booming Blade: Reaction</content>
+  <content contentuid="h3a6e59a9g968fge02bgc62bg635d3112d638" version="2">Mystra's Booming Blade Critical: Reaction</content>
+  <content contentuid="h868b9145g7f0dg5283g6d67g207448f19e30" version="2">Booming Energy</content>
+  <content contentuid="h645decc9g86aag3716ge5e0gec70d22d606a" version="1">Booming Blast</content>
+  <content contentuid="he2ce3ff3g6f09gf934g18e4g98014d0fa122" version="1">Booming Blade (Once)</content>
+  <content contentuid="he69a3b57gcfaeg0ca8g53e3g1230c0eb898d" version="1">Booming Blade</content>
+  <content contentuid="h5803586ag6f25g4093g36d3g0dd36ebd205e" version="1">Booming Blade on Critical</content>
+  <content contentuid="h507f8336gce0fg490egc520gfb12ce686a20" version="4">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
+  <content contentuid="h5afb1a45gc8d9g8139g0493g2784ac2f9d91" version="1">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
+  <content contentuid="h7c8cac60g051bg55d9gb916g3caa4a7beca7" version="2">Takes Thunder damage upon moving.</content>
+  <content contentuid="h3e81ef1ag5844g7ea3g0b5cgd369ee7246d5" version="2">Can only use Booming Blade once per action.</content>
+  <content contentuid="he0adff8cg2b75g78ebg953fga8048a863701" version="1">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
+  <content contentuid="had5f3d0bgbe08ge805g36e6gabd8ebb041af" version="6">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.</content>
+  <content contentuid="h3fc201fdg63edgd575gd42egcb4a388b6863" version="3">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.</content>
+  <content contentuid="h5368dce2g230eg9c14g05f3g2d9af4bb5a9d" version="6">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.&lt;br&gt;&lt;br&gt;Requires the ability to Sneak Attack (Melee).</content>
+  <content contentuid="h14bd550aga55bg0475g10d1gbbb567113dc2" version="2">This reaction won't trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Green-Flame Blade.</content>
+  <content contentuid="h65e7702fgb752g5f5cg83feg48d19bcb4b11" version="2">This reaction will trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Green-Flame Blade.</content>
+  <content contentuid="h658ad5e5ge441g7084g551dg78adfabd4202" version="2">Green-Flame Blade</content>
+  <content contentuid="h6635a7d0g91e1g297fgf7cfg929de38fe693" version="1">Green-Flame Blade</content>
+  <content contentuid="ha747e514g1e1cg7d33gb80cg2ebf07816046" version="1">Green-Flame Blade: Sneak Attack</content>
+  <content contentuid="h5c337a77gbd64g7ddbgf954g855d46d19502" version="2">Green-Flame Blade: Reaction</content>
+  <content contentuid="h71297c84g400agbfe9g5804g839fea9ee20e" version="2">Green-Flame Blade Critical: Reaction</content>
+  <content contentuid="h5b044d05gf028g5096g7cc1g51415d57907c" version="2">Spread Green-Flame Blade</content>
+  <content contentuid="h8f359373g13e4g39d4gb990g24451b2c9c72" version="1">Green Flame Blade</content>
+  <content contentuid="he1aa7370g495bg325aga66dg9996a0793305" version="1">Green-Flame Blade (Once)</content>
+  <content contentuid="h7206704cg81c2gaae9g65e1g8bd838a2e3a0" version="2">Green-Flame Blade</content>
+  <content contentuid="hc95dd3e2gb97eg216cg5aedg1401932f33cb" version="2">Green-Flame Burn</content>
+  <content contentuid="h2dd75d1egbcd1gda95gf539gb79385087c40" version="2">Green-Flame Blade</content>
+  <content contentuid="ha416a789g3b5ege1c5g14cagb5b41bf75c83" version="2">Green-Flame Blade on Critical</content>
+  <content contentuid="h09009148g35b9gc346gd25eg2a54bcd66f34" version="8">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
+  <content contentuid="ha4cdfc4bg15f5g51acge41bg0fb0bc89f8af" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
+  <content contentuid="h200a2a3cg7603gd049gb695g650df26ff7f5" version="2">Burn another enemy for [1].</content>
+  <content contentuid="ha2a87805g5eecg1913ge58dg74e7c81517b0" version="2">Can only use Green-Flame Blade once per action.</content>
+  <content contentuid="hb829b7c8gafdega3abg0b1eg190a4a987331" version="4">Can burn a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_GreenFlameBladeExtra"&gt;Spread Green Flame Blade&lt;/LSTag&gt;. Removed if you move.</content>
+  <content contentuid="hdcb9a76agaca2g6ec8g69ccga03523f4bbcc" version="1">Cannot be targeted by &lt;LSTag Type="Spell" Tooltip="Target_GreenFlameBladeExtra"&gt;Spread Green Flame Blade&lt;/LSTag&gt;.</content>
+  <content contentuid="h701028begffa3g56b2g1889g95c302bf14d9" version="1">Deal a bonus [1] to the target. If the attack lands and you remain stationary, you can spread green flames to burn another for [2].</content>
+  <content contentuid="h008a6b1ag3cdbg3e4bga14agb124a5a131a1" version="4">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.</content>
+  <content contentuid="h05942864gdd1eg1002g28c8gb5813d0d10dd" version="3">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.</content>
+  <content contentuid="hf58edb98gcef1gb507g9f98g6cf5d3b5699b" version="6">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.&lt;br&gt;&lt;br&gt;Requires the ability to Sneak Attack (Melee).</content>
+  <content contentuid="h814e8376g207cg51e5g67dbgceedbc3b140b" version="2">This reaction won't trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Booming Blade.</content>
+  <content contentuid="h47765148g910dg649eg5776g467e25c1575e" version="2">This reaction will trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Booming Blade.</content>
+
 </contentList>
