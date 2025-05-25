@@ -40,11 +40,11 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SuperiorityDie,2,0);ActionResource(Bladesong,2,0)" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Bladesong,2,0)" />
                     <attribute id="PassivesAdded" type="LSString" value="ArcaneInit;ArcaneFootwork" />
                     <attribute id="Level" type="uint8" value="3" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(8f06728f-9776-48b7-96e3-0942a1a6009a,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,3,Maneuvers);AddSpells(f0f16b73-6f4a-40a8-800d-6164c7a30d89,,,,AlwaysPrepared)" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(8f06728f-9776-48b7-96e3-0942a1a6009a,2,0);SelectPassives(5c402747-97cf-4c9c-ad6f-7efbac9d6750,3,ArcaneManeuvers);AddSpells(f0f16b73-6f4a-40a8-800d-6164c7a30d89,,,,AlwaysPrepared)" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
                     <attribute id="UUID" type="guid" value="d9ab231d-41ad-4baa-8f3b-6f65ad9db858" />

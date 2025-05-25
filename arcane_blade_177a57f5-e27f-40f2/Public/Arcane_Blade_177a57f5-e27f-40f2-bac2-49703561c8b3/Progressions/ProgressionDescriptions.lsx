@@ -5,19 +5,26 @@
     <node id="root">
       <children>
         <node id="ProgressionDescription">
-					<attribute id="Description" type="TranslatedString" handle="h438acd28g3728g4a2eg89ecgcab26b0c38c7" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="he8a4275eg4c54g482eg9434ga668c33c20f7" version="1" />
-					<attribute id="ExactMatch" type="FixedString" value="ArcaneBlade" />
-					<attribute id="ProgressionTableId" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
-					<attribute id="UUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
-				</node>
-                <node id="ProgressionDescription">
-                    <attribute id="Description" type="TranslatedString" handle="h19056f3bg05d1g4fe1g8a39g0cc0b302fee1" version="4"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h3e3c6dc5g93a7g4e70g9c32gb20300053e59" version="1"/>
-                    <attribute id="ProgressionTableId" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
-                    <attribute id="SelectorId" type="FixedString" value="ArcaneAndSong"/>
-                    <attribute id="UUID" type="guid" value="413f2b20-750b-4f3d-bd55-44775de67d37"/>
-                </node>
+           <attribute id="Description" type="TranslatedString" handle="h438acd28g3728g4a2eg89ecgcab26b0c38c7" version="1" />
+           <attribute id="DisplayName" type="TranslatedString" handle="he8a4275eg4c54g482eg9434ga668c33c20f7" version="1" />
+           <attribute id="ExactMatch" type="FixedString" value="ArcaneBlade" />
+           <attribute id="ProgressionTableId" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+           <attribute id="UUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
+        </node>
+        <node id="ProgressionDescription">
+           <attribute id="Description" type="TranslatedString" handle="h19056f3bg05d1g4fe1g8a39g0cc0b302fee1" version="4"/>
+           <attribute id="DisplayName" type="TranslatedString" handle="h3e3c6dc5g93a7g4e70g9c32gb20300053e59" version="1"/>
+           <attribute id="ProgressionTableId" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
+           <attribute id="SelectorId" type="FixedString" value="ArcaneAndSong"/>
+           <attribute id="UUID" type="guid" value="413f2b20-750b-4f3d-bd55-44775de67d37"/>
+        </node>
+        <node id="ProgressionDescription">
+           <attribute id="Description" type="TranslatedString" handle="hab367dbfg2f2dg46d9g992ag4633184cc635" version="1"/>
+           <attribute id="DisplayName" type="TranslatedString" handle="h0a9065a4gd89fg46d6g9303gbeafa0ae1c6c" version="2"/>
+           <attribute id="ProgressionTableId" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
+           <attribute id="SelectorId" type="FixedString" value="ArcaneManeuvers"/>
+           <attribute id="UUID" type="guid" value="95e459d6-d851-497f-a879-e3305da44296"/>
+        </node>
       </children>
     </node>
   </region>

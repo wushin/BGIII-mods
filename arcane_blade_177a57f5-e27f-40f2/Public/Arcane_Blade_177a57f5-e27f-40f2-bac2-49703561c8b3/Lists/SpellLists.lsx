@@ -8,11 +8,6 @@
           <attribute id="Name" type="FixedString" value="ArcaneBlades" />
           <attribute id="Spells" type="LSString" value="Target_GreenFlameBlade;Target_IcewindBlade;Target_CausticBlade;Target_NecroticBlade;Target_BoomingBladeMove;Target_DivineBladeMove;Target_PsionicBladeMove;Target_ShockingBladeMove" />
           <attribute id="UUID" type="guid" value="9c57921c-0a34-408a-8b69-5c07b6f483a8" />
-        <node id="PassiveList">
-          <attribute id="Name" type="FixedString" value="Arcane Blade Maneuvers"/>
-          <attribute id="Passives" type="LSString" value="CommanderStrike_Maneuver,DisarmingAttack,DistractingStrike,EvasiveFootwork,FeintingAttack,GoadingAttack,ManeuveringAttack,MenacingAttack,PrecisionAttack,PushingAttack,Rally,Riposte,SweepingAttack,TripAttack"/>
-          <attribute id="UUID" type="guid" value="5c402747-97cf-4c9c-ad6f-7efbac9d6750"/>
-        </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="ArcaneBladeSneakAttack"/>
           <attribute id="Spells" type="LSString" value="Target_SneakAttackArcane"/>
@@ -26,7 +21,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="ArcaneBladeCantripsLvl0" />
-          <attribute id="Spells" type="LSString" value="Shout_ArcaneWard;Target_ArcaneMockery;Target_ArcaneStrike" />
+          <attribute id="Spells" type="LSString" value="Shout_ArcaneWard;Target_ArcaneMockery;Target_ArcaneStrike;" />
           <attribute id="UUID" type="guid" value="43ff0a87-c962-4337-8534-9a42fdc4d6a5" />
         </node>
         <node id="SpellList">
