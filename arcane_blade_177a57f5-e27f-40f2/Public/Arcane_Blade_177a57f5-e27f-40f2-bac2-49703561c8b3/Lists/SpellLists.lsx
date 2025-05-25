@@ -15,6 +15,11 @@
           <attribute id="UUID" type="guid" value="db021c8d-2080-4049-8d79-6fc163df914e"/>
         </node>
         <node id="SpellList">
+            <attribute id="Name" type="FixedString" value="Arcane Blade Song"/>
+            <attribute id="Spells" type="LSString" value="Shout_ArcaneBladeSong"/>
+            <attribute id="UUID" type="guid" value="f0f16b73-6f4a-40a8-800d-6164c7a30d89"/>
+        </node>
+        <node id="SpellList">
           <attribute id="Name" type="FixedString" value="ArcaneBladeCantrips3" />
           <attribute id="Spells" type="LSString" value="Target_GreenFlameBlade;Target_IcewindBlade;Target_CausticBlade;Target_NecroticBlade;Target_BoomingBladeMove;Target_DivineBladeMove;Target_PsionicBladeMove;Target_ShockingBladeMove;Shout_ArcaneWard;Shout_ArcaneShield;Shout_ArcaneBlur;Shout_ArcaneImage;Shout_ArcaneFall;Target_ArcaneMockery;Target_ArcaneStrike;Target_ArcaneLaughter;Target_ArcaneArmor;Target_ArcaneJump;Target_ArcaneStrider" />
           <attribute id="UUID" type="guid" value="8f06728f-9776-48b7-96e3-0942a1a6009a" />

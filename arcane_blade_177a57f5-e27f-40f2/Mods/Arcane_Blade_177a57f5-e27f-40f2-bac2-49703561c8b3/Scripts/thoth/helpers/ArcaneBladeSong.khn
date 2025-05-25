@@ -1,0 +1,37 @@
+function ArcaneBladeSongAttackCheck()
+    return HasStringInSpellRoll('WeaponAttack') | HasStringInSpellRoll('UnarmedAttack') | HasStringInSpellRoll('ThrowAttack') | SpellId('Target_CommandersStrike') | SpellId('Target_Bufotoxin_Frog_Summon') | SpellId('Projectile_ArrowOfSmokepowder')
+end
+
+function ArcaneBladeSongAvaliable()
+    local hasbladesong = HasStatus('ARCANEBLADESONG')
+    if hasbladesong.Result then 
+        return ~hasbladesong
+    end
+    local hasbladesongweapon = IsWeaponOfProficiencyGroup('Daggers|Sickles|Shortswords|Rapiers|Scimitars|Longswords', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand))
+    local hasarmor = HasHeavyArmor(context.Source) | HasMediumArmor(context.Source)
+    local hasshield = HasShieldEquipped(context.Source)
+    
+    local count = 0
+    if not hasbladesongweapon.Result then count = count + 1 end
+    if hasarmor.Result then count = count + 1 end
+    if hasshield.Result then count = count + 1 end
+    
+    if count >= 2 then
+        return ConditionResult(false, {ConditionError("HasMultipleBladeSongIssues")})
+    end
+    
+    if not hasbladesongweapon.Result then
+        return ConditionResult(false, {ConditionError("HasNotBladesongWeapon")})
+    end
+    
+    if hasarmor.Result then
+        return ConditionResult(false, {ConditionError("HasNotBladesongArmor")})
+    end  
+    
+    return ~hasshield
+end
+
+function HasArcaneBladeSongClimaxBlocked()
+    result = HasStatus('BLADESONG_ARMOR_MESSAGE') | HasStatus('BLADESONG_SHIELD_MESSAGE') | HasStatus('BLADESONG_WEAPON_MESSAGE') | HasStatus('BLADESONG_UNARMED_MESSAGE') | HasStatus('BLADESONG_SHIELD')
+    return ConditionResult(result.Result, {ConditionError("BladesongClimaxNotBlocked")}, {ConditionError("BladesongClimaxBlocked")})
+end

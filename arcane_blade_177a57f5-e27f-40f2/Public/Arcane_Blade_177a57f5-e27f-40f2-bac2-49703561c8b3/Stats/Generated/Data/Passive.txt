@@ -77,7 +77,7 @@ data "DisplayName" "h8f87d81agafd9g4ce3g8688gabfc4b0a12ee;2"
 data "Properties" "IsHidden"
 data "BoostContext" "OnCreate;OnStatusApplied;OnStatusRemoved"
 data "BoostConditions" "not HasArcaneBladeSongClimaxBlocked();"
-data "Boosts" "ActionResource(Movement,3,0);Advantage(Skill,Acrobatics);RollBonus(SavingThrow,LevelMapValue(ArcaneBladeSong),Constitution);IF(not ClassLevelHigherOrEqualThan(5,'Wizard')):AC(2);IF(ClassLevelHigherOrEqualThan(5,'Wizard') and not ClassLevelHigherOrEqualThan(9,'Wizard')):AC(3);IF(ClassLevelHigherOrEqualThan(9,'Wizard')):AC(4);"
+data "Boosts" "ActionResource(Movement,LevelMapValue(ArcaneBladeProg),0);Advantage(Skill,Acrobatics);RollBonus(SavingThrow,LevelMapValue(ArcaneBladeProg),Constitution);AC(LevelMapValue(ArcaneBladeProg));"
 data "StatsFunctorContext" "OnAttack;OnCast"
 data "Conditions" "SpellId('Projectile_ArcaneBladeSong_Finisher')"
 

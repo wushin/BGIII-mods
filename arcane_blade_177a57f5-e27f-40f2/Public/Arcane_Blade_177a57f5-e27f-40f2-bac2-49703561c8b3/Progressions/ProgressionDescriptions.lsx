@@ -11,6 +11,13 @@
 					<attribute id="ProgressionTableId" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
 					<attribute id="UUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
 				</node>
+                <node id="ProgressionDescription">
+                    <attribute id="Description" type="TranslatedString" handle="h19056f3bg05d1g4fe1g8a39g0cc0b302fee1" version="4"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h3e3c6dc5g93a7g4e70g9c32gb20300053e59" version="1"/>
+                    <attribute id="ProgressionTableId" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
+                    <attribute id="SelectorId" type="FixedString" value="ArcaneAndSong"/>
+                    <attribute id="UUID" type="guid" value="413f2b20-750b-4f3d-bd55-44775de67d37"/>
+                </node>
       </children>
     </node>
   </region>
