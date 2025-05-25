@@ -6,7 +6,7 @@
             <children>
                 <node id="EquipmentList">
                     <attribute id="Items" type="LSString" value="WPN_Dagger;WPN_Sickle;WPN_Shortsword;WPN_Rapier;WPN_Scimitar;WPN_Longsword"/>
-                    <attribute id="Name" type="FixedString" value="Arcane Blade Weapons"/>
+                    <attribute id="Name" type="FixedString" value="ArcaneBladeWeapons"/>
                     <attribute id="UUID" type="guid" value="f372063f-130d-49cc-9311-220c0906cd79"/>
                 </node>
             </children>
