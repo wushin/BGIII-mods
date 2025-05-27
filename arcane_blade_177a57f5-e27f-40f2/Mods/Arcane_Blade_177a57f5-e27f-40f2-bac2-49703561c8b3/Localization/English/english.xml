@@ -1,99 +1,149 @@
 <?xml version="1.0"?>
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <content contentuid="h8fc45cdbg1e6fg4aaeg8b14g7b0c79193026" version="1">Arcane Blade</content>
-  <content contentuid="h826a670eg6980g4df8g8320g2f1cd9b2652c" version="1">You will learn skills from a mix of Bladesinger, Swashbuckler Rogue and Battle Master Fighter skills.</content>
-  <content contentuid="he8a4275eg4c54g482eg9434ga668c33c20f7" version="1">Arcane Blade</content>
-  <content contentuid="h438acd28g3728g4a2eg89ecgcab26b0c38c7" version="1">You will learn skills from a mix of Bladesinger, Swashbuckler Rogue and Battle Master Fighter skills.</content>
-  <content contentuid="he7f93188g5e28g4c89g8c54g37d12643881f" version="1">%%% Unlock Sneak Attack Arcane interrupt</content>
-  <content contentuid="h4d5b4c09g28f3g4c2bgbf9cg0d7819d81851" version="2">Sneak Attack (Melee) : Arcane </content>
-  <content contentuid="hfcc3686bg9128g4b6ag8d5eg79db57330e93" version="5">Also works if you have an ally within [1] of the target or there is no one but you and within [1] of the target. However you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
-  <content contentuid="hb3137566g45dbg49c3gac35g39e9d286dfda" version="1">Arcane Initiative</content>
-  <content contentuid="hbdfb1160g8a27g4a6dg8416gd750cd35c098" version="2">your confidence propels you into battle. You can give yourself a bonus to your initiative rolls equal to your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; </content>
-  <content contentuid="h892bf9f9g2e92g4609gb4e2g8271666dfcef" version="1">Arcane Sneak Attack</content>
-  <content contentuid="hb83ff5a2g23a5g4f1cga48bg09a70ba7d131" version="4">You gain an additional way to use your Sneak Attack; You can now also perform sneak attacks if there are no other enemies within 5 feet of the target (the enemy is isolated).</content>
-  <content contentuid="h00081d9agb4e9g46aagbfe1ga6b7addc0c55" version="2">Arcane Footwork</content>
-  <content contentuid="hb24c36c5g3cedg4f48g9098g73e7c2086efb" version="1">If you move after making a melee attack, you don't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; from your target.</content>
-  <content contentuid="ha18d0b3eg1838g47b9g83aege6fcf45e5251" version="1">This effect still works if your attack misses.</content>
-  <content contentuid="h06f6bd5bg5fdfg11c3gd59agab9a9f3cbc8a" version="1">Sneak Attack : Arcane</content>
-  <content contentuid="ha4c3dbbbgc3e9gd518g1811g093cc24b6654" version="2">Also works if you have an ally within [1] of the target or there is no one but you and the target within [1] but for both you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
-  <content contentuid="h2c0c17a4g0edcg8dc7g4901gda36c8130161" version="1">Sneak Attack (Critical Hit) : Arcane</content>
-  <content contentuid="h41b6ff1agbe53g8202gff3fg3e6154a25da1" version="2">Also works if you have an ally within [1] of the target or there is no one but you and the target within [1] but for both you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
-  <content contentuid="h185e568bg0bccg4f2ega9c1g69239d2aff17" version="1">Opportunity Attack</content>
-  <content contentuid="h4ec5ac65g324cg4065g86a8g7837c21272d8" version="1">Attack an enemy moving out of your reach.</content>
-  <content contentuid="hd70b74edgbfa8g4c53g8184g677ac65d17fd" version="1">Arcane Hands</content>
-  <content contentuid="h39a1435cg89ecg43efga4adgd2318a5173d1" version="1">All the time spent practicing with blades, spells and sleight of hand has paid off. You gain an additional bonus action.</content>
-  <content contentuid="hfdc38bbbg603cg46c9gbd00gb687292a2970" version="1">Arcane Action</content>
-  <content contentuid="hac9f8fcbg3a64g49ebg8dafg77d7261cf448" version="1">Your hands have become infused with the weave and anticipate your movements. You gain an additional action.</content>
-  <content contentuid="hca689969g26e5g4271g891agdc3d13d5f8e0" version="1">Arcane Ward</content>
-  <content contentuid="h9a4b8d21gaa93g4d78ga6a3gb09579907c86" version="1">Arcane Ward Desc</content>
-  <content contentuid="h385c63f4gc271g41fcg8bf1g04a4183a4c4e" version="1">Arcane Shield</content>
-  <content contentuid="hd5467959gf3b2g4b02ga729geac6663156e1" version="1">Arcane Shield Desc</content>
-  <content contentuid="h08b1f205ga7a2g454cgab41g5c4916590fda" version="1">Arcane Blur</content>
-  <content contentuid="hece3ec73gcd07g4be1gadbcg3203603fd233" version="1">Arcane Blur Desc</content>
-  <content contentuid="h5bcb862eg78b3g423ag9bc3g3f38ed8903e1" version="1">Arcane Blur ExDesc</content>
-  <content contentuid="hbee27d43g9926g45c6gaf88g79217a6aec99" version="1">Arcane Image</content>
-  <content contentuid="hd0de1c33g306bg4e79ga8f9g8527121e62d7" version="1">Arcane Image Desc</content>
-  <content contentuid="h57e194fdg3959g43e8gb994g7ffa82590ea7" version="1">Arcane Image ExDesc</content>
-  <content contentuid="h2e7b78a6g87a7g4910gb830g431368a24fd1" version="1">Arcane Fall</content>
-  <content contentuid="hba328959g46dfg4645g80e6gccaef6b1db20" version="1">Arcane Fall Desc</content>
-  <content contentuid="h61ae48c5gdc3ag4609ga020g1b817db1f2c9" version="1">Arcane Blade Wall</content>
-  <content contentuid="h042b53fcgc672g4db8g9e97gcbcbe53ba1ce" version="1">Arcane Blade Wall Desc</content>
-  <content contentuid="hb777ae33g478fg4591g9941gfc4a3d2055b1" version="1">Arcane Mockery</content>
-  <content contentuid="hd42770ccg5605g4b33gb09eg55f66a42bf93" version="1">Arcane Mockery Desc</content>
-  <content contentuid="he37eaa29gac75g409dg909egf11560ccb9e9" version="1">Arcane Strike</content>
-  <content contentuid="he9e8c09eg0f37g4ad9g8232gb8b19e40c206" version="1">Arcane Strike Desc</content>
-  <content contentuid="h43190a77gb3f9g46a3g873ag4a33744f9cfc" version="1">Arcane Laughter</content>
-  <content contentuid="h98c8f7acg61f3g46f8g9a5dgd41607c1fdf0" version="1">Arcane Laughter Desc</content>
-  <content contentuid="hc4cd677cg69eag449cgbd78g4be68b6924d1" version="1">Arcane Armor</content>
-  <content contentuid="h8122c1e5g1329g4decg8051geb5119f2d96f" version="1">Arcane Armor Desc</content>
-  <content contentuid="hace1ba74g60c9g4c9bgb2d2g4f1794522082" version="1">Arcane Armor ExDesc</content>
-  <content contentuid="hbf829dd6gbb18g4af2g86b6g2f786c838da8" version="1">Arcane Jump</content>
-  <content contentuid="hbe73661fge65bg47acg8547gd7a327a282f3" version="1">Arcane Jump</content>
-  <content contentuid="h933c4150ge7e3g4fbdgb8b8g2cf8eea211eb" version="1">Arcane Strider</content>
-  <content contentuid="h319193c0g7bc4g47f9g8f88g87d59140852a" version="1">Arcane Strider Desc</content>
-  <content contentuid="hfada4e61g2cf8g9fd5g4f34gf78868c05a45" version="2">Mystra's Booming Blade</content>
-  <content contentuid="h89f7afeagf533g9ff7ga8bdg974f7baa98f3" version="2">Mystra's Booming Blade</content>
-  <content contentuid="h4c58440eg7054g3b10gd36fg054016e2e29b" version="2">Mystra's Booming Blade: Sneak Attack</content>
-  <content contentuid="hd04a8346ga84egfb7cg6d4fga10fa03bcf48" version="2">Mystra's Booming Blade: Reaction</content>
-  <content contentuid="h3a6e59a9g968fge02bgc62bg635d3112d638" version="2">Mystra's Booming Blade Critical: Reaction</content>
-  <content contentuid="h868b9145g7f0dg5283g6d67g207448f19e30" version="2">Booming Energy</content>
-  <content contentuid="h645decc9g86aag3716ge5e0gec70d22d606a" version="1">Booming Blast</content>
-  <content contentuid="he2ce3ff3g6f09gf934g18e4g98014d0fa122" version="1">Booming Blade (Once)</content>
-  <content contentuid="he69a3b57gcfaeg0ca8g53e3g1230c0eb898d" version="1">Booming Blade</content>
-  <content contentuid="h5803586ag6f25g4093g36d3g0dd36ebd205e" version="1">Booming Blade on Critical</content>
-  <content contentuid="h507f8336gce0fg490egc520gfb12ce686a20" version="4">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="h5afb1a45gc8d9g8139g0493g2784ac2f9d91" version="1">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="h7c8cac60g051bg55d9gb916g3caa4a7beca7" version="2">Takes Thunder damage upon moving.</content>
-  <content contentuid="h3e81ef1ag5844g7ea3g0b5cgd369ee7246d5" version="2">Can only use Booming Blade once per action.</content>
-  <content contentuid="he0adff8cg2b75g78ebg953fga8048a863701" version="1">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="had5f3d0bgbe08ge805g36e6gabd8ebb041af" version="6">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.</content>
-  <content contentuid="h3fc201fdg63edgd575gd42egcb4a388b6863" version="3">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.</content>
-  <content contentuid="h5368dce2g230eg9c14g05f3g2d9af4bb5a9d" version="6">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.&lt;br&gt;&lt;br&gt;Requires the ability to Sneak Attack (Melee).</content>
-  <content contentuid="h14bd550aga55bg0475g10d1gbbb567113dc2" version="2">This reaction won't trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Green-Flame Blade.</content>
-  <content contentuid="h65e7702fgb752g5f5cg83feg48d19bcb4b11" version="2">This reaction will trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Green-Flame Blade.</content>
-  <content contentuid="h658ad5e5ge441g7084g551dg78adfabd4202" version="2">Green-Flame Blade</content>
-  <content contentuid="h6635a7d0g91e1g297fgf7cfg929de38fe693" version="1">Green-Flame Blade</content>
-  <content contentuid="ha747e514g1e1cg7d33gb80cg2ebf07816046" version="1">Green-Flame Blade: Sneak Attack</content>
-  <content contentuid="h5c337a77gbd64g7ddbgf954g855d46d19502" version="2">Green-Flame Blade: Reaction</content>
-  <content contentuid="h71297c84g400agbfe9g5804g839fea9ee20e" version="2">Green-Flame Blade Critical: Reaction</content>
-  <content contentuid="h5b044d05gf028g5096g7cc1g51415d57907c" version="2">Spread Green-Flame Blade</content>
-  <content contentuid="h8f359373g13e4g39d4gb990g24451b2c9c72" version="1">Green Flame Blade</content>
-  <content contentuid="he1aa7370g495bg325aga66dg9996a0793305" version="1">Green-Flame Blade (Once)</content>
-  <content contentuid="h7206704cg81c2gaae9g65e1g8bd838a2e3a0" version="2">Green-Flame Blade</content>
-  <content contentuid="hc95dd3e2gb97eg216cg5aedg1401932f33cb" version="2">Green-Flame Burn</content>
-  <content contentuid="h2dd75d1egbcd1gda95gf539gb79385087c40" version="2">Green-Flame Blade</content>
-  <content contentuid="ha416a789g3b5ege1c5g14cagb5b41bf75c83" version="2">Green-Flame Blade on Critical</content>
-  <content contentuid="h09009148g35b9gc346gd25eg2a54bcd66f34" version="8">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
-  <content contentuid="ha4cdfc4bg15f5g51acge41bg0fb0bc89f8af" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
-  <content contentuid="h200a2a3cg7603gd049gb695g650df26ff7f5" version="2">Burn another enemy for [1].</content>
-  <content contentuid="ha2a87805g5eecg1913ge58dg74e7c81517b0" version="2">Can only use Green-Flame Blade once per action.</content>
-  <content contentuid="hb829b7c8gafdega3abg0b1eg190a4a987331" version="4">Can burn a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_GreenFlameBladeExtra"&gt;Spread Green Flame Blade&lt;/LSTag&gt;. Removed if you move.</content>
-  <content contentuid="hdcb9a76agaca2g6ec8g69ccga03523f4bbcc" version="1">Cannot be targeted by &lt;LSTag Type="Spell" Tooltip="Target_GreenFlameBladeExtra"&gt;Spread Green Flame Blade&lt;/LSTag&gt;.</content>
-  <content contentuid="h701028begffa3g56b2g1889g95c302bf14d9" version="1">Deal a bonus [1] to the target. If the attack lands and you remain stationary, you can spread green flames to burn another for [2].</content>
-  <content contentuid="h008a6b1ag3cdbg3e4bga14agb124a5a131a1" version="4">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.</content>
-  <content contentuid="h05942864gdd1eg1002g28c8gb5813d0d10dd" version="3">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.</content>
-  <content contentuid="hf58edb98gcef1gb507g9f98g6cf5d3b5699b" version="6">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.&lt;br&gt;&lt;br&gt;Requires the ability to Sneak Attack (Melee).</content>
-  <content contentuid="h814e8376g207cg51e5g67dbgceedbc3b140b" version="2">This reaction won't trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Booming Blade.</content>
-  <content contentuid="h47765148g910dg649eg5776g467e25c1575e" version="2">This reaction will trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Booming Blade.</content>
-
+	<content contentuid="h00081d9agb4e9g46aagbfe1ga6b7addc0c55" version="2">Arcane Footwork</content>
+	<content contentuid="h0059b638g0eaag4a9egad81g9594aec92886" version="1">Bladesong</content>
+	<content contentuid="h008a6b1ag3cdbg3e4bga14agb124a5a131a1" version="4">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.</content>
+	<content contentuid="h042b53fcgc672g4db8g9e97gcbcbe53ba1ce" version="1">Arcane Blade Wall Desc</content>
+	<content contentuid="h05942864gdd1eg1002g28c8gb5813d0d10dd" version="3">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.</content>
+	<content contentuid="h06f6bd5bg5fdfg11c3gd59agab9a9f3cbc8a" version="1">Sneak Attack : Arcane</content>
+	<content contentuid="h08b1f205ga7a2g454cgab41g5c4916590fda" version="1">Arcane Blur</content>
+	<content contentuid="h09009148g35b9gc346gd25eg2a54bcd66f34" version="8">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
+	<content contentuid="h123dc3d5g39abg44abg9661ga7e1d025c365" version="6">Invoking the Bladesong. You gain a +[1] bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is increased by [2]. You also gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; in Acrobatics and a +[1] bonus to Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="h14bd550aga55bg0475g10d1gbbb567113dc2" version="2">This reaction won't trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Green-Flame Blade.</content>
+	<content contentuid="h16aedb43g4409g4911ga044g3d2edc7078da" version="2">Bladesinging impeded by a shield. Until the shield is removed, your &lt;LSTag Type="Status" Tooltip="BLADESONG"&gt;Bladesong&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="BLADESONG_TECHINCAL"&gt;Bladesong Charges&lt;/LSTag&gt;.</content>
+	<content contentuid="h185e568bg0bccg4f2ega9c1g69239d2aff17" version="1">Opportunity Attack</content>
+	<content contentuid="h1c73b02dgad16g47bag91a2gba635e858a16" version="4">Spend a superiority die to make an attack that deals an additional [1] damage and possibly knocks the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
+	<content contentuid="h200a2a3cg7603gd049gb695g650df26ff7f5" version="2">Burn another enemy for [1].</content>
+	<content contentuid="h29ffbd63g4dc7g417agbf1dg4d2d51eb84b0" version="1">%%% EMPTY</content>
+	<content contentuid="h2a70fe3fg9251g483cga71bgc5489fc03330" version="2">You can't use this attack if you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+	<content contentuid="h2c0c17a4g0edcg8dc7g4901gda36c8130161" version="1">Sneak Attack (Critical Hit) : Arcane</content>
+	<content contentuid="h2dd75d1egbcd1gda95gf539gb79385087c40" version="2">Green-Flame Blade</content>
+	<content contentuid="h2e3c3cbdg2af8g46c9g9285g1ecf3530017e" version="1">Charger</content>
+	<content contentuid="h2e7b78a6g87a7g4910gb830g431368a24fd1" version="1">Arcane Fall</content>
+	<content contentuid="h319193c0g7bc4g47f9g8f88g87d59140852a" version="1">Arcane Strider Desc</content>
+	<content contentuid="h33d7d33bg7c7fg4a68gb497geea88b8f8e63" version="1">The target must be Large or smaller.</content>
+	<content contentuid="h385c63f4gc271g41fcg8bf1g04a4183a4c4e" version="1">Arcane Shield</content>
+	<content contentuid="h39a1435cg89ecg43efga4adgd2318a5173d1" version="1">All the time spent practicing with blades, spells and sleight of hand has paid off. You gain an additional bonus action.</content>
+	<content contentuid="h3a6e59a9g968fge02bgc62bg635d3112d638" version="2">Mystra's Booming Blade Critical: Reaction</content>
+	<content contentuid="h3c144a66g881ag4bffgbcc7g16c566c206b0" version="1">%%% Empty</content>
+	<content contentuid="h3e02b669g8cffg4ce0gad36g29381c391254" version="6">Invoke the Bladesong. You gain a +[1] bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; increases by [2]. You also gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; in Acrobatics and a +[1] bonus to Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="h3e81ef1ag5844g7ea3g0b5cgd369ee7246d5" version="2">Can only use Booming Blade once per action.</content>
+	<content contentuid="h3fb05434g0481g4e27ga55fg2632b031def5" version="1">Stop your Bladesong early.</content>
+	<content contentuid="h3fc201fdg63edgd575gd42egcb4a388b6863" version="3">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.</content>
+	<content contentuid="h3fea7c30gf9cag4a8bg94b8g110eda1bb2fb" version="1">Bladesong Impeded</content>
+	<content contentuid="h40efc776g8e38g4532g9d45ge1860e15aedb" version="1">%%% Empty</content>
+	<content contentuid="h41b6ff1agbe53g8202gff3fg3e6154a25da1" version="2">Also works if you have an ally within [1] of the target or there is no one but you and the target within [1] but for both you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+	<content contentuid="h41bde191gf525g48ebgb611gd7c8809233d2" version="2">You also unlock &lt;LSTag Type="Spell" Tooltip="Projectile_Bladesong_Finisher"&gt;Bladesong Climax&lt;/LSTag&gt; and the ability to accumulate &lt;LSTag Type="Status" Tooltip="BLADESONG_TECHINCAL"&gt;Bladesong Charges&lt;/LSTag&gt; in combat.</content>
+	<content contentuid="h43190a77gb3f9g46a3g873ag4a33744f9cfc" version="1">Arcane Laughter</content>
+	<content contentuid="h43be79e2g8937g46e5g8f49g502967df2a8d" version="2">Bladesinging impeded by armour. Until the armour is removed, your &lt;LSTag Type="Status" Tooltip="BLADESONG"&gt;Bladesong&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="BLADESONG_TECHINCAL"&gt;Bladesong Charges&lt;/LSTag&gt;.</content>
+	<content contentuid="h47765148g910dg649eg5776g467e25c1575e" version="2">This reaction will trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Booming Blade.</content>
+	<content contentuid="h4c58440eg7054g3b10gd36fg054016e2e29b" version="2">Mystra's Booming Blade: Sneak Attack</content>
+	<content contentuid="h4d5b4c09g28f3g4c2bgbf9cg0d7819d81851" version="2">Sneak Attack (Melee) : Arcane </content>
+	<content contentuid="h4ec44c83g3e10g49e4g923cg96f8a6954764" version="1">Bladesong Impeded</content>
+	<content contentuid="h4ec5ac65g324cg4065g86a8g7837c21272d8" version="1">Attack an enemy moving out of your reach.</content>
+	<content contentuid="h507f8336gce0fg490egc520gfb12ce686a20" version="4">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
+	<content contentuid="h52ebc7e6gf89bg43f2g9e06gf738869c5db2" version="1">Training in War and Song</content>
+	<content contentuid="h5368dce2g230eg9c14g05f3g2d9af4bb5a9d" version="6">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.&lt;br&gt;&lt;br&gt;Requires the ability to Sneak Attack (Melee).</content>
+	<content contentuid="h57e194fdg3959g43e8gb994g7ffa82590ea7" version="1">Arcane Image ExDesc</content>
+	<content contentuid="h5803586ag6f25g4093g36d3g0dd36ebd205e" version="1">Booming Blade on Critical</content>
+	<content contentuid="h5afb1a45gc8d9g8139g0493g2784ac2f9d91" version="1">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
+	<content contentuid="h5b044d05gf028g5096g7cc1g51415d57907c" version="2">Spread Green-Flame Blade</content>
+	<content contentuid="h5bcb862eg78b3g423ag9bc3g3f38ed8903e1" version="1">Arcane Blur ExDesc</content>
+	<content contentuid="h5c337a77gbd64g7ddbgf954g855d46d19502" version="2">Green-Flame Blade: Reaction</content>
+	<content contentuid="h61ae48c5gdc3ag4609ga020g1b817db1f2c9" version="1">Arcane Blade Wall</content>
+	<content contentuid="h645decc9g86aag3716ge5e0gec70d22d606a" version="1">Booming Blast</content>
+	<content contentuid="h658ad5e5ge441g7084g551dg78adfabd4202" version="2">Green-Flame Blade</content>
+	<content contentuid="h65e7702fgb752g5f5cg83feg48d19bcb4b11" version="2">This reaction will trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Green-Flame Blade.</content>
+	<content contentuid="h6635a7d0g91e1g297fgf7cfg929de38fe693" version="1">Green-Flame Blade</content>
+	<content contentuid="h6d7d5699gde0eg4d97g8f28g2a6f88d625b5" version="3">Bladesong Charge</content>
+	<content contentuid="h701028begffa3g56b2g1889g95c302bf14d9" version="1">Deal a bonus [1] to the target. If the attack lands and you remain stationary, you can spread green flames to burn another for [2].</content>
+	<content contentuid="h71297c84g400agbfe9g5804g839fea9ee20e" version="2">Green-Flame Blade Critical: Reaction</content>
+	<content contentuid="h7206704cg81c2gaae9g65e1g8bd838a2e3a0" version="2">Green-Flame Blade</content>
+	<content contentuid="h76d453acgeab3g4378g9916g94d1b467999d" version="1">You can't use this attack if you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+	<content contentuid="h77027701g18b2g4096gb048g86bde38ef2c0" version="1">Sweeping Attack</content>
+	<content contentuid="h7c8cac60g051bg55d9gb916g3caa4a7beca7" version="2">Takes Thunder damage upon moving.</content>
+	<content contentuid="h7cf1c834gd32cg486eg932fg938d289156e4" version="2">You can use both your action and bonus action on a turn to attack a target with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and deal an additional [1] damage.</content>
+	<content contentuid="h7e05ce8dga912g485cg9e2bg63836c8e7a11" version="5">A charge that will increase how much damage you deal to enemies by [1] when using &lt;LSTag Type="Spell" Tooltip="Projectile_Bladesong_Finisher"&gt;Bladesong Climax&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;You can accumulate these charges by casting Level 1 spells or above that are not weapon attacks.</content>
+	<content contentuid="h8122c1e5g1329g4decg8051geb5119f2d96f" version="1">Arcane Armor Desc</content>
+	<content contentuid="h814e8376g207cg51e5g67dbgceedbc3b140b" version="2">This reaction won't trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Booming Blade.</content>
+	<content contentuid="h868b9145g7f0dg5283g6d67g207448f19e30" version="2">Booming Energy</content>
+	<content contentuid="h87c20ba1g45b4g4ba3g976dgd9ca60955bdf" version="1">%%% Empty</content>
+	<content contentuid="h892bf9f9g2e92g4609gb4e2g8271666dfcef" version="1">Arcane Sneak Attack</content>
+	<content contentuid="h89f7afeagf533g9ff7ga8bdg974f7baa98f3" version="2">Mystra's Booming Blade</content>
+	<content contentuid="h8c14dd82g8cedg454bgbb8cgb8310f7bc2c9" version="1">End Bladesong</content>
+	<content contentuid="h8efe6495g970ag47fagb40cgdcd49ff26db2" version="2">Bladesong Climax</content>
+	<content contentuid="h8f359373g13e4g39d4gb990g24451b2c9c72" version="1">Green Flame Blade</content>
+	<content contentuid="h8f87d81agafd9g4ce3g8688gabfc4b0a12ee" version="2">Bladesong</content>
+	<content contentuid="h91a4efcfgcbebg77e9gbc6dg41bc63d1d14d" version="2">When you take the Dash Action, your Speed increases by [1] for that action.</content>
+	<content contentuid="h933c4150ge7e3g4fbdgb8b8g2cf8eea211eb" version="1">Arcane Strider</content>
+	<content contentuid="h98c8f7acg61f3g46f8g9a5dgd41607c1fdf0" version="1">Arcane Laughter Desc</content>
+	<content contentuid="h98e9bcd5g4fdfg4755g8b67gd50f87926f48" version="1">Distracting Strike</content>
+	<content contentuid="h9a4b8d21gaa93g4d78ga6a3gb09579907c86" version="1">Arcane Ward Desc</content>
+	<content contentuid="ha18d0b3eg1838g47b9g83aege6fcf45e5251" version="1">This effect still works if your attack misses.</content>
+	<content contentuid="ha1c51c12ge018g4e36g8d3dg909860627dd5" version="2">Bladesong Damage Charge</content>
+	<content contentuid="ha21fd129ga099g435ag9297gc77a566a5901" version="2">Disarming Attack</content>
+	<content contentuid="ha2a87805g5eecg1913ge58dg74e7c81517b0" version="2">Can only use Green-Flame Blade once per action.</content>
+	<content contentuid="ha3a08c23g045eg455cg8365g0aab1c2fccd0" version="2">You can't use this attack if you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+	<content contentuid="ha416a789g3b5ege1c5g14cagb5b41bf75c83" version="2">Green-Flame Blade on Critical</content>
+	<content contentuid="ha45aa57ag0c46g4ea2g9008g6a9f5dea0259" version="2">Bladesong Healing Charge</content>
+	<content contentuid="ha4c3dbbbgc3e9gd518g1811g093cc24b6654" version="2">Also works if you have an ally within [1] of the target or there is no one but you and the target within [1] but for both you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+	<content contentuid="ha4cdfc4bg15f5g51acge41bg0fb0bc89f8af" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
+	<content contentuid="ha747e514g1e1cg7d33gb80cg2ebf07816046" version="1">Green-Flame Blade: Sneak Attack</content>
+	<content contentuid="hac9f8fcbg3a64g49ebg8dafg77d7261cf448" version="1">Your hands have become infused with the weave and anticipate your movements. You gain an additional action.</content>
+	<content contentuid="hace1ba74g60c9g4c9bgb2d2g4f1794522082" version="1">Arcane Armor ExDesc</content>
+	<content contentuid="had5f3d0bgbe08ge805g36e6gabd8ebb041af" version="6">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.</content>
+	<content contentuid="hb009ca3ag6f54g432dg9aadg958b5b76ced9" version="1">%%% EMPTY</content>
+	<content contentuid="hb24c36c5g3cedg4f48g9098g73e7c2086efb" version="1">If you move after making a melee attack, you don't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; from your target.</content>
+	<content contentuid="hb3137566g45dbg49c3gac35g39e9d286dfda" version="1">Arcane Initiative</content>
+	<content contentuid="hb567e7abg48f7g4b73g96e3g7750ecb59f62" version="4">Spend a superiority die to make an attack that deals an additional [1] damage and possibly forces the target to drop the weapons they are holding.</content>
+	<content contentuid="hb5f93e43gb5cag4e49g81aaga2b84784d714" version="2">Swing your weapon in a rapid, sweeping arc to attack multiple enemies at once. Roll your superiority die for damage.</content>
+	<content contentuid="hb68106ffgfe28g4442gb307g0eb680fe3020" version="1">%%% Empty</content>
+	<content contentuid="hb777ae33g478fg4591g9941gfc4a3d2055b1" version="1">Arcane Mockery</content>
+	<content contentuid="hb80cd48eg3affg43a1g8ad1gc747ec5163db" version="1">Feinting Attack</content>
+	<content contentuid="hb829b7c8gafdega3abg0b1eg190a4a987331" version="4">Can burn a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_GreenFlameBladeExtra"&gt;Spread Green Flame Blade&lt;/LSTag&gt;. Removed if you move.</content>
+	<content contentuid="hb83ff5a2g23a5g4f1cga48bg09a70ba7d131" version="4">You gain an additional way to use your Sneak Attack; You can now also perform sneak attacks if there are no other enemies within 5 feet of the target (the enemy is isolated).</content>
+	<content contentuid="hba328959g46dfg4645g80e6gccaef6b1db20" version="1">Arcane Fall Desc</content>
+	<content contentuid="hbd22212fgd95bg454dg8e01g0031b9c40f6f" version="1">%%% Empty</content>
+	<content contentuid="hbdfb1160g8a27g4a6dg8416gd750cd35c098" version="2">your confidence propels you into battle. You can give yourself a bonus to your initiative rolls equal to your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; </content>
+	<content contentuid="hbe73661fge65bg47acg8547gd7a327a282f3" version="1">Arcane Jump</content>
+	<content contentuid="hbee27d43g9926g45c6gaf88g79217a6aec99" version="1">Arcane Image</content>
+	<content contentuid="hbf829dd6gbb18g4af2g86b6g2f786c838da8" version="1">Arcane Jump</content>
+	<content contentuid="hc159383dg2495g83adgc1f3g9431838a6f85" version="1">Attack Cantrip Helper</content>
+	<content contentuid="hc1f32021gd066g46beg850cg05cfb97efead" version="1">%%% Empty</content>
+	<content contentuid="hc4cd677cg69eag449cgbd78g4be68b6924d1" version="1">Arcane Armor</content>
+	<content contentuid="hc69c5aa7g92aag41bfg8c94g03d406354030" version="1">%%% Empty</content>
+	<content contentuid="hc95dd3e2gb97eg216cg5aedg1401932f33cb" version="2">Green-Flame Burn</content>
+	<content contentuid="hca689969g26e5g4271g891agdc3d13d5f8e0" version="1">Arcane Ward</content>
+	<content contentuid="hd04a8346ga84egfb7cg6d4fga10fa03bcf48" version="2">Mystra's Booming Blade: Reaction</content>
+	<content contentuid="hd0de1c33g306bg4e79ga8f9g8527121e62d7" version="1">Arcane Image Desc</content>
+	<content contentuid="hd106f366g3d12g403dg8e5eg6d9fbb4ee0ea" version="6">A charge that will increase how much you heal yourself and your allies by [1] when using &lt;LSTag Type="Spell" Tooltip="Projectile_Bladesong_Finisher"&gt;Bladesong Climax&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;You can accumulate these charges by attacking with weapons.</content>
+	<content contentuid="hd25473edgd195g48c6g9fffg4cca792e2324" version="3">Bladesinging impeded by a weapon. Until the weapon is removed, your &lt;LSTag Type="Status" Tooltip="BLADESONG"&gt;Bladesong&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="BLADESONG_TECHINCAL"&gt;Bladesong Charges&lt;/LSTag&gt;.</content>
+	<content contentuid="hd3652e4fg8aa1g4fc9g9776g0f3cd4a56486" version="7">Unleash the full damaging and healing effects of your Bladesong at once. Your &lt;LSTag Type="Status" Tooltip="BLADESONG_DAMAGE_CHARGE"&gt;Bladesong Damage Charges&lt;/LSTag&gt; will harm enemies an additional [1], and your &lt;LSTag Type="Status" Tooltip="BLADESONG_HEALING_CHARGE"&gt;Bladesong Healing Charges&lt;/LSTag&gt; will heal you and your allies an additional [2].</content>
+	<content contentuid="hd42770ccg5605g4b33gb09eg55f66a42bf93" version="1">Arcane Mockery Desc</content>
+	<content contentuid="hd5467959gf3b2g4b02ga729geac6663156e1" version="1">Arcane Shield Desc</content>
+	<content contentuid="hd70b74edgbfa8g4c53g8184g677ac65d17fd" version="1">Arcane Hands</content>
+	<content contentuid="hd8506ee2g97dbgde66g5c03gecfdb28645f0" version="1">Attack Cantrip (Once)</content>
+	<content contentuid="hdcb9a76agaca2g6ec8g69ccga03523f4bbcc" version="1">Cannot be targeted by &lt;LSTag Type="Spell" Tooltip="Target_GreenFlameBladeExtra"&gt;Spread Green Flame Blade&lt;/LSTag&gt;.</content>
+	<content contentuid="he0adff8cg2b75g78ebg953fga8048a863701" version="1">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
+	<content contentuid="he18c217dg1ccbg4f47g89c3g1b35d039411c" version="1">%%% Empty</content>
+	<content contentuid="he1aa7370g495bg325aga66dg9996a0793305" version="1">Green-Flame Blade (Once)</content>
+	<content contentuid="he1f963b4gc53bg4807gb322gcf915d3b22f2" version="1">Bladesinging impeded due to being unarmed. Until a valid weapon is equipped, your &lt;LSTag Type="Status" Tooltip="BLADESONG"&gt;Bladesong&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="BLADESONG_TECHINCAL"&gt;Bladesong Charges&lt;/LSTag&gt;.</content>
+	<content contentuid="he2ce3ff3g6f09gf934g18e4g98014d0fa122" version="1">Booming Blade (Once)</content>
+	<content contentuid="he37eaa29gac75g409dg909egf11560ccb9e9" version="1">Arcane Strike</content>
+	<content contentuid="he63849d8ga2dag4f41g858eg52b7ecd4b36f" version="1">Bladesong Impeded</content>
+	<content contentuid="he69a3b57gcfaeg0ca8g53e3g1230c0eb898d" version="1">Booming Blade</content>
+	<content contentuid="he9e8c09eg0f37g4ad9g8232gb8b19e40c206" version="1">Arcane Strike Desc</content>
+	<content contentuid="hece3ec73gcd07g4be1gadbcg3203603fd233" version="1">Arcane Blur Desc</content>
+	<content contentuid="hf2b11da6g41aeg4a65g8da8g6acfe7c2515a" version="1">This will end your &lt;LSTag Type="Status" Tooltip="BLADESONG"&gt;Bladesong&lt;/LSTag&gt;.</content>
+	<content contentuid="hf2d880b2g48dag4869ga4a1g634a898089f5" version="2">Bladesinging</content>
+	<content contentuid="hf2f1896agbb0dg447eg91dfg4dc2a58398d3" version="1">Bladesong Impeded</content>
+	<content contentuid="hf445590dg0f08g4b60g8860g3b263e57e3a8" version="1">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with Light Armour and in the Performance skill. You also gain Proficiency with Daggers, Sickles, Shortswords, Rapiers, Scimitars, and Longswords.</content>
+	<content contentuid="hf5852675g2f2dg462cg9f6eg7dd4e704580b" version="1">&lt;LSTag Type="Status" Tooltip="DISTRACTED"&gt;Distract&lt;/LSTag&gt; your target, giving your allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against the target.</content>
+	<content contentuid="hf58b8659g3a88g4e55ga482gdb72775752d3" version="2">Trip Attack</content>
+	<content contentuid="hf58edb98gcef1gb507g9f98g6cf5d3b5699b" version="6">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.&lt;br&gt;&lt;br&gt;Requires the ability to Sneak Attack (Melee).</content>
+	<content contentuid="hf9ea60edg93adg4596g8c6cgf2b8691cdf09" version="1">%%% Empty</content>
+	<content contentuid="hfada4e61g2cf8g9fd5g4f34gf78868c05a45" version="2">Mystra's Booming Blade</content>
+	<content contentuid="hfcc3686bg9128g4b6ag8d5eg79db57330e93" version="5">Also works if you have an ally within [1] of the target or there is no one but you and within [1] of the target. However you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+	<content contentuid="hfce2f1e9g150bgeb3bg556agb20c4acac483" version="3">Can only cast Booming Blade or Green-Flame Blade once per action.</content>
+	<content contentuid="hfdc38bbbg603cg46c9gbd00gb687292a2970" version="1">Arcane Action</content>
 </contentList>
