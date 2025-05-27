@@ -40,7 +40,7 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
-                    <attribute id="Boosts" type="LSString" value="ActionResource(Bladesong,2,0)" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Bladesong,4,0)" />
                     <attribute id="PassivesAdded" type="LSString" value="ArcaneInit;ArcaneFootwork" />
                     <attribute id="Level" type="uint8" value="3" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
