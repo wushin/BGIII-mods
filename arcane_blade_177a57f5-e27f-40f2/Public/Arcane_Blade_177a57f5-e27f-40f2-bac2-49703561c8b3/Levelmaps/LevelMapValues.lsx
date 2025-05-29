@@ -5,6 +5,7 @@
         <node id="root">
             <children>
                 <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="1d4"/>
                     <attribute id="Level1" type="LSString" value="1d4"/>
                     <attribute id="Level2" type="LSString" value="1d4"/>
                     <attribute id="Level3" type="LSString" value="1d4"/>
@@ -29,6 +30,7 @@
                     <attribute id="UUID" type="guid" value="0a0d52ca-2b53-4b13-a557-0c85dc48fadd"/>
                 </node>
                 <node id="LevelMapSeries">
+                    <attribute id="FallbackValue" type="LSString" value="2"/>
                     <attribute id="Level1" type="LSString" value="2"/>
                     <attribute id="Level2" type="LSString" value="2"/>
                     <attribute id="Level3" type="LSString" value="2"/>

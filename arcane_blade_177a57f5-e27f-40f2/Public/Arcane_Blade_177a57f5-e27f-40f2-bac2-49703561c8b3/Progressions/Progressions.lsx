@@ -34,17 +34,16 @@
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="PassivesAdded" type="LSString" value="ArcaneHands" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,3,0,,,,AlwaysPrepared);AddSpells(2dc120ff-903b-494b-8dc8-38721098ce38);AddSpells(80225e21-5acd-4122-b779-488dae33a31c)" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,3,0,,,,AlwaysPrepared);AddSpells(80225e21-5acd-4122-b779-488dae33a31c);AddSpells(fa5d6551-846b-437b-8d52-df57e796fc05,ArcaneRituals)" />
                     <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
                     <attribute id="UUID" type="guid" value="3323d506-b89a-40bf-b414-c5ed25135a7a" />
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
                     <attribute id="Boosts" type="LSString" value="ActionResource(Bladesong,4,0)" />
-                    <attribute id="PassivesAdded" type="LSString" value="ArcaneInit;ArcaneFootwork" />
                     <attribute id="Level" type="uint8" value="3" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(8f06728f-9776-48b7-96e3-0942a1a6009a,2,0);SelectPassives(5c402747-97cf-4c9c-ad6f-7efbac9d6750,3,ArcaneManeuvers);AddSpells(f0f16b73-6f4a-40a8-800d-6164c7a30d89,,,,AlwaysPrepared)" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(e1c516d0-8e83-4ce4-87b5-e2b6af966d09,2,ArcaneDefense);SelectPassives(5c402747-97cf-4c9c-ad6f-7efbac9d6750,2,ArcaneManeuvers);AddSpells(f0f16b73-6f4a-40a8-800d-6164c7a30d89,,,,AlwaysPrepared)" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
                     <attribute id="UUID" type="guid" value="d9ab231d-41ad-4baa-8f3b-6f65ad9db858" />

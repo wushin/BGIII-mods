@@ -9,6 +9,11 @@
                 <attribute id="Passives" type="LSString" value="Arcane_Trip,Arcane_Disarm,Arcane_Distract,Arcane_Feint,Arcane_Cleave,Arcane_Charge"/>
                 <attribute id="UUID" type="guid" value="5c402747-97cf-4c9c-ad6f-7efbac9d6750"/>
               </node>
+              <node id="PassiveList">
+                <attribute id="Name" type="FixedString" value="ArcaneDefense" />
+                <attribute id="Passives" type="LSString" value="ArcaneParry,ArcaneRiposte,ArcaneInit,ArcaneFootwork,ArcaneCunning,ArcaneCounter" />
+                <attribute id="UUID" type="guid" value="e1c516d0-8e83-4ce4-87b5-e2b6af966d09" />
+              </node>
             </children>
         </node>
     </region>
