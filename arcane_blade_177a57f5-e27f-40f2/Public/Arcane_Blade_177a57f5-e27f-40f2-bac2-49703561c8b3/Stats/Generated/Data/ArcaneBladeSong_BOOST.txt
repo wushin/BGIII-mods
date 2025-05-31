@@ -9,7 +9,7 @@ data "SoundStart" "Misc_Status_BladeSong_Start,mainhand;Misc_Status_BladeSong_St
 data "SoundLoop" "Misc_Status_BladeSong_Loop,mainhand;Misc_Status_BladeSong_Loop,offhand;"
 data "SoundStop" "Misc_Status_BladeSong_Stop,mainhand;Misc_Status_BladeSong_Stop,offhand;"
 data "StackId" "ARCANEBLADESONG"
-data "Passives" "ArcaneBladeSong_Boost;ArcaneBladeSong_Unlock;ArcaneBladeSong_Charge;ArcaneBladeSong_Charge_1;ArcaneBladeSong_Charge_2;ArcaneBladeSong_Charge_3;ArcaneBladeSong_Charge_4;ArcaneBladeSong_Charge_5;Arcane_Trip_Boost;Arcane_Disarm_Boost;Arcane_Distract_Boost;Arcane_Feint_Boost;Arcane_Cleave_Boost;Arcane_Charge_Boost;"
+data "Passives" "ArcaneBladeSong_Boost;ArcaneBladeSong_Unlock;ArcaneBladeSong_Charge;ArcaneBladeSong_Charge_1;ArcaneBladeSong_Charge_2;ArcaneBladeSong_Charge_3;ArcaneBladeSong_Charge_4;ArcaneBladeSong_Charge_5;ArcaneBladeSong_Charge_Ex;Arcane_Trip_Boost;Arcane_Disarm_Boost;Arcane_Distract_Boost;Arcane_Feint_Boost;Arcane_Cleave_Boost;Arcane_Charge_Boost;"
 data "StatusEffect" "846d57f8-13e7-48dc-a243-f811d9b6780b"
 data "DynamicAnimationTag" "b40466dd-a62d-455b-b4ba-dd0d86e61cd4"
 
