@@ -24,21 +24,6 @@
           <attribute id="Spells" type="LSString" value="Shout_ArcaneFall;Target_ArcaneJump;Target_ArcaneStrider;" />
           <attribute id="UUID" type="guid" value="fa5d6551-846b-437b-8d52-df57e796fc05" />
         </node>
-        <node id="SpellList">
-          <attribute id="Name" type="FixedString" value="ArcaneBladeCantripsLvl0" />
-          <attribute id="Spells" type="LSString" value="Shout_ArcaneWard;Target_ArcaneMockery;Target_ArcaneStrike;Shout_ArcaneDefense;" />
-          <attribute id="UUID" type="guid" value="43ff0a87-c962-4337-8534-9a42fdc4d6a5" />
-        </node>
-        <node id="SpellList">
-          <attribute id="Name" type="FixedString" value="ArcaneBladeCantrips3" />
-          <attribute id="Spells" type="LSString" value="Shout_ArcaneWard;Shout_ArcaneBlur;Shout_ArcaneImage;Shout_ArcaneFall;Target_ArcaneMockery;Target_ArcaneStrike;Target_ArcaneLaughter;Target_ArcaneArmor;Target_ArcaneJump;Target_ArcaneStrider" />
-          <attribute id="UUID" type="guid" value="8f06728f-9776-48b7-96e3-0942a1a6009a" />
-        </node>
-        <node id="SpellList">
-          <attribute id="Name" type="FixedString" value="ArcaneBladeCantrips6" />
-          <attribute id="Spells" type="LSString" value="Target_ShockingBladeMove;Shout_ArcaneWard;Shout_ArcaneShield;Shout_ArcaneBlur;Shout_ArcaneImage;Shout_ArcaneFall;Target_ArcaneMockery;Target_ArcaneStrike;Target_ArcaneLaughter;Target_ArcaneArmor;Target_ArcaneJump;Target_ArcaneStrider;Wall_ArcaneBlade" />
-          <attribute id="UUID" type="guid" value="5118713a-2c82-4469-b3d6-4b498ca5875b" />
-        </node>
       </children>
     </node>
   </region>

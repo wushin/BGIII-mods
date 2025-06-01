@@ -14,6 +14,11 @@
                 <attribute id="Passives" type="LSString" value="ArcaneParry,ArcaneRiposte,ArcaneInit,ArcaneFootwork,ArcaneCunning,ArcaneCounter" />
                 <attribute id="UUID" type="guid" value="e1c516d0-8e83-4ce4-87b5-e2b6af966d09" />
               </node>
+              <node id="PassiveList">
+                <attribute id="Name" type="FixedString" value="ArcaneBladeSpells" />
+                <attribute id="Passives" type="LSString" value="ArcaneMockery,ArcaneHealing,ArcaneLaughter,ArcaneArmor" />
+                <attribute id="UUID" type="guid" value="3e85b253-18fe-4fc1-b535-50086e71c220" />
+            </node>
             </children>
         </node>
     </region>

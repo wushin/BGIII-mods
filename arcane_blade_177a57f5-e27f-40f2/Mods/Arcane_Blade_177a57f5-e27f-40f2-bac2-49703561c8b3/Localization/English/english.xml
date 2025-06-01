@@ -64,7 +64,6 @@
 	<content contentuid="h7c8cac60g051bg55d9gb916g3caa4a7beca7" version="2">Takes Thunder damage upon moving.</content>
 	<content contentuid="h873181b8g944ag45d8gb068ge320d493e4a9" version="2">You can use both your action and bonus action on a turn to attack a target with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and deal an additional [1] damage.</content>
 	<content contentuid="hc862d785g74efg4169g85c0g6acfb43d2cf2" version="5">A charge that will increase how much damage you deal to enemies by [1] when using &lt;LSTag Type="Spell" Tooltip="Projectile_Arcane Blade Song_Finisher"&gt;Arcane Blade Song Climax&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;You can accumulate these charges by attacking with weapons.</content>
-	<content contentuid="h8122c1e5g1329g4decg8051geb5119f2d96f" version="1">Arcane Armor Desc</content>
 	<content contentuid="h814e8376g207cg51e5g67dbgceedbc3b140b" version="2">This reaction won't trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Booming Blade.</content>
 	<content contentuid="h868b9145g7f0dg5283g6d67g207448f19e30" version="2">Booming Energy</content>
 	<content contentuid="h892bf9f9g2e92g4609gb4e2g8271666dfcef" version="1">Arcane Sneak Attack</content>
@@ -88,7 +87,6 @@
 	<content contentuid="ha4cdfc4bg15f5g51acge41bg0fb0bc89f8af" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
 	<content contentuid="ha747e514g1e1cg7d33gb80cg2ebf07816046" version="1">Green-Flame Blade: Sneak Attack</content>
 	<content contentuid="hac9f8fcbg3a64g49ebg8dafg77d7261cf448" version="1">Your hands have become infused with the weave and anticipate your movements. You gain an additional action.</content>
-	<content contentuid="hace1ba74g60c9g4c9bgb2d2g4f1794522082" version="1">Arcane Armor ExDesc</content>
 	<content contentuid="had5f3d0bgbe08ge805g36e6gabd8ebb041af" version="6">Blade cantrips do not stack with &lt;LSTag Type="Status" Tooltip="EXTRA_ATTACK"&gt;Extra Attack&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.</content>
 	<content contentuid="hb24c36c5g3cedg4f48g9098g73e7c2086efb" version="1">If you move after making a melee attack, you don't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; from your target.</content>
 	<content contentuid="hb3137566g45dbg49c3gac35g39e9d286dfda" version="1">Arcane Initiative</content>
@@ -170,4 +168,10 @@
 	<content contentuid="hafc47e90g3c61g4e12g8981g3deb31177522" version="1">Swing your weapon in a large arc to attack up to [1] enemies at once.</content>
 	<content contentuid="h71a6820egd3e3g4a31g9383g41bc377d9b55" version="1">Arcane Blade Song Charge</content>
 	<content contentuid="hc91c8298g7ae5g4b31gbab7g1b5eb102acbe" version="1">Use this resource to upcast spells during combat</content>
+	<content contentuid="h9ee33aa6gbbc4g4d07gbe79g1df20606cdfa" version="1">Arcane Healing</content>
+	<content contentuid="h967767a3g9ccag42e6g8c1aga22ae18ad1f6" version="2">Heal a creature you can see.</content>
+	<content contentuid="h2b034beag7659g41eaga9f2g9bf665e3f0f1" version="1">Arcane Armor</content>
+	<content contentuid="h9a7c3dedgdbecg4763ga018g081c8b0bd054" version="1">Base &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is [1].</content>
+	<content contentuid="h022784ddg33afg430bgbd54gd78f83fb246d" version="1">Arcane Blade Spells</content>
+	<content contentuid="hc56a92f0g40dcg4b57gb626g0e5095ad4fab" version="1">Choose your cantrip and spells</content>
 </contentList>

@@ -8,6 +8,7 @@
                     <attribute id="Description" type="TranslatedString" handle="hb8abe274g41c8g481dgbd39g8a1c1c692457" version="3"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h43f4dbfeg0d62g49eegbecagad62630e032d" version="2"/>
                     <attribute id="MaxLevel" type="uint32" value="0"/>
+                    <attribute id="MaxValue" type="uint32" value="4"/>
                     <attribute id="Name" type="FixedString" value="ReactionActionPoint"/>
                     <attribute id="ReplenishType" type="FixedString" value="Turn"/>
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
@@ -16,12 +17,13 @@
                 <node id="ActionResourceDefinition">
                     <attribute id="Description" type="TranslatedString" handle="hc91c8298g7ae5g4b31gbab7g1b5eb102acbe" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h71a6820egd3e3g4a31g9383g41bc377d9b55" version="1"/>
-                    <attribute id="MaxLevel" type="uint32" value="0"/>
-                    <attribute id="MaxValue" type="uint32" value="5"/>
+                    <attribute id="MaxLevel" type="uint32" value="5"/>
                     <attribute id="Name" type="FixedString" value="ABSCHR"/>
                     <attribute id="ReplenishType" type="FixedString" value="Never"/>
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
                     <attribute id="UUID" type="guid" value="19384cc1-ffc6-4219-94a4-3399475e123c"/>
+                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="true"/>
+                    <attribute id="IsSpellResource" type="bool" value="true"/>
                 </node>
             </children>
         </node>
