@@ -174,4 +174,9 @@
 	<content contentuid="h9a7c3dedgdbecg4763ga018g081c8b0bd054" version="1">Base &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; is [1].</content>
 	<content contentuid="h022784ddg33afg430bgbd54gd78f83fb246d" version="1">Arcane Blade Spells</content>
 	<content contentuid="hc56a92f0g40dcg4b57gb626g0e5095ad4fab" version="1">Choose your cantrip and spells</content>
+	<content contentuid="hb3e939dag71dcg409bgac55ge9bc9016376e" version="1">Arcane Blade Spell Slot Level One</content>
+	<content contentuid="h9befc561gb9a5g4330gb1a0g1eaf5ed5b0b1" version="1">Arcane Blade Spell Slot Level Two</content>
+	<content contentuid="h18fc5297g5141g4625g9083g2ddbd588b8d6" version="1">Arcane Blade Spell Slot Level Three</content>
+	<content contentuid="h3ca76469g8a92g4888g9853gf2f6f422b762" version="1">Arcane Blade Spell Slot Level Four</content>
+	<content contentuid="h9c1aeb81gd11eg4af1g8e4bgbefda966aa51" version="1">Arcane Blade Spell Slot Level Five</content>
 </contentList>
