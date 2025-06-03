@@ -16,7 +16,7 @@
               </node>
               <node id="PassiveList">
                 <attribute id="Name" type="FixedString" value="ArcaneBladeSpells" />
-                <attribute id="Passives" type="LSString" value="ArcaneMockery,ArcaneWord,ArcaneLaughter,ArcaneArmor,ArcaneBlades,ArcaneDaggers,ArcaneBlur,ArcaneImage,ArcaneSword" />
+                <attribute id="Passives" type="LSString" value="ArcaneMockery,ArcaneWord,ArcaneLaughter,ArcaneArmor,ArcaneBlades,ArcaneBlur,ArcaneImage" />
                 <attribute id="UUID" type="guid" value="3e85b253-18fe-4fc1-b535-50086e71c220" />
             </node>
             </children>

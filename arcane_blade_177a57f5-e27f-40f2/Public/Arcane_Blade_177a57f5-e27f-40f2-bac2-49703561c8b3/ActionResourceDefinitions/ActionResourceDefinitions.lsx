@@ -17,7 +17,7 @@
                 <node id="ActionResourceDefinition">
                     <attribute id="Description" type="TranslatedString" handle="hc91c8298g7ae5g4b31gbab7g1b5eb102acbe" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h71a6820egd3e3g4a31g9383g41bc377d9b55" version="1"/>
-                    <attribute id="MaxLevel" type="uint32" value="5"/>
+                    <attribute id="MaxLevel" type="uint32" value="6"/>
                     <attribute id="Name" type="FixedString" value="ABSCHR"/>
                     <attribute id="ReplenishType" type="FixedString" value="Never"/>
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
