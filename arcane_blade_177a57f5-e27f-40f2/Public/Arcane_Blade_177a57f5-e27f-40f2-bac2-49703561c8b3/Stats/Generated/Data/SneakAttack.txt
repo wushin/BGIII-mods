@@ -35,7 +35,7 @@ data "DescriptionParams" "Distance(2)"
 data "ExtraDescription" "hd1df7174ga4ecg473bg9600g1de6643a7787;2"
 data "Icon" "Action_RakishAudacity_SneakAttack_Melee"
 data "Conditions" "Self(context.Source,context.Observer) and not Self() and HasDamageEffectFlag(DamageFlags.Hit) and ((WieldingFinesseWeaponInSpecificHand(context.Observer,false) and IsMainHandWeaponAttack()) or (WieldingFinesseWeaponInSpecificHand(context.Observer,true) and IsOffHandAttack()) or IsThrowAttackRoll() or (WieldingWeapon('Ammunition', false, true, context.Observer) and IsRangedWeaponAttack())) and not IsCritical() and not IsKillingBlow() and not HasDamageEffectFlag(DamageFlags.AttackDisadvantage) and ((HasAdvantage(AttackType.MeleeWeaponAttack) or HasAllyWithinRange('SG_Incapacitated',1.5)) or (not HasEnemyWithinRange('SG_Incapacitated',1.5, nil, 2,context.Source,context.Target) and not HasAllyWithinRange('SG_Incapacitated',1.5, nil,false,context.Source,context.Target))) and not AnyEntityIsItem();"
-data "Properties" "IF(IsMeleeAttack()):DealDamage(LevelMapValue(SneakAttack), MainMeleeWeaponDamageType);IF(IsRangedAttack()):DealDamage(LevelMapValue(SneakAttack), MainRangedWeaponDamageType);IF(HasPassive('MAG_ForcefulSneakAttack_Passive', context.Source)):DealDamage(1d4, Force,Magical);"
+data "Properties" "IF(IsMeleeAttack()):DealDamage(LevelMapValue(ArcaneBladeDmg), MainMeleeWeaponDamageType);IF(IsRangedAttack()):DealDamage(LevelMapValue(ArcaneBladeDmg), MainRangedWeaponDamageType);IF(HasPassive('MAG_ForcefulSneakAttack_Passive', context.Source)):DealDamage(1d4, Force,Magical);"
 
 new entry "Interrupt_SneakAttackArcane_Critical"
 type "InterruptData"
