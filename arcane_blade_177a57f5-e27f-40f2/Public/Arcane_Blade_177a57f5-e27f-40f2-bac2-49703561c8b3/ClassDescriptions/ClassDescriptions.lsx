@@ -13,6 +13,7 @@
                     <attribute id="CommonHotbarColumns" type="int32" value="9"/>
                     <attribute id="Description" type="TranslatedString" handle="h826a670eg6980g4df8g8320g2f1cd9b2652c" version="2"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h8fc45cdbg1e6fg4aaeg8b14g7b0c79193026" version="1"/>
+                    <attribute id="HasGod" type="bool" value="true"/>
                     <attribute id="HpPerLevel" type="int32" value="4"/>
                     <attribute id="ItemsHotbarColumns" type="int32" value="2"/> 
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
@@ -21,7 +22,7 @@
                     <attribute id="Name" type="FixedString" value="ArcaneBlade"/>
                     <attribute id="PrimaryAbility" type="uint8" value="2"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
-                    <attribute id="SpellCastingAbility" type="uint8" value="6"/>
+                    <attribute id="SpellCastingAbility" type="uint8" value="4"/>
                     <attribute id="SpellList" type="guid" value="9c57921c-0a34-408a-8b69-5c07b6f483a8"/>
                     <attribute id="UUID" type="guid" value="61027a37-e869-4a14-885f-91fea7bb47dc"/>
                     <children>

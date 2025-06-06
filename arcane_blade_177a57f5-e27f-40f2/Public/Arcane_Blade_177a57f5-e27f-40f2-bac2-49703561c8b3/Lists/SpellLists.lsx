@@ -21,7 +21,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="ArcaneBladeRituals" />
-          <attribute id="Spells" type="LSString" value="Shout_ArcaneFall;Target_ArcaneJump;Target_ArcaneStrider;" />
+          <attribute id="Spells" type="LSString" value="Shout_ArcaneFall;Target_ArcaneJump;Target_ArcaneStrider;Shout_ArcaneSpeakWithAnimals;Target_ArcaneSpeakWithDead;" />
           <attribute id="UUID" type="guid" value="fa5d6551-846b-437b-8d52-df57e796fc05" />
         </node>
       </children>

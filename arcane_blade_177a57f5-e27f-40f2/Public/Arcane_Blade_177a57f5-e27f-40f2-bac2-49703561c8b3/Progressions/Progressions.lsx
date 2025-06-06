@@ -7,7 +7,7 @@
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="false" />
                     <attribute id="IsMulticlass" type="bool" value="false" />
-                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Charisma);Proficiency(LightArmor);Proficiency(Daggers);Proficiency(Sickles);Proficiency(Shortswords);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Longswords);ActionResource(SneakAttack_Charge,1,0)" />
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Wisdom);Proficiency(LightArmor);Proficiency(Daggers);Proficiency(Sickles);Proficiency(Shortswords);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Longswords);ActionResource(SneakAttack_Charge,1,0)" />
                     <attribute id="Level" type="uint8" value="1" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="PassivesAdded" type="LSString" value="ArcaneSneakAttack;ArcaneSneakAttackSwitch;TraininginWarandSong;ArcaneBladeSong_Armor_Message;ArcaneBladeSong_Weapon_Message;ArcaneBladeSong_Shield_Message;ArcaneBladeSong_Weapon;ArcaneBladeSong_Shield;ArcaneBladeSong_Unarmed;FightingStyle_TwoWeaponFighting" />
@@ -19,7 +19,7 @@
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
                     <attribute id="IsMulticlass" type="bool" value="true" />
-                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Charisma);Proficiency(LightArmor);Proficiency(Daggers);Proficiency(Sickles);Proficiency(Shortswords);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Longswords);ActionResource(SneakAttack_Charge,1,0)" />
+                    <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Wisdom);Proficiency(LightArmor);Proficiency(Daggers);Proficiency(Sickles);Proficiency(Shortswords);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Longswords);ActionResource(SneakAttack_Charge,1,0)" />
                     <attribute id="Level" type="uint8" value="1" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="PassivesAdded" type="LSString" value="ArcaneSneakAttack;ArcaneSneakAttackSwitch;TraininginWarandSong;ArcaneBladeSong_Armor_Message;ArcaneBladeSong_Weapon_Message;ArcaneBladeSong_Shield_Message;ArcaneBladeSong_Weapon;ArcaneBladeSong_Shield;ArcaneBladeSong_Unarmed;FightingStyle_TwoWeaponFighting" />
@@ -33,8 +33,8 @@
                     <attribute id="Level" type="uint8" value="2" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
-                    <attribute id="PassivesAdded" type="LSString" value="ArcaneHands;ArcaneBladeSpellSlotOne" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,3,0,,,,AlwaysPrepared);AddSpells(80225e21-5acd-4122-b779-488dae33a31c);SelectPassives(3e85b253-18fe-4fc1-b535-50086e71c220,2,ArcaneBladeSpells);" />
+                    <attribute id="PassivesAdded" type="LSString" value="ArcaneHands" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(e1c516d0-8e83-4ce4-87b5-e2b6af966d09,1,ArcaneDefense);SelectPassives(5c402747-97cf-4c9c-ad6f-7efbac9d6750,1,ArcaneManeuvers);AddSpells(fa5d6551-846b-437b-8d52-df57e796fc05,ArcaneRituals);" />
                     <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
                     <attribute id="UUID" type="guid" value="3323d506-b89a-40bf-b414-c5ed25135a7a" />
         </node>
@@ -43,7 +43,8 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(Bladesong,4,0)" />
                     <attribute id="Level" type="uint8" value="3" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
-                    <attribute id="Selectors" type="LSString" value="SelectPassives(e1c516d0-8e83-4ce4-87b5-e2b6af966d09,2,ArcaneDefense);SelectPassives(5c402747-97cf-4c9c-ad6f-7efbac9d6750,2,ArcaneManeuvers);AddSpells(f0f16b73-6f4a-40a8-800d-6164c7a30d89,,,,AlwaysPrepared);AddSpells(fa5d6551-846b-437b-8d52-df57e796fc05,ArcaneRituals);" />
+                    <attribute id="PassivesAdded" type="LSString" value="ArcaneBladeSpellSlotOne" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,2,0,,,,AlwaysPrepared);SelectPassives(3e85b253-18fe-4fc1-b535-50086e71c220,2,ArcaneBladeSpells);AddSpells(f0f16b73-6f4a-40a8-800d-6164c7a30d89,,,,AlwaysPrepared);AddSpells(80225e21-5acd-4122-b779-488dae33a31c);" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
                     <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a" />
                     <attribute id="UUID" type="guid" value="d9ab231d-41ad-4baa-8f3b-6f65ad9db858" />
@@ -59,7 +60,7 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
-                    <attribute id="PassivesAdded" type="LSString" value="UncannyDodge;ExtraAttack;ArcaneBladeSpellSlotTwo" />
+                    <attribute id="PassivesAdded" type="LSString" value="UncannyDodge;ExtraAttack;" />
                     <attribute id="Level" type="uint8" value="5" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
@@ -68,7 +69,9 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(5118713a-2c82-4469-b3d6-4b498ca5875b,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(e1c516d0-8e83-4ce4-87b5-e2b6af966d09,1,ArcaneDefense);SelectPassives(5c402747-97cf-4c9c-ad6f-7efbac9d6750,1,ArcaneManeuvers);" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Bladesong,1,0)" />
+                    <attribute id="PassivesAdded" type="LSString" value="ArcaneBladeSpellSlotTwo" />
                     <attribute id="Level" type="uint8" value="6" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
@@ -77,6 +80,7 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,1,0,,,,AlwaysPrepared);SelectPassives(3e85b253-18fe-4fc1-b535-50086e71c220,1,ArcaneBladeSpells);" />
                     <attribute id="PassivesAdded" type="LSString" value="Evasion" />
                     <attribute id="Level" type="uint8" value="7" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
@@ -86,7 +90,6 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(5118713a-2c82-4469-b3d6-4b498ca5875b,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
                     <attribute id="Level" type="uint8" value="8" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
@@ -96,6 +99,7 @@
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
                     <attribute id="PassivesAdded" type="LSString" value="ArcaneAction;ArcaneBladeSpellSlotThree" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Bladesong,1,0)" />
                     <attribute id="Level" type="uint8" value="9" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
@@ -104,6 +108,7 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(e1c516d0-8e83-4ce4-87b5-e2b6af966d09,1,ArcaneDefense);SelectPassives(5c402747-97cf-4c9c-ad6f-7efbac9d6750,1,ArcaneManeuvers);" />
                     <attribute id="PassivesAdded" type="LSString" value="SongOfDefense" />
                     <attribute id="Level" type="uint8" value="10" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
@@ -113,7 +118,8 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
-                    <attribute id="PassivesAdded" type="LSString" value="SongOfDefense_6;ExtraAttack_2;ReliableTalent" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,1,0,,,,AlwaysPrepared);SelectPassives(3e85b253-18fe-4fc1-b535-50086e71c220,1,ArcaneBladeSpells);" />
+                    <attribute id="PassivesAdded" type="LSString" value="ExtraAttack_2;ReliableTalent" />
                     <attribute id="Level" type="uint8" value="11" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
@@ -122,7 +128,8 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(5118713a-2c82-4469-b3d6-4b498ca5875b,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Bladesong,1,0)" />
+                    <attribute id="PassivesAdded" type="LSString" value="SongOfDefense_6" />
                     <attribute id="Level" type="uint8" value="12" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
@@ -140,6 +147,7 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(e1c516d0-8e83-4ce4-87b5-e2b6af966d09,1,ArcaneDefense);SelectPassives(5c402747-97cf-4c9c-ad6f-7efbac9d6750,1,ArcaneManeuvers);" />
                     <attribute id="PassivesAdded" type="LSString" value="Blindsense" />
                     <attribute id="Level" type="uint8" value="14" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
@@ -149,6 +157,8 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,1,0,,,,AlwaysPrepared);SelectPassives(3e85b253-18fe-4fc1-b535-50086e71c220,1,ArcaneBladeSpells);" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Bladesong,1,0)" />
                     <attribute id="PassivesAdded" type="LSString" value="SlipperyMind" />
                     <attribute id="Level" type="uint8" value="15" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
@@ -158,7 +168,6 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(5118713a-2c82-4469-b3d6-4b498ca5875b,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
                     <attribute id="Level" type="uint8" value="16" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
@@ -176,6 +185,8 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(e1c516d0-8e83-4ce4-87b5-e2b6af966d09,1,ArcaneDefense);SelectPassives(5c402747-97cf-4c9c-ad6f-7efbac9d6750,1,ArcaneManeuvers);" />
+                    <attribute id="Boosts" type="LSString" value="ActionResource(Bladesong,1,0)" />
                     <attribute id="PassivesAdded" type="LSString" value="Elusive" />
                     <attribute id="Level" type="uint8" value="18" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
@@ -185,7 +196,7 @@
         </node>
         <node id="Progression">
                     <attribute id="AllowImprovement" type="bool" value="true" />
-                    <attribute id="Selectors" type="LSString" value="SelectSpells(5118713a-2c82-4469-b3d6-4b498ca5875b,2,0);SelectPassives(b45be5b3-1f83-44f0-8520-6726f95c8ccb,2,Maneuvers)" />
+                    <attribute id="Selectors" type="LSString" value="SelectSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,1,0,,,,AlwaysPrepared);SelectPassives(3e85b253-18fe-4fc1-b535-50086e71c220,1,ArcaneBladeSpells);" />
                     <attribute id="Level" type="uint8" value="19" />
                     <attribute id="Name" type="LSString" value="ArcaneBlade" />
                     <attribute id="ProgressionType" type="uint8" value="0" />
