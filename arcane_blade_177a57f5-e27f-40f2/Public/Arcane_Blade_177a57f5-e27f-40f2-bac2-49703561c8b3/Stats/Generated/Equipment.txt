@@ -1,6 +1,10 @@
 new equipment "EQP_CC_ARCANEBLADE"
 add initialweaponset "Melee"
 add equipmentgroup
+add equipment entry "OBJ_Kit_TrapDisarm"
+add equipmentgroup
+add equipment entry "OBJ_Kit_ThievesTools"
+add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
@@ -19,4 +23,4 @@ add equipment entry "OBJ_Keychain"
 add equipmentgroup
 add equipment entry "OBJ_Bag_AlchemyPouch"
 add equipmentgroup
-add equipment entry "OBJ_Backpack_CampSupplies
+add equipment entry "OBJ_Backpack_CampSupplies"
