@@ -5,8 +5,8 @@
         <node id="root">
             <children>
                 <node id="Background">
-                    <attribute id="Description" type="TranslatedString" handle="h9e975f54g7470g3652g2a74g497f35f5c26e" version="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h262c9886gaf63g5da9gb807gcbc11780aa92" version="1"/>
+                    <attribute id="Description" type="TranslatedString" handle="h2abf9d4cg876dg498agafa4ga65496c28f10" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h8ef33f81g0dacg428bgad6dge079d247d5fa" version="1"/>
                     <attribute id="Passives" type="LSString" value="Background_Scribe"/>
                     <attribute id="UUID" type="guid" value="8807a6c6-d8cf-494b-aec2-cc01d7517a56"/>
                     <children>

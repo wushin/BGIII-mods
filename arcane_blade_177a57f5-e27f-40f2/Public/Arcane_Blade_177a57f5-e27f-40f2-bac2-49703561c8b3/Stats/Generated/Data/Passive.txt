@@ -60,7 +60,7 @@ data "DisplayName" "h9c1aeb81gd11eg4af1g8e4bgbefda966aa51;1"
 
 new entry "Background_Scribe"
 type "PassiveData"
-data "DisplayName" "h28fe9b62g242bg0cd0gaf9cgcf4ce65b5785;1"
-data "Description" "hc922a1bfgde6bga0ecgeceagf753992739dd;2"
+data "DisplayName" "h8ef33f81g0dacg428bgad6dge079d247d5fa;1"
+data "Description" "hedd34b0cg2823g4dc1gb1acgfb01e535cb7e;1"
 data "Boosts" "ProficiencyBonus(Skill,History);ProficiencyBonus(Skill,Perception);ProficiencyBonus(Skill,Investigation);ProficiencyBonus(Skill,Nature);ProficiencyBonus(Skill,Arcana);"
 
