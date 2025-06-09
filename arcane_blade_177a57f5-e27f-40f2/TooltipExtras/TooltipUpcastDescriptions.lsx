@@ -7,22 +7,22 @@
                 <node id="TooltipUpcastDescriptions">
                     <attribute id="Name" type="FixedString" value="Additional target"/>
                     <attribute id="Text" type="TranslatedString" handle="h73bee451g2bd3g4ee0gaac2gd5ee1dc5244b" version="1"/>
-                    <attribute id="UUID" type="guid" value="04cc3403-f67a-4747-b49e-a1802cc7a6ad"/>
+                    <attribute id="UUID" type="guid" value="bcc5e6b5-19a5-4113-be2c-2f7d8ae5415e"/>
                 </node>
                 <node id="TooltipUpcastDescriptions">
                     <attribute id="Name" type="FixedString" value="Additional damage"/>
                     <attribute id="Text" type="TranslatedString" handle="h2b1ff176g3871g40c4ga926g109412a37ce8" version="3"/>
-                    <attribute id="UUID" type="guid" value="66388a6f-44dd-4c9f-a9e7-910c50e70755"/>
+                    <attribute id="UUID" type="guid" value="b810d45d-fa66-44f2-9374-8dd5e90447e4"/>
                 </node>
                 <node id="TooltipUpcastDescriptions">
                     <attribute id="Name" type="FixedString" value="No benefit"/>
                     <attribute id="Text" type="TranslatedString" handle="hbe07fb88g37c6g4cb6g9115gee976a7f1935" version="1"/>
-                    <attribute id="UUID" type="guid" value="6ff1780a-855a-414c-a8bf-811251537206"/>
+                    <attribute id="UUID" type="guid" value="ff017796-bd7a-4fc1-baed-45ad48722900"/>
                 </node>
                 <node id="TooltipUpcastDescriptions">
                     <attribute id="Name" type="FixedString" value="Additional healing"/>
                     <attribute id="Text" type="TranslatedString" handle="h7e155e0eg5f18g405bgb606g498afc42229b" version="2"/>
-                    <attribute id="UUID" type="guid" value="ef4fc937-9b23-4fcc-a67f-7706f86cfa44"/>
+                    <attribute id="UUID" type="guid" value="83fbbf32-248e-4ed8-92cb-678a4d81854d"/>
                 </node>
             </children>
         </node>
