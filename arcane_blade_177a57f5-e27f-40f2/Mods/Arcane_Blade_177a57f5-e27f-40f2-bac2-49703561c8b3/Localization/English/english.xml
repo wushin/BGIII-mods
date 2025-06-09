@@ -179,4 +179,8 @@
 	<content contentuid="h28f519b8g00d5g4d5bg92e4gb23d2842d33e" version="1">Can only cast Booming Blade or Green-Flame Blade once per action.</content>
 	<content contentuid="hfcf76d77g1ec8g47e6gaef1gaf3e03a6ba82" version="1">Arcane Bladesinging</content>
 	<content contentuid="hfdc38bbbg603cg46c9gbd00gb687292a2970" version="1">Arcane Action</content>
+	<content contentuid="h73bee451g2bd3g4ee0gaac2gd5ee1dc5244b" version="1">Affect an additional target per level.</content>
+	<content contentuid="h2b1ff176g3871g40c4ga926g109412a37ce8" version="1">Deals an additional [1] per level.</content>
+	<content contentuid="hbe07fb88g37c6g4cb6g9115gee976a7f1935" version="1">Casting this spell at a higher level doesn't grant any additional benefits.</content>
+	<content contentuid="h7e155e0eg5f18g405bgb606g498afc42229b" version="1">Heals an additional [1] per level.</content>
 </contentList>
