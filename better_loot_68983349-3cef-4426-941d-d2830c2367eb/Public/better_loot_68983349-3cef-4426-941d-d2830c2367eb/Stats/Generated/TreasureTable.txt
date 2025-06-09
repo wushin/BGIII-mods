@@ -1,0 +1,184 @@
+new treasuretable "DEN_Weaponsmith_Trade"
+new subtable "-1" 
+object category "I_MAG_Hunting_Shortbow",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_Safeguard_Shield",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_EquipmentTrader_BodyArmor_Magic",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_EquipmentTrader_Melee",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Rapier",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Rapier_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Rapier_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Dagger_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Halberd",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Greataxe_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_WPN_Mace_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_EquipmentTrader_Ranged_Adjusted",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_EquipmentTrader_BodyArmor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_EquipmentTrader_SecondaryArmor",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Gold_Trader_Normal",1,0,0,0,0,0,0,0
+new subtable "5,1"
+object category "T_ST_Dye",1,0,0,0,0,0,0,0
+new subtable "-5"
+object category "I_OBJ_Dye_Remover",1,0,0,0,0,0,0,0
+new treasuretable "ST_DEN_Entrance_Trade_Armor"
+new subtable "1,1"
+object category "I_ARM_Leather_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Leather_Body_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Shield_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_ARM_Helmet_Leather",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_EquipmentTrader_BodyArmor_Magic",1,0,0,0,0,0,0,0
+new treasuretable "EquipmentTrader_BodyArmor_Magic"
+new subtable "1,1"
+object category "T_EquipmentTrader_BodyArmor_Light_Magic",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_EquipmentTrader_BodyArmor_Medium_Magic",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_EquipmentTrader_BodyArmor_Heavy_Magic",1,0,0,0,0,0,0,0
+new treasuretable "EquipmentTrader_BodyArmor_Heavy_Magic"
+new subtable "1,1"
+StartLevel "1"
+EndLevel "4"
+object category "I_ARM_RingMail_Body_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "8"
+object category "I_ARM_RingMail_Body_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+EndLevel "6"
+object category "I_ARM_ChainMail_Body_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "7"
+object category "I_ARM_ChainMail_Body_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "6"
+EndLevel "8"
+object category "I_ARM_Splint_Body_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "9"
+object category "I_ARM_Splint_Body_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+EndLevel "10"
+object category "I_ARM_Plate_Body_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "11"
+object category "I_ARM_Plate_Body_2",1,0,0,0,0,0,0,0
+new treasuretable "EquipmentTrader_BodyArmor_Light_Magic"
+new subtable "1,1"
+StartLevel "1"
+EndLevel "4"
+object category "I_ARM_Padded_Body_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "8"
+object category "I_ARM_Padded_Body_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+EndLevel "6"
+object category "I_ARM_Leather_Body_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "7"
+object category "I_ARM_Leather_Body_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "4"
+EndLevel "8"
+object category "I_ARM_StuddedLeather_Body_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "9"
+object category "I_ARM_StuddedLeather_Body_2",1,0,0,0,0,0,0,0
+new treasuretable "EquipmentTrader_BodyArmor_Medium_Magic"
+new subtable "1,1"
+StartLevel "1"
+EndLevel "4"
+object category "I_ARM_Hide_Body_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+object category "I_ARM_Hide_Body_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "1"
+EndLevel "4"
+object category "I_ARM_ChainShirt_Body_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "8"
+object category "I_ARM_ChainShirt_Body_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "4"
+EndLevel "6"
+object category "I_ARM_ScaleMail_Body_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "7"
+object category "I_ARM_ScaleMail_Body_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "6"
+EndLevel "8"
+object category "I_ARM_Breastplate_Body_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "9"
+object category "I_ARM_Breastplate_Body_2",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "6"
+EndLevel "8"
+object category "I_ARM_HalfPlate_Body_1",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "9"
+object category "I_ARM_HalfPlate_Body_2",1,0,0,0,0,0,0,0
+new treasuretable "DEN_Entrance_Trade"
+new subtable "1,1"
+object category "T_Gold_Trader_Normal",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_ST_DEN_Entrance_Trade_Armor",1,0,0,0,0,0,0,0
+new subtable "3,1"
+object category "I_OBJ_Potion_Healing",1,0,0,0,0,0,0,0
+new subtable "3,1"
+object category "T_ST_RandomPotion",1,0,0,0,0,0,0,0
+new subtable "3,1"
+object category "I_OBJ_Scroll_Revivify",1,0,0,0,0,0,0,0
+new subtable "9,1"
+object category "T_Scroll",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_ST_DEN_Trader_Ranged_Arrows",1,0,0,0,0,0,0,0
+new subtable "4,1"
+object category "I_OBJ_Kit_ThievesTools",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_Fire_IncreaseSlashingDamageToBurning_Handaxe",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_Harpers_RingOfProjection",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_MAG_Druid_Magic_Hide_Armor",1,0,0,0,0,0,0,0
+new subtable "2,1"
+object category "I_WPN_Torch",1,0,0,0,0,0,0,0
+new subtable "5,1"
+object category "I_OBJ_Kit_TrapDisarm",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_StaffOfRain",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Supplies_Vendor_Fancy",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "I_OBJ_Tool_Shovel",1,0,0,0,0,0,0,0
+new subtable "7,1"
+object category "T_ST_Dye",1,0,0,0,0,0,0,0
+new subtable "-10"
+object category "I_OBJ_Dye_Remover",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_ARM_OfMissileSnaring_Gloves",1,0,0,0,0,0,0,0
+new subtable "-1"
+object category "I_UNI_Bow_SpellslotRecharge",1,0,0,0,0,0,0,0
