@@ -1,6 +1,6 @@
 new entry "AttackCantrip_Passive"
-type "PassiveData" 
-data "Properties" "IsHidden" 
+type "PassiveData"
+data "Properties" "IsHidden"
 data "StatsFunctorContext" "OnDamage"
 data "Conditions" "not HasAnyExtraAttack(context.Source) and not HasAnyExtraAttackQueued(context.Source)"
 data "StatsFunctors" "RemoveStatus(ATTACK_CANTRIP_ONCE)"
@@ -63,4 +63,3 @@ type "PassiveData"
 data "DisplayName" "h8ef33f81g0dacg428bgad6dge079d247d5fa;1"
 data "Description" "hedd34b0cg2823g4dc1gb1acgfb01e535cb7e;1"
 data "Boosts" "ProficiencyBonus(Skill,History);ProficiencyBonus(Skill,Perception);ProficiencyBonus(Skill,Investigation);ProficiencyBonus(Skill,Nature);ProficiencyBonus(Skill,Arcana);"
-

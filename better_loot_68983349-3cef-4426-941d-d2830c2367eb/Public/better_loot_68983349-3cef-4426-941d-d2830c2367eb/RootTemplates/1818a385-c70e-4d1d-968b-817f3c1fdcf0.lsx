@@ -1,94 +1,94 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <save>
-        <version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
-        <region id="Templates">
-                <node id="Templates">
-                        <children>
-				<node id="GameObjects">
-					<attribute id="CanShootThrough" type="bool" value="True" />
-					<attribute id="Description" type="TranslatedString" handle="h2f36599dg9e95g4b7agb0d1g155af8ee664d" version="1" />
-					<attribute id="DisplayName" type="TranslatedString" handle="ha42521ceg59ecg430bg9fcfg93ba99bedb6b" version="1" />
-					<attribute id="EquipmentTypeID" type="guid" value="4d500520-1818-4a5e-83b9-324957e22969" />
-					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="IsInspector" type="bool" value="True" />
-					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="LevelOverride" type="int32" value="-1" />
-					<attribute id="MapKey" type="FixedString" value="1818a385-c70e-4d1d-968b-817f3c1fdcf0" />
-					<attribute id="Name" type="LSString" value="WPN_Rapier_Bladesong" />
-					<attribute id="ParentTemplateId" type="FixedString" value="6ccc6f4d-f2a7-4e38-a96d-c3fec92fc2de" />
-					<attribute id="PhysicsTemplate" type="FixedString" value="f612830f-5942-90e8-d5e8-b15744cfdd31" />
-					<attribute id="Race" type="int8" value="0" />
-					<attribute id="ReadinessFlags" type="uint32" value="144" />
-					<attribute id="Stats" type="FixedString" value="WPN_Rapier_Bladesong" />
-					<attribute id="TechnicalDescription" type="TranslatedString" handle="h18d3f947g6551g4484gbd81g543e39b20826" version="1" />
-					<attribute id="Tooltip" type="uint8" value="2" />
-					<attribute id="Type" type="FixedString" value="item" />
-					<attribute id="VisualTemplate" type="FixedString" value="098e16ca-2805-18f8-791c-0b2ea970ecaf" />
-					<attribute id="WalkThrough" type="bool" value="True" />
-					<attribute id="_OriginalFileVersion_" type="int64" value="144115188075855930" />
-					<children>
-						<node id="Bounds">
-							<children>
-								<node id="Bound">
-									<attribute id="Height" type="float" value="0.163168" />
-									<attribute id="Max" type="fvec3" value="0.050118 0.063527 0.197753" />
-									<attribute id="Min" type="fvec3" value="-0.088386 -0.03721 -0.988086" />
-									<attribute id="Radius" type="float" value="0.42423" />
-									<attribute id="Shape" type="uint8" value="1" />
-									<attribute id="Type" type="uint8" value="1" />
-								</node>
-								<node id="Bound">
-									<attribute id="Height" type="float" value="0.163168" />
-									<attribute id="Max" type="fvec3" value="0.050118 0.063527 0.197753" />
-									<attribute id="Min" type="fvec3" value="-0.088386 -0.03721 -0.988086" />
-									<attribute id="Radius" type="float" value="0.42423" />
-									<attribute id="Shape" type="uint8" value="1" />
-									<attribute id="Type" type="uint8" value="2" />
-								</node>
-								<node id="Bound">
-									<attribute id="Height" type="float" value="0.163168" />
-									<attribute id="Max" type="fvec3" value="0.025059 0.063527 0.0988765" />
-									<attribute id="Min" type="fvec3" value="-0.044193 -0.03721 -0.494043" />
-									<attribute id="Radius" type="float" value="0.212115" />
-									<attribute id="Shape" type="uint8" value="1" />
-									<attribute id="Type" type="uint8" value="0" />
-								</node>
-							</children>
-						</node>
-						<node id="GameMaster">
-							<attribute id="GameMasterSpawnSubSection" type="TranslatedString" handle="h887afdc6gb9e4g4cf3gb44cgd67f5ef0427b" version="1" />
-						</node>
-						<node id="InventoryList">
-							<children>
-								<node id="InventoryItem">
-									<attribute id="Object" type="FixedString" value="Empty" />
-								</node>
-							</children>
-						</node>
-						<node id="OnDestroyActions">
-							<children>
-								<node id="Action">
-									<attribute id="ActionType" type="int32" value="26" />
-									<children>
-										<node id="Attributes">
-											<attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3" />
-											<attribute id="Animation" type="FixedString" value="" />
-											<attribute id="PlayOnHUD" type="bool" value="False" />
-										</node>
-									</children>
-								</node>
-							</children>
-						</node>
-						<node id="Tags">
-							<children>
-								<node id="Tag">
-									<attribute id="Object" type="guid" value="abadcad5-9229-4999-8c7a-cd557ff2c95c" />
-								</node>
-							</children>
-						</node>
-					</children>
-				</node>
-			</children>
-		</node>
-	</region>
+  <version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids"/>
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="CanShootThrough" type="bool" value="True"/>
+          <attribute id="Description" type="TranslatedString" handle="h2f36599dg9e95g4b7agb0d1g155af8ee664d" version="1"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="ha42521ceg59ecg430bg9fcfg93ba99bedb6b" version="1"/>
+          <attribute id="EquipmentTypeID" type="guid" value="4d500520-1818-4a5e-83b9-324957e22969"/>
+          <attribute id="Flag" type="int32" value="0"/>
+          <attribute id="IsInspector" type="bool" value="True"/>
+          <attribute id="LevelName" type="FixedString" value=""/>
+          <attribute id="LevelOverride" type="int32" value="-1"/>
+          <attribute id="MapKey" type="FixedString" value="1818a385-c70e-4d1d-968b-817f3c1fdcf0"/>
+          <attribute id="Name" type="LSString" value="WPN_Rapier_Bladesong"/>
+          <attribute id="ParentTemplateId" type="FixedString" value="6ccc6f4d-f2a7-4e38-a96d-c3fec92fc2de"/>
+          <attribute id="PhysicsTemplate" type="FixedString" value="f612830f-5942-90e8-d5e8-b15744cfdd31"/>
+          <attribute id="Race" type="int8" value="0"/>
+          <attribute id="ReadinessFlags" type="uint32" value="144"/>
+          <attribute id="Stats" type="FixedString" value="WPN_Rapier_Bladesong"/>
+          <attribute id="TechnicalDescription" type="TranslatedString" handle="h18d3f947g6551g4484gbd81g543e39b20826" version="1"/>
+          <attribute id="Tooltip" type="uint8" value="2"/>
+          <attribute id="Type" type="FixedString" value="item"/>
+          <attribute id="VisualTemplate" type="FixedString" value="098e16ca-2805-18f8-791c-0b2ea970ecaf"/>
+          <attribute id="WalkThrough" type="bool" value="True"/>
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855930"/>
+          <children>
+            <node id="Bounds">
+              <children>
+                <node id="Bound">
+                  <attribute id="Height" type="float" value="0.163168"/>
+                  <attribute id="Max" type="fvec3" value="0.050118 0.063527 0.197753"/>
+                  <attribute id="Min" type="fvec3" value="-0.088386 -0.03721 -0.988086"/>
+                  <attribute id="Radius" type="float" value="0.42423"/>
+                  <attribute id="Shape" type="uint8" value="1"/>
+                  <attribute id="Type" type="uint8" value="1"/>
+                </node>
+                <node id="Bound">
+                  <attribute id="Height" type="float" value="0.163168"/>
+                  <attribute id="Max" type="fvec3" value="0.050118 0.063527 0.197753"/>
+                  <attribute id="Min" type="fvec3" value="-0.088386 -0.03721 -0.988086"/>
+                  <attribute id="Radius" type="float" value="0.42423"/>
+                  <attribute id="Shape" type="uint8" value="1"/>
+                  <attribute id="Type" type="uint8" value="2"/>
+                </node>
+                <node id="Bound">
+                  <attribute id="Height" type="float" value="0.163168"/>
+                  <attribute id="Max" type="fvec3" value="0.025059 0.063527 0.0988765"/>
+                  <attribute id="Min" type="fvec3" value="-0.044193 -0.03721 -0.494043"/>
+                  <attribute id="Radius" type="float" value="0.212115"/>
+                  <attribute id="Shape" type="uint8" value="1"/>
+                  <attribute id="Type" type="uint8" value="0"/>
+                </node>
+              </children>
+            </node>
+            <node id="GameMaster">
+              <attribute id="GameMasterSpawnSubSection" type="TranslatedString" handle="h887afdc6gb9e4g4cf3gb44cgd67f5ef0427b" version="1"/>
+            </node>
+            <node id="InventoryList">
+              <children>
+                <node id="InventoryItem">
+                  <attribute id="Object" type="FixedString" value="Empty"/>
+                </node>
+              </children>
+            </node>
+            <node id="OnDestroyActions">
+              <children>
+                <node id="Action">
+                  <attribute id="ActionType" type="int32" value="26"/>
+                  <children>
+                    <node id="Attributes">
+                      <attribute id="ActivateSoundEvent" type="FixedString" value="3ea82655-5140-4287-9ab8-794559f182d3"/>
+                      <attribute id="Animation" type="FixedString" value=""/>
+                      <attribute id="PlayOnHUD" type="bool" value="False"/>
+                    </node>
+                  </children>
+                </node>
+              </children>
+            </node>
+            <node id="Tags">
+              <children>
+                <node id="Tag">
+                  <attribute id="Object" type="guid" value="abadcad5-9229-4999-8c7a-cd557ff2c95c"/>
+                </node>
+              </children>
+            </node>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
 </save>

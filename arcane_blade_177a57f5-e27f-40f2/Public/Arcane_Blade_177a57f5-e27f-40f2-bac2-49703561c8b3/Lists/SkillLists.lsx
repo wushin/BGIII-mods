@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <save>
-    <version major="4" minor="7" revision="1" build="0"/>
-    <region id="SkillLists">
-        <node id="root">
-            <children>
-                <node id="SkillList">
-                    <attribute id="Name" type="FixedString" value="Arcane Blade Skill List"/>
-                    <attribute id="Skills" type="LSString" value="Acrobatics, Athletics, Insight, Investigation, Perception, Performance, Persuasion, SleightOfHand, Stealth, Survival"/>
-                    <attribute id="UUID" type="guid" value="a1c2b712-2ed6-4e5b-820f-c5db654fe006"/>
-                </node>
-            </children>
+  <version major="4" minor="7" revision="1" build="0"/>
+  <region id="SkillLists">
+    <node id="root">
+      <children>
+        <node id="SkillList">
+          <attribute id="Name" type="FixedString" value="Arcane Blade Skill List"/>
+          <attribute id="Skills" type="LSString" value="Acrobatics, Athletics, Insight, Investigation, Perception, Performance, Persuasion, SleightOfHand, Stealth, Survival"/>
+          <attribute id="UUID" type="guid" value="a1c2b712-2ed6-4e5b-820f-c5db654fe006"/>
         </node>
-    </region>
+      </children>
+    </node>
+  </region>
 </save>

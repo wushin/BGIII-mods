@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <save>
-    <version major="4" minor="7" revision="1" build="3"/>
-    <region id="DefaultValues">
-        <node id="root">
-            <children>
-                <node id="DefaultValue">
-                    <attribute id="Add" type="LSString" value="Acrobatics;Performance;Persuasion;SleightOfHand;Stealth" />
-                    <attribute id="Level" type="int32" value="1"/>
-                    <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
-                    <attribute id="UUID" type="guid" value="4af4d561-8c2e-469c-9592-5b61579dc62e"/>
-                </node>
-            </children>
+  <version major="4" minor="7" revision="1" build="3"/>
+  <region id="DefaultValues">
+    <node id="root">
+      <children>
+        <node id="DefaultValue">
+          <attribute id="Add" type="LSString" value="Acrobatics;Performance;Persuasion;SleightOfHand;Stealth"/>
+          <attribute id="Level" type="int32" value="1"/>
+          <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
+          <attribute id="UUID" type="guid" value="4af4d561-8c2e-469c-9592-5b61579dc62e"/>
         </node>
-    </region>
+      </children>
+    </node>
+  </region>
 </save>

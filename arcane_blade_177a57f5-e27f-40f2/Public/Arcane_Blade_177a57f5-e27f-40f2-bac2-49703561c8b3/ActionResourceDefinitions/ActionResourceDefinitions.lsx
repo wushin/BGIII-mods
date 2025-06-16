@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <save>
-    <version major="4" minor="3" revision="0" build="302"/>
-    <region id="ActionResourceDefinitions">
-        <node id="root">
-            <children>
-                <node id="ActionResourceDefinition">
-                    <attribute id="Description" type="TranslatedString" handle="h8b98823aga3c7g474egbc0egcfd0d066c47d" version="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="hbf30c62cg082cg4263g89c8g83bcb67e6900" version="1"/>
-                    <attribute id="MaxLevel" type="uint32" value="0"/>
-                    <attribute id="MaxValue" type="uint32" value="4"/>
-                    <attribute id="Name" type="FixedString" value="ReactionActionPoint"/>
-                    <attribute id="ReplenishType" type="FixedString" value="Turn"/>
-                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
-                    <attribute id="UUID" type="guid" value="45ff0f48-b210-4024-972f-b64a44dc6985"/>
-                </node>
-                <node id="ActionResourceDefinition">
-                    <attribute id="Description" type="TranslatedString" handle="hc91c8298g7ae5g4b31gbab7g1b5eb102acbe" version="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h71a6820egd3e3g4a31g9383g41bc377d9b55" version="1"/>
-                    <attribute id="MaxLevel" type="uint32" value="6"/>
-                    <attribute id="Name" type="FixedString" value="ABSCHR"/>
-                    <attribute id="ReplenishType" type="FixedString" value="Never"/>
-                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
-                    <attribute id="UUID" type="guid" value="19384cc1-ffc6-4219-94a4-3399475e123c"/>
-                    <attribute id="UpdatesSpellPowerLevel" type="bool" value="true"/>
-                    <attribute id="IsSpellResource" type="bool" value="true"/>
-                </node>
-            </children>
+  <version major="4" minor="3" revision="0" build="302"/>
+  <region id="ActionResourceDefinitions">
+    <node id="root">
+      <children>
+        <node id="ActionResourceDefinition">
+          <attribute id="Description" type="TranslatedString" handle="h8b98823aga3c7g474egbc0egcfd0d066c47d" version="1"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="hbf30c62cg082cg4263g89c8g83bcb67e6900" version="1"/>
+          <attribute id="MaxLevel" type="uint32" value="0"/>
+          <attribute id="MaxValue" type="uint32" value="4"/>
+          <attribute id="Name" type="FixedString" value="ReactionActionPoint"/>
+          <attribute id="ReplenishType" type="FixedString" value="Turn"/>
+          <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+          <attribute id="UUID" type="guid" value="45ff0f48-b210-4024-972f-b64a44dc6985"/>
         </node>
-    </region>
+        <node id="ActionResourceDefinition">
+          <attribute id="Description" type="TranslatedString" handle="hc91c8298g7ae5g4b31gbab7g1b5eb102acbe" version="1"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="h71a6820egd3e3g4a31g9383g41bc377d9b55" version="1"/>
+          <attribute id="MaxLevel" type="uint32" value="6"/>
+          <attribute id="Name" type="FixedString" value="ABSCHR"/>
+          <attribute id="ReplenishType" type="FixedString" value="Never"/>
+          <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
+          <attribute id="UUID" type="guid" value="19384cc1-ffc6-4219-94a4-3399475e123c"/>
+          <attribute id="UpdatesSpellPowerLevel" type="bool" value="true"/>
+          <attribute id="IsSpellResource" type="bool" value="true"/>
+        </node>
+      </children>
+    </node>
+  </region>
 </save>

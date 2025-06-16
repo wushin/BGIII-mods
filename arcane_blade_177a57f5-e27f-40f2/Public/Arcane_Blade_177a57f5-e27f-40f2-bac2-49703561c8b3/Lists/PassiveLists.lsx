@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <save>
-    <version major="4" minor="7" revision="1" build="0"/>
-    <region id="PassiveLists">
-        <node id="root">
-            <children>
-              <node id="PassiveList">
-                <attribute id="Name" type="FixedString" value="ArcaneBladeManeuvers"/>
-                <attribute id="Passives" type="LSString" value="Arcane_Trip,Arcane_Disarm,Arcane_Distract,Arcane_Feint,Arcane_Cleave,Arcane_Charge"/>
-                <attribute id="UUID" type="guid" value="5c402747-97cf-4c9c-ad6f-7efbac9d6750"/>
-              </node>
-              <node id="PassiveList">
-                <attribute id="Name" type="FixedString" value="ArcaneDefense" />
-                <attribute id="Passives" type="LSString" value="ArcaneParry,ArcaneRiposte,ArcaneInit,ArcaneFootwork,ArcaneCunning,ArcaneCounter" />
-                <attribute id="UUID" type="guid" value="e1c516d0-8e83-4ce4-87b5-e2b6af966d09" />
-              </node>
-              <node id="PassiveList">
-                <attribute id="Name" type="FixedString" value="ArcaneBladeSpells" />
-                <attribute id="Passives" type="LSString" value="ArcaneMockery,ArcaneWord,ArcaneBlades,ArcaneImage,ArcaneShadows" />
-                <attribute id="UUID" type="guid" value="3e85b253-18fe-4fc1-b535-50086e71c220" />
-            </node>
-            </children>
+  <version major="4" minor="7" revision="1" build="0"/>
+  <region id="PassiveLists">
+    <node id="root">
+      <children>
+        <node id="PassiveList">
+          <attribute id="Name" type="FixedString" value="ArcaneBladeManeuvers"/>
+          <attribute id="Passives" type="LSString" value="Arcane_Trip,Arcane_Disarm,Arcane_Distract,Arcane_Feint,Arcane_Cleave,Arcane_Charge"/>
+          <attribute id="UUID" type="guid" value="5c402747-97cf-4c9c-ad6f-7efbac9d6750"/>
         </node>
-    </region>
+        <node id="PassiveList">
+          <attribute id="Name" type="FixedString" value="ArcaneDefense"/>
+          <attribute id="Passives" type="LSString" value="ArcaneParry,ArcaneRiposte,ArcaneInit,ArcaneFootwork,ArcaneCunning,ArcaneCounter"/>
+          <attribute id="UUID" type="guid" value="e1c516d0-8e83-4ce4-87b5-e2b6af966d09"/>
+        </node>
+        <node id="PassiveList">
+          <attribute id="Name" type="FixedString" value="ArcaneBladeSpells"/>
+          <attribute id="Passives" type="LSString" value="ArcaneMockery,ArcaneWord,ArcaneBlades,ArcaneImage,ArcaneShadows"/>
+          <attribute id="UUID" type="guid" value="3e85b253-18fe-4fc1-b535-50086e71c220"/>
+        </node>
+      </children>
+    </node>
+  </region>
 </save>

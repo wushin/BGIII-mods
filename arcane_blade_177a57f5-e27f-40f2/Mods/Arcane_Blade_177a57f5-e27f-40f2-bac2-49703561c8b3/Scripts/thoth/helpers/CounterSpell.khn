@@ -6,4 +6,4 @@ function TryArcaneCounterspellHigherLevel(level)
         return ConditionResult(st.Result,{},{},st.Chance)
     end
     return ConditionResult(true,{},{},1.0)
-end 
+end

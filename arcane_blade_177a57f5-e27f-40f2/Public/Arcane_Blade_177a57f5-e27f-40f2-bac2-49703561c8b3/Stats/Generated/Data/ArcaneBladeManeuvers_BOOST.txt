@@ -1,5 +1,5 @@
 new entry "ARCANETRIP"
-type "StatusData" 
+type "StatusData"
 data "StatusType" "BOOST"
 data "DisplayName" "hd49d7242g5b1fg4fe7g9369gda6ffad8c47b;1"
 data "RemoveEvents" "OnTurn;OnStatusRemoved;"
@@ -8,7 +8,7 @@ data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndi
 data "StackId" "ARCANETRIP"
 
 new entry "ARCANEDISARM"
-type "StatusData" 
+type "StatusData"
 data "StatusType" "BOOST"
 data "DisplayName" "hd49d7242g5b1fg4fe7g9369gda6ffad8c47b;1"
 data "RemoveEvents" "OnTurn;OnStatusRemoved;"
@@ -53,7 +53,7 @@ data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndi
 data "StackId" "ARCANECHARGE"
 
 new entry "ARCANETRIPBOOST"
-type "StatusData" 
+type "StatusData"
 data "StatusType" "BOOST"
 data "DisplayName" "hd49d7242g5b1fg4fe7g9369gda6ffad8c47b;1"
 data "Boosts" "UnlockSpell(Target_GreenFlameBlade_Trip);UnlockSpell(Target_IcewindBlade_Trip);UnlockSpell(Target_CausticBlade_Trip);UnlockSpell(Target_NecroticBlade_Trip);UnlockSpell(Target_BoomingBladeMove_Trip);UnlockSpell(Target_DivineBladeMove_Trip);UnlockSpell(Target_PsionicBladeMove_Trip);UnlockSpell(Target_ShockingBladeMove_Trip);"
@@ -63,7 +63,7 @@ data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndi
 data "StackId" "ARCANETRIPBOOST"
 
 new entry "ARCANEDISARMBOOST"
-type "StatusData" 
+type "StatusData"
 data "StatusType" "BOOST"
 data "DisplayName" "hd49d7242g5b1fg4fe7g9369gda6ffad8c47b;1"
 data "Boosts" "UnlockSpell(Target_GreenFlameBlade_Disarm);UnlockSpell(Target_IcewindBlade_Disarm);UnlockSpell(Target_CausticBlade_Disarm);UnlockSpell(Target_NecroticBlade_Disarm);UnlockSpell(Target_BoomingBladeMove_Disarm);UnlockSpell(Target_DivineBladeMove_Disarm);UnlockSpell(Target_PsionicBladeMove_Disarm);UnlockSpell(Target_ShockingBladeMove_Disarm);"
@@ -111,4 +111,3 @@ data "RemoveEvents" "OnTurn;OnStatusRemoved;"
 data "RemoveConditions" "not HasPassive('Arcane_Charge_Boost')"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;IgnoreResting;ApplyToDead"
 data "StackId" "ARCANECHARGEBOOST"
-
