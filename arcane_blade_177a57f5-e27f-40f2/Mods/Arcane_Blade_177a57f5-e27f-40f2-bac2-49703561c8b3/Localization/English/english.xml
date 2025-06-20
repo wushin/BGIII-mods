@@ -15,6 +15,9 @@
   <content contentuid="h615d1044gf0c6g45dfgaf87g1e4e66581dc5" version="1">Sneak Attack : Arcane</content>
   <content contentuid="h3f756e2bg7038g46afg9057g94d3afc7bbb7" version="1">Sneak Attack (Critical Hit) : Arcane</content>
   <content contentuid="h33951923g9a9bg4c4dg8f9egabb42b068d1e" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
+  <content contentuid="h62e17494g68dbg4e2dg931bgc0c535f9a77d" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread acid to melt another nearby creature for [2].</content>
+  <content contentuid="h9ff9aebdgfa87g4875ga7dfg5e006aa7ae9e" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread ice to freeze another nearby creature for [2].</content>
+  <content contentuid="h689a58efgdef7g4056gb349g6bd9f568f1f5" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread necrotic energy and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; another nearby creature for [2].</content>
   <content contentuid="h09ad9581g1febg439ag87c9g1e27ac486545" version="1">Arcane Blade Song</content>
   <content contentuid="h0a17578bgbd95g47cdg9d04g50c88ec82633" version="1">Arcane Disarming Attack</content>
   <content contentuid="h0cd0d661g2c83g40a7g8a96g05d1c2e88ddc" version="1">Cover more distance this turn: double your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt;.</content>
@@ -25,11 +28,13 @@
   <content contentuid="h1ed988f1g4ad7g41bcga465gc04e6bb6e58c" version="1">Arcane Riposte</content>
   <content contentuid="h1ed988f1g4ad7g41bcga465gc04e6bb6e58c" version="1">Parry the next melee attack that hits you to reduce the damage by [1] + &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;.</content>
   <content contentuid="hb3325955g1a4fg43a2gb96eg59ccea931b15" version="1">Burn another enemy for [1].</content>
+  <content contentuid="hyldn0ko1rbyanieg99nwi2gkgy19y2n0qwlg" version="1">Freeze another enemy for [1].</content>
+  <content contentuid="hmomdrx7bhnupuz2ulrxtq8mf7w4awyhu90r2" version="1">Melt another enemy for [1].</content>
+  <content contentuid="hi2wsoft3jnib4vz42ztd1neuutzaknnp74gv" version="1">Necrotize another enemy for [1] and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;.</content>
   <content contentuid="h9c0ec279gedd2g4aa8g96fcg9de433fa026e" version="1">Heal your nearby allies.</content>
   <content contentuid="h8ef33f81g0dacg428bgad6dge079d247d5fa" version="1">Scribe</content>
   <content contentuid="h8e61ee08g724ag42dbgbf8bg73cb80bb2c66" version="1">Sneak Attack (Critical Hit) : Arcane</content>
   <content contentuid="h2d774af3gd5b6g4e19gb39bgd282a4b10527" version="1">Arcane Blade Song Charge</content>
-  <content contentuid="ha1694890g6085g4c02gb38dg6313384fdb2b" version="1">Green-Flame Blade</content>
   <content contentuid="h2e7b78a6g87a7g4910gb830g431368a24fd1" version="1">Arcane Fall</content>
   <content contentuid="h2eef0206g3201g427agabd0g3556b40d985d" version="1">Cleave</content>
   <content contentuid="h319193c0g7bc4g47f9g8f88g87d59140852a" version="1">Arcane Strider Desc</content>
@@ -43,7 +48,7 @@
   <content contentuid="h4c11d446g6813g49a5ga3e7g3f0c2c8b5154" version="1">Can only use Booming Blade once per action.</content>
   <content contentuid="h8ec328aagf460g45f8g93ddgd3bb43102b0b" version="1">Also works if you have an ally within [1] of the target or there is no one but you and the target within [1] but for both you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
   <content contentuid="hbf30c62cg082cg4263g89c8g83bcb67e6900" version="1">Reaction</content>
-  <content contentuid="h7947189agd31ag488egb2eag41249c52f2a5" version="1">This reaction will trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Booming Blade.</content>
+  <content contentuid="h7947189agd31ag488egb2eag41249c52f2a5" version="1">This reaction will trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;.</content>
   <content contentuid="h490e92e1g86beg4d6dg91dcg5d91cb100fd8" version="1">Stop a spell from being cast. If the spell is higher level than [1], you must roll to prevent it.</content>
   <content contentuid="h4aa671b5gc52eg4de9gafe6gb08bd3b97f6e" version="1">Unleash the full damaging and healing effects of your Arcane Blade Song at once. Your &lt;LSTag Type="Status" Tooltip="BLADESONG_DAMAGE_CHARGE"&gt;Arcane Blade Song Damage Charges&lt;/LSTag&gt; will harm enemies an additional [1], and your &lt;LSTag Type="Status" Tooltip="BLADESONG_HEALING_CHARGE"&gt;Arcane Blade Song Healing Charges&lt;/LSTag&gt; will heal you and your allies an additional [2].</content>
   <content contentuid="h0ac23424g1193g4797g88a6g1df2f25cefdd" version="1">Mystra's Booming Blade: Sneak Attack</content>
@@ -62,7 +67,13 @@
   <content contentuid="h59afe09dg6994g45a9g8aa9gac4f62379339" version="1">If it is higher level than [1], you must make a &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;check&lt;/LSTag&gt; to prevent it. The check's difficulty is equal to [2] plus the level of the spell you are trying to counter. </content>
   <content contentuid="he6e812e3g0da2g4392g8011g9284c484efcf" version="1">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
   <content contentuid="h8848976bgdb18g4e36gac35g687209f28cad" version="1">Spread Green-Flame Blade</content>
+  <content contentuid="hty0d5uz4hsxdinf9e53sk7s5k5nwftzkuxbv" version="1">Spread Caustic Blade</content>
+  <content contentuid="h9kp3uzsp3v4uw423zfkg8oni91fsg1qose6d" version="1">Spread Icewind Blade</content>
+  <content contentuid="h24ofk3jqg6wtn1t3d81s3b39w6azrvj1mgyl" version="1">Spread Necrotic Blade</content>
   <content contentuid="h7414e810g42b6g4a29gbd5cg62fbd64b0649" version="1">Green-Flame Blade: Reaction</content>
+  <content contentuid="hcje1219ztzlsbzgfsyxjc6ffp9pwb8pibk2f" version="1">Caustic Blade: Reaction</content>
+  <content contentuid="hh4v4134wv9n9y43vby7hzwupq4i2w6ruiv8t" version="1">Icewind Blade: Reaction</content>
+  <content contentuid="hzvr4zyep9rrlwbgydk8zvs9v2f1r4owslr40" version="1">Necrotic Blade: Reaction</content>
   <content contentuid="h5fdf6f37g677dg4ac4gb400g7b004b9d4232" version="1">Arcane Feinting Attack</content>
   <content contentuid="h7c6e9315g4728g4139g90b9g6002929bd47b" version="1">Blurred</content>
   <content contentuid="h60dd5dceg1b77g4f22gbcf6g28c3f18db5c7" version="1">Arcane Action: Dash</content>
@@ -70,16 +81,32 @@
   <content contentuid="h0e153e2agf0a3g4e36g97b6gd02031b758df" version="1">Booming Blast</content>
   <content contentuid="h6535344dgd9e5g4b96gbc90gf134fff960d6" version="1">During Arcane Blade Song, &lt;LSTag Type="Status" Tooltip="DISTRACTED"&gt;Distract&lt;/LSTag&gt; your target, giving your allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against the target.</content>
   <content contentuid="h80e649e4ge45cg4132g9f39ge5233534e318" version="1">Green-Flame Blade</content>
+  <content contentuid="hc83bb5f2gc358g4c6dgbce2gb5ee32cc689d" version="1">Caustic Blade</content>
+  <content contentuid="h8b442720g25a1g49dcga5c9gfadcb5fe7afc" version="1">Icewind Blade</content>
+  <content contentuid="h6f2bb9dfg3ce5g4eafg890cgd3d6118b910b" version="1">Necrotic Blade</content>
   <content contentuid="h19e52d51g2e44g42aaga534g451260f091e6" version="1">This reaction will trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Green-Flame Blade.</content>
-  <content contentuid="hfe280cf0ga4a4g44b2g98cagf6214e7471c0" version="1">Green-Flame Blade</content>
   <content contentuid="h66e98aebgefcdg468fg9a1cgb42ffcd225cc" version="1">Arcane Blade Song Impeded</content>
+  <content contentuid="h022784ddg33afg430bgbd54gd78f83fb246d" version="1">Arcane Blade Spells</content>
+	<content contentuid="hc56a92f0g40dcg4b57gb626g0e5095ad4fab" version="1">Choose your cantrip and spells</content>
+  <content contentuid="hcb2577a5ga972g4463gba58g5ed1e95b53bc" version="1">Arcane Rituals</content>
+	<content contentuid="h0e05a378g8813g4d21gbd95g3a677b2a7cb3" version="1">Arcane Blades are in tune with their bodies allowing them to draw upon magic to increase their physical prowess through practiced rituals.</content>
+  <content contentuid="h9b5c49e7g5c16g4a08g8436ga0e21801f1a1" version="1">Arcane Defense</content>
+	<content contentuid="hfb9781c3ge6cbg4a1fgb9a8gcc33f62f71bb" version="1">Choose your defensive Arcane Blade maneuvers: </content>
+  <content contentuid="hja6rp9gh0p6nulasf9pmvlzt60t9nxu3bdee" version="1">Arcane Maneuvers</content>
+  <content contentuid="h2nfpy60suuvjv4cvih6z45i9zsv4itdmrhyc" version="1">Choose which arcane maneuvers to learn:</content>
+  <content contentuid="h93lwwzm6dd7wxjczfywmj5pi4cdga6u2d41o" version="1">Arcane War and Song</content>
   <content contentuid="h691d0234gf9b7g44cdgb713g2270d16a43c9" version="1">Training in Arcane War and Song</content>
   <content contentuid="he23c7347g69beg45f9g9400g89fcee6b4e56" version="1">Teleport to a foe from a &lt;LSTag Type="HIDING" Tooltip=""&gt;hidden&lt;/LSTag&gt; position, striking them with the creeping, psychic ferocity of the shadows themselves. </content>
   <content contentuid="h3c5bf901g2901g44e2g85e6gcfadefe2ef0c" version="1">Deal a bonus [1] to the target. If the attack lands and you remain stationary, you can spread green flames to burn another for [2].</content>
+  <content contentuid="hwt405oyof0z0l8ozb07114wl3n0y03wgzpjj" version="1">Deal a bonus [1] to the target. If the attack lands and you remain stationary, you can spread caustic to melt another for [2].</content>
+  <content contentuid="h8u8slosw59hqw38jyb9eahdza8vb4dnp0ipi" version="1">Deal a bonus [1] to the target. If the attack lands and you remain stationary, you can spread icewind to freeze another for [2].</content>
+  <content contentuid="hxkz5cmkyq1qvcoh3n644ae52pjswvm6mvmws" version="1">Deal a bonus [1] to the target. If the attack lands and you remain stationary, you can spread necrotic to necrotize another for [2].</content>
   <content contentuid="h710acb4ag12b3g43f8ga8f0gb2c92426bc2f" version="1">Invoke the Arcane Blade Song. You gain a +[1] bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; increases by [2]. You also gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; in Acrobatics and a +[1] bonus to Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
   <content contentuid="ha46f6404g3f08g4f18ga1f7gccbf691e2138" version="1">Green-Flame Blade Critical: Reaction</content>
+  <content contentuid="hc1748iuac4v1l3knshsqxkfi95qzce55rw2p" version="1">Caustic Blade Critical: Reaction</content>
+  <content contentuid="h3u4f0xv94wg310mjx2944mu555pgti4ivgkn" version="1">Icewind Blade Critical: Reaction</content>
+  <content contentuid="h8jg8s67dhe1tfeezp0fg9eisi8wr4kg7d0cq" version="1">Necrotic Blade Critical: Reaction</content>
   <content contentuid="h71a6820egd3e3g4a31g9383g41bc377d9b55" version="1">Arcane Blade Song Charge</content>
-  <content contentuid="hccbf361ega1d2g44bdg86e5g8a5c31ccca45" version="1">Green-Flame Blade</content>
   <content contentuid="h72564112g891bg4d1ag8abcg4ed41c3ab6df" version="1">Arcane Action: Hide</content>
   <content contentuid="ha4c12be3gd2cdg435dgb0b4gbdc7e09a4ca6" version="1">Spinning daggers fill the air. Anyone inside the whirlwind takes [1] each turn.</content>
   <content contentuid="h75d5a90bg99b8g4ef1g9c7ag75e79729df99" version="1">When a creature misses you with a melee attack, you can retaliate with a powerful strike that deals an additional [1] damage if you are wielding a melee weapon. </content>
@@ -87,7 +114,55 @@
   <content contentuid="h7da8fab0g4dbbg4888gb7d9g61c798217f57" version="1">You learn Arcane Actions &lt;LSTag Type="Spell" Tooltip="Shout_ArcaneHide"&gt;Arcane Hide&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Shout_ArcaneDash"&gt;Arcane Dash&lt;/LSTag&gt;.</content>
   <content contentuid="hb907b24agb1b6g456eg95f2g9e7c9b7d8ab5" version="1">Conjure a cloud of spinning daggers that attack anyone inside.</content>
   <content contentuid="h7df25f89g62a0g44b2g98a8g223e05178eef" version="1">This will end your &lt;LSTag Type="Status" Tooltip="BLADESONG"&gt;Arcane Blade Song&lt;/LSTag&gt;.</content>
-  <content contentuid="h7eb5ccd1g99d1g4aa1gad7bg0608091830e1" version="1">Arcane Trip Attack</content>
+  <content contentuid="htxnoc454rmy3ou0snost7c72gzbb2ocu4572" version="1">Arcane Trip Attack</content>
+  <content contentuid="h7eb5ccd1g99d1g4aa1gad7bg0608091830e1" version="1">Green-Flame Trip Attack</content>
+  <content contentuid="he4cc5482gc412g4d0bg9fc3gbe77ec454f7f" version="1">Caustic Trip Attack</content>
+  <content contentuid="h5335a512g7593g4860g8b66g6219ab1ad3df" version="1">Icewind Trip Attack</content>
+  <content contentuid="hcee61926gbc9ag4c52ga2bdg2a378043812c" version="1">Necrotic Trip Attack</content>
+  <content contentuid="ha221e5begc45fg4070gb53fg39dea2ad7299" version="1">Attack the target dealing a bonus [1] and possibly knocks the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
+  <content contentuid="h5e8c2e0fgd660g44c9gb063g19f7d048a28c" version="1">Attack the target dealing a bonus [1] and possibly knocks the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;. If the attack lands and you remain stationary, you can spread acid to melt another nearby creature for [2].</content>
+  <content contentuid="h98f57732gdb3bg4e15g81eeg6f9e4755c7c7" version="1">Attack the target dealing a bonus [1] and possibly knocks the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;. If the attack lands and you remain stationary, you can spread ice to freeze another nearby creature for [2].</content>
+  <content contentuid="h2ea6c458gdc3dg43fdg9e7cg35f0a2d006e4" version="1">Attack the target dealing a bonus [1] and possibly knocks the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;. If the attack lands and you remain stationary, you can spread necrotic energy and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; another nearby creature for [2].</content>
+  <content contentuid="h45f3b74cgcd09g4fb6g9892g3530d121c242" version="1">Green-Flame Disarm Attack</content>
+  <content contentuid="h09b3240egcdbag4dd4g8d5cgfd1e0d64e3bc" version="1">Caustic Disarm Attack</content>
+  <content contentuid="hceedd506g3f76g4670gbf0bg26ea20fe5e4b" version="1">Icewind Disarm Attack</content>
+  <content contentuid="hd220efb4g125eg4743gba56gb90da3dfb559" version="1">Necrotic Disarm Attack</content>
+  <content contentuid="hb79418ebg9ae9g42f8gaff0g7c281f3d4f27" version="1">Attack the target dealing a bonus [1] and possibly force them to drop the weapons they are holding. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
+  <content contentuid="h5dd54c51g7ac3g44f6g9dcagfde90ff3de39" version="1">Attack the target dealing a bonus [1] and possibly force them to drop the weapons they are holding. If the attack lands and you remain stationary, you can spread acid to melt another nearby creature for [2].</content>
+  <content contentuid="hd5b9a85bgd2f5g423cgbba2ga7f06fc0915f" version="1">Attack the target dealing a bonus [1] and possibly force them to drop the weapons they are holding. If the attack lands and you remain stationary, you can spread ice to freeze another nearby creature for [2].</content>
+  <content contentuid="hd8ad0992g025cg4946g8d9bg3cee166f64be" version="1">Attack the target dealing a bonus [1] and possibly force them to drop the weapons they are holding. If the attack lands and you remain stationary, you can spread necrotic energy and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; another nearby creature for [2].</content>
+  <content contentuid="hn9gkjhzd1b8dvilxqleoozl4k9vmvlbhunw0" version="1">Green-Flame Distract Attack</content>
+  <content contentuid="h4ar3lsinfjvkj2bh5d9wrhdvb8rokfguolib" version="1">Caustic Distract Attack</content>
+  <content contentuid="hbhh6s438wzqr9uav0drmeewpzxqqagz6fa43" version="1">Icewind Distract Attack</content>
+  <content contentuid="harjzwtgamc1on9doz8m96791uvzi43n9l4nf" version="1">Necrotic Distract Attack</content>
+  <content contentuid="hri8pdc41348voo76krv0izvp2tpmn1p9bwk7" version="1">Attack the target dealing a bonus [1] and &lt;LSTag Type="Status" Tooltip="DISTRACTED"&gt;Distract&lt;/LSTag&gt; your target, giving your allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against it. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
+  <content contentuid="hbfyx4zjas8qehcbe9qp18nhmpgdvi04uw9lv" version="1">Attack the target dealing a bonus [1] and &lt;LSTag Type="Status" Tooltip="DISTRACTED"&gt;Distract&lt;/LSTag&gt; your target, giving your allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against it. If the attack lands and you remain stationary, you can spread acid to melt another nearby creature for [2].</content>
+  <content contentuid="h7gaxoj6y3yjwrhy2e03mjyzmc65t7eyqkeh8" version="1">Attack the target dealing a bonus [1] and &lt;LSTag Type="Status" Tooltip="DISTRACTED"&gt;Distract&lt;/LSTag&gt; your target, giving your allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against it. If the attack lands and you remain stationary, you can spread ice to freeze another nearby creature for [2].</content>
+  <content contentuid="hj5ucoanxro569p8nv2104qfcg3hsputdlrdz" version="1">Attack the target dealing a bonus [1] and &lt;LSTag Type="Status" Tooltip="DISTRACTED"&gt;Distract&lt;/LSTag&gt; your target, giving your allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against it. If the attack lands and you remain stationary, you can spread necrotic energy and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; another nearby creature for [2].</content>
+  <content contentuid="h505zoonu2xkc8to6lcjcbssa5hw1mjq1kgiy" version="1">Green-Flame Feint Attack</content>
+  <content contentuid="hdwxibeu43a28uxjvxbln6f68i2y5wca1xrun" version="1">Caustic Feint Attack</content>
+  <content contentuid="hg4p296qlyj7hy6eotsf6fv2go5wfrkbfte57" version="1">Icewind Feint Attack</content>
+  <content contentuid="haify954ybgzghu1lgh0y3t8jhcbs9plcvsdy" version="1">Necrotic Feint Attack</content>
+  <content contentuid="htm95dau92y66a230p7xu3twsp0xbrpg4akka" version="1">Attack the target with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; dealing a bonus [1] and [2]. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
+  <content contentuid="heazekeh1ri8s52ls8ynfvaunycuxdir4ajyv" version="1">Attack the target with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; dealing a bonus [1] and [2]. If the attack lands and you remain stationary, you can spread acid to melt another nearby creature for [2].</content>
+  <content contentuid="hzfxhx6ogctu480dowhsiz17kgghhbdt7hb7w" version="1">Attack the target with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; dealing a bonus [1] and [2]. If the attack lands and you remain stationary, you can spread ice to freeze another nearby creature for [2].</content>
+  <content contentuid="hxu3arx967mkjnvbmpczh1kmykz555s2irlve" version="1">Attack the target with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; dealing a bonus [1] and [2]. If the attack lands and you remain stationary, you can spread necrotic energy and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; another nearby creature for [2].</content>
+  <content contentuid="hykblrpsh9dxgj29in5icbhpkx5ofvu59hdx7" version="1">Green-Flame Cleave Blade</content>
+  <content contentuid="hac25mh5h6y48l3utvqn4ewg9ao3f4m1b9xan" version="1">Caustic Cleave Blade</content>
+  <content contentuid="hjkri2bfx1kwrs2xuxib44bmob4l36xind2ci" version="1">Icewind Cleave Blade</content>
+  <content contentuid="huynb0a2bqke4o1wdb7sugj5ppvdwvabxomnj" version="1">Necrotic Cleave Blade</content>
+  <content contentuid="heckygcv8l6xcbryw8l763orkaswpjyadvisb" version="1">Swing your weapon in a large arc to attack up to [1] enemies at once dealing a bonus [2]. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [3].</content>
+  <content contentuid="h9dx8e73yz5cy79gq9hxk9xiwe8mueefdhyqd" version="1">Swing your weapon in a large arc to attack up to [1] enemies at once dealing a bonus [1]. If the attack lands and you remain stationary, you can spread acid to melt another nearby creature for [3].</content>
+  <content contentuid="hi8n3i9vnr4mb065ekhssrt7mpe5yjmmqmduc" version="1">Swing your weapon in a large arc to attack up to [1] enemies at once dealing a bonus [1]. If the attack lands and you remain stationary, you can spread ice to freeze another nearby creature for [3].</content>
+  <content contentuid="h287zxijrekliurb0e9apq5tuut2lc2bur2hu" version="1">Swing your weapon in a large arc to attack up to [1] enemies at once dealing a bonus [1]. If the attack lands and you remain stationary, you can spread necrotic energy and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; another nearby creature for [3].</content>
+  <content contentuid="h6cf3tyfi7iynzx6tgz9ckd11kt8u0b04t29c" version="1">Green-Flame Charge Blade</content>
+  <content contentuid="hiqi1jv3thxh38gl1olows895h0zya3pai8r6" version="1">Caustic Charge Blade</content>
+  <content contentuid="hea7e9jan73fg9h9u2c2pdh2czfse7j2zt5mb" version="1">Icewind Charge Blade</content>
+  <content contentuid="hxxlzd61kk4mk5m9cjnoq1g9b56gp0lmdqaxz" version="1">Necrotic Charge Blade</content>
+  <content contentuid="hv3d975owslmq6hzrm4q27x4ngx5xxtxstcbz" version="1">Charge forward and slam your weapon into the first enemy in your way dealing a bonus [1]. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
+  <content contentuid="hhvh0xkcw7o6jqnrjk9basxu7zl3czup2k9n1" version="1">Charge forward and slam your weapon into the first enemy in your way dealing a bonus [1]. If the attack lands and you remain stationary, you can spread acid to melt another nearby creature for [2].</content>
+  <content contentuid="hqqixt3mlxih5wrjk0l4ynsp1hs9flldx8l1x" version="1">Charge forward and slam your weapon into the first enemy in your way dealing a bonus [1]. If the attack lands and you remain stationary, you can spread ice to freeze another nearby creature for [2].</content>
+  <content contentuid="hlvyo74yerbg7t2io50o6hfc80a7go48lkwbc" version="1">Charge forward and slam your weapon into the first enemy in your way dealing a bonus [1]. If the attack lands and you remain stationary, you can spread necrotic energy and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; another nearby creature for [2].</content>
   <content contentuid="h82c20330g94f4g4da8gaf92g53e2a94013df" version="1">When hit with a melee attack, the affected entity can use a reaction and reduce the damage by [1].</content>
   <content contentuid="hfd16b1c5g3c60g440fg8c91g213f397157e1" version="1">Booming Energy</content>
   <content contentuid="h869334e3gca97g4926g9804g34b7b1dca095" version="1">Arcane Parry</content>
@@ -98,7 +173,6 @@
   <content contentuid="h8b0a97a8gc3b2g4563gab91g1439edb4a6ea" version="1">The target must be Large or smaller.</content>
   <content contentuid="hd49d7242g5b1fg4fe7g9369gda6ffad8c47b" version="1">%%% EMPTY</content>
   <content contentuid="h8e481839gc5bfg4113g8135gb58ef89eb17a" version="1">Arcane Blade Song Damage Charge</content>
-  <content contentuid="h7a4a3153g0f30g46feg9c5eg3709b42d73a3" version="1">Green Flame Blade</content>
   <content contentuid="h908fac92gf9cbg4bd4ga001g12b443b23fdd" version="1">Failed Arcane Counter</content>
   <content contentuid="h69e56240g24c4g471dga50dge4cc94d12f52" version="1">When you take the Dash Action, your Speed increases by [1] for that action.</content>
   <content contentuid="h933c4150ge7e3g4fbdgb8b8g2cf8eea211eb" version="1">Arcane Strider</content>
@@ -111,10 +185,18 @@
   <content contentuid="h2abf9d4cg876dg498agafa4ga65496c28f10" version="1">You spent formative years in a scriptorium, a monastery dedicated to the preservation of knowledge,or a government agency, where you learned to write with a clear hand and produce finely written texts</content>
   <content contentuid="ha18d0b3eg1838g47b9g83aege6fcf45e5251" version="1">This effect still works if your attack misses.</content>
   <content contentuid="h7cc1e81bg6fb0g4501g8749g399dd04d3847" version="1">Can only use Green-Flame Blade once per action.</content>
+  <content contentuid="hafy4b59z83n8f4opu30cdwtn7t30dbyzxkyq" version="1">Can only use Caustic Blade once per action.</content>
+  <content contentuid="hwrxuh7315slfv2glv0zsl4gtbsoi4z9sqlnd" version="1">Can only use Icewind Blade once per action.</content>
+  <content contentuid="hc9lumr52dfv492keeio4kmjs72ahv7mqb62k" version="1">Can only use Necrotic Blade once per action.</content>
   <content contentuid="hed90ea51g822dg4011ga6a8gc8c40527698a" version="1">Green-Flame Blade on Critical</content>
+  <content contentuid="h6n4cb2eyb6w6bwbabbs243veazwysecww72m" version="1">Caustic Blade on Critical</content>
+  <content contentuid="hjfljl8fgai970h2586mu8lgcpkbnue6hdybf" version="1">Icewind Blade on Critical</content>
+  <content contentuid="hj1c6wj1k4jat6sk0ikirngjqbgjxz4a2jzai" version="1">Necrotic Blade on Critical</content>
   <content contentuid="hca6ab0beg5905g4cb2g889bga761fe4684b9" version="1">Also works if you have an ally within [1] of the target or there is no one but you and the target within [1] but for both you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
-  <content contentuid="ha91576dbg5260g432bg9e03gea0ce785b4ee" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
   <content contentuid="had6c7a65g9e68g47b1gb9f1g76571af0c296" version="1">Green-Flame Blade: Sneak Attack</content>
+  <content contentuid="hba637747g1a4dg4e02gad5cg2d9f32409fb1" version="1">Icewind Blade: Sneak Attack</content>
+  <content contentuid="hd5402717gdabag4a05gb80bgb01a7730f054" version="1">Caustic Blade: Sneak Attack</content>
+  <content contentuid="h6d367382gc9b4g49f0g8ac4gb3354a8a3d78" version="1">Necrotic Blade: Sneak Attack</content>
   <content contentuid="ha8a850fbgd7adg40a3g902dg9a87f641aca1" version="1">Invoking the Arcane Blade Song. You gain a +[1] bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is increased by [2]m. You also gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; in Acrobatics and a +[1] bonus to Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
   <content contentuid="ha9427cdfgfa61g43cdgaa2eg9a9ddbd1e431" version="1">During Arcane Blade Song you can make a Spell Blade attack that deals an additional [1] damage and possibly knocks the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
   <content contentuid="ha9c8d475gedc0g4760gadd5g1dc647dbb500" version="1">Arcane Charger</content>
@@ -129,6 +211,9 @@
   <content contentuid="hb3e939dag71dcg409bgac55ge9bc9016376e" version="1">Arcane Blade Spell Slot Level One</content>
   <content contentuid="hb777ae33g478fg4591g9941gfc4a3d2055b1" version="1">Arcane Mockery</content>
   <content contentuid="h3522f4b1gfd3fg4708g84a9g68e7133d34a0" version="1">Can burn a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_GreenFlameBladeExtra"&gt;Spread Green Flame Blade&lt;/LSTag&gt;. Removed if you move.</content>
+  <content contentuid="htyaoyyg131x75h58r53ht2d0pf3cfolt1a3i" version="1">Can melt a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_CausticBladeExtra"&gt;Spread Caustic Blade&lt;/LSTag&gt;. Removed if you move.</content>
+  <content contentuid="hhtltqjypoopv0x5go6tkluptf7nk89gdl7hy" version="1">Can freeze a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_IcewindBladeExtra"&gt;Spread Icewind Blade&lt;/LSTag&gt;. Removed if you move.</content>
+  <content contentuid="hd3ni3trdmm0bhjnubklaeu15mrpt16yzypld" version="1">Can necrotize a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_NecroticBladeExtra"&gt;Spread Necrotic Blade&lt;/LSTag&gt;. Removed if you move.</content>
   <content contentuid="hb83ff5a2g23a5g4f1cga48bg09a70ba7d131" version="1">You gain an additional way to use your Sneak Attack; You can now also perform sneak attacks if there are no other enemies within 5 feet of the target (the enemy is isolated).</content>
   <content contentuid="h8b98823aga3c7g474egbc0egcfd0d066c47d" version="1">Reactions, such as &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;, are responses you can have to events. Reactions can trigger both during and outside of your turn.</content>
   <content contentuid="hba328959g46dfg4645g80e6gccaef6b1db20" version="1">Arcane Fall Desc</content>
@@ -147,6 +232,9 @@
   <content contentuid="hc91c8298g7ae5g4b31gbab7g1b5eb102acbe" version="1">Use this resource to upcast spells during combat</content>
   <content contentuid="hedd34b0cg2823g4dc1gb1acgfb01e535cb7e" version="1">You have &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="History"&gt;History&lt;/LSTag&gt;, &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;, &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt;, &lt;LSTag Tooltip="Nature"&gt;Nature&lt;/LSTag&gt; and &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt; </content>
   <content contentuid="h39561eeeg608dg4d59g9cccgd123a77f6c8f" version="1">Green-Flame Burn</content>
+  <content contentuid="hnyx204guszyug9yr5v3zmkznxyv8q3o832bk" version="1">Caustic Melt</content>
+  <content contentuid="h35exfodzhlu9ais5etv0ein8m8wlwarq1p8c" version="1">Icewind Freeze</content>
+  <content contentuid="h8ybyfddun4qqt7toh9razykhm8ji3p5c6jj8" version="1">Necrotize</content>
   <content contentuid="h0de631e3gcb26g47c9gb387g3050f462c5e2" version="1">Mystra's Booming Blade: Reaction</content>
   <content contentuid="hd0de1c33g306bg4e79ga8f9g8527121e62d7" version="1">Arcane Image Desc</content>
   <content contentuid="hd1df7174ga4ecg473bg9600g1de6643a7787" version="1">You can't use this attack if you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
@@ -163,10 +251,16 @@
   <content contentuid="hd8c13b92gcdabg48faga6b5g6573b7106832" version="1">Arcane Counter</content>
   <content contentuid="hae8a7661g222cg4f61gb8dbg60a6d06ff5ea" version="1">Mass Healing Word</content>
   <content contentuid="hb798a19ag01e9g48dcg9ab7g8bdb8274edbc" version="1">Cannot be targeted by &lt;LSTag Type="Spell" Tooltip="Target_GreenFlameBladeExtra"&gt;Spread Green Flame Blade&lt;/LSTag&gt;.</content>
+  <content contentuid="ho25392a3rsmzjtl8g4m0jc7sfcg7lgt6c146" version="1">Cannot be targeted by &lt;LSTag Type="Spell" Tooltip="Target_CausticBladeExtra"&gt;Spread Caustic Blade&lt;/LSTag&gt;.</content>
+  <content contentuid="hqm9nrj9ye5rl8poecufr9phh5oxc3ecsfur9" version="1">Cannot be targeted by &lt;LSTag Type="Spell" Tooltip="Target_IcewindBladeExtra"&gt;Spread Icewind Blade&lt;/LSTag&gt;.</content>
+  <content contentuid="hjos1y9gq9plm775kzkdif8qpd6chngiraghh" version="1">Cannot be targeted by &lt;LSTag Type="Spell" Tooltip="Target_NecroticBladeExtra"&gt;Spread Necrotic Blade&lt;/LSTag&gt;.</content>
   <content contentuid="hac846208g3593g4071g95ebg3032f00371fb" version="1">Creatures that approach the barrier are slit and sliced and cut and carved like so much meat on a blood-grouted block. </content>
   <content contentuid="hdd5b8d00g1b76g498cg93c4g3b74f2928d4a" version="1">Arcane Distracting Strike</content>
   <content contentuid="h032a0a28g065bg4c88ga661g574c658226ee" version="1">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
   <content contentuid="h813a82a7gb9e8g4d69gb79bg1f5993a7f660" version="1">Green-Flame Blade (Once)</content>
+  <content contentuid="hrpfkl8owdb0843e6kygexpjpks46pvhde2bv" version="1">Caustic Blade (Once)</content>
+  <content contentuid="he8tb8ilxeq9j8p5bbrceadfelagc2f80805t" version="1">Icewind Blade (Once)</content>
+  <content contentuid="hb09thxie2mplgbij2iy1xxjj3duc9wvd6jig" version="1">Necrotic Blade (Once)</content>
   <content contentuid="h90afeac8gdeb8g422ag884bg57927169062a" version="1">Booming Blade (Once)</content>
   <content contentuid="h43ca88c6g3809g4b70ga54dgf62cd73ed518" version="1">Teleport from shadow to shadow. Afterwards, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next melee &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
   <content contentuid="h70e1597cgef8cg43a1g84feg61d20a0ac9b4" version="1">Booming Blade</content>
