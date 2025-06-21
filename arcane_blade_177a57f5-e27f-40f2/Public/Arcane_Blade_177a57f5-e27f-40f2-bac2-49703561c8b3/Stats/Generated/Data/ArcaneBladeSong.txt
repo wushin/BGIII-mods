@@ -86,7 +86,7 @@ data "Sheathing" "Melee"
 
 new entry "ArcaneBladeSong_Boost"
 type "PassiveData"
-data "DisplayName" "h09ad9581g1febg439ag87c9g1e27ac486545;1"
+data "DisplayName" "h54d90cd2g3708g4944g99f8g4df9d9b30f91;1"
 data "Properties" "IsHidden"
 data "BoostContext" "OnCreate;OnStatusApplied;OnStatusRemoved"
 data "BoostConditions" "not HasArcaneBladeSongClimaxBlocked();"
