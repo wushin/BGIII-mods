@@ -22,7 +22,7 @@
           <attribute id="Name" type="FixedString" value="ArcaneBlade"/>
           <attribute id="PrimaryAbility" type="uint8" value="2"/>
           <attribute id="ProgressionTableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
-          <attribute id="SpellCastingAbility" type="uint8" value="4"/>
+          <attribute id="SpellCastingAbility" type="uint8" value="5"/>
           <attribute id="SpellList" type="guid" value="9c57921c-0a34-408a-8b69-5c07b6f483a8"/>
           <attribute id="UUID" type="guid" value="61027a37-e869-4a14-885f-91fea7bb47dc"/>
           <children>
