@@ -23,63 +23,63 @@
     <node id="root">
       <children>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Spell_New_BoomingBlade"/>
+          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_BoomingBlade"/>
           <attribute id="U1" type="float" value="0.0"/>
           <attribute id="U2" type="float" value="0.25"/>
           <attribute id="V1" type="float" value="0.0"/>
           <attribute id="V2" type="float" value="0.25"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Spell_New_GreenFlameBlade"/>
+          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_GreenFlameBlade"/>
           <attribute id="U1" type="float" value="0.25"/>
           <attribute id="U2" type="float" value="0.5"/>
           <attribute id="V1" type="float" value="0.0"/>
           <attribute id="V2" type="float" value="0.25"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Spell_New_ForceWeapon"/>
+          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_PsionicBlade"/>
           <attribute id="U1" type="float" value="0.5"/>
           <attribute id="U2" type="float" value="0.75"/>
           <attribute id="V1" type="float" value="0.0"/>
           <attribute id="V2" type="float" value="0.25"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Spell_New_CausticBlade"/>
+          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_CausticBlade"/>
           <attribute id="U1" type="float" value="0.75"/>
           <attribute id="U2" type="float" value="1.0"/>
           <attribute id="V1" type="float" value="0.0"/>
           <attribute id="V2" type="float" value="0.25"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Spell_New_HolyWeapon"/>
+          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_DivineBlade"/>
           <attribute id="U1" type="float" value="0.0"/>
           <attribute id="U2" type="float" value="0.25"/>
           <attribute id="V1" type="float" value="0.25"/>
           <attribute id="V2" type="float" value="0.5"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Spell_New_Iceblade"/>
+          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_IcewindBlade"/>
           <attribute id="U1" type="float" value="0.25"/>
           <attribute id="U2" type="float" value="0.5"/>
           <attribute id="V1" type="float" value="0.25"/>
           <attribute id="V2" type="float" value="0.5"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Spell_New_IllusoryWeapon"/>
+          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_NecroticBlade"/>
           <attribute id="U1" type="float" value="0.5"/>
           <attribute id="U2" type="float" value="0.75"/>
           <attribute id="V1" type="float" value="0.25"/>
           <attribute id="V2" type="float" value="0.5"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Spell_New_ShockingBlade"/>
+          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_ShockingBlade"/>
           <attribute id="U1" type="float" value="0.75"/>
           <attribute id="U2" type="float" value="1.0"/>
           <attribute id="V1" type="float" value="0.25"/>
           <attribute id="V2" type="float" value="0.5"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Spell_New_SwordBurst"/>
+          <attribute id="MapKey" type="FixedString" value="MySweetMod_09_Icon"/>
           <attribute id="U1" type="float" value="0.0"/>
           <attribute id="U2" type="float" value="0.25"/>
           <attribute id="V1" type="float" value="0.5"/>
