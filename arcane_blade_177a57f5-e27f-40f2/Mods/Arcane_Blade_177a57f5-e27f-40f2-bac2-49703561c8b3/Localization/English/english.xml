@@ -104,9 +104,11 @@
   <content contentuid="h19e52d51g2e44g42aaga534g451260f091e6" version="1">This reaction will trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Green-Flame Blade.</content>
   <content contentuid="h66e98aebgefcdg468fg9a1cgb42ffcd225cc" version="1">Arcane Blade Song Impeded</content>
   <content contentuid="h022784ddg33afg430bgbd54gd78f83fb246d" version="1">Arcane Blade Spells</content>
-	<content contentuid="hc56a92f0g40dcg4b57gb626g0e5095ad4fab" version="1">Pick Spell Paths</content>
-  <content contentuid="hcb2577a5ga972g4463gba58g5ed1e95b53bc" version="1">Arcane Rituals</content>
+	<content contentuid="hc56a92f0g40dcg4b57gb626g0e5095ad4fab" version="1">Pick Your Spell Groups</content>
+  <content contentuid="hcb2577a5ga972g4463gba58g5ed1e95b53bc" version="1">Blade Rituals</content>
 	<content contentuid="h0e05a378g8813g4d21gbd95g3a677b2a7cb3" version="1">Arcane Blades are in tune with their bodies allowing them to draw upon magic to increase their physical prowess through practiced rituals.</content>
+  <content contentuid="hiwxdxnjgphlxnp8h7qxfzl2gwfu6grobvk6o" version="1">Blade Ritual Point</content>
+	<content contentuid="hx8saho0kx6idqs94xrj86fdoq62aefpkyup4" version="1">Blade Ritual Points are used to cast &lt;LSTag Type="Spell" Tooltip="ArcaneRituals"&gt;Arcane Rituals&lt;/LSTag&gt; </content>
   <content contentuid="h9b5c49e7g5c16g4a08g8436ga0e21801f1a1" version="1">Arcane Defense</content>
 	<content contentuid="hfb9781c3ge6cbg4a1fgb9a8gcc33f62f71bb" version="1">Choose your defensive Arcane Blade maneuvers: </content>
   <content contentuid="hja6rp9gh0p6nulasf9pmvlzt60t9nxu3bdee" version="1">Arcane Maneuvers</content>
@@ -279,7 +281,7 @@
   <content contentuid="hafc47e90g3c61g4e12g8981g3deb31177522" version="1">Swing your weapon in a large arc to attack up to [1] enemies at once.</content>
   <content contentuid="hb0218f3dgb466g4627gb91bga9f69afb5e3f" version="1">Make an attack that deals an additional [1] damage and possibly forces the target to drop the weapons they are holding.</content>
   <content contentuid="h5da476ccgca0eg46a8gbf3dgbfe2c4343787" version="1">Arcane Word</content>
-  <content contentuid="h1b163398g3139g463cga3a0g2b9f17915f36" version="2">Heal a creature you can see.</content>
+  <content contentuid="h1b163398g3139g463cga3a0g2b9f17915f36" version="1">Heal a creature you can see.</content>
   <content contentuid="hb24c36c5g3cedg4f48g9098g73e7c2086efb" version="1">If you move after making a melee attack, you don't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; from your target.</content>
   <content contentuid="hb3137566g45dbg49c3gac35g39e9d286dfda" version="1">Arcane Initiative</content>
   <content contentuid="hb3e939dag71dcg409bgac55ge9bc9016376e" version="1">Arcane Blade Spell Slot Level One</content>
@@ -303,9 +305,9 @@
   <content contentuid="ha66276c4gee56g4b82g9b7eg9e4b522030dc" version="1">Takes [1] per turn.</content>
   <content contentuid="hd6f9bf5bge652g4f91g85c7gcc095b851e40" version="1">Surrounded by silver mist, you teleport to an unoccupied space you can see.</content>
   <content contentuid="hmzmc258ed3drejwpvgni9zr0g13psuposetr" version="1">Surrounded by silver mist, you teleport to an unoccupied space [1] away you can see.</content>
-  <content contentuid="h6cqeao1bc8tf6mcfbnjqxx6b0ox74r6ynsd6" version="5">Surrounded by silver mist, you teleport to an unoccupied space [1] away you can see. Afterwards, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next melee &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
-  <content contentuid="h3tyql3s72unkcbp4pgr0x5p4it9w1fdpf2kb" version="5">Surrounded by silver mist, you teleport to an unoccupied space [1] away you can see. Afterwards, A Cloud of Darkness is formed around you and you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next melee &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
-  <content contentuid="hrriqbav8yqt105y73fz4wixjgvfzf19h7akc" version="5">Surrounded by silver mist, you teleport to an unoccupied space [1] away you can see. Afterwards, A Cloud of Darkness is formed around you and all enemies take psychic damage. You also have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next melee &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+  <content contentuid="h6cqeao1bc8tf6mcfbnjqxx6b0ox74r6ynsd6" version="1">Surrounded by silver mist, you teleport to an unoccupied space [1] away you can see. Afterwards, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next melee &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+  <content contentuid="h3tyql3s72unkcbp4pgr0x5p4it9w1fdpf2kb" version="1">Surrounded by silver mist, you teleport to an unoccupied space [1] away you can see. Afterwards, A Cloud of Darkness is formed around you and you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next melee &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+  <content contentuid="hrriqbav8yqt105y73fz4wixjgvfzf19h7akc" version="1">Surrounded by silver mist, you teleport to an unoccupied space [1] away you can see. Afterwards, A Cloud of Darkness is formed around you and all enemies take psychic damage. You also have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next melee &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
   <content contentuid="h16bd1078gb81eg4936gb73cgf4d373b24180" version="1">Shadow Strike</content>
   <content contentuid="hc862d785g74efg4169g85c0g6acfb43d2cf2" version="1">A charge that will increase how much damage you deal to enemies by [1] and how much you heal yourself and your allies by [1] when using &lt;LSTag Type="Spell" Tooltip="Projectile_Arcane Blade Song_Finisher"&gt;Arcane Blade Song Climax&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;You can accumulate these charges by attacking with weapons.</content>
   <content contentuid="hc91c8298g7ae5g4b31gbab7g1b5eb102acbe" version="1">Use this resource to upcast spells during combat</content>
@@ -348,6 +350,8 @@
   <content contentuid="hhh5h27rrtan6c5rn58qcst5q6espscbkuiy5" version="1">Psionic Blade (Once)</content>
   <content contentuid="haa1884lauanhru81fvxzj19ay3rmwf4tyrr7" version="1">Shocking Blade (Once)</content>
   <content contentuid="h43ca88c6g3809g4b70ga54dgf62cd73ed518" version="1">Teleport from shadow to shadow. Afterwards, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next melee &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+  <content contentuid="hzjvxu0wvdotd2wlgql7dgr40d85rz8ha3xo3" version="1">Blade Rituals</content>
+  <content contentuid="h0v9n69iqraa63q3il1zmhjqjl4cell9g1541" version="1">Rituals taught to arcane blades to aid in their seeker quests</content>
   <content contentuid="hmyzld8i32tcd6y8t7sv468pvsgia7mbt9vmh" version="1">Blades Summons</content>
   <content contentuid="hd6f40f82g4c8bg4804g8b2dg945d8d70a1d2" version="1">Sword Burst</content>
   <content contentuid="h3e505a21g6413g4b7fgbfa8g6fe7dee4de64" version="1">Speak with Dead</content>

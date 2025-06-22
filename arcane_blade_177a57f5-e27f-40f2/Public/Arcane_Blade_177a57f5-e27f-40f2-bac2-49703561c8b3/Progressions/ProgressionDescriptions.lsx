@@ -33,13 +33,6 @@
           <attribute id="UUID" type="guid" value="9e44ab1a-0fc6-47b4-aff1-06fee8d5fb8e"/>
         </node>
         <node id="ProgressionDescription">
-          <attribute id="Description" type="TranslatedString" handle="h0e05a378g8813g4d21gbd95g3a677b2a7cb3" version="1"/>
-          <attribute id="DisplayName" type="TranslatedString" handle="hcb2577a5ga972g4463gba58g5ed1e95b53bc" version="1"/>
-          <attribute id="ProgressionTableId" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
-          <attribute id="SelectorId" type="FixedString" value="ArcaneRituals"/>
-          <attribute id="UUID" type="guid" value="e45a41de-784c-497f-8830-ab12044caaf4"/>
-        </node>
-        <node id="ProgressionDescription">
           <attribute id="Description" type="TranslatedString" handle="h022784ddg33afg430bgbd54gd78f83fb246d" version="1"/>
           <attribute id="DisplayName" type="TranslatedString" handle="hc56a92f0g40dcg4b57gb626g0e5095ad4fab" version="1"/>
           <attribute id="ProgressionTableId" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>

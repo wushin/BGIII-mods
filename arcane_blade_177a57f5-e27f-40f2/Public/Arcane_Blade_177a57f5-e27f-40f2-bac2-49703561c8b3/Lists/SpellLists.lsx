@@ -19,11 +19,6 @@
           <attribute id="Spells" type="LSString" value="Shout_ArcaneBladeSong"/>
           <attribute id="UUID" type="guid" value="f0f16b73-6f4a-40a8-800d-6164c7a30d89"/>
         </node>
-        <node id="SpellList">
-          <attribute id="Name" type="FixedString" value="ArcaneBladeRituals"/>
-          <attribute id="Spells" type="LSString" value="Shout_ArcaneFall;Target_ArcaneJump;Target_ArcaneStrider;Shout_ArcaneSpeakWithAnimals;Target_ArcaneSpeakWithDead;"/>
-          <attribute id="UUID" type="guid" value="fa5d6551-846b-437b-8d52-df57e796fc05"/>
-        </node>
       </children>
     </node>
   </region>
