@@ -72,7 +72,7 @@
   <content contentuid="h54329a4ag8521g469bgb66ag00db03c2dd1c" version="1">Arcane Bladesinging impeded by a weapon. Until the weapon is removed, your &lt;LSTag Type="Status" Tooltip="BLADESONG"&gt;Arcane Blade Song&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="BLADESONG_TECHINCAL"&gt;Arcane Blade Song Charges&lt;/LSTag&gt;.</content>
   <content contentuid="h54d90cd2g3708g4944g99f8g4df9d9b30f91" version="1">Arcane Blade Song</content>
   <content contentuid="h560a7147ge71ag4933g95b4gf5519904702e" version="1">Arcane Bladesinging impeded by armour. Until the armour is removed, your &lt;LSTag Type="Status" Tooltip="BLADESONG"&gt;Arcane Blade Song&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="BLADESONG_TECHINCAL"&gt;Arcane Blade Song Charges&lt;/LSTag&gt;.</content>
-  <content contentuid="h57e194fdg3959g43e8gb994g7ffa82590ea7" version="1">Whenever you successfully evade an attack, one of the duplicates disappears.</content>
+  <content contentuid="h57e194fdg3959g43e8gb994g7ffa82590ea7" version="1">Whenever you successfully evade an attack, one of the duplicates disappears. Doesn't affect creatures that don't rely on sight or that can see through illusions.</content>
   <content contentuid="h49c9724bg4631g4e97g938bg25eed9cd7247" version="1">Booming Blade on Critical</content>
   <content contentuid="hjit4oqm6fh9jdmdc6nilzfo5rgoaowv9d4a0" version="1">Divine Blade on Critical</content>
   <content contentuid="hmmyyv5b4bra27rtkg7oveity4fpsg924iwjr" version="1">Psionic Blade on Critical</content>
@@ -238,6 +238,7 @@
   <content contentuid="hl3te2unjs4ys8at8oxbdbqhk1dhv0r18exuy" version="1">Divine Energy</content>
   <content contentuid="h3i2iw48euz4b38bx5ol3foeln31yt5i738bd" version="1">Psionic Energy</content>
   <content contentuid="hztxl5c95c5hulmn1xelt8qz5e5ot6duf5log" version="1">Lightning</content>
+  <content contentuid="his7wm3ke3v1vhas87ijzu8nthlhtxzb731fl" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; The target can't be Huge in size.</content>
   <content contentuid="h869334e3gca97g4926g9804g34b7b1dca095" version="1">Arcane Parry</content>
   <content contentuid="h87100760g26bfg4c09g8e41g6c8feaefe71c" version="1">Stop your Arcane Blade Song early.</content>
   <content contentuid="h873181b8g944ag45d8gb068ge320d493e4a9" version="1">You can use both your action and bonus action on a turn to attack a target with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and deal an additional [1] damage.</content>
@@ -249,6 +250,8 @@
   <content contentuid="h69e56240g24c4g471dga50dge4cc94d12f52" version="1">When you take the Dash Action, your Speed increases by [1] for that action.</content>
   <content contentuid="h933c4150ge7e3g4fbdgb8b8g2cf8eea211eb" version="1">Arcane Strider</content>
   <content contentuid="h971bd2eag142bg4a39gbd0cg82575df420f0" version="1">Arcane Riposte</content>
+  <content contentuid="hdusnmtsjx401006rbz2m5n2ttb1qcfu8hbth" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You must be wielding a Dagger, Longsword, Rapier, Scimitar, Shortsword, or Sickle.</content>
+  <content contentuid="hpop98bqpu2q0ydgy31nvrsgpcp1p79iyrn9u" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You can't wear Medium or Heavy Armour or Shields while Bladesinging.</content>
   <content contentuid="h85a6116cgdcc2g4ff4g99bdgbd111322c5c3" version="1">Shadow Step</content>
   <content contentuid="h9befc561gb9a5g4330gb1a0g1eaf5ed5b0b1" version="1">Arcane Blade Spell Slot Level Two</content>
   <content contentuid="h9c1aeb81gd11eg4af1g8e4bgbefda966aa51" version="1">Arcane Blade Spell Slot Level Five</content>
@@ -282,7 +285,9 @@
   <content contentuid="hb0218f3dgb466g4627gb91bga9f69afb5e3f" version="1">Make an attack that deals an additional [1] damage and possibly forces the target to drop the weapons they are holding.</content>
   <content contentuid="h5da476ccgca0eg46a8gbf3dgbfe2c4343787" version="1">Arcane Word</content>
   <content contentuid="h1b163398g3139g463cga3a0g2b9f17915f36" version="1">Heal a creature you can see.</content>
+  <content contentuid="h653c41ivnonop6k5fjd5w6br3n8qt8qqdj3b" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; No effect on undead and constructs.</content>
   <content contentuid="hb24c36c5g3cedg4f48g9098g73e7c2086efb" version="1">If you move after making a melee attack, you don't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; from your target.</content>
+  <content contentuid="h1cezs8v77hcjtf4g5x46ychyvc8u28jfeg3c" version="1">This effect still works if your attack misses.</content>
   <content contentuid="hb3137566g45dbg49c3gac35g39e9d286dfda" version="1">Arcane Initiative</content>
   <content contentuid="hb3e939dag71dcg409bgac55ge9bc9016376e" version="1">Arcane Blade Spell Slot Level One</content>
   <content contentuid="hb777ae33g478fg4591g9941gfc4a3d2055b1" version="1">Arcane Mockery</content>
@@ -321,7 +326,7 @@
   <content contentuid="hvyboei32ebf84026g2ivvhidkxjn2uy1aeep" version="1">Psionic Blade: Reaction</content>
   <content contentuid="hf1yopcd7a6m0n7opwklcm9bfa16xgarybqof" version="1">Shocking Blade: Reaction</content>
   <content contentuid="hd0de1c33g306bg4e79ga8f9g8527121e62d7" version="1">Create illusory duplicates of yourself that distract attackers. Each duplicate increases your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
-  <content contentuid="hjat73l2lybv283rs9puu74hq2m94j2q5tprm" version="1">Create [1] illusory duplicates of yourself that distract attackers. Each duplicate increases your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; to [2].</content>
+  <content contentuid="hjat73l2lybv283rs9puu74hq2m94j2q5tprm" version="1">Create [1] illusory duplicates of yourself that distract attackers. Each duplicate increases your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; to [2]. Attackers have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against you.</content>
   <content contentuid="hd1df7174ga4ecg473bg9600g1de6643a7787" version="1">You can't use this attack if you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
   <content contentuid="hd361a44dg6327g4b1agb1a3g501be341ce5b" version="1">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with Light Armour and in the Performance skill. You also gain Proficiency with Daggers, Sickles, Shortswords, Rapiers, Scimitars, and Longswords.</content>
   <content contentuid="h78b921f5g6dc8g4d95ga61fgdf204f8e54e0" version="1">The mirror image distracts attackers, increasing the spellcaster's &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 3. When the caster successfully evades an attack, one of the images disappears.</content>
