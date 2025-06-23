@@ -7,8 +7,8 @@
         <node id="Background">
           <attribute id="Description" type="TranslatedString" handle="h2abf9d4cg876dg498agafa4ga65496c28f10" version="1"/>
           <attribute id="DisplayName" type="TranslatedString" handle="h8ef33f81g0dacg428bgad6dge079d247d5fa" version="1"/>
-          <attribute id="Passives" type="LSString" value="Background_Scribe"/>
-          <attribute id="UUID" type="guid" value="8807a6c6-d8cf-494b-aec2-cc01d7517a56"/>
+          <attribute id="Passives" type="LSString" value="Background_Seeker"/>
+          <attribute id="UUID" type="guid" value="05002aae-5340-402a-aec9-ff9220c5460b"/>
           <children>
             <node id="Tags">
               <attribute id="Object" type="guid" value="dad18490-c61d-4958-805c-f017eb68f8a0"/>

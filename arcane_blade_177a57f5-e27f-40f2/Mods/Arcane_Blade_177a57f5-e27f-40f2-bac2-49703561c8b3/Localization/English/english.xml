@@ -29,7 +29,8 @@
   <content contentuid="hmomdrx7bhnupuz2ulrxtq8mf7w4awyhu90r2" version="1">Melt another enemy for [1].</content>
   <content contentuid="hi2wsoft3jnib4vz42ztd1neuutzaknnp74gv" version="1">Necrotize another enemy for [1] and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;.</content>
   <content contentuid="h9c0ec279gedd2g4aa8g96fcg9de433fa026e" version="1">Heal your nearby allies.</content>
-  <content contentuid="h8ef33f81g0dacg428bgad6dge079d247d5fa" version="1">Scribe</content>
+  <content contentuid="h8ef33f81g0dacg428bgad6dge079d247d5fa" version="1">Seeker</content>
+  <content contentuid="h2abf9d4cg876dg498agafa4ga65496c28f10" version="1">You spent formative years in a scriptorium, a monastery where you trained in the ways of arcane blades; seekers and perservers of knowledge. You learned to write with a clear hand and produce finely written texts, combat skills and Investigation.</content>
   <content contentuid="h8e61ee08g724ag42dbgbf8bg73cb80bb2c66" version="1">Sneak Attack (Critical Hit) : Arcane</content>
   <content contentuid="h2d774af3gd5b6g4e19gb39bgd282a4b10527" version="1">Arcane Blade Song Charge</content>
   <content contentuid="he0h9vdgbyohqxxm244ndnwqmst1tx6c41oj5" version="1">Charges that can be accumulated for the &lt;LSTag Type="Spell" Tooltip="Projectile_ArcaneBladeSong_Finisher"&gt;Arcane Bladesong Climax&lt;/LSTag&gt; while Arcane Bladesinging. Attacking with a weapon grants a &lt;LSTag Type="Status" Tooltip="ARCANEBLADESONG_CHARGE"&gt;Arcane Bladesong Charge&lt;/LSTag&gt;. In addition to gaining Acrane Blade Spell Slots.</content>
@@ -256,7 +257,6 @@
   <content contentuid="h9befc561gb9a5g4330gb1a0g1eaf5ed5b0b1" version="1">Arcane Blade Spell Slot Level Two</content>
   <content contentuid="h9c1aeb81gd11eg4af1g8e4bgbefda966aa51" version="1">Arcane Blade Spell Slot Level Five</content>
   <content contentuid="h9c3b8dadg3600g4865gaed0g1b3fd0d4be8e" version="1">Nullify another creature's spell as a reaction. The spell must be Level [1] or lower. If it is higher, you must succeed a &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; to nullify it, the difficulty of which is based on  the spell's Level.</content>
-  <content contentuid="h2abf9d4cg876dg498agafa4ga65496c28f10" version="1">You spent formative years in a scriptorium, a monastery dedicated to the preservation of knowledge,or a government agency, where you learned to write with a clear hand and produce finely written texts</content>
   <content contentuid="ha18d0b3eg1838g47b9g83aege6fcf45e5251" version="1">This effect still works if your attack misses.</content>
   <content contentuid="h7cc1e81bg6fb0g4501g8749g399dd04d3847" version="1">Can only use Green-Flame Blade once per action.</content>
   <content contentuid="hafy4b59z83n8f4opu30cdwtn7t30dbyzxkyq" version="1">Can only use Caustic Blade once per action.</content>
