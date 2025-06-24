@@ -72,7 +72,7 @@
   <content contentuid="h1h8wxm2ppxm4o1gzwt72696iiv542f4niufy" version="1">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in radiant energy that deals [2] to them if they willingly move.</content>
   <content contentuid="he4ae8c45023pv70m5hfspaa7jrzx05z9rflk" version="1">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in psionic energy that deals [2] to them if they willingly move.</content>
   <content contentuid="hpnjc4uqbuja4vefr3aj90sj1clxmlh53pnh9" version="1">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in lightning that deals [2] to them if they willingly move.</content>
-  <content contentuid="h54329a4ag8521g469bgb66ag00db03c2dd1c" version="1">Arcane Bladesinging impeded by a weapon. Until the weapon is removed, your &lt;LSTag Type="Status" Tooltip="BLADESONG"&gt;Arcane Blade Song&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="BLADESONG_TECHINCAL"&gt;Arcane Blade Song Charges&lt;/LSTag&gt;.</content>
+  <content contentuid="h54329a4ag8521g469bgb66ag00db03c2dd1c" version="1">Arcane Bladesinging impeded by a weapon. Until the ranged weapon is removed and/or one of the required melee weapons equipped, your &lt;LSTag Type="Status" Tooltip="BLADESONG"&gt;Arcane Blade Song&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="BLADESONG_TECHINCAL"&gt;Arcane Blade Song Charges&lt;/LSTag&gt;.</content>
   <content contentuid="h54d90cd2g3708g4944g99f8g4df9d9b30f91" version="1">Arcane Blade Song</content>
   <content contentuid="h560a7147ge71ag4933g95b4gf5519904702e" version="1">Arcane Bladesinging impeded by armour. Until the armour is removed, your &lt;LSTag Type="Status" Tooltip="BLADESONG"&gt;Arcane Blade Song&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="BLADESONG_TECHINCAL"&gt;Arcane Blade Song Charges&lt;/LSTag&gt;.</content>
   <content contentuid="h57e194fdg3959g43e8gb994g7ffa82590ea7" version="1">Whenever you successfully evade an attack, one of the duplicates disappears. Doesn't affect creatures that don't rely on sight or that can see through illusions.</content>
@@ -253,8 +253,12 @@
   <content contentuid="h69e56240g24c4g471dga50dge4cc94d12f52" version="1">When you take the Dash Action, your Speed increases by [1] for that action.</content>
   <content contentuid="h933c4150ge7e3g4fbdgb8b8g2cf8eea211eb" version="1">Arcane Strider</content>
   <content contentuid="h971bd2eag142bg4a39gbd0cg82575df420f0" version="1">Arcane Riposte</content>
-  <content contentuid="hdusnmtsjx401006rbz2m5n2ttb1qcfu8hbth" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You must be wielding a Dagger, Longsword, Rapier, Scimitar, Shortsword, or Sickle.</content>
-  <content contentuid="hpop98bqpu2q0ydgy31nvrsgpcp1p79iyrn9u" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You can't wear Medium or Heavy Armour or Shields while Bladesinging.</content>
+  <content contentuid="hdusnmtsjx401006rbz2m5n2ttb1qcfu8hbth" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You must be wielding a Dagger, Longsword, Rapier, Scimitar, Shortsword, or Sickle. You can not have any ranged weapon equipped.</content>
+  <content contentuid="hpop98bqpu2q0ydgy31nvrsgpcp1p79iyrn9u" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You can't wear Medium or Heavy Armour or Shields while Arcane Bladesinging.</content>
+  <content contentuid="h18xxywgfpq99g7612urdf3cx2c3ipc9wdvqi" version="1">Equipped gear, melee weapon, ranged weapon, or shield is incompatible with Arcane Blade Song.</content>
+  <content contentuid="hzvgbqtnvfy0np484squ047fldihbdxb6jggv" version="1">Equipped melee weapon is incompatible with Arcane Blade Song.</content>
+  <content contentuid="h5g2gzv4vjn5edu73a8r0t34zafj7p0k8n40d" version="1">Equipping a ranged weapon is incompatible with Arcane Blade Song.</content>
+  <content contentuid="htfz1sh1bcl1s38rxiw6u9znogp8g1go9c0q5" version="1">Equipped armour is incompatible with Arcane Blade Song.</content>
   <content contentuid="h85a6116cgdcc2g4ff4g99bdgbd111322c5c3" version="1">Shadow Step</content>
   <content contentuid="h9befc561gb9a5g4330gb1a0g1eaf5ed5b0b1" version="1">Arcane Blade Spell Slot Level Two</content>
   <content contentuid="h9c1aeb81gd11eg4af1g8e4bgbefda966aa51" version="1">Arcane Blade Spell Slot Level Five</content>

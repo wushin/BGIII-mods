@@ -8,24 +8,30 @@ function ArcaneBladeSongAvaliable()
         return ~hasbladesong
     end
     local hasbladesongweapon = IsWeaponOfProficiencyGroup('Daggers|Sickles|Shortswords|Rapiers|Scimitars|Longswords', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand))
+    local hasnoranged = IsWeaponOfProficiencyGroup('HandCrossbows|HeavyCrossbows|LightCrossbows|Longbows|Shortbows', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand))
     local hasarmor = HasHeavyArmor(context.Source) | HasMediumArmor(context.Source)
     local hasshield = HasShieldEquipped(context.Source)
     
     local count = 0
     if not hasbladesongweapon.Result then count = count + 1 end
+    if hasnoranged.Result then count = count + 1 end
     if hasarmor.Result then count = count + 1 end
     if hasshield.Result then count = count + 1 end
     
     if count >= 2 then
-        return ConditionResult(false, {ConditionError("HasMultipleBladeSongIssues")})
+        return ConditionResult(false, {ConditionError("HasMultipleArcaneBladeSongIssues")})
     end
     
     if not hasbladesongweapon.Result then
-        return ConditionResult(false, {ConditionError("HasNotBladesongWeapon")})
+        return ConditionResult(false, {ConditionError("HasNotArcaneBladesongWeapon")})
+    end
+    
+    if hasnoranged.Result then
+        return ConditionResult(false, {ConditionError("HasNotArcaneBladesongRanged")})
     end
     
     if hasarmor.Result then
-        return ConditionResult(false, {ConditionError("HasNotBladesongArmor")})
+        return ConditionResult(false, {ConditionError("HasNotArcaneBladesongArmor")})
     end  
     
     return ~hasshield
