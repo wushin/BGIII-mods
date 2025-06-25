@@ -2,20 +2,24 @@ function ArcaneBladeSongAttackCheck()
     return HasStringInSpellRoll('WeaponAttack') | HasStringInSpellRoll('UnarmedAttack') | HasStringInSpellRoll('ThrowAttack') | SpellId('Target_CommandersStrike') | SpellId('Target_Bufotoxin_Frog_Summon') | SpellId('Projectile_ArrowOfSmokepowder')
 end
 
-function ArcaneBladeSongAvaliable()
+function ArcaneBladeSongAvaliable(entity)
     local hasbladesong = HasStatus('ARCANEBLADESONG')
     if hasbladesong.Result then 
         return ~hasbladesong
     end
+    entity = entity or context.Target
     local hasbladesongweapon = IsWeaponOfProficiencyGroup('Daggers|Sickles|Shortswords|Rapiers|Scimitars|Longswords', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand))
     local hasnoranged = IsWeaponOfProficiencyGroup('HandCrossbows|HeavyCrossbows|LightCrossbows|Longbows|Shortbows', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand))
-    local hasarmor = HasHeavyArmor(context.Source) | HasMediumArmor(context.Source)
+    local armor = GetActiveArmor(entity)
+    local clotharmor = ConditionResult(armor.ArmorType == ArmorType.Cloth)
+    local noarmor = WearingArmor(context.Source)
+    local hasarmor = clotharmor | noarmor
     local hasshield = HasShieldEquipped(context.Source)
-    
+
     local count = 0
     if not hasbladesongweapon.Result then count = count + 1 end
     if hasnoranged.Result then count = count + 1 end
-    if hasarmor.Result then count = count + 1 end
+    if ~hasarmor then count = count + 1 end
     if hasshield.Result then count = count + 1 end
     
     if count >= 2 then

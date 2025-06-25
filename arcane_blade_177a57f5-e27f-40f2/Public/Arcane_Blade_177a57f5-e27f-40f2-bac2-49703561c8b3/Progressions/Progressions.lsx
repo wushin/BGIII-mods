@@ -7,7 +7,7 @@
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="false"/>
           <attribute id="IsMulticlass" type="bool" value="false"/>
-          <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Wisdom);Proficiency(LightArmor);Proficiency(Daggers);Proficiency(Sickles);Proficiency(Shortswords);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Longswords);ActionResource(SneakAttack_Charge,1,0)"/>
+          <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Wisdom);Proficiency(Daggers);Proficiency(Sickles);Proficiency(Shortswords);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Longswords);ActionResource(SneakAttack_Charge,1,0)"/>
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="ArcaneBlade"/>
           <attribute id="PassivesAdded" type="LSString" value="ArcaneSneakAttack;ArcaneSneakAttackSwitch;FightingStyle_TwoWeaponFighting;WeaponBond"/>
@@ -19,7 +19,7 @@
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="true"/>
           <attribute id="IsMulticlass" type="bool" value="true"/>
-          <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Wisdom);Proficiency(LightArmor);Proficiency(Daggers);Proficiency(Sickles);Proficiency(Shortswords);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Longswords);ActionResource(SneakAttack_Charge,1,0)"/>
+          <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Wisdom);Proficiency(Daggers);Proficiency(Sickles);Proficiency(Shortswords);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Longswords);ActionResource(SneakAttack_Charge,1,0)"/>
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="ArcaneBlade"/>
           <attribute id="PassivesAdded" type="LSString" value="ArcaneSneakAttack;ArcaneSneakAttackSwitch;FightingStyle_TwoWeaponFighting;WeaponBond"/>
