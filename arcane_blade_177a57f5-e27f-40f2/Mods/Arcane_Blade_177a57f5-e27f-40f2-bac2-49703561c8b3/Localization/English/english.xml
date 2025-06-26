@@ -29,10 +29,10 @@
   <content contentuid="hmomdrx7bhnupuz2ulrxtq8mf7w4awyhu90r2" version="1">Melt another enemy for [1].</content>
   <content contentuid="hi2wsoft3jnib4vz42ztd1neuutzaknnp74gv" version="1">Necrotize another enemy for [1] and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;.</content>
   <content contentuid="h9c0ec279gedd2g4aa8g96fcg9de433fa026e" version="1">Heal your nearby allies.</content>
-  <content contentuid="hz90txim4jhdmrwiu6y1bt3wrqr6oihbsv2hw" version="1">Bound Weapons</content>
-  <content contentuid="h4zbtq93z6uf9xtivjwk8n9u4vz73hh38qs7h" version="1">Equipped weapons return when thrown.</content>
-  <content contentuid="h8ef33f81g0dacg428bgad6dge079d247d5fa" version="1">Seeker</content>
-  <content contentuid="h2abf9d4cg876dg498agafa4ga65496c28f10" version="1">You spent formative years in a scriptorium, a monastery where you trained in the ways of arcane blades; seekers and perservers of knowledge. You learned to write with a clear hand and produce finely written texts, combat skills and Investigation.</content>
+  <content contentuid="hz90txim4jhdmrwiu6y1bt3wrqr6oihbsv2hw" version="1">Arcane Weapon Bind</content>
+  <content contentuid="hkrf8qw0znegmrn8ux2ti57to7ngp8dcirwho" version="1">Arcane Weapon Bond</content>
+  <content contentuid="h4zbtq93z6uf9xtivjwk8n9u4vz73hh38qs7h" version="1">Ritually bind the weapon in your main hand. The weapon can't be knocked out of your hand, and it automatically returns to you when &lt;LSTag Type="Spell" Tooltip="Throw_Throw"&gt;Thrown&lt;/LSTag&gt;.</content>
+  <content contentuid="h88zrr0lutd86jiy3e9txys74rsrgvzw312i6" version="1">Ritually bound to its wielder. &lt;br&gt;&lt;br&gt;The weapon can't be knocked out of the wielder's hand, and automatically returns to the wielder when &lt;LSTag Type="Spell" Tooltip="Throw_Throw"&gt;Thrown&lt;/LSTag&gt;.</content>
   <content contentuid="h8e61ee08g724ag42dbgbf8bg73cb80bb2c66" version="1">Sneak Attack (Critical Hit) : Arcane</content>
   <content contentuid="h2d774af3gd5b6g4e19gb39bgd282a4b10527" version="1">Arcane Blade Song Charge</content>
   <content contentuid="he0h9vdgbyohqxxm244ndnwqmst1tx6c41oj5" version="1">Charges that can be accumulated for the &lt;LSTag Type="Spell" Tooltip="Projectile_ArcaneBladeSong_Finisher"&gt;Arcane Bladesong Climax&lt;/LSTag&gt; while Arcane Bladesinging. Attacking with a weapon grants a &lt;LSTag Type="Status" Tooltip="ARCANEBLADESONG_CHARGE"&gt;Arcane Bladesong Charge&lt;/LSTag&gt;. In addition to gaining Acrane Blade Spell Slots.</content>
@@ -251,6 +251,13 @@
   <content contentuid="h8e481839gc5bfg4113g8135gb58ef89eb17a" version="1">Arcane Blade Song Damage Charge</content>
   <content contentuid="h908fac92gf9cbg4bd4ga001g12b443b23fdd" version="1">Failed Arcane Counter</content>
   <content contentuid="h69e56240g24c4g471dga50dge4cc94d12f52" version="1">When you take the Dash Action, your Speed increases by [1] for that action.</content>
+  <content contentuid="hqmesiqakg0lhecto4r165krnu6k4oj6s7stq" version="1">Arcane Dexterity</content>
+  <content contentuid="hrc1ygc6vzd72a2gcfidpt3zfsdncjafovsep" version="1">Attacks with weapons you are &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; in and throwing attacks scale with your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; instead of your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; if your Dexterity is higher. Excludes Heavy and Two-handed Weapons.</content>
+  <content contentuid="hddnrieox7suqy5c5ajjectffndb0nmfzobn5" version="1">Throwing attacks scale with your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; instead of your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; if your Dexterity is higher.</content>
+  <content contentuid="hz4nh3vss7anxl0quq4znshjplqihue13x0be" version="1">Throw melee main hand to do [1] to target.</content>
+  <content contentuid="h9s8pmoi7uz36ho9nm7m9hrd3ypwcui5gjmol" version="1">Throw melee off hand to do [1] to target.</content>
+  <content contentuid="h6ialsjpuppqe0gzy6w056ktnwpdm8e916h4m" version="1">Blade Toss (Main Hand)</content>
+  <content contentuid="h78lacn0j7g78e5llzyavbt2twrhk5lsa7irh" version="1">Blade Toss (Off Hand)</content>
   <content contentuid="h933c4150ge7e3g4fbdgb8b8g2cf8eea211eb" version="1">Arcane Strider</content>
   <content contentuid="h971bd2eag142bg4a39gbd0cg82575df420f0" version="1">Arcane Riposte</content>
   <content contentuid="hdusnmtsjx401006rbz2m5n2ttb1qcfu8hbth" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You must be wielding a Dagger, Longsword, Rapier, Scimitar, Shortsword, or Sickle. You can not have any ranged weapon equipped.</content>

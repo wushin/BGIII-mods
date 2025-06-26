@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<save>
+  <version major="4" minor="0" revision="8" build="10"/>
+  <region id="Progressions">
+    <node id="root">
+      <children>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="1"/>
+          <attribute id="Name" type="LSString" value="EilistraeeanElf"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="d98ae9ea-b75f-4618-b99e-6ea8e604b6f9"/>
+          <attribute id="UUID" type="guid" value="c91bb3ce-73d0-4330-80e1-562880a53472"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

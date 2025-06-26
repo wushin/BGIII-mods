@@ -10,7 +10,7 @@
           <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Wisdom);Proficiency(Daggers);Proficiency(Sickles);Proficiency(Shortswords);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Longswords);ActionResource(SneakAttack_Charge,1,0)"/>
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="ArcaneBlade"/>
-          <attribute id="PassivesAdded" type="LSString" value="ArcaneSneakAttack;ArcaneSneakAttackSwitch;FightingStyle_TwoWeaponFighting;WeaponBond"/>
+          <attribute id="PassivesAdded" type="LSString" value="ArcaneSneakAttack;ArcaneSneakAttackSwitch;FightingStyle_TwoWeaponFighting;ArcaneDexterity"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
           <attribute id="Selectors" type="LSString" value="SelectSkills(23c1343d-83cf-4a44-a3c3-1897c058d517,5);SelectSkillsExpertise(23c1343d-83cf-4a44-a3c3-1897c058d517,2);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectEquipment(f372063f-130d-49cc-9311-220c0906cd79,1,WarAndSong);AddSpells(db021c8d-2080-4049-8d79-6fc163df914e);"/>
           <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
@@ -22,7 +22,7 @@
           <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Wisdom);Proficiency(Daggers);Proficiency(Sickles);Proficiency(Shortswords);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Longswords);ActionResource(SneakAttack_Charge,1,0)"/>
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="ArcaneBlade"/>
-          <attribute id="PassivesAdded" type="LSString" value="ArcaneSneakAttack;ArcaneSneakAttackSwitch;FightingStyle_TwoWeaponFighting;WeaponBond"/>
+          <attribute id="PassivesAdded" type="LSString" value="ArcaneSneakAttack;ArcaneSneakAttackSwitch;FightingStyle_TwoWeaponFighting;ArcaneDexterity"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
           <attribute id="Selectors" type="LSString" value="SelectSkills(23c1343d-83cf-4a44-a3c3-1897c058d517,5);SelectSkillsExpertise(23c1343d-83cf-4a44-a3c3-1897c058d517,2);SelectEquipment(f372063f-130d-49cc-9311-220c0906cd79,1,WarAndSong);AddSpells(db021c8d-2080-4049-8d79-6fc163df914e);"/>
           <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
@@ -30,7 +30,7 @@
         </node>
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="true"/>
-          <attribute id="Boosts" type="LSString" value="ActionResource(BladeRitual,1,0);"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(BladeRitual,2,0);"/>
           <attribute id="Level" type="uint8" value="2"/>
           <attribute id="Name" type="LSString" value="ArcaneBlade"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
