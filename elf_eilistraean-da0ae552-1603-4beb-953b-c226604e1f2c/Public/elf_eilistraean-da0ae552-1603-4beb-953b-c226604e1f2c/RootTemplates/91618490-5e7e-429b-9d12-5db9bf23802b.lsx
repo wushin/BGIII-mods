@@ -336,7 +336,7 @@
           <attribute id="Icon" type="FixedString" value="187188d8-929a-d800-d5c3-33453a8cc25a-_(Icon_Drow_Female)" />
           <attribute id="LevelName" type="FixedString" value="" />
           <attribute id="MapKey" type="FixedString" value="8cbbfeec-742b-4afb-af56-5aee889eaa47" />
-          <attribute id="Name" type="LSString" value="Elves_Female_Drow_Eilistraeean_Player" />
+          <attribute id="Name" type="LSString" value="Elves_Female_Drow_Eilistraean_Player" />
           <attribute id="ParentTemplateId" type="FixedString" value="eda0ef2a-a1c5-455e-8805-e1f95c56113d" />
           <attribute id="ReadinessFlags" type="uint32" value="8" />
           <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
@@ -365,7 +365,7 @@
           <attribute id="Icon" type="FixedString" value="fa98fc6b-a18d-7dd1-b9ed-709039e41e73-_(Icon_Drow_Female_Strong)" />
           <attribute id="LevelName" type="FixedString" value="" />
           <attribute id="MapKey" type="FixedString" value="42951a24-86dc-478f-a5a1-02e9ceb8f595" />
-          <attribute id="Name" type="LSString" value="Elves_Female_Drow_Eilistraeean_Player_Strong" />
+          <attribute id="Name" type="LSString" value="Elves_Female_Drow_Eilistraean_Player_Strong" />
           <attribute id="ParentTemplateId" type="FixedString" value="8cbbfeec-742b-4afb-af56-5aee889eaa47" />
           <attribute id="PortraitVisualResourceID" type="FixedString" value="06bc048a-2d5a-9943-b202-9d9261e9cde2" />
           <attribute id="Type" type="FixedString" value="character" />
@@ -388,7 +388,7 @@
           <attribute id="Icon" type="FixedString" value="dd25a73b-cdf6-7c41-e098-35828550112f-_(Icon_Drow_Male_Strong)" />
           <attribute id="LevelName" type="FixedString" value="" />
           <attribute id="MapKey" type="FixedString" value="fd9b0d25-b76a-4cf6-ab26-2790db023133" />
-          <attribute id="Name" type="LSString" value="Elves_Male_Drow_Eilistraeean_Player_Strong" />
+          <attribute id="Name" type="LSString" value="Elves_Male_Drow_Eilistraean_Player_Strong" />
           <attribute id="ParentTemplateId" type="FixedString" value="19ce6c1c-237a-40d3-87be-374687fbe2c0" />
           <attribute id="PortraitVisualResourceID" type="FixedString" value="f6bdb7da-ceb8-fd9e-9c04-78c93d3f0806" />
           <attribute id="Type" type="FixedString" value="character" />
@@ -409,7 +409,7 @@
           <attribute id="Icon" type="FixedString" value="f2f3f92a-d471-bee8-064e-0614e238b0d0-_(Icon_Drow_Male)" />
           <attribute id="LevelName" type="FixedString" value="" />
           <attribute id="MapKey" type="FixedString" value="19ce6c1c-237a-40d3-87be-374687fbe2c0" />
-          <attribute id="Name" type="LSString" value="Elves_Male_Drow_Eilistraeean_Player" />
+          <attribute id="Name" type="LSString" value="Elves_Male_Drow_Eilistraean_Player" />
           <attribute id="ParentTemplateId" type="FixedString" value="23b9c247-f9b9-4f7a-b97d-eefc4c3de672" />
           <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
           <attribute id="Race" type="guid" value="91618490-5e7e-429b-9d12-5db9bf23802b" />

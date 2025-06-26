@@ -7,7 +7,7 @@
         <node id="Progression">
           <attribute id="Boosts" type="LSString" value="ActionResource(Movement,12,0);"/>
           <attribute id="Level" type="uint8" value="1"/>
-          <attribute id="Name" type="LSString" value="ElfEilistraeean"/>
+          <attribute id="Name" type="LSString" value="ElfEilistraean"/>
           <attribute id="PassivesAdded" type="LSString" value="Elf_WeaponTraining;Darkvision;FeyAncestry"/>
           <attribute id="ProgressionType" type="uint8" value="2"/>
           <attribute id="Selectors" type="LSString" value="AddSpells(bb74945e-10cb-49a7-a2de-ccf2057f981e,,Charisma,,AlwaysPrepared)"/>
@@ -17,7 +17,7 @@
         <node id="Progression">
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Boosts" type="LSString" value="ProficiencyBonus(Skill,Perception)"/>
-          <attribute id="Name" type="LSString" value="ElfEilistraeeanUnderdark"/>
+          <attribute id="Name" type="LSString" value="ElfEilistraeanUnderdark"/>
           <attribute id="ProgressionType" type="uint8" value="2"/>
           <attribute id="TableUUID" type="guid" value="d98ae9ea-b75f-4618-b99e-6ea8e604b6f9"/>
           <attribute id="UUID" type="guid" value="c91bb3ce-73d0-4330-80e1-562880a53472"/>
@@ -25,7 +25,7 @@
         <node id="Progression">
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Boosts" type="LSString" value="ProficiencyBonus(Skill,Persuasion);"/>
-          <attribute id="Name" type="LSString" value="ElfEilistraeeanSurface"/>
+          <attribute id="Name" type="LSString" value="ElfEilistraeanSurface"/>
           <attribute id="ProgressionType" type="uint8" value="2"/>
           <attribute id="TableUUID" type="guid" value="674c4853-c2a3-440c-8225-c15fc2df03aa"/>
           <attribute id="UUID" type="guid" value="4d08f7c1-15a1-4417-b94e-0570747e95b5"/>

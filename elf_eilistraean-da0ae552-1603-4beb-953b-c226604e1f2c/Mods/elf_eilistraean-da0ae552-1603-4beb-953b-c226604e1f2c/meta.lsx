@@ -28,14 +28,14 @@
         <node id="ModuleInfo">
           <attribute id="Author" type="LSString" value="Edie" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
-          <attribute id="Description" type="LSString" value="Eilistraeean Elves, Neither fully embracing the light or entirely shunning the dark, these Elves live somewhere inbetween" />
+          <attribute id="Description" type="LSString" value="Eilistraean Elves, Neither fully embracing the light or entirely shunning the dark, these Elves live somewhere inbetween" />
           <attribute id="FileSize" type="uint64" value="7246246" />
-          <attribute id="Folder" type="LSString" value="elf_eilistraeean-da0ae552-1603-4beb-953b-c226604e1f2c" />
+          <attribute id="Folder" type="LSString" value="elf_eilistraean-da0ae552-1603-4beb-953b-c226604e1f2c" />
           <attribute id="GMTemplate" type="FixedString" value="" />
           <attribute id="LobbyLevelName" type="FixedString" value="" />
           <attribute id="MD5" type="LSString" value="45e4ebb1cced5d3c7f28a860891358ec" />
           <attribute id="MenuLevelName" type="FixedString" value="" />
-          <attribute id="Name" type="LSString" value="Eilistraeean Elf" />
+          <attribute id="Name" type="LSString" value="Eilistraean Elf" />
           <attribute id="NumPlayers" type="uint8" value="4" />
           <attribute id="PhotoBooth" type="FixedString" value="" />
           <attribute id="StartupLevelName" type="FixedString" value="" />
