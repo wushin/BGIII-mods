@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328"/>
+  <region id="SpellLists">
+    <node id="root">
+      <children>
+        <node id="SpellList">
+          <attribute id="Name" type="FixedString" value="EilistraeeanElfCantrip"/>
+          <attribute id="Spells" type="LSString" value="Target_Guidance"/>
+          <attribute id="UUID" type="guid" value="bb74945e-10cb-49a7-a2de-ccf2057f981e"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
