@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <content contentuid="hk2ff387lnmw9p6q67wsvig09tt5c5cvadm6e" version="1">Eilistraean Elf</content>
-  <content contentuid="hapt7jmjga5bapspsj2wbg68ce4u699o184p5" version="1">Neither fully embracing the light or entirely shunning the dark, these Elves live somewhere inbetween</content>
+  <content contentuid="hapt7jmjga5bapspsj2wbg68ce4u699o184p5" version="1">When the Great Sundering of Elves happened, The Eilistraean were forced to go with their Drow brethren, but went willingly. Ever hopeful one day they would be able to unite all Elves again. Despite their treatment they neither fully embracing the light or entirely shunning the dark, these Elves live somewhere inbetween trying to reconcile the rift between their cousins.</content>
   <content contentuid="hbb7oewr4cg2j3iqywqj480i5ob92r9pt48gb" version="1">Surface Born</content>
-  <content contentuid="hc9defsrh7wze1c65xt687wkhnbkgm5w0nr6b" version="1">Born and Raised on the surface.</content>
+  <content contentuid="hc9defsrh7wze1c65xt687wkhnbkgm5w0nr6b" version="1">You were born and raised on the surface in a Eilistraean community or on the fringes of an Elvish community. Never fully trusted or included due to your parental heritage.</content>
   <content contentuid="hw77c2eqv8651qn82niixd1eeshbtkwluqzze" version="1">Underdark Born</content>
-  <content contentuid="h2juhm4atro6h1jey7j7196nxu5aszdxnovvx" version="1">Born and Raised in the underdark.</content>
+  <content contentuid="h2juhm4atro6h1jey7j7196nxu5aszdxnovvx" version="1">You were born and raised in the underdark in a Eilistraean community or on the fringes of an Drow community or possibly even born into a Lolth-Sworn community. Years of watching a different way of living was possible, you came to be part of the Eilistraeans.</content>
   <content contentuid="he3e08e36ge406g4ec9ga33eg6bbbcd83c18e" version="1">Eilistraean Elf Cantrip</content>
   <content contentuid="h446e0ad1gfd15g47a2gb144ge583b869f0f1" version="1">Moonfire</content>
   <content contentuid="ht5e2lj1ocxg64736mh77okn8rd7wymd4828e" version="1">Summon Moonfire, a small mote of light that can manipulate and interact with objects.</content>
@@ -14,11 +14,11 @@
   <content contentuid="hr1qh1doz4s4wl4ellqbewruo2hlmr5e65mj7" version="1">Keen Senses</content>
   <content contentuid="h1e6gt1xs6j5pwinrx7sfzojzxspdm3ytm4mc" version="1">You are &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; in &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;.</content>
   <content contentuid="h8ef33f81g0dacg428bgad6dge079d247d5fa" version="1">Seeker</content>
-  <content contentuid="h2abf9d4cg876dg498agafa4ga65496c28f10" version="1">You spent formative years in a scriptorium, a monastery where you trained in the ways of the seekers and perservers of knowledge. You learned to investigate, read, write with a clear hand and produce finely written texts.</content>
+  <content contentuid="h2abf9d4cg876dg498agafa4ga65496c28f10" version="1">You enjoy a good adventure. Always ready to set foot out the door and investigate what that day will bring and where it will take you.</content>
   <content contentuid="htrz8juomwhxndw01sffvixp9l9ft0lb0at7p" version="1">Keeper</content>
-  <content contentuid="hs7a02occ7w1blkje8o3v2xiprfn6o9av3vo0" version="1">Keep Desc</content>
+  <content contentuid="hs7a02occ7w1blkje8o3v2xiprfn6o9av3vo0" version="1">You are a loyal protector of your Kith and Kin. You will go to great lengths to see they are unharmed, even if they are the ones trying to harm you.</content>
   <content contentuid="hgqzzqv39md06ft3krvuqe4d19qmo21vds1y4" version="1">Examiner</content>
-  <content contentuid="hk4dze1l220d7z82juwya8z0v1bb51pzt0p37" version="1">Examiner Desc</content>
+  <content contentuid="hk4dze1l220d7z82juwya8z0v1bb51pzt0p37" version="1">You love a good puzzle. Constantly looking for and into the various machinations the world has to offer to see how they work.</content>
   <content contentuid="hzqmame6lo9oee19ucwe4htx57yplvga6tc2d" version="1">Poison Resistance</content>
   <content contentuid="h6zpcj9fc980obo9tuylegz92dgsnjotjjr17" version="1">Your time spent in the underdark and dealing with their machinations has made you reistant to poison.</content>
   <content contentuid="hah6xt26sdx6b10bchu0d6b9f4qlzd4bkyt6b" version="1">Improved Stealth</content>
