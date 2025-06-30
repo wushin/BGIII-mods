@@ -6,7 +6,7 @@
       <children>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="EilistraeanElfCantrip"/>
-          <attribute id="Spells" type="LSString" value="Target_Guidance"/>
+          <attribute id="Spells" type="LSString" value="Target_Moonfire"/>
           <attribute id="UUID" type="guid" value="bb74945e-10cb-49a7-a2de-ccf2057f981e"/>
         </node>
       </children>
