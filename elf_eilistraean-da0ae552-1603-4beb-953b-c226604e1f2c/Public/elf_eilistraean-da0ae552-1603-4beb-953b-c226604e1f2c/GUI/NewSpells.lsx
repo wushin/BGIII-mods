@@ -79,7 +79,7 @@
           <attribute id="V2" type="float" value="0.5"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="empty_5"/>
+          <attribute id="MapKey" type="FixedString" value="Icon_Change_Dance"/>
           <attribute id="U1" type="float" value="0.0"/>
           <attribute id="U2" type="float" value="0.25"/>
           <attribute id="V1" type="float" value="0.5"/>

@@ -1825,12 +1825,6 @@
                     <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Drow"/>
                     <attribute id="UUID" type="guid" value="91618490-5e7e-429b-9d12-5db9bf23802b"/>
                     <children>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="60f6b464-752f-4970-a855-f729565b5e07"/>
-                        </node>
-                        <node id="Tags">
-                            <attribute id="Object" type="guid" value="a672ac1d-d088-451a-9537-3da4bf74466c"/>
-                        </node>
                         <node id="EyeColors">
                             <attribute id="Object" type="guid" value="89983ad8-9350-45a5-bbf0-0266f3f00a74"/>
                         </node>
