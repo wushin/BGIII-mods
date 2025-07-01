@@ -27,4 +27,16 @@
   <content contentuid="hv2avultl2m16m5cxe10aqq4lwxcz59etpviu" version="1">Life in the underdark was rough and you've learned to hide truths from everyone at an early age.</content>
   <content contentuid="ho6i924j2e5c730qajhubxv36eq5f08w55d5c" version="1">Strong Willed</content>
   <content contentuid="hm5xz5hbmgdkhf19zvltzu4evibnnqw3i8oau" version="1">You've hand to stand up for what you believe time and time again. You have gained a strong will due to never backing down.</content>
+  <content contentuid="hzszhallfdtzag6vcr1a0f9ntbe37k1vbvpir" version="1">Change Dance</content>
+  <content contentuid="h46arv6dhbl0xttw2ay4dih0ogl4pq4yz5jk1" version="1">Eilistraean ritual to change a beings race and/or gender so they may experience life through their own eyes.</content>
+	<content contentuid="h3e93afb8gccb0g4d7cg97f0g11da337e0bb8" version="1">Eilistraee’s Moonfire</content>
+	<content contentuid="h97967f8agdfd7g4f7bg89e3g59eef2efeb23" version="1">Ignite your hand with sacred moonfire, a cold silvery flame gifted by Eilistraee. While active, your hand glows with divine frost, enabling &lt;LSTag Type="Spell" Tooltip="Projectile_Moonfire_Hurl"&gt;Throw Moonfire&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_Moonfire_Touch"&gt;Touch of Moonfire&lt;/LSTag&gt;, and &lt;LSTag Type="Spell" Tooltip="Shout_Moonfire_Dismiss"&gt;Extinguish Moonfire&lt;/LSTag&gt;.</content>
+	<content contentuid="hc477591agb00eg4de1gbd99g11822b4ab654" version="1">Throw Moonfire</content>
+	<content contentuid="hae6c26bfge4beg4c0bg8855g7573504c273c" version="1">Hurl the moonfire from your hand in a flash of freezing light. On hit, the target takes [1] and [2] and is afflicted with &lt;LSTag Type="Status" Tooltip="Moonfire_Technical"&gt;Dark Maiden’s Mark&lt;/LSTag&gt;.</content>
+	<content contentuid="h55dda215gef8bg4580gaca8gce4d5b5b4cf8" version="1">Touch of Moonfire</content>
+	<content contentuid="h38114991g5708g47d0g88a5gc274dcc600fd" version="1">Strike with your glowing hand, expelling the moonfire directly into a creature. On hit, it takes [1] and [2] and is afflicted with &lt;LSTag Type="Status" Tooltip="Moonfire_Technical"&gt;Dark Maiden’s Mark&lt;/LSTag&gt;.</content>
+	<content contentuid="hb4cac856g07cag447aga326gabe9dd5bc30e" version="1">Extinguish Moonfire</content>
+	<content contentuid="ha0307325ga123g4964g909ega0ead5085c40" version="1">Extinguish the moonfire currently burning on your hand. Ends the Moonfire state without triggering any effects. Can be used freely to deactivate Eilistraee’s Moonfire.</content>
+  <content contentuid="hd430d371ga65ag46dcg86beg0e20671a7ad5" version="1">Dark Maiden’s Mark</content>
+	<content contentuid="hda8e0a37g9e7ag4dc2gb7dfg3ba206291b58" version="1">Creature becomes seared by Eilistraee’s Moonfire for 3 turns and cannot become &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt;.</content>
 </contentList>

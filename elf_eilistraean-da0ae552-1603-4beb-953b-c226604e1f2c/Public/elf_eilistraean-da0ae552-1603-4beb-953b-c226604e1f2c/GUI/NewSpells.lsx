@@ -51,28 +51,28 @@
           <attribute id="V2" type="float" value="0.25"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="empty_1"/>
+          <attribute id="MapKey" type="FixedString" value="Shout_Moonfire"/>
           <attribute id="U1" type="float" value="0.0"/>
           <attribute id="U2" type="float" value="0.25"/>
           <attribute id="V1" type="float" value="0.25"/>
           <attribute id="V2" type="float" value="0.5"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="empty_2"/>
+          <attribute id="MapKey" type="FixedString" value="Shout_Moonfire_Dismiss"/>
           <attribute id="U1" type="float" value="0.25"/>
           <attribute id="U2" type="float" value="0.5"/>
           <attribute id="V1" type="float" value="0.25"/>
           <attribute id="V2" type="float" value="0.5"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="empty_3"/>
+          <attribute id="MapKey" type="FixedString" value="Projectile_Moonfire_Hurl"/>
           <attribute id="U1" type="float" value="0.5"/>
           <attribute id="U2" type="float" value="0.75"/>
           <attribute id="V1" type="float" value="0.25"/>
           <attribute id="V2" type="float" value="0.5"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="empty_4"/>
+          <attribute id="MapKey" type="FixedString" value="Target_Moonfire_Touch"/>
           <attribute id="U1" type="float" value="0.75"/>
           <attribute id="U2" type="float" value="1.0"/>
           <attribute id="V1" type="float" value="0.25"/>
