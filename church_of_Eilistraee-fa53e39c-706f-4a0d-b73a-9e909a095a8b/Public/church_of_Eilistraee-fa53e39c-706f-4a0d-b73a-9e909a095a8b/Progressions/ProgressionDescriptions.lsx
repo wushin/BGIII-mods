@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328"/>
+  <region id="ProgressionDescriptions">
+    <node id="root">
+      <children>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="h826a670eg6980g4df8g8320g2f1cd9b2652c" version="1"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="h8fc45cdbg1e6fg4aaeg8b14g7b0c79193026" version="1"/>
+          <attribute id="ExactMatch" type="FixedString" value="ArcaneBlade"/>
+          <attribute id="ProgressionTableId" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
+          <attribute id="UUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
+        </node>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="h691d0234gf9b7g44cdgb713g2270d16a43c9" version="1"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="h93lwwzm6dd7wxjczfywmj5pi4cdga6u2d41o" version="1"/>
+          <attribute id="ProgressionTableId" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
+          <attribute id="SelectorId" type="FixedString" value="ArcaneAndSong"/>
+          <attribute id="UUID" type="guid" value="413f2b20-750b-4f3d-bd55-44775de67d37"/>
+        </node>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="h2nfpy60suuvjv4cvih6z45i9zsv4itdmrhyc" version="1"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="hja6rp9gh0p6nulasf9pmvlzt60t9nxu3bdee" version="1"/>
+          <attribute id="ProgressionTableId" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
+          <attribute id="SelectorId" type="FixedString" value="ArcaneManeuvers"/>
+          <attribute id="UUID" type="guid" value="95e459d6-d851-497f-a879-e3305da44296"/>
+        </node>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="hfb9781c3ge6cbg4a1fgb9a8gcc33f62f71bb" version="1"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="h9b5c49e7g5c16g4a08g8436ga0e21801f1a1" version="1"/>
+          <attribute id="ProgressionTableId" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
+          <attribute id="SelectorId" type="FixedString" value="ArcaneDefense"/>
+          <attribute id="UUID" type="guid" value="9e44ab1a-0fc6-47b4-aff1-06fee8d5fb8e"/>
+        </node>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="h022784ddg33afg430bgbd54gd78f83fb246d" version="1"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="hc56a92f0g40dcg4b57gb626g0e5095ad4fab" version="1"/>
+          <attribute id="ProgressionTableId" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
+          <attribute id="SelectorId" type="FixedString" value="ArcaneBladeSpells"/>
+          <attribute id="UUID" type="guid" value="92c10623-234f-494c-9d1f-1f521edf6996"/>
+        </node>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="hd5feba73gb2fag44bfgaaf3g8d813754f699" version="1"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="hd70b74edgbfa8g4c53g8184g677ac65d17fd" version="1"/>
+          <attribute id="ProgressionTableId" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
+          <attribute id="ExactMatch" type="FixedString" value="ActionResource(BonusActionPoint,1,0)"/>
+          <attribute id="UUID" type="guid" value="5d7694bc-1b36-4cb1-a8ca-ac69465310a0"/>
+        </node>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="hd5feba73gb2fag44bfgaaf3g8d813754f699" version="1"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="hd70b74edgbfa8g4c53g8184g677ac65d17fd" version="1"/>
+          <attribute id="ProgressionTableId" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
+          <attribute id="ExactMatch" type="FixedString" value="ActionResource(ReactionActionPoint,1,0)"/>
+          <attribute id="UUID" type="guid" value="11a8654a-7f6a-4c3b-be0e-115fb393065b"/>
+        </node>
+        <node id="ProgressionDescription">
+          <attribute id="Description" type="TranslatedString" handle="hac9f8fcbg3a64g49ebg8dafg77d7261cf448" version="1"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="hfdc38bbbg603cg46c9gbd00gb687292a2970" version="1"/>
+          <attribute id="ProgressionTableId" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
+          <attribute id="ExactMatch" type="FixedString" value="ActionResource(ActionPoint,1,0)"/>
+          <attribute id="UUID" type="guid" value="69ad8a74-fe96-4b9e-a687-aaf514d1d9ce"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328"/>
+  <region id="TextureAtlasInfo">
+    <node id="root">
+      <children>
+        <node id="TextureAtlasIconSize">
+          <attribute id="Height" type="int64" value="64"/>
+          <attribute id="Width" type="int64" value="64"/>
+        </node>
+        <node id="TextureAtlasPath">
+          <attribute id="Path" type="LSString" value="Assets/Textures/Icons/newAtlas.dds"/>
+          <attribute id="UUID" type="FixedString" value="ee5a28b6-4dfe-42f0-b7f5-11f1e936a5ff"/>
+        </node>
+        <node id="TextureAtlasTextureSize">
+          <attribute id="Height" type="int64" value="256"/>
+          <attribute id="Width" type="int64" value="256"/>
+        </node>
+      </children>
+    </node>
+  </region>
+  <region id="IconUVList">
+    <node id="root">
+      <children>
+        <node id="IconUV">
+          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_BoomingBlade"/>
+          <attribute id="U1" type="float" value="0.0"/>
+          <attribute id="U2" type="float" value="0.25"/>
+          <attribute id="V1" type="float" value="0.0"/>
+          <attribute id="V2" type="float" value="0.25"/>
+        </node>
+        <node id="IconUV">
+          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_GreenFlameBlade"/>
+          <attribute id="U1" type="float" value="0.25"/>
+          <attribute id="U2" type="float" value="0.5"/>
+          <attribute id="V1" type="float" value="0.0"/>
+          <attribute id="V2" type="float" value="0.25"/>
+        </node>
+        <node id="IconUV">
+          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_PsionicBlade"/>
+          <attribute id="U1" type="float" value="0.5"/>
+          <attribute id="U2" type="float" value="0.75"/>
+          <attribute id="V1" type="float" value="0.0"/>
+          <attribute id="V2" type="float" value="0.25"/>
+        </node>
+        <node id="IconUV">
+          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_CausticBlade"/>
+          <attribute id="U1" type="float" value="0.75"/>
+          <attribute id="U2" type="float" value="1.0"/>
+          <attribute id="V1" type="float" value="0.0"/>
+          <attribute id="V2" type="float" value="0.25"/>
+        </node>
+        <node id="IconUV">
+          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_DivineBlade"/>
+          <attribute id="U1" type="float" value="0.0"/>
+          <attribute id="U2" type="float" value="0.25"/>
+          <attribute id="V1" type="float" value="0.25"/>
+          <attribute id="V2" type="float" value="0.5"/>
+        </node>
+        <node id="IconUV">
+          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_IcewindBlade"/>
+          <attribute id="U1" type="float" value="0.25"/>
+          <attribute id="U2" type="float" value="0.5"/>
+          <attribute id="V1" type="float" value="0.25"/>
+          <attribute id="V2" type="float" value="0.5"/>
+        </node>
+        <node id="IconUV">
+          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_NecroticBlade"/>
+          <attribute id="U1" type="float" value="0.5"/>
+          <attribute id="U2" type="float" value="0.75"/>
+          <attribute id="V1" type="float" value="0.25"/>
+          <attribute id="V2" type="float" value="0.5"/>
+        </node>
+        <node id="IconUV">
+          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_ShockingBlade"/>
+          <attribute id="U1" type="float" value="0.75"/>
+          <attribute id="U2" type="float" value="1.0"/>
+          <attribute id="V1" type="float" value="0.25"/>
+          <attribute id="V2" type="float" value="0.5"/>
+        </node>
+        <node id="IconUV">
+          <attribute id="MapKey" type="FixedString" value="Icon_BladeRitual"/>
+          <attribute id="U1" type="float" value="0.0"/>
+          <attribute id="U2" type="float" value="0.25"/>
+          <attribute id="V1" type="float" value="0.5"/>
+          <attribute id="V2" type="float" value="0.75"/>
+        </node>
+        <node id="IconUV">
+          <attribute id="MapKey" type="FixedString" value="Icon_ThrowMain"/>
+          <attribute id="U1" type="float" value="0.25"/>
+          <attribute id="U2" type="float" value="0.5"/>
+          <attribute id="V1" type="float" value="0.5"/>
+          <attribute id="V2" type="float" value="0.75"/>
+        </node>
+        <node id="IconUV">
+          <attribute id="MapKey" type="FixedString" value="Icon_ThrowOff"/>
+          <attribute id="U1" type="float" value="0.5"/>
+          <attribute id="U2" type="float" value="0.75"/>
+          <attribute id="V1" type="float" value="0.5"/>
+          <attribute id="V2" type="float" value="0.75"/>
+        </node>
+        <node id="IconUV">
+          <attribute id="MapKey" type="FixedString" value="Icon_ArcaneDexterity"/>
+          <attribute id="U1" type="float" value="0.75"/>
+          <attribute id="U2" type="float" value="1.0"/>
+          <attribute id="V1" type="float" value="0.5"/>
+          <attribute id="V2" type="float" value="0.75"/>
+        </node>
+        <node id="IconUV">
+          <attribute id="MapKey" type="FixedString" value="MySweetMod_13_Icon"/>
+          <attribute id="U1" type="float" value="0.0"/>
+          <attribute id="U2" type="float" value="0.25"/>
+          <attribute id="V1" type="float" value="0.75"/>
+          <attribute id="V2" type="float" value="1.0"/>
+        </node>
+        <node id="IconUV">
+          <attribute id="MapKey" type="FixedString" value="MySweetMod_14_Icon"/>
+          <attribute id="U1" type="float" value="0.25"/>
+          <attribute id="U2" type="float" value="0.5"/>
+          <attribute id="V1" type="float" value="0.75"/>
+          <attribute id="V2" type="float" value="1.0"/>
+        </node>
+        <node id="IconUV">
+          <attribute id="MapKey" type="FixedString" value="MySweetMod_15_Icon"/>
+          <attribute id="U1" type="float" value="0.5"/>
+          <attribute id="U2" type="float" value="0.75"/>
+          <attribute id="V1" type="float" value="0.75"/>
+          <attribute id="V2" type="float" value="1.0"/>
+        </node>
+        <node id="IconUV">
+          <attribute id="MapKey" type="FixedString" value="MySweetMod_16_Icon"/>
+          <attribute id="U1" type="float" value="0.75"/>
+          <attribute id="U2" type="float" value="1.0"/>
+          <attribute id="V1" type="float" value="0.75"/>
+          <attribute id="V2" type="float" value="1.0"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

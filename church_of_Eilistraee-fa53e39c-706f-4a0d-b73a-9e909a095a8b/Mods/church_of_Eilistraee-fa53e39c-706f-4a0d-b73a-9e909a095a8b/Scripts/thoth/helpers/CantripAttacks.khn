@@ -1,0 +1,3 @@
+function AttackCantripsRoll()
+    return Attack(AttackType.MeleeWeaponAttack)
+end
