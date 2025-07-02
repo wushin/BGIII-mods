@@ -1,4 +1,4 @@
-function TryArcaneCounterspellHigherLevel(level)
+function TryEilistraeanCounterspellHigherLevel(level)
     local spellPowerLevel = SpellPowerLevelEqualOrLessThan(level)
     if not spellPowerLevel.Result then
         local counterspellDC = 10 + context.HitDescription.SpellPowerLevel

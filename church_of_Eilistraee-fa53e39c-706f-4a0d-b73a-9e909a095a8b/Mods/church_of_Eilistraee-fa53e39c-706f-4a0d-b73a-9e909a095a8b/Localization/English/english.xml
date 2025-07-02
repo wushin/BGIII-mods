@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h6hwhr9nk44x0iszbjtwdarj90zcjucgqpfpf" version="1">Eilistraean Initiate</content>
+  <content contentuid="hv8ayr9z11q23z9zytdtubbux8zkn3qvpr2nd" version="1">You are a new follower of Eilistraee still trying to find your way in the world.</content>
   <content contentuid="h8fc45cdbg1e6fg4aaeg8b14g7b0c79193026" version="1">Sword Dancer</content>
   <content contentuid="h826a670eg6980g4df8g8320g2f1cd9b2652c" version="1">Specialized clerics of the Dark Maiden were known as Sword Dancers. They were excellent dancers and spellsingers, known to use an agile and acrobatic fencing style resembling a dance. The sword dancers led missions to find, assist, and protect any drow looking to return to the surface (or that could be made to return) and embrace a different life. They were skilled diplomats, especially active near the settlements of elves and other races, working to establish peace and cooperation between drow and surface dwellers.</content>
-  <content contentuid="h00081d9agb4e9g46aagbfe1ga6b7addc0c55" version="1">Arcane Footwork</content>
+  <content contentuid="h8qza0xv0xcsnaaopqu8cv8d5k8unk7oy0zho" version="1">Silverhair Knight</content>
+  <content contentuid="hcez7vvmx3zgjip02tmih7mqyw2tr6pgurftw" version="1">The Silverhair Knights were an order of clerics of Eilistraee completely dedicated to the redemption and subsequent protection of drow followers of Lolth, Vhaeraun, and other deities of the Dark Seldarine. They fully embraced the teaching of Eilistraee about showing mercy and compassion, and fought these dark elves only using non-lethal means, hoping to make them understand the error of their ways and choose a different life. Like the Sword Dancers, they often embarked on missions within Lolthite settlements, aiming to find and rescue drow who were in danger or seeking an alternative.</content>
+  <content contentuid="h47xc6tp4azdpmh1h00x2mb2z9yb94tq4jpdm" version="1">Darksong Knight</content>
+  <content contentuid="hvl30sn8nwkdw9omjb9kv28a5gtx8m2ji5ksn" version="1">The Darksong Knights were an elite order of Eilistraeeans, mostly active in the South, beneath the lands of ancient Ilythiir. Each member of this order was a battle-priest who chose to devote their life not only to furthering the Dark Maiden's goals, but also to the destruction of yochlol and other demons and minions of Lolth, for they were the cause of the corruption and fall of the drow people.</content>
+  <content contentuid="h2oqf4fjb2mdo4mtdflzteu3g3uxn1ms18sis" version="1">Protector Of The Song</content>
+  <content contentuid="h9il79j60fz39ynvqqbf2bmnzobwa24xenne6" version="1">The Protectors of the Song were the temple guards of the Promenade of the Dark Maiden, the main center of worship of Eilistraee on Faerûn. Their main duty was to protect the temple and patrol the area around the Pit of Ghaunadaur, to prevent the return of the slime god.</content>
+
+  <content contentuid="h00081d9agb4e9g46aagbfe1ga6b7addc0c55" version="1">Eilistraean Footwork</content>
   <content contentuid="hf5a05dfbgacb2g4beeg8e39gd401cb1d6550" version="1">This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.</content>
   <content contentuid="h042b53fcgc672g4db8g9e97gcbcbe53ba1ce" version="1">Summon a Wall of blades</content>
-  <content contentuid="h0c79413dg1a9cg4738g8c2cgf46c3c4562bd" version="1">Arcane Image</content>
-  <content contentuid="hd6515a64g6d43g4f2eg8a57g6dd0b70a8c76" version="1">Second Arcane Image</content>
-  <content contentuid="hf4ebfa4egfeb9g4a2fga0b8g7e3cfc8906bb" version="1">Third Arcane Image</content>
-  <content contentuid="he5e527a0g04cdg40f0g9df8g2d125cd69e3c" version="1">Fouth Arcane Image</content>
-  <content contentuid="ha370ba4ag673fg4741g81fdg8026fdc5a564" version="1">Fifth Arcane Image</content>
-  <content contentuid="h3e0bc8a7g4057g478cgb07fg1ecc1c13f518" version="1">Sixth Arcane Image</content>
-  <content contentuid="h615d1044gf0c6g45dfgaf87g1e4e66581dc5" version="1">Sneak Attack : Arcane</content>
-  <content contentuid="h3f756e2bg7038g46afg9057g94d3afc7bbb7" version="1">Sneak Attack (Critical Hit) : Arcane</content>
+  <content contentuid="h0c79413dg1a9cg4738g8c2cgf46c3c4562bd" version="1">Eilistraean Image</content>
+  <content contentuid="hd6515a64g6d43g4f2eg8a57g6dd0b70a8c76" version="1">Second Eilistraean Image</content>
+  <content contentuid="hf4ebfa4egfeb9g4a2fga0b8g7e3cfc8906bb" version="1">Third Eilistraean Image</content>
+  <content contentuid="he5e527a0g04cdg40f0g9df8g2d125cd69e3c" version="1">Fouth Eilistraean Image</content>
+  <content contentuid="ha370ba4ag673fg4741g81fdg8026fdc5a564" version="1">Fifth Eilistraean Image</content>
+  <content contentuid="h3e0bc8a7g4057g478cgb07fg1ecc1c13f518" version="1">Sixth Eilistraean Image</content>
+  <content contentuid="h615d1044gf0c6g45dfgaf87g1e4e66581dc5" version="1">Sneak Attack : SWord Dancer</content>
+  <content contentuid="h3f756e2bg7038g46afg9057g94d3afc7bbb7" version="1">Sneak Attack (Critical Hit) : Sword Dancer</content>
   <content contentuid="h33951923g9a9bg4c4dg8f9egabb42b068d1e" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
   <content contentuid="h62e17494g68dbg4e2dg931bgc0c535f9a77d" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread acid to melt another nearby creature for [2].</content>
   <content contentuid="h9ff9aebdgfa87g4875ga7dfg5e006aa7ae9e" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread ice to freeze another nearby creature for [2].</content>
   <content contentuid="h689a58efgdef7g4056gb349g6bd9f568f1f5" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread necrotic energy and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; another nearby creature for [2].</content>
-  <content contentuid="h0a17578bgbd95g47cdg9d04g50c88ec82633" version="1">Arcane Disarming Attack</content>
+  <content contentuid="h0a17578bgbd95g47cdg9d04g50c88ec82633" version="1">Eilistraean Disarming Attack</content>
   <content contentuid="h0cd0d661g2c83g40a7g8a96g05d1c2e88ddc" version="1">Cover more distance this turn: double your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt;.</content>
   <content contentuid="h0b2fe3bege978g4a9agb4begbbf49492ec7e" version="1">This reaction won't trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Green-Flame Blade.</content>
   <content contentuid="h271fc951g0dd0g4100g93c4g284f3aaad296" version="1">This reaction won't trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Booming Blade.</content>
@@ -29,23 +38,23 @@
   <content contentuid="hmomdrx7bhnupuz2ulrxtq8mf7w4awyhu90r2" version="1">Melt another enemy for [1].</content>
   <content contentuid="hi2wsoft3jnib4vz42ztd1neuutzaknnp74gv" version="1">Necrotize another enemy for [1] and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;.</content>
   <content contentuid="h9c0ec279gedd2g4aa8g96fcg9de433fa026e" version="1">Heal your nearby allies.</content>
-  <content contentuid="hz90txim4jhdmrwiu6y1bt3wrqr6oihbsv2hw" version="1">Arcane Weapon Bind</content>
-  <content contentuid="hkrf8qw0znegmrn8ux2ti57to7ngp8dcirwho" version="1">Arcane Weapon Bond</content>
+  <content contentuid="hz90txim4jhdmrwiu6y1bt3wrqr6oihbsv2hw" version="1">Eilistraean Weapon Bind</content>
+  <content contentuid="hkrf8qw0znegmrn8ux2ti57to7ngp8dcirwho" version="1">Eilistraean Weapon Bond</content>
   <content contentuid="h4zbtq93z6uf9xtivjwk8n9u4vz73hh38qs7h" version="1">Ritually bind the weapon in your main hand. The weapon can't be knocked out of your hand, and it automatically returns to you when &lt;LSTag Type="Spell" Tooltip="Throw_Throw"&gt;Thrown&lt;/LSTag&gt;.</content>
   <content contentuid="h88zrr0lutd86jiy3e9txys74rsrgvzw312i6" version="1">Ritually bound to its wielder. &lt;br&gt;&lt;br&gt;The weapon can't be knocked out of the wielder's hand, and automatically returns to the wielder when &lt;LSTag Type="Spell" Tooltip="Throw_Throw"&gt;Thrown&lt;/LSTag&gt;.</content>
-  <content contentuid="h8e61ee08g724ag42dbgbf8bg73cb80bb2c66" version="1">Sneak Attack (Critical Hit) : Arcane</content>
+  <content contentuid="h8e61ee08g724ag42dbgbf8bg73cb80bb2c66" version="1">Sneak Attack (Critical Hit) : Eilistraean</content>
   <content contentuid="h2d774af3gd5b6g4e19gb39bgd282a4b10527" version="1">Sword Dancer Song Charge</content>
-  <content contentuid="he0h9vdgbyohqxxm244ndnwqmst1tx6c41oj5" version="1">Charges that can be accumulated for the &lt;LSTag Type="Spell" Tooltip="Projectile_ArcaneBladeSong_Finisher"&gt;Sword Dancersong Climax&lt;/LSTag&gt; while Sword Dancersinging. Attacking with a weapon grants a &lt;LSTag Type="Status" Tooltip="ARCANEBLADESONG_CHARGE"&gt;Sword Dancersong Charge&lt;/LSTag&gt;. In addition to gaining Acrane Blade Spell Slots.</content>
-  <content contentuid="h2e7b78a6g87a7g4910gb830g431368a24fd1" version="1">Arcane Fall</content>
-  <content contentuid="h2eef0206g3201g427agabd0g3556b40d985d" version="1">Arcane Cleave</content>
+  <content contentuid="he0h9vdgbyohqxxm244ndnwqmst1tx6c41oj5" version="1">Charges that can be accumulated for the &lt;LSTag Type="Spell" Tooltip="Projectile_EilistraeanBladeSong_Finisher"&gt;Sword Dancersong Climax&lt;/LSTag&gt; while Sword Dancersinging. Attacking with a weapon grants a &lt;LSTag Type="Status" Tooltip="EilistraeanBLADESONG_CHARGE"&gt;Sword Dancersong Charge&lt;/LSTag&gt;. In addition to gaining Acrane Blade Spell Slots.</content>
+  <content contentuid="h2e7b78a6g87a7g4910gb830g431368a24fd1" version="1">Eilistraean Fall</content>
+  <content contentuid="h2eef0206g3201g427agabd0g3556b40d985d" version="1">Eilistraean Cleave</content>
   <content contentuid="h319193c0g7bc4g47f9g8f88g87d59140852a" version="1">Increase allies within [1] &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; by [2]</content>
   <content contentuid="h34a2dee9g267dg42e5gb9ecgdcb9c3e96093" version="1">End Sword Dancer Song</content>
-  <content contentuid="h36dad42bgcc72g43dcgbcacg67b935462720" version="1">You also unlock your Sword Dancer Maneuvers and &lt;LSTag Type="Spell" Tooltip="Projectile_Sword Dancer Song_Finisher"&gt;Sword Dancer Song Climax&lt;/LSTag&gt; and the ability to accumulate &lt;LSTag Type="Status" Tooltip="ARCANEBLADESONG_TECHINCAL"&gt;Sword Dancer Song Charges&lt;/LSTag&gt; in combat.</content>
+  <content contentuid="h36dad42bgcc72g43dcgbcacg67b935462720" version="1">You also unlock your Sword Dancer Maneuvers and &lt;LSTag Type="Spell" Tooltip="Projectile_Sword Dancer Song_Finisher"&gt;Sword Dancer Song Climax&lt;/LSTag&gt; and the ability to accumulate &lt;LSTag Type="Status" Tooltip="EilistraeanBLADESONG_TECHINCAL"&gt;Sword Dancer Song Charges&lt;/LSTag&gt; in combat.</content>
   <content contentuid="h798d708cgfbdag4a53g9fecgd0765856b836" version="1">Booming Blade Critical: Reaction</content>
   <content contentuid="h4strl3yvqxqnz1q6m11wy2dlwli4jpgwr4cm" version="1">Divine Blade Critical: Reaction</content>
   <content contentuid="hylk49bzpwgofye937lgd1mubmylcqbvngxjd" version="1">Psionic Blade Critical: Reaction</content>
   <content contentuid="h2jwwsu8x4jik898zbhsjc9q87zccrvaic7k4" version="1">Shocking Blade Critical: Reaction</content>
-  <content contentuid="h6ae26f1dg9d43g441ag8f8cg36ede9cce52e" version="1">Arcane Step</content>
+  <content contentuid="h6ae26f1dg9d43g441ag8f8cg36ede9cce52e" version="1">Eilistraean Step</content>
   <content contentuid="h3ca76469g8a92g4888g9853gf2f6f422b762" version="1">Sword Dancer Spell Slot Level Four</content>
   <content contentuid="he41f1d3eg4574g4143g83b4gffae7ee47435" version="1">Skeletons and creatures killed with Acid, Fire, Lightning, Necrotic, or Radiant damage no longer have a mouth and can't be made to talk using this spell.&lt;br&gt;&lt;br&gt;Doesn't work on Undead. </content>
   <content contentuid="h59875e1bg7fe7g4349g9d4fgf287667d2c29" version="1">Attackers have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against this creature, unless they do not rely on sight or can see through illusions.</content>
@@ -56,7 +65,7 @@
   <content contentuid="h8ec328aagf460g45f8g93ddgd3bb43102b0b" version="1">Also works if you have an ally within [1] of the target or there is no one but you and the target within [1] but for both you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
   <content contentuid="hbf30c62cg082cg4263g89c8g83bcb67e6900" version="1">Reaction</content>
   <content contentuid="h7947189agd31ag488egb2eag41249c52f2a5" version="1">This reaction will trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;.</content>
-  <content contentuid="h4aa671b5gc52eg4de9gafe6gb08bd3b97f6e" version="1">Unleash the full damaging and healing effects of your Sword Dancer Song at once. Your &lt;LSTag Type="Status" Tooltip="ARCANEBLADESONG_CHARGE"&gt;Sword Dancer Song Charges&lt;/LSTag&gt; will harm enemies an additional [1], and will heal you and your allies an additional [2].</content>
+  <content contentuid="h4aa671b5gc52eg4de9gafe6gb08bd3b97f6e" version="1">Unleash the full damaging and healing effects of your Sword Dancer Song at once. Your &lt;LSTag Type="Status" Tooltip="EilistraeanBLADESONG_CHARGE"&gt;Sword Dancer Song Charges&lt;/LSTag&gt; will harm enemies an additional [1], and will heal you and your allies an additional [2].</content>
   <content contentuid="h0ac23424g1193g4797g88a6g1df2f25cefdd" version="1">Booming Blade: Sneak Attack</content>
   <content contentuid="h2cxyr765mcili22c1sv7e46228fiehvrz5kt" version="1">Divine Blade: Sneak Attack</content>
   <content contentuid="hx23lstzpuxp0kjlxd9r4e7lhaisc0rvmf7x3" version="1">Psionic Blade: Sneak Attack</content>
@@ -65,7 +74,7 @@
   <content contentuid="hlbad8pwu8qbgfa6pu1pwdjq8gomehyx2n0n4" version="1">Strike the target dealing a bonus [1] and deal extra damage to a foe you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against. If the attack lands, the target is sheathed in radiant energy that deals [2] to them if they willingly move.</content>
   <content contentuid="hzcjc7fyjtt9h0fb81yg44kdc4nqg9bthfy2n" version="1">Strike the target dealing a bonus [1] and deal extra damage to a foe you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against. If the attack lands, the target is sheathed in psionic energy that deals [2] to them if they willingly move.</content>
   <content contentuid="h8exrbcyh2ap97conc01r9cvap6i5tyodhavc" version="1">Strike the target dealing a bonus [1] and deal extra damage to a foe you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against. If the attack lands, the target is sheathed in lightning that deals [2] to them if they willingly move.</content>
-  <content contentuid="h4d5b4c09g28f3g4c2bgbf9cg0d7819d81851" version="1">Sneak Attack (Melee) : Arcane </content>
+  <content contentuid="h4d5b4c09g28f3g4c2bgbf9cg0d7819d81851" version="1">Sneak Attack (Melee) : Sword Dancer </content>
   <content contentuid="h7f63d6aegaaceg453dga001g950baa9b14b6" version="1">Cloud of Daggers</content>
   <content contentuid="h4ec5ac65g324cg4065g86a8g7837c21272d8" version="1">Attack an enemy moving out of your reach.</content>
   <content contentuid="hda796617g5f86g4fd7gaf31g364417a52a32" version="1">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
@@ -91,9 +100,9 @@
   <content contentuid="hcje1219ztzlsbzgfsyxjc6ffp9pwb8pibk2f" version="1">Caustic Blade: Reaction</content>
   <content contentuid="hh4v4134wv9n9y43vby7hzwupq4i2w6ruiv8t" version="1">Icewind Blade: Reaction</content>
   <content contentuid="hzvr4zyep9rrlwbgydk8zvs9v2f1r4owslr40" version="1">Necrotic Blade: Reaction</content>
-  <content contentuid="h5fdf6f37g677dg4ac4gb400g7b004b9d4232" version="1">Arcane Feinting Attack</content>
+  <content contentuid="h5fdf6f37g677dg4ac4gb400g7b004b9d4232" version="1">Eilistraean Feinting Attack</content>
   <content contentuid="h7c6e9315g4728g4139g90b9g6002929bd47b" version="1">Blurred</content>
-  <content contentuid="h60dd5dceg1b77g4f22gbcf6g28c3f18db5c7" version="1">Arcane Action: Dash</content>
+  <content contentuid="h60dd5dceg1b77g4f22gbcf6g28c3f18db5c7" version="1">Eilistraean Action: Dash</content>
   <content contentuid="h61ae48c5gdc3ag4609ga020g1b817db1f2c9" version="1">Sword Dancer Wall</content>
   <content contentuid="h0e153e2agf0a3g4e36g97b6gd02031b758df" version="1">Booming Blast</content>
   <content contentuid="h5y6vwrularw15ph3sre6p6fzroizu431mq5n" version="1">Divine Blast</content>
@@ -111,13 +120,13 @@
   <content contentuid="hcb2577a5ga972g4463gba58g5ed1e95b53bc" version="1">Blade Rituals</content>
 	<content contentuid="h0e05a378g8813g4d21gbd95g3a677b2a7cb3" version="1">Sword Dancers are in tune with their bodies allowing them to draw upon magic to increase their physical prowess through practiced rituals.</content>
   <content contentuid="hiwxdxnjgphlxnp8h7qxfzl2gwfu6grobvk6o" version="1">Blade Ritual Point</content>
-	<content contentuid="hx8saho0kx6idqs94xrj86fdoq62aefpkyup4" version="1">Blade Ritual Points are used to cast &lt;LSTag Type="Spell" Tooltip="ArcaneRituals"&gt;Arcane Rituals&lt;/LSTag&gt; </content>
-  <content contentuid="h9b5c49e7g5c16g4a08g8436ga0e21801f1a1" version="1">Arcane Defense</content>
+	<content contentuid="hx8saho0kx6idqs94xrj86fdoq62aefpkyup4" version="1">Blade Ritual Points are used to cast &lt;LSTag Type="Spell" Tooltip="EilistraeanRituals"&gt;Eilistraean Rituals&lt;/LSTag&gt; </content>
+  <content contentuid="h9b5c49e7g5c16g4a08g8436ga0e21801f1a1" version="1">Eilistraean Defense</content>
 	<content contentuid="hfb9781c3ge6cbg4a1fgb9a8gcc33f62f71bb" version="1">Choose your defensive Sword Dancer maneuvers: </content>
-  <content contentuid="hja6rp9gh0p6nulasf9pmvlzt60t9nxu3bdee" version="1">Arcane Maneuvers</content>
-  <content contentuid="h2nfpy60suuvjv4cvih6z45i9zsv4itdmrhyc" version="1">Choose which arcane maneuvers to learn:</content>
-  <content contentuid="h93lwwzm6dd7wxjczfywmj5pi4cdga6u2d41o" version="1">Arcane War and Song</content>
-  <content contentuid="h691d0234gf9b7g44cdgb713g2270d16a43c9" version="1">Training in Arcane War and Song</content>
+  <content contentuid="hja6rp9gh0p6nulasf9pmvlzt60t9nxu3bdee" version="1">Eilistraean Maneuvers</content>
+  <content contentuid="h2nfpy60suuvjv4cvih6z45i9zsv4itdmrhyc" version="1">Choose which Eilistraean maneuvers to learn:</content>
+  <content contentuid="h93lwwzm6dd7wxjczfywmj5pi4cdga6u2d41o" version="1">Eilistraean War and Song</content>
+  <content contentuid="h691d0234gf9b7g44cdgb713g2270d16a43c9" version="1">Training in Eilistraean War and Song</content>
   <content contentuid="he23c7347g69beg45f9g9400g89fcee6b4e56" version="1">Teleport to a foe from a &lt;LSTag Type="HIDING" Tooltip=""&gt;hidden&lt;/LSTag&gt; position, striking them with the creeping, psychic ferocity of the shadows themselves. </content>
   <content contentuid="h3c5bf901g2901g44e2g85e6gcfadefe2ef0c" version="1">Deal a bonus [1] to the target. If the attack lands and you remain stationary, you can spread green flames to burn another for [2].</content>
   <content contentuid="hwt405oyof0z0l8ozb07114wl3n0y03wgzpjj" version="1">Deal a bonus [1] to the target. If the attack lands and you remain stationary, you can spread caustic to melt another for [2].</content>
@@ -129,17 +138,17 @@
   <content contentuid="h3u4f0xv94wg310mjx2944mu555pgti4ivgkn" version="1">Icewind Blade Critical: Reaction</content>
   <content contentuid="h8jg8s67dhe1tfeezp0fg9eisi8wr4kg7d0cq" version="1">Necrotic Blade Critical: Reaction</content>
   <content contentuid="h71a6820egd3e3g4a31g9383g41bc377d9b55" version="1">Sword Dancer Song Charge</content>
-  <content contentuid="h72564112g891bg4d1ag8abcg4ed41c3ab6df" version="1">Arcane Action: Hide</content>
+  <content contentuid="h72564112g891bg4d1ag8abcg4ed41c3ab6df" version="1">Eilistraean Action: Hide</content>
   <content contentuid="ha4c12be3gd2cdg435dgb0b4gbdc7e09a4ca6" version="1">Spinning daggers fill the air. Anyone inside the whirlwind takes [1] each turn.</content>
   <content contentuid="h75d5a90bg99b8g4ef1g9c7ag75e79729df99" version="1">When a creature misses you with a melee attack, you can retaliate with a powerful strike that deals an additional [1] damage if you are wielding a melee weapon. </content>
   <content contentuid="hcfa6e50cge421g4571g9028gf7cea12dfff9" version="1">Takes Thunder damage upon moving.</content>
   <content contentuid="hgiya2hw5hboeuqdrjmmp6t34r9k8zc2ukalk" version="1">Takes Radiant damage upon moving.</content>
   <content contentuid="h1hac03fetpwuqlndkgfqi2qkhhsp19ny1ewu" version="1">Takes Psychic damage upon moving.</content>
   <content contentuid="h54hsgtsnbpdjl1mfszut1pryxxwretqwar1q" version="1">Takes Lightning damage upon moving.</content>
-  <content contentuid="h7da8fab0g4dbbg4888gb7d9g61c798217f57" version="1">You learn Arcane Actions &lt;LSTag Type="Spell" Tooltip="Shout_ArcaneHide"&gt;Arcane Hide&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Shout_ArcaneDash"&gt;Arcane Dash&lt;/LSTag&gt;.</content>
+  <content contentuid="h7da8fab0g4dbbg4888gb7d9g61c798217f57" version="1">You learn Eilistraean Actions &lt;LSTag Type="Spell" Tooltip="Shout_EilistraeanHide"&gt;Eilistraean Hide&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Shout_EilistraeanDash"&gt;Eilistraean Dash&lt;/LSTag&gt;.</content>
   <content contentuid="hb907b24agb1b6g456eg95f2g9e7c9b7d8ab5" version="1">Conjure a cloud of spinning daggers that attack anyone inside.</content>
-  <content contentuid="h7df25f89g62a0g44b2g98a8g223e05178eef" version="1">This will end your &lt;LSTag Type="Status" Tooltip="ARCANEBLADESONG"&gt;Sword Dancer Song&lt;/LSTag&gt;.</content>
-  <content contentuid="h7eb5ccd1g99d1g4aa1gad7bg0608091830e1" version="1">Arcane Trip Attack</content>
+  <content contentuid="h7df25f89g62a0g44b2g98a8g223e05178eef" version="1">This will end your &lt;LSTag Type="Status" Tooltip="EilistraeanBLADESONG"&gt;Sword Dancer Song&lt;/LSTag&gt;.</content>
+  <content contentuid="h7eb5ccd1g99d1g4aa1gad7bg0608091830e1" version="1">Eilistraean Trip Attack</content>
   <content contentuid="hfe280cf0ga4a4g44b2g98cagf6214e7471c0" version="1">Green-Flame Trip Attack</content>
   <content contentuid="he4cc5482gc412g4d0bg9fc3gbe77ec454f7f" version="1">Caustic Trip Attack</content>
   <content contentuid="h5335a512g7593g4860g8b66g6219ab1ad3df" version="1">Icewind Trip Attack</content>
@@ -242,24 +251,24 @@
   <content contentuid="h3i2iw48euz4b38bx5ol3foeln31yt5i738bd" version="1">Psionic Energy</content>
   <content contentuid="hztxl5c95c5hulmn1xelt8qz5e5ot6duf5log" version="1">Lightning</content>
   <content contentuid="his7wm3ke3v1vhas87ijzu8nthlhtxzb731fl" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; The target can't be Huge in size.</content>
-  <content contentuid="h869334e3gca97g4926g9804g34b7b1dca095" version="1">Arcane Parry</content>
+  <content contentuid="h869334e3gca97g4926g9804g34b7b1dca095" version="1">Eilistraean Parry</content>
   <content contentuid="h87100760g26bfg4c09g8e41g6c8feaefe71c" version="1">Stop your Sword Dancer Song early.</content>
   <content contentuid="h873181b8g944ag45d8gb068ge320d493e4a9" version="1">You can use both your action and bonus action on a turn to attack a target with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and deal an additional [1] damage.</content>
-  <content contentuid="h892bf9f9g2e92g4609gb4e2g8271666dfcef" version="1">Arcane Sneak Attack</content>
+  <content contentuid="h892bf9f9g2e92g4609gb4e2g8271666dfcef" version="1">Sword Dancer Sneak Attack</content>
   <content contentuid="h8b0a97a8gc3b2g4563gab91g1439edb4a6ea" version="1">The target must be Large or smaller.</content>
   <content contentuid="hd49d7242g5b1fg4fe7g9369gda6ffad8c47b" version="1">%%% EMPTY</content>
   <content contentuid="h8e481839gc5bfg4113g8135gb58ef89eb17a" version="1">Sword Dancer Song Damage Charge</content>
-  <content contentuid="h908fac92gf9cbg4bd4ga001g12b443b23fdd" version="1">Failed Arcane Counter</content>
+  <content contentuid="h908fac92gf9cbg4bd4ga001g12b443b23fdd" version="1">Failed Eilistraean Counter</content>
   <content contentuid="h69e56240g24c4g471dga50dge4cc94d12f52" version="1">When you take the Dash Action, your Speed increases by [1] for that action.</content>
-  <content contentuid="hqmesiqakg0lhecto4r165krnu6k4oj6s7stq" version="1">Arcane Dexterity</content>
+  <content contentuid="hqmesiqakg0lhecto4r165krnu6k4oj6s7stq" version="1">Eilistraean Dexterity</content>
   <content contentuid="hrc1ygc6vzd72a2gcfidpt3zfsdncjafovsep" version="1">Attacks with weapons you are &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; in and throwing attacks scale with your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; instead of your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; if your Dexterity is higher. Excludes Heavy and Two-handed Weapons.</content>
   <content contentuid="hddnrieox7suqy5c5ajjectffndb0nmfzobn5" version="1">Throwing attacks scale with your &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; instead of your &lt;LSTag Tooltip="Strength"&gt;Strength&lt;/LSTag&gt; if your Dexterity is higher.</content>
   <content contentuid="hz4nh3vss7anxl0quq4znshjplqihue13x0be" version="1">Throw melee main hand to do [1] to target.</content>
   <content contentuid="h9s8pmoi7uz36ho9nm7m9hrd3ypwcui5gjmol" version="1">Throw melee off hand to do [1] to target.</content>
   <content contentuid="h6ialsjpuppqe0gzy6w056ktnwpdm8e916h4m" version="1">Blade Toss (Main Hand)</content>
   <content contentuid="h78lacn0j7g78e5llzyavbt2twrhk5lsa7irh" version="1">Blade Toss (Off Hand)</content>
-  <content contentuid="h933c4150ge7e3g4fbdgb8b8g2cf8eea211eb" version="1">Arcane Strider</content>
-  <content contentuid="h971bd2eag142bg4a39gbd0cg82575df420f0" version="1">Arcane Riposte</content>
+  <content contentuid="h933c4150ge7e3g4fbdgb8b8g2cf8eea211eb" version="1">Eilistraean Strider</content>
+  <content contentuid="h971bd2eag142bg4a39gbd0cg82575df420f0" version="1">Eilistraean Riposte</content>
   <content contentuid="hdusnmtsjx401006rbz2m5n2ttb1qcfu8hbth" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You must be wielding a Dagger, Longsword, Rapier, Scimitar, Shortsword, or Sickle. You can not have any ranged weapon equipped.</content>
   <content contentuid="hpop98bqpu2q0ydgy31nvrsgpcp1p79iyrn9u" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You can only wear cloth or no armor while Sword Dancersinging. All other Light or Medium or Heavy Armour or Shields are not allowed</content>
   <content contentuid="h18xxywgfpq99g7612urdf3cx2c3ipc9wdvqi" version="1">Equipped gear, melee weapon, ranged weapon, or shield is incompatible with Sword Dancer Song.</content>
@@ -290,21 +299,21 @@
   <content contentuid="hoodvpidj6kd08x4czvi8b5lt3si6c5nyci2l" version="1">Strike the target dealing a bonus [1] and deal extra damage to a foe you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against. If the attack lands and you remain stationary, you can spread necrotic energy and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; another nearby creature for [2].</content>
   <content contentuid="ha8a850fbgd7adg40a3g902dg9a87f641aca1" version="1">Invoking the Sword Dancer Song. You gain a +[1] bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is increased by [2]m. You also gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; in Acrobatics and a +[1] bonus to Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
   <content contentuid="ha9427cdfgfa61g43cdgaa2eg9a9ddbd1e431" version="1">You can make an attack that deals an additional [1] damage and possibly knocks the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
-  <content contentuid="ha9c8d475gedc0g4760gadd5g1dc647dbb500" version="1">Arcane Charger</content>
+  <content contentuid="ha9c8d475gedc0g4760gadd5g1dc647dbb500" version="1">Eilistraean Charger</content>
   <content contentuid="hac9f8fcbg3a64g49ebg8dafg77d7261cf448" version="1">Your hands have become infused with the weave and anticipate your movements. You gain an additional action.</content>
   <content contentuid="h2df5e4aag322ag45d9gadceg89cd7cdd9bf6" version="1">Gain the ability to comprehend and communicate with beasts.</content>
-  <content contentuid="hadf84c5bg3db5g4c09gaf65ge38b304fb6d3" version="1">Sword Dancersinging impeded by a shield. Until the shield is removed, your &lt;LSTag Type="Status" Tooltip="BLADESONG"&gt;Sword Dancer Song&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="ARCANEBLADESONG_TECHINCAL"&gt;Sword Dancer Song Charges&lt;/LSTag&gt;.</content>
+  <content contentuid="hadf84c5bg3db5g4c09gaf65ge38b304fb6d3" version="1">Sword Dancersinging impeded by a shield. Until the shield is removed, your &lt;LSTag Type="Status" Tooltip="BLADESONG"&gt;Sword Dancer Song&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="EilistraeanBLADESONG_TECHINCAL"&gt;Sword Dancer Song Charges&lt;/LSTag&gt;.</content>
   <content contentuid="hafc47e90g3c61g4e12g8981g3deb31177522" version="1">Swing your weapon in a large arc to attack up to [1] enemies at once.</content>
   <content contentuid="hb0218f3dgb466g4627gb91bga9f69afb5e3f" version="1">Make an attack that deals an additional [1] damage and possibly forces the target to drop the weapons they are holding.</content>
-  <content contentuid="h5da476ccgca0eg46a8gbf3dgbfe2c4343787" version="1">Arcane Word</content>
+  <content contentuid="h5da476ccgca0eg46a8gbf3dgbfe2c4343787" version="1">Eilistraean Word</content>
   <content contentuid="h1b163398g3139g463cga3a0g2b9f17915f36" version="1">Heal a creature you can see.</content>
   <content contentuid="h653c41ivnonop6k5fjd5w6br3n8qt8qqdj3b" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; No effect on undead and constructs.</content>
   <content contentuid="hb24c36c5g3cedg4f48g9098g73e7c2086efb" version="1">If you move after making a melee attack, you don't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; from your target.</content>
   <content contentuid="h1cezs8v77hcjtf4g5x46ychyvc8u28jfeg3c" version="1">This effect still works if your attack misses.</content>
-  <content contentuid="hb3137566g45dbg49c3gac35g39e9d286dfda" version="1">Arcane Initiative</content>
+  <content contentuid="hb3137566g45dbg49c3gac35g39e9d286dfda" version="1">Eilistraean Initiative</content>
   <content contentuid="hb3e939dag71dcg409bgac55ge9bc9016376e" version="1">Sword Dancer Spell Slot Level One</content>
-  <content contentuid="hb777ae33g478fg4591g9941gfc4a3d2055b1" version="1">Arcane Mockery</content>
-  <content contentuid="h3522f4b1gfd3fg4708g84a9g68e7133d34a0" version="1">Can burn a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_GreenFlameBladeExtra"&gt;Spread Green Flame Blade&lt;/LSTag&gt;. Removed if you move.</content>
+  <content contentuid="hb777ae33g478fg4591g9941gfc4a3d2055b1" version="1">Eilistraean Mockery</content>
+  <content contentuid="h3522f4b1gfd3fg4708g84a9g68e7133d34a0" version="1">Can burn a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_MoonFireBladeExtra"&gt;Spread Green Flame Blade&lt;/LSTag&gt;. Removed if you move.</content>
   <content contentuid="htyaoyyg131x75h58r53ht2d0pf3cfolt1a3i" version="1">Can melt a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_CausticBladeExtra"&gt;Spread Caustic Blade&lt;/LSTag&gt;. Removed if you move.</content>
   <content contentuid="hhtltqjypoopv0x5go6tkluptf7nk89gdl7hy" version="1">Can freeze a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_IcewindBladeExtra"&gt;Spread Icewind Blade&lt;/LSTag&gt;. Removed if you move.</content>
   <content contentuid="hd3ni3trdmm0bhjnubklaeu15mrpt16yzypld" version="1">Can necrotize a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_NecroticBladeExtra"&gt;Spread Necrotic Blade&lt;/LSTag&gt;. Removed if you move.</content>
@@ -314,8 +323,8 @@
   <content contentuid="hf6762524g976dg47b1g9ddeg094738301a35" version="1">Speak with Animals</content>
   <content contentuid="hbdfb1160g8a27g4a6dg8416gd750cd35c098" version="1">Your confidence propels you into battle. You can give yourself a bonus to your initiative rolls equal to your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; </content>
   <content contentuid="hbe73661fge65bg47acg8547gd7a327a282f3" version="1">Triple allies within [1] jumping distance.</content>
-  <content contentuid="hbee27d43g9926g45c6gaf88g79217a6aec99" version="1">Arcane Image</content>
-  <content contentuid="hbf829dd6gbb18g4af2g86b6g2f786c838da8" version="1">Arcane Jump</content>
+  <content contentuid="hbee27d43g9926g45c6gaf88g79217a6aec99" version="1">Eilistraean Image</content>
+  <content contentuid="hbf829dd6gbb18g4af2g86b6g2f786c838da8" version="1">Eilistraean Jump</content>
   <content contentuid="h327d9b8aga2e5g4e4aga72fg3b33b05aa88c" version="1">Attack Cantrip Helper</content>
   <content contentuid="hed79c58eg47e3g4eecg824ag129be8e67693" version="1">Summon blades to damage enemies</content>
   <content contentuid="hsymvl59s23yqtov8cpm81lymnzngco5z6778" version="1">Summon Sword Dancers sweep at creatures within [1] of you.</content>
@@ -344,21 +353,21 @@
   <content contentuid="hd361a44dg6327g4b1agb1a3g501be341ce5b" version="1">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with Light Armour and in the Performance skill. You also gain Proficiency with Daggers, Sickles, Shortswords, Rapiers, Scimitars, and Longswords.</content>
   <content contentuid="h78b921f5g6dc8g4d95ga61fgdf204f8e54e0" version="1">The mirror image distracts attackers, increasing the spellcaster's &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 3. When the caster successfully evades an attack, one of the images disappears.</content>
   <content contentuid="hd3cbf498g356cg44d3g952bg6f3096720f8c" version="1">Nullify another creature's spell as a reaction. The spell must be 3rd Level or lower. If it is higher than [1] you must succeed a &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; to nullify it, the difficulty of which is based on the spell's Level.</content>
-  <content contentuid="hiznqdqwua8esbmq2mvurdlnmc9eklrl5mpfc" version="1">Arcane Counter Success</content>
+  <content contentuid="hiznqdqwua8esbmq2mvurdlnmc9eklrl5mpfc" version="1">Eilistraean Counter Success</content>
   <content contentuid="hd42770ccg5605g4b33gb09eg55f66a42bf93" version="1">Insult a creature: it has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on its next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;. Targets allies within [1] new to make a save or &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; with laughter, without the ability to get up.</content>
-  <content contentuid="hd55c7fdbgbb05g4f70g8a2bgdb1fdedc091a" version="1">Arcane Cunning</content>
+  <content contentuid="hd55c7fdbgbb05g4f70g8a2bgdb1fdedc091a" version="1">Eilistraean Cunning</content>
   <content contentuid="hd5feba73gb2fag44bfgaaf3g8d813754f699" version="1">All the time spent practicing with blades, spells and sleight of hand has paid off. You gain an additional bonus and reaction action.</content>
-  <content contentuid="hd70b74edgbfa8g4c53g8184g677ac65d17fd" version="1">Arcane Hands</content>
+  <content contentuid="hd70b74edgbfa8g4c53g8184g677ac65d17fd" version="1">Eilistraean Hands</content>
   <content contentuid="ha5ea1709g90b2g453cg9a3fg7c1a822d68f9" version="1">Attack Cantrip (Once)</content>
   <content contentuid="hefd823e0g0dcbg4625ga9e5g5757a4873b84" version="1">Blade Barrier</content>
-  <content contentuid="hd8c13b92gcdabg48faga6b5g6573b7106832" version="1">Arcane Counter</content>
-  <content contentuid="hae8a7661g222cg4f61gb8dbg60a6d06ff5ea" version="1">Mass Arcane Word</content>
-  <content contentuid="hb798a19ag01e9g48dcg9ab7g8bdb8274edbc" version="1">Cannot be targeted by &lt;LSTag Type="Spell" Tooltip="Target_GreenFlameBladeExtra"&gt;Spread Green Flame Blade&lt;/LSTag&gt;.</content>
+  <content contentuid="hd8c13b92gcdabg48faga6b5g6573b7106832" version="1">Eilistraean Counter</content>
+  <content contentuid="hae8a7661g222cg4f61gb8dbg60a6d06ff5ea" version="1">Mass Eilistraean Word</content>
+  <content contentuid="hb798a19ag01e9g48dcg9ab7g8bdb8274edbc" version="1">Cannot be targeted by &lt;LSTag Type="Spell" Tooltip="Target_MoonFireBladeExtra"&gt;Spread Green Flame Blade&lt;/LSTag&gt;.</content>
   <content contentuid="ho25392a3rsmzjtl8g4m0jc7sfcg7lgt6c146" version="1">Cannot be targeted by &lt;LSTag Type="Spell" Tooltip="Target_CausticBladeExtra"&gt;Spread Caustic Blade&lt;/LSTag&gt;.</content>
   <content contentuid="hqm9nrj9ye5rl8poecufr9phh5oxc3ecsfur9" version="1">Cannot be targeted by &lt;LSTag Type="Spell" Tooltip="Target_IcewindBladeExtra"&gt;Spread Icewind Blade&lt;/LSTag&gt;.</content>
   <content contentuid="hjos1y9gq9plm775kzkdif8qpd6chngiraghh" version="1">Cannot be targeted by &lt;LSTag Type="Spell" Tooltip="Target_NecroticBladeExtra"&gt;Spread Necrotic Blade&lt;/LSTag&gt;.</content>
   <content contentuid="hac846208g3593g4071g95ebg3032f00371fb" version="1">Creatures that approach the barrier are slit and sliced and cut and carved like so much meat on a blood-grouted block. </content>
-  <content contentuid="hdd5b8d00g1b76g498cg93c4g3b74f2928d4a" version="1">Arcane Distracting Strike</content>
+  <content contentuid="hdd5b8d00g1b76g498cg93c4g3b74f2928d4a" version="1">Eilistraean Distracting Strike</content>
   <content contentuid="h813a82a7gb9e8g4d69gb79bg1f5993a7f660" version="1">Green-Flame Blade (Once)</content>
   <content contentuid="hrpfkl8owdb0843e6kygexpjpks46pvhde2bv" version="1">Caustic Blade (Once)</content>
   <content contentuid="he8tb8ilxeq9j8p5bbrceadfelagc2f80805t" version="1">Icewind Blade (Once)</content>
@@ -376,7 +385,7 @@
   <content contentuid="h389e07f7gbfdbg4e99ga23fgc352c05b1658" version="1">Grant a semblance of life to a humanoid corpse, allowing it to answer up to 5 questions.</content>
   <content contentuid="hf02e8af8g105bg4dd0gb7eagc9d76f1d9959" version="1">During Sword Dancer Song, Cleave your weapon in a rapid, sweeping arc to attack multiple enemies at once.</content>
   <content contentuid="hf1d94f30g949bg4c8eg836cg7b688cda78f8" version="1">Sword Dancersinging impeded due to being unarmed. Until a valid weapon is equipped, your &lt;LSTag Type="Status" Tooltip="BLADESONG"&gt;Sword Dancer Song&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="BLADESONG_TECHINCAL"&gt;Sword Dancer Song Charges&lt;/LSTag&gt;.</content>
-  <content contentuid="hf6d26065g1663g4b50g9869g53cc6f87df66" version="1">Arcane Cleave Attack</content>
+  <content contentuid="hf6d26065g1663g4b50g9869g53cc6f87df66" version="1">Eilistraean Cleave Attack</content>
   <content contentuid="h90355806g354dg4df9gbe99g24a27811a889" version="1">Booming Blade</content>
   <content contentuid="hiiqy500yqrtak14d4ms7csa1t89wicbj5s0v" version="1">Divine Blade</content>
   <content contentuid="hn1gmh1x4prky2ro1mon06njip5ipodshzv3f" version="1">Psionic Blade</content>
@@ -384,7 +393,7 @@
   <content contentuid="hfcc3686bg9128g4b6ag8d5eg79db57330e93" version="1">Also works if you have an ally within [1] of the target or there is no one but you and within [1] of the target. However you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
   <content contentuid="h28f519b8g00d5g4d5bg92e4gb23d2842d33e" version="1">Can only cast Blade Extra Attack once per action.</content>
   <content contentuid="hfcf76d77g1ec8g47e6gaef1gaf3e03a6ba82" version="1">Sword Dancersinging</content>
-  <content contentuid="hfdc38bbbg603cg46c9gbd00gb687292a2970" version="1">Arcane Action</content>
+  <content contentuid="hfdc38bbbg603cg46c9gbd00gb687292a2970" version="1">Eilistraean Action</content>
   <content contentuid="h73bee451g2bd3g4ee0gaac2gd5ee1dc5244b" version="1">Affect an additional target per level.</content>
   <content contentuid="h2b1ff176g3871g40c4ga926g109412a37ce8" version="1">Deals an additional [1] per level.</content>
   <content contentuid="hbe07fb88g37c6g4cb6g9115gee976a7f1935" version="1">Casting this spell at a higher level doesn't grant any additional benefits.</content>

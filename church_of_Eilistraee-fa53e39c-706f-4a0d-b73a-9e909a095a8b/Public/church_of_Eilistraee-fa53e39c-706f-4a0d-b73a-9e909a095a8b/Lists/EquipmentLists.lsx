@@ -5,9 +5,19 @@
     <node id="root">
       <children>
         <node id="EquipmentList">
-          <attribute id="Items" type="LSString" value="WPN_Dagger;WPN_Sickle;WPN_Shortsword;WPN_Rapier;WPN_Scimitar;WPN_Longsword"/>
-          <attribute id="Name" type="FixedString" value="ArcaneBladeWeapons"/>
+          <attribute id="Items" type="LSString" value="WPN_Dagger;WPN_Shortsword;WPN_Rapier;WPN_Scimitar;WPN_Longsword"/>
+          <attribute id="Name" type="FixedString" value="EilistraeanWeapons"/>
           <attribute id="UUID" type="guid" value="f372063f-130d-49cc-9311-220c0906cd79"/>
+        </node>
+        <node id="EquipmentList">
+          <attribute id="Items" type="LSString" value="WPN_Dagger;WPN_Shortsword;WPN_Rapier;WPN_Scimitar;WPN_Longsword;WPN_Greatsword"/>
+          <attribute id="Name" type="FixedString" value="EilistraeanWeaponsGreat"/>
+          <attribute id="UUID" type="guid" value="074f2089-3887-427d-9f3a-cde1033c0385"/>
+        </node>
+        <node id="EquipmentList">
+          <attribute id="Items" type="LSString" value="ARM_Instrument_Flute;ARM_Instrument_Lute;ARM_Instrument_Lyre;"/>
+          <attribute id="Name" type="FixedString" value="EilistraeanInstruments"/>
+          <attribute id="UUID" type="guid" value="a7cfcf8f-21da-4edd-9a12-b02df197df45"/>
         </node>
       </children>
     </node>

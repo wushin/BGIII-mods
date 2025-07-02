@@ -23,63 +23,63 @@
     <node id="root">
       <children>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_BoomingBlade"/>
+          <attribute id="MapKey" type="FixedString" value="empty_1"/>
           <attribute id="U1" type="float" value="0.0"/>
           <attribute id="U2" type="float" value="0.25"/>
           <attribute id="V1" type="float" value="0.0"/>
           <attribute id="V2" type="float" value="0.25"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_GreenFlameBlade"/>
+          <attribute id="MapKey" type="FixedString" value="Spell_Eilistraean_MoonFireBlade"/>
           <attribute id="U1" type="float" value="0.25"/>
           <attribute id="U2" type="float" value="0.5"/>
           <attribute id="V1" type="float" value="0.0"/>
           <attribute id="V2" type="float" value="0.25"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_PsionicBlade"/>
+          <attribute id="MapKey" type="FixedString" value="empty_2"/>
           <attribute id="U1" type="float" value="0.5"/>
           <attribute id="U2" type="float" value="0.75"/>
           <attribute id="V1" type="float" value="0.0"/>
           <attribute id="V2" type="float" value="0.25"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_CausticBlade"/>
+          <attribute id="MapKey" type="FixedString" value="empty_3"/>
           <attribute id="U1" type="float" value="0.75"/>
           <attribute id="U2" type="float" value="1.0"/>
           <attribute id="V1" type="float" value="0.0"/>
           <attribute id="V2" type="float" value="0.25"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_DivineBlade"/>
+          <attribute id="MapKey" type="FixedString" value="empty_4"/>
           <attribute id="U1" type="float" value="0.0"/>
           <attribute id="U2" type="float" value="0.25"/>
           <attribute id="V1" type="float" value="0.25"/>
           <attribute id="V2" type="float" value="0.5"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_IcewindBlade"/>
+          <attribute id="MapKey" type="FixedString" value="empty_5"/>
           <attribute id="U1" type="float" value="0.25"/>
           <attribute id="U2" type="float" value="0.5"/>
           <attribute id="V1" type="float" value="0.25"/>
           <attribute id="V2" type="float" value="0.5"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_NecroticBlade"/>
+          <attribute id="MapKey" type="FixedString" value="empty_6"/>
           <attribute id="U1" type="float" value="0.5"/>
           <attribute id="U2" type="float" value="0.75"/>
           <attribute id="V1" type="float" value="0.25"/>
           <attribute id="V2" type="float" value="0.5"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Spell_Arcane_ShockingBlade"/>
+          <attribute id="MapKey" type="FixedString" value="empty_7"/>
           <attribute id="U1" type="float" value="0.75"/>
           <attribute id="U2" type="float" value="1.0"/>
           <attribute id="V1" type="float" value="0.25"/>
           <attribute id="V2" type="float" value="0.5"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Icon_BladeRitual"/>
+          <attribute id="MapKey" type="FixedString" value="Icon_SpellSong"/>
           <attribute id="U1" type="float" value="0.0"/>
           <attribute id="U2" type="float" value="0.25"/>
           <attribute id="V1" type="float" value="0.5"/>
@@ -100,7 +100,7 @@
           <attribute id="V2" type="float" value="0.75"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Icon_ArcaneDexterity"/>
+          <attribute id="MapKey" type="FixedString" value="Icon_EilistraeanDexterity"/>
           <attribute id="U1" type="float" value="0.75"/>
           <attribute id="U2" type="float" value="1.0"/>
           <attribute id="V1" type="float" value="0.5"/>

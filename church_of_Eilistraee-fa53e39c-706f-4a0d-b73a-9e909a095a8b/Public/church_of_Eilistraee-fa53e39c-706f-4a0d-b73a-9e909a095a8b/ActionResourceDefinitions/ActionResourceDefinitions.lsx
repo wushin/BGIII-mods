@@ -18,7 +18,7 @@
           <attribute id="Description" type="TranslatedString" handle="hx8saho0kx6idqs94xrj86fdoq62aefpkyup4" version="1"/>
           <attribute id="DisplayName" type="TranslatedString" handle="hiwxdxnjgphlxnp8h7qxfzl2gwfu6grobvk6o" version="1"/>
           <attribute id="MaxLevel" type="uint32" value="6"/>
-          <attribute id="Name" type="FixedString" value="BladeRitual"/>
+          <attribute id="Name" type="FixedString" value="SpellSong"/>
           <attribute id="ReplenishType" type="FixedString" value="ShortRest"/>
           <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
           <attribute id="UUID" type="guid" value="880a1bb8-ce03-4f48-b4c9-0cab88122c81"/>

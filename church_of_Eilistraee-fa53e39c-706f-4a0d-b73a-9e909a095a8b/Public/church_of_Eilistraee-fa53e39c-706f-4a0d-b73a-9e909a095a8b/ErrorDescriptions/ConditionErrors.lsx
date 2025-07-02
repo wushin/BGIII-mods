@@ -7,25 +7,25 @@
                 <node id="ConditionErrors">
                     <attribute id="DisplayName" type="TranslatedString" handle="h18xxywgfpq99g7612urdf3cx2c3ipc9wdvqi" version="1"/>
                     <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
-                    <attribute id="Identifier" type="FixedString" value="HasMultipleArcaneBladeSongIssues"/>
+                    <attribute id="Identifier" type="FixedString" value="HasMultipleEilistraeanBladeSongIssues"/>
                     <attribute id="UUID" type="guid" value="389327c6-f93e-4452-815f-471bd083703e"/>
                 </node>
                 <node id="ConditionErrors">
                     <attribute id="DisplayName" type="TranslatedString" handle="hzvgbqtnvfy0np484squ047fldihbdxb6jggv" version="1"/>
                     <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
-                    <attribute id="Identifier" type="FixedString" value="HasNotArcaneBladesongWeapon"/>
+                    <attribute id="Identifier" type="FixedString" value="HasNotEilistraeanBladesongWeapon"/>
                     <attribute id="UUID" type="guid" value="d4f6531d-11bb-4b11-8fd7-36c2ed0255bd"/>
                 </node>
                 <node id="ConditionErrors">
                     <attribute id="DisplayName" type="TranslatedString" handle="h5g2gzv4vjn5edu73a8r0t34zafj7p0k8n40d" version="1"/>
                     <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
-                    <attribute id="Identifier" type="FixedString" value="HasNotArcaneBladesongRanged"/>
+                    <attribute id="Identifier" type="FixedString" value="HasNotEilistraeanBladesongRanged"/>
                     <attribute id="UUID" type="guid" value="f8f72eb8-6c24-4993-9702-5bb1350c1b6e"/>
                 </node>
                 <node id="ConditionErrors">
                     <attribute id="DisplayName" type="TranslatedString" handle="htfz1sh1bcl1s38rxiw6u9znogp8g1go9c0q5" version="1"/>
                     <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
-                    <attribute id="Identifier" type="FixedString" value="HasNotArcaneBladesongArmor"/>
+                    <attribute id="Identifier" type="FixedString" value="HasNotEilistraeanBladesongArmor"/>
                     <attribute id="UUID" type="guid" value="6d1b6aca-ace7-422c-9019-929faa897567"/>
                 </node>
             </children>

@@ -1,9 +1,9 @@
-function ArcaneBladeSongAttackCheck()
+function EilistraeanBladeSongAttackCheck()
     return HasStringInSpellRoll('WeaponAttack') | HasStringInSpellRoll('UnarmedAttack') | HasStringInSpellRoll('ThrowAttack') | SpellId('Target_CommandersStrike') | SpellId('Target_Bufotoxin_Frog_Summon') | SpellId('Projectile_ArrowOfSmokepowder')
 end
 
-function ArcaneBladeSongAvaliable(entity)
-    local hasbladesong = HasStatus('ARCANEBLADESONG')
+function EilistraeanBladeSongAvaliable(entity)
+    local hasbladesong = HasStatus('EilistraeanBLADESONG')
     if hasbladesong.Result then 
         return ~hasbladesong
     end
@@ -23,25 +23,25 @@ function ArcaneBladeSongAvaliable(entity)
     if hasshield.Result then count = count + 1 end
     
     if count >= 2 then
-        return ConditionResult(false, {ConditionError("HasMultipleArcaneBladeSongIssues")})
+        return ConditionResult(false, {ConditionError("HasMultipleEilistraeanBladeSongIssues")})
     end
     
     if not hasbladesongweapon.Result then
-        return ConditionResult(false, {ConditionError("HasNotArcaneBladesongWeapon")})
+        return ConditionResult(false, {ConditionError("HasNotEilistraeanBladesongWeapon")})
     end
     
     if hasnoranged.Result then
-        return ConditionResult(false, {ConditionError("HasNotArcaneBladesongRanged")})
+        return ConditionResult(false, {ConditionError("HasNotEilistraeanBladesongRanged")})
     end
     
     if hasarmor.Result then
-        return ConditionResult(false, {ConditionError("HasNotArcaneBladesongArmor")})
+        return ConditionResult(false, {ConditionError("HasNotEilistraeanBladesongArmor")})
     end  
     
     return ~hasshield
 end
 
-function HasArcaneBladeSongClimaxBlocked()
-    result = HasStatus('ARCANEBLADESONG_ARMOR_MESSAGE') | HasStatus('ARCANEBLADESONG_SHIELD_MESSAGE') | HasStatus('ARCANEBLADESONG_WEAPON_MESSAGE') | HasStatus('ARCANEBLADESONG_UNARMED_MESSAGE') | HasStatus('ARCANEBLADESONG_SHIELD')
+function HasEilistraeanBladeSongClimaxBlocked()
+    result = HasStatus('EilistraeanBLADESONG_ARMOR_MESSAGE') | HasStatus('EilistraeanBLADESONG_SHIELD_MESSAGE') | HasStatus('EilistraeanBLADESONG_WEAPON_MESSAGE') | HasStatus('EilistraeanBLADESONG_UNARMED_MESSAGE') | HasStatus('EilistraeanBLADESONG_SHIELD')
     return ConditionResult(result.Result, {ConditionError("BladesongClimaxNotBlocked")}, {ConditionError("BladesongClimaxBlocked")})
 end

@@ -5,7 +5,7 @@
     <node id="root">
       <children>
         <node id="SkillList">
-          <attribute id="Name" type="FixedString" value="Arcane Blade Skill List"/>
+          <attribute id="Name" type="FixedString" value="Eilistraean Skill List"/>
           <attribute id="Skills" type="LSString" value="Acrobatics, Athletics, Insight, Investigation, Perception, Performance, Persuasion, SleightOfHand, Stealth, Survival"/>
           <attribute id="UUID" type="guid" value="23c1343d-83cf-4a44-a3c3-1897c058d517"/>
         </node>
