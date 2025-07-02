@@ -116,3 +116,5 @@ data "CastSound" "Action_Cast_Fighter_WeaponBond"
 data "SpellFlags" "IsSpell;HasVerbalComponent;HasSomaticComponent;"
 data "UseCosts" "SpellSong:1"
 data "RitualCost" "SpellSong:1"
+
+// Add Song Of Rest 80225e21-5acd-4122-b779-488dae33a31c Shout_SongOfRest
