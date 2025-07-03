@@ -5,7 +5,7 @@
     <node id="root">
       <children>
         <node id="DefaultValue">
-          <attribute id="Add" type="LSString" value="Target_BoomingBladeMove;Target_MoonFireBlade;Target_IcewindBlade;Target_CausticBlade;Target_EilistraeanMockery;Shout_EilistraeanWard;"/>
+          <attribute id="Add" type="LSString" value="Target_MoonFireBlade;Target_EilistraeanMockery;Shout_EilistraeanWard;"/>
           <attribute id="Level" type="int32" value="1"/>
           <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
           <attribute id="UUID" type="guid" value="5adf5332-75c2-4c13-b88b-56c60627cb52"/>

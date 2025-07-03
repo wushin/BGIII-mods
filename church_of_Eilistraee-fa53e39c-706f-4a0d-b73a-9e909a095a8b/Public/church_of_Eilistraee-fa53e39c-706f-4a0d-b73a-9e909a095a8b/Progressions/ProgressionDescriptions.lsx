@@ -7,7 +7,7 @@
         <node id="ProgressionDescription">
           <attribute id="Description" type="TranslatedString" handle="h826a670eg6980g4df8g8320g2f1cd9b2652c" version="1"/>
           <attribute id="DisplayName" type="TranslatedString" handle="h8fc45cdbg1e6fg4aaeg8b14g7b0c79193026" version="1"/>
-          <attribute id="ExactMatch" type="FixedString" value="EilistraeanBlade"/>
+          <attribute id="ExactMatch" type="FixedString" value="SwordDancer"/>
           <attribute id="ProgressionTableId" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
           <attribute id="UUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
         </node>

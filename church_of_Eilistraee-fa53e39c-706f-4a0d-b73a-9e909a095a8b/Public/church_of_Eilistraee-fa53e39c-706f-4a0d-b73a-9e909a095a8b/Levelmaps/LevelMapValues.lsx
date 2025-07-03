@@ -26,7 +26,7 @@
           <attribute id="Level18" type="LSString" value="5d4"/>
           <attribute id="Level19" type="LSString" value="5d4"/>
           <attribute id="Level20" type="LSString" value="5d4"/>
-          <attribute id="Name" type="FixedString" value="EilistraeanBladeDmg"/>
+          <attribute id="Name" type="FixedString" value="EilistraeanSongDmg"/>
           <attribute id="UUID" type="guid" value="0a0d52ca-2b53-4b13-a557-0c85dc48fadd"/>
         </node>
         <node id="LevelMapSeries">
@@ -51,7 +51,7 @@
           <attribute id="Level18" type="LSString" value="6"/>
           <attribute id="Level19" type="LSString" value="6"/>
           <attribute id="Level20" type="LSString" value="6"/>
-          <attribute id="Name" type="FixedString" value="EilistraeanBladeProg"/>
+          <attribute id="Name" type="FixedString" value="EilistraeanSongProg"/>
           <attribute id="UUID" type="guid" value="8f137943-cb5a-4724-bf14-9d98ca9facac"/>
         </node>
       </children>

@@ -44,12 +44,12 @@
   <content contentuid="h88zrr0lutd86jiy3e9txys74rsrgvzw312i6" version="1">Ritually bound to its wielder. &lt;br&gt;&lt;br&gt;The weapon can't be knocked out of the wielder's hand, and automatically returns to the wielder when &lt;LSTag Type="Spell" Tooltip="Throw_Throw"&gt;Thrown&lt;/LSTag&gt;.</content>
   <content contentuid="h8e61ee08g724ag42dbgbf8bg73cb80bb2c66" version="1">Sneak Attack (Critical Hit) : Eilistraean</content>
   <content contentuid="h2d774af3gd5b6g4e19gb39bgd282a4b10527" version="1">Sword Dancer Song Charge</content>
-  <content contentuid="he0h9vdgbyohqxxm244ndnwqmst1tx6c41oj5" version="1">Charges that can be accumulated for the &lt;LSTag Type="Spell" Tooltip="Projectile_EilistraeanBladeSong_Finisher"&gt;Sword Dancersong Climax&lt;/LSTag&gt; while Sword Dancersinging. Attacking with a weapon grants a &lt;LSTag Type="Status" Tooltip="EilistraeanBLADESONG_CHARGE"&gt;Sword Dancersong Charge&lt;/LSTag&gt;. In addition to gaining Acrane Blade Spell Slots.</content>
+  <content contentuid="he0h9vdgbyohqxxm244ndnwqmst1tx6c41oj5" version="1">Charges that can be accumulated for the &lt;LSTag Type="Spell" Tooltip="Projectile_EilistraeanBladeSong_Finisher"&gt;Sword Dancersong Climax&lt;/LSTag&gt; while Sword Dancersinging. Attacking with a weapon grants a &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_CHARGE"&gt;Sword Dancersong Charge&lt;/LSTag&gt;. In addition to gaining Acrane Blade Spell Slots.</content>
   <content contentuid="h2e7b78a6g87a7g4910gb830g431368a24fd1" version="1">Eilistraean Fall</content>
   <content contentuid="h2eef0206g3201g427agabd0g3556b40d985d" version="1">Eilistraean Cleave</content>
   <content contentuid="h319193c0g7bc4g47f9g8f88g87d59140852a" version="1">Increase allies within [1] &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; by [2]</content>
   <content contentuid="h34a2dee9g267dg42e5gb9ecgdcb9c3e96093" version="1">End Sword Dancer Song</content>
-  <content contentuid="h36dad42bgcc72g43dcgbcacg67b935462720" version="1">You also unlock your Sword Dancer Maneuvers and &lt;LSTag Type="Spell" Tooltip="Projectile_Sword Dancer Song_Finisher"&gt;Sword Dancer Song Climax&lt;/LSTag&gt; and the ability to accumulate &lt;LSTag Type="Status" Tooltip="EilistraeanBLADESONG_TECHINCAL"&gt;Sword Dancer Song Charges&lt;/LSTag&gt; in combat.</content>
+  <content contentuid="h36dad42bgcc72g43dcgbcacg67b935462720" version="1">You also unlock your Sword Dancer Maneuvers and &lt;LSTag Type="Spell" Tooltip="Projectile_Sword Dancer Song_Finisher"&gt;Sword Dancer Song Climax&lt;/LSTag&gt; and the ability to accumulate &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_BLADESONG_TECHINCAL"&gt;Sword Dancer Song Charges&lt;/LSTag&gt; in combat.</content>
   <content contentuid="h798d708cgfbdag4a53g9fecgd0765856b836" version="1">Booming Blade Critical: Reaction</content>
   <content contentuid="h4strl3yvqxqnz1q6m11wy2dlwli4jpgwr4cm" version="1">Divine Blade Critical: Reaction</content>
   <content contentuid="hylk49bzpwgofye937lgd1mubmylcqbvngxjd" version="1">Psionic Blade Critical: Reaction</content>
@@ -65,7 +65,7 @@
   <content contentuid="h8ec328aagf460g45f8g93ddgd3bb43102b0b" version="1">Also works if you have an ally within [1] of the target or there is no one but you and the target within [1] but for both you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
   <content contentuid="hbf30c62cg082cg4263g89c8g83bcb67e6900" version="1">Reaction</content>
   <content contentuid="h7947189agd31ag488egb2eag41249c52f2a5" version="1">This reaction will trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;.</content>
-  <content contentuid="h4aa671b5gc52eg4de9gafe6gb08bd3b97f6e" version="1">Unleash the full damaging and healing effects of your Sword Dancer Song at once. Your &lt;LSTag Type="Status" Tooltip="EilistraeanBLADESONG_CHARGE"&gt;Sword Dancer Song Charges&lt;/LSTag&gt; will harm enemies an additional [1], and will heal you and your allies an additional [2].</content>
+  <content contentuid="h4aa671b5gc52eg4de9gafe6gb08bd3b97f6e" version="1">Unleash the full damaging and healing effects of your Sword Dancer Song at once. Your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_CHARGE"&gt;Sword Dancer Song Charges&lt;/LSTag&gt; will harm enemies an additional [1], and will heal you and your allies an additional [2].</content>
   <content contentuid="h0ac23424g1193g4797g88a6g1df2f25cefdd" version="1">Booming Blade: Sneak Attack</content>
   <content contentuid="h2cxyr765mcili22c1sv7e46228fiehvrz5kt" version="1">Divine Blade: Sneak Attack</content>
   <content contentuid="hx23lstzpuxp0kjlxd9r4e7lhaisc0rvmf7x3" version="1">Psionic Blade: Sneak Attack</content>
@@ -147,7 +147,7 @@
   <content contentuid="h54hsgtsnbpdjl1mfszut1pryxxwretqwar1q" version="1">Takes Lightning damage upon moving.</content>
   <content contentuid="h7da8fab0g4dbbg4888gb7d9g61c798217f57" version="1">You learn Eilistraean Actions &lt;LSTag Type="Spell" Tooltip="Shout_EilistraeanHide"&gt;Eilistraean Hide&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Shout_EilistraeanDash"&gt;Eilistraean Dash&lt;/LSTag&gt;.</content>
   <content contentuid="hb907b24agb1b6g456eg95f2g9e7c9b7d8ab5" version="1">Conjure a cloud of spinning daggers that attack anyone inside.</content>
-  <content contentuid="h7df25f89g62a0g44b2g98a8g223e05178eef" version="1">This will end your &lt;LSTag Type="Status" Tooltip="EilistraeanBLADESONG"&gt;Sword Dancer Song&lt;/LSTag&gt;.</content>
+  <content contentuid="h7df25f89g62a0g44b2g98a8g223e05178eef" version="1">This will end your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_BLADESONG"&gt;Sword Dancer Song&lt;/LSTag&gt;.</content>
   <content contentuid="h7eb5ccd1g99d1g4aa1gad7bg0608091830e1" version="1">Eilistraean Trip Attack</content>
   <content contentuid="hfe280cf0ga4a4g44b2g98cagf6214e7471c0" version="1">Green-Flame Trip Attack</content>
   <content contentuid="he4cc5482gc412g4d0bg9fc3gbe77ec454f7f" version="1">Caustic Trip Attack</content>
@@ -302,7 +302,7 @@
   <content contentuid="ha9c8d475gedc0g4760gadd5g1dc647dbb500" version="1">Eilistraean Charger</content>
   <content contentuid="hac9f8fcbg3a64g49ebg8dafg77d7261cf448" version="1">Your hands have become infused with the weave and anticipate your movements. You gain an additional action.</content>
   <content contentuid="h2df5e4aag322ag45d9gadceg89cd7cdd9bf6" version="1">Gain the ability to comprehend and communicate with beasts.</content>
-  <content contentuid="hadf84c5bg3db5g4c09gaf65ge38b304fb6d3" version="1">Sword Dancersinging impeded by a shield. Until the shield is removed, your &lt;LSTag Type="Status" Tooltip="BLADESONG"&gt;Sword Dancer Song&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="EilistraeanBLADESONG_TECHINCAL"&gt;Sword Dancer Song Charges&lt;/LSTag&gt;.</content>
+  <content contentuid="hadf84c5bg3db5g4c09gaf65ge38b304fb6d3" version="1">Sword Dancersinging impeded by a shield. Until the shield is removed, your &lt;LSTag Type="Status" Tooltip="BLADESONG"&gt;Sword Dancer Song&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_BLADESONG_TECHINCAL"&gt;Sword Dancer Song Charges&lt;/LSTag&gt;.</content>
   <content contentuid="hafc47e90g3c61g4e12g8981g3deb31177522" version="1">Swing your weapon in a large arc to attack up to [1] enemies at once.</content>
   <content contentuid="hb0218f3dgb466g4627gb91bga9f69afb5e3f" version="1">Make an attack that deals an additional [1] damage and possibly forces the target to drop the weapons they are holding.</content>
   <content contentuid="h5da476ccgca0eg46a8gbf3dgbfe2c4343787" version="1">Eilistraean Word</content>
