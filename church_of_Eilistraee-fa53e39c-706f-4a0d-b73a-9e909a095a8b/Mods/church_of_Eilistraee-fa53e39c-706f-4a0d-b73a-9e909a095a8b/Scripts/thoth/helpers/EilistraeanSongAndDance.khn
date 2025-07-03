@@ -3,23 +3,40 @@ function EilistraeanSongAttackCheck()
 end
 
 function EilistraeanSongAvaliable(entity)
-    local hasbladesong = HasStatus('EILISTRAEAN')
+    local hasbladesong = HasStatus('EILISTRAEAN_SONG')
     if hasbladesong.Result then 
         return ~hasbladesong
     end
     entity = entity or context.Target
+    local sworddancer = entity.GetClassLevel('SwordDancer')
+    local silverhair = entity.GetClassLevel('SilverhairKnight')
+    local darksong = entity.GetClassLevel('DarksongKnight')
+    local protector = entity.GetClassLevel('ProtectorOfTheSong')
+
     local hasbladesongweapon = IsWeaponOfProficiencyGroup('Daggers|Sickles|Shortswords|Rapiers|Scimitars|Longswords', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand))
     local hasnoranged = IsWeaponOfProficiencyGroup('HandCrossbows|HeavyCrossbows|LightCrossbows|Longbows|Shortbows', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand))
     local armor = GetActiveArmor(entity)
     local clotharmor = ConditionResult(armor.ArmorType == ArmorType.Cloth)
     local noarmor = WearingArmor(context.Source)
-    local hasarmor = clotharmor | noarmor
     local hasshield = HasShieldEquipped(context.Source)
 
     local count = 0
+    if sworddancer >= 1 then
+        local hasarmor = clotharmor | noarmor
+        if ~hasarmor then count = count + 1 end
+        if hasnoranged.Result then count = count + 1 end
+    elseif silverhair >= 1 then
+        local hasarmor = clotharmor | noarmor
+        if ~hasarmor then count = count + 1 end
+    elseif darksong >= 1 then
+        local hasarmor = HasHeavyArmor(context.Source) | HasMediumArmor(context.Source)
+        if hasarmor.Result then count = count + 1 end
+    elseif protector >= 1 then
+        local hasarmor = HasHeavyArmor(context.Source) | HasMediumArmor(context.Source)
+        if hasarmor.Result then count = count + 1 end
+    end
+
     if not hasbladesongweapon.Result then count = count + 1 end
-    if hasnoranged.Result then count = count + 1 end
-    if ~hasarmor then count = count + 1 end
     if hasshield.Result then count = count + 1 end
     
     if count >= 2 then

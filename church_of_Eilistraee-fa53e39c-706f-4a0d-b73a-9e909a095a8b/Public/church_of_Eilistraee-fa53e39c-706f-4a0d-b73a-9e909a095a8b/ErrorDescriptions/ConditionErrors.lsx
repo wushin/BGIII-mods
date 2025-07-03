@@ -7,7 +7,7 @@
                 <node id="ConditionErrors">
                     <attribute id="DisplayName" type="TranslatedString" handle="h18xxywgfpq99g7612urdf3cx2c3ipc9wdvqi" version="1"/>
                     <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
-                    <attribute id="Identifier" type="FixedString" value="HasMultipleEilistraeanBladeSongIssues"/>
+                    <attribute id="Identifier" type="FixedString" value="HasMultipleEilistraeanSongIssues"/>
                     <attribute id="UUID" type="guid" value="389327c6-f93e-4452-815f-471bd083703e"/>
                 </node>
                 <node id="ConditionErrors">
