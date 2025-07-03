@@ -1,0 +1,7 @@
+new entry "SDOE_EternalDance"
+type "PassiveData"
+data "DisplayName" "h92cb2a92ge9abg4532gb47cg73e6c1ac4ba2"
+data "Description" "hc5eaeb7cg12abg4a60g9ed3ge66730e0e566"
+data "Icon" "SDOE_EternalDance"
+data "Properties" "Highlighted"
+data "Boosts" "AreaDamageEvade();StatusImmunity(SG_DifficultTerrain);Advantage(Skill,Acrobatics)"
