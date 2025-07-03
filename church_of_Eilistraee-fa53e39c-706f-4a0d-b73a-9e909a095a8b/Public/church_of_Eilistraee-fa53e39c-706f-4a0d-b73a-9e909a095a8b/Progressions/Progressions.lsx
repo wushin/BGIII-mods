@@ -148,7 +148,6 @@
           <attribute id="Level" type="uint8" value="10"/>
           <attribute id="Name" type="LSString" value="EilistraeanInitiate"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="PassivesAdded" type="LSString" value="SongOfDefense"/>
           <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
           <attribute id="UUID" type="guid" value="14398955-908b-4b38-93ba-000f76b233b5"/>
         </node>
@@ -167,7 +166,6 @@
           <attribute id="Level" type="uint8" value="12"/>
           <attribute id="Name" type="LSString" value="EilistraeanInitiate"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="PassivesAdded" type="LSString" value="SongOfDefense_6"/>
           <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
           <attribute id="UUID" type="guid" value="fc4f26c7-c2ca-4422-a929-0e62b68af3c8"/>
         </node>
@@ -488,7 +486,7 @@
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong"/>
           <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;BardSpellcasting"/>
           <attribute id="ProgressionType" type="uint8" value="1"/>
-          <attribute id="Selectors" type="LSString" value="SelectEquipment(f372063f-130d-49cc-9311-220c0906cd79,1,WarAndSong);SelectSpells(dcb45167-86bd-4297-9b9d-c295be51af5b,4,0,BardSpells);SelectSpells(2f43a103-5bf1-4534-b14f-663decc0c525,1,0,SDOE_ClericCantrip,Charisma,,AlwaysPrepared);AddSpells(78e673e1-0862-4178-8e50-0b8ff54bd751,SDOE,Charisma,,AlwaysPrepared)"/>
+          <attribute id="Selectors" type="LSString" value="SelectEquipment(f372063f-130d-49cc-9311-220c0906cd79,1,WarAndSong);SelectSpells(dcb45167-86bd-4297-9b9d-c295be51af5b,4,0,BardSpells);SelectSpells(2f43a103-5bf1-4534-b14f-663decc0c525,1,0,Eilistraean_ClericCantrip,Charisma,,AlwaysPrepared);AddSpells(78e673e1-0862-4178-8e50-0b8ff54bd751,SDOE,Charisma,,AlwaysPrepared)"/>
           <attribute id="TableUUID" type="guid" value="ee3f894e-fa8b-46d9-89bd-e34a1572b209"/>
           <attribute id="UUID" type="guid" value="ad90b9e9-37fa-419d-a827-6625bec706b9"/>
         </node>

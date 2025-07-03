@@ -37,7 +37,7 @@ new entry "EilistraeanSpellSongSlotOne"
 type "PassiveData"
 data "DisplayName" "hb3e939dag71dcg409bgac55ge9bc9016376e;1"
 data "Properties" "IsHidden"
-data "Boosts" "ActionResource(SpellSong,1,1)"
+data "Boosts" "ActionResource(SpellSong,1,1);UnlockSpell(SongOfDefense);"
 
 new entry "EilistraeanSpellSongSlotTwo"
 type "PassiveData"
