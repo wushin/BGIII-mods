@@ -13,20 +13,32 @@
                 <node id="ConditionErrors">
                     <attribute id="DisplayName" type="TranslatedString" handle="hzvgbqtnvfy0np484squ047fldihbdxb6jggv" version="1"/>
                     <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
-                    <attribute id="Identifier" type="FixedString" value="HasNotEilistraeanBladesongWeapon"/>
+                    <attribute id="Identifier" type="FixedString" value="HasNotEilistraeanSongWeapon"/>
                     <attribute id="UUID" type="guid" value="d4f6531d-11bb-4b11-8fd7-36c2ed0255bd"/>
                 </node>
                 <node id="ConditionErrors">
                     <attribute id="DisplayName" type="TranslatedString" handle="h5g2gzv4vjn5edu73a8r0t34zafj7p0k8n40d" version="1"/>
                     <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
-                    <attribute id="Identifier" type="FixedString" value="HasNotEilistraeanBladesongRanged"/>
+                    <attribute id="Identifier" type="FixedString" value="HasNotEilistraeanSongRanged"/>
                     <attribute id="UUID" type="guid" value="f8f72eb8-6c24-4993-9702-5bb1350c1b6e"/>
                 </node>
                 <node id="ConditionErrors">
                     <attribute id="DisplayName" type="TranslatedString" handle="htfz1sh1bcl1s38rxiw6u9znogp8g1go9c0q5" version="1"/>
                     <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
-                    <attribute id="Identifier" type="FixedString" value="HasNotEilistraeanBladesongArmor"/>
+                    <attribute id="Identifier" type="FixedString" value="HasNotEilistraeanSongArmor"/>
                     <attribute id="UUID" type="guid" value="6d1b6aca-ace7-422c-9019-929faa897567"/>
+                </node>
+                <node id="ConditionErrors">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hieepmifd124pa1fjv3el7c5j1r2fnkh2ks0n" version="1"/>
+                    <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
+                    <attribute id="Identifier" type="FixedString" value="EilistraeanSongClimaxBlocked"/>
+                    <attribute id="UUID" type="guid" value="56e56013-9658-4197-bbec-81545dd2edde"/>
+                </node>
+                <node id="ConditionErrors">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hrg26nwpxrz48ipmt83quvswnyscbbtcnuuiy" version="1"/>
+                    <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
+                    <attribute id="Identifier" type="FixedString" value="EilistraeanSongClimaxNotBlocked"/>
+                    <attribute id="UUID" type="guid" value="a9400225-12f6-455d-b574-a040dca258bc"/>
                 </node>
             </children>
         </node>

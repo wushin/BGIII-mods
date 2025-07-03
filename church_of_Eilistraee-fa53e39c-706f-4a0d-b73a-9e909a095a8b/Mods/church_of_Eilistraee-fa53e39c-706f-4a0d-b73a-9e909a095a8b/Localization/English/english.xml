@@ -30,7 +30,7 @@
   <content contentuid="h0b2fe3bege978g4a9agb4begbbf49492ec7e" version="1">This reaction won't trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Green-Flame Blade.</content>
   <content contentuid="h271fc951g0dd0g4100g93c4g284f3aaad296" version="1">This reaction won't trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Booming Blade.</content>
   <content contentuid="h185e568bg0bccg4f2ega9c1g69239d2aff17" version="1">Opportunity Attack</content>
-  <content contentuid="h18fc5297g5141g4625g9083g2ddbd588b8d6" version="1">Eilistraean Song Slot Level Three</content>
+  <content contentuid="h18fc5297g5141g4625g9083g2ddbd588b8d6" version="1">Eilistraean Spell Song Level Three</content>
   <content contentuid="h1ed988f1g4ad7g41bcga465gc04e6bb6e58c" version="1">Parry the next melee attack that hits you to reduce the damage by [1] + &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;.</content>
   <content contentuid="hb3325955g1a4fg43a2gb96eg59ccea931b15" version="1">Burn another enemy for [1].</content>
   <content contentuid="hyldn0ko1rbyanieg99nwi2gkgy19y2n0qwlg" version="1">Freeze another enemy for [1].</content>
@@ -54,7 +54,7 @@
   <content contentuid="hylk49bzpwgofye937lgd1mubmylcqbvngxjd" version="1">Psionic Blade Critical: Reaction</content>
   <content contentuid="h2jwwsu8x4jik898zbhsjc9q87zccrvaic7k4" version="1">Shocking Blade Critical: Reaction</content>
   <content contentuid="h6ae26f1dg9d43g441ag8f8cg36ede9cce52e" version="1">Eilistraean Step</content>
-  <content contentuid="h3ca76469g8a92g4888g9853gf2f6f422b762" version="1">Eilistraean Song Slot Level Four</content>
+  <content contentuid="h3ca76469g8a92g4888g9853gf2f6f422b762" version="1">Eilistraean Spell Song Level Four</content>
   <content contentuid="he41f1d3eg4574g4143g83b4gffae7ee47435" version="1">Skeletons and creatures killed with Acid, Fire, Lightning, Necrotic, or Radiant damage no longer have a mouth and can't be made to talk using this spell.&lt;br&gt;&lt;br&gt;Doesn't work on Undead. </content>
   <content contentuid="h59875e1bg7fe7g4349g9d4fgf287667d2c29" version="1">Attackers have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against this creature, unless they do not rely on sight or can see through illusions.</content>
   <content contentuid="h4c11d446g6813g49a5ga3e7g3f0c2c8b5154" version="1">Can only use Booming Blade once per action.</content>
@@ -81,6 +81,8 @@
   <content contentuid="he4ae8c45023pv70m5hfspaa7jrzx05z9rflk" version="1">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in psionic energy that deals [2] to them if they willingly move.</content>
   <content contentuid="hpnjc4uqbuja4vefr3aj90sj1clxmlh53pnh9" version="1">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in lightning that deals [2] to them if they willingly move.</content>
   <content contentuid="h54329a4ag8521g469bgb66ag00db03c2dd1c" version="1">Eilistraean Song impeded by a weapon. Until the ranged weapon is removed and/or one of the required melee weapons equipped, your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG"&gt;Eilistraean Song&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt;.</content>
+  <content contentuid="hieepmifd124pa1fjv3el7c5j1r2fnkh2ks0n" version="1">Eilistraean Song is impeded.</content>
+  <content contentuid="hrg26nwpxrz48ipmt83quvswnyscbbtcnuuiy" version="1">Eilistraean Song is not impeded.</content>
   <content contentuid="h54d90cd2g3708g4944g99f8g4df9d9b30f91" version="1">Eilistraean Song</content>
   <content contentuid="h560a7147ge71ag4933g95b4gf5519904702e" version="1">Eilistraean Song impeded by armour. Until the armour is removed, your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG"&gt;Eilistraean Song&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt;.</content>
   <content contentuid="h57e194fdg3959g43e8gb994g7ffa82590ea7" version="1">Whenever you successfully evade an attack, one of the duplicates disappears. Doesn't affect creatures that don't rely on sight or that can see through illusions.</content>
@@ -275,8 +277,9 @@
   <content contentuid="h5g2gzv4vjn5edu73a8r0t34zafj7p0k8n40d" version="1">Equipping a ranged weapon is incompatible with Eilistraean Song.</content>
   <content contentuid="htfz1sh1bcl1s38rxiw6u9znogp8g1go9c0q5" version="1">Equipped armour is incompatible with Eilistraean Song.</content>
   <content contentuid="h85a6116cgdcc2g4ff4g99bdgbd111322c5c3" version="1">Shadow Step</content>
-  <content contentuid="h9befc561gb9a5g4330gb1a0g1eaf5ed5b0b1" version="1">Eilistraean Song Slot Level Two</content>
-  <content contentuid="h9c1aeb81gd11eg4af1g8e4bgbefda966aa51" version="1">Eilistraean Song Slot Level Five</content>
+  <content contentuid="h9befc561gb9a5g4330gb1a0g1eaf5ed5b0b1" version="1">Eilistraean Spell Song Level Two</content>
+  <content contentuid="h9c1aeb81gd11eg4af1g8e4bgbefda966aa51" version="1">Eilistraean Spell Song Level Five</content>
+  <content contentuid="hq86sfl8gd1ldrelw8xjnp55e9hc97rbhmp7k" version="1">Eilistraean Spell Song Level Six</content>
   <content contentuid="h9c3b8dadg3600g4865gaed0g1b3fd0d4be8e" version="1">Nullify another creature's spell as a reaction. The spell must be Level [1] or lower. If it is higher, you must succeed a &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; to nullify it, the difficulty of which is based on  the spell's Level.</content>
   <content contentuid="ha18d0b3eg1838g47b9g83aege6fcf45e5251" version="1">This effect still works if your attack misses.</content>
   <content contentuid="h7cc1e81bg6fb0g4501g8749g399dd04d3847" version="1">Can only use Green-Flame Blade once per action.</content>
@@ -310,7 +313,7 @@
   <content contentuid="hb24c36c5g3cedg4f48g9098g73e7c2086efb" version="1">If you move after making a melee attack, you don't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; from your target.</content>
   <content contentuid="h1cezs8v77hcjtf4g5x46ychyvc8u28jfeg3c" version="1">This effect still works if your attack misses.</content>
   <content contentuid="hb3137566g45dbg49c3gac35g39e9d286dfda" version="1">Eilistraean Initiative</content>
-  <content contentuid="hb3e939dag71dcg409bgac55ge9bc9016376e" version="1">Eilistraean Song Slot Level One</content>
+  <content contentuid="hb3e939dag71dcg409bgac55ge9bc9016376e" version="1">Eilistraean Spell Song Level One</content>
   <content contentuid="hb777ae33g478fg4591g9941gfc4a3d2055b1" version="1">Eilistraean Mockery</content>
   <content contentuid="h3522f4b1gfd3fg4708g84a9g68e7133d34a0" version="1">Can burn a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_MoonFireBladeExtra"&gt;Spread Green Flame Blade&lt;/LSTag&gt;. Removed if you move.</content>
   <content contentuid="htyaoyyg131x75h58r53ht2d0pf3cfolt1a3i" version="1">Can melt a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_CausticBladeExtra"&gt;Spread Caustic Blade&lt;/LSTag&gt;. Removed if you move.</content>

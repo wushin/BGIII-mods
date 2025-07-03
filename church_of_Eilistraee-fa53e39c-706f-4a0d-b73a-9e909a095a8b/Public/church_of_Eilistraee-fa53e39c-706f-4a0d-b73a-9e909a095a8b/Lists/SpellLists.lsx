@@ -15,7 +15,7 @@
           <attribute id="UUID" type="guid" value="db021c8d-2080-4049-8d79-6fc163df914e"/>
         </node>
         <node id="SpellList">
-          <attribute id="Name" type="FixedString" value="Eilistraean Blade Song"/>
+          <attribute id="Name" type="FixedString" value="Eilistraean Song"/>
           <attribute id="Spells" type="LSString" value="Shout_EilistraeanSong"/>
           <attribute id="UUID" type="guid" value="f0f16b73-6f4a-40a8-800d-6164c7a30d89"/>
         </node>

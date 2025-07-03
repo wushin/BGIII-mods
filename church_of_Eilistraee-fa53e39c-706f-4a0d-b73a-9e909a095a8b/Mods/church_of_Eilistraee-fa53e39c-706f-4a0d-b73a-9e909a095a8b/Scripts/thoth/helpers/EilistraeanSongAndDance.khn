@@ -12,9 +12,7 @@ function EilistraeanSongAvaliable(entity)
     local silverhair = entity.GetClassLevel('SilverhairKnight')
     local darksong = entity.GetClassLevel('DarksongKnight')
     local protector = entity.GetClassLevel('ProtectorOfTheSong')
-
-    local hasbladesongweapon = IsWeaponOfProficiencyGroup('Daggers|Sickles|Shortswords|Rapiers|Scimitars|Longswords', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand))
-    local hasnoranged = IsWeaponOfProficiencyGroup('HandCrossbows|HeavyCrossbows|LightCrossbows|Longbows|Shortbows', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand))
+    
     local armor = GetActiveArmor(entity)
     local clotharmor = ConditionResult(armor.ArmorType == ArmorType.Cloth)
     local noarmor = WearingArmor(context.Source)
@@ -23,16 +21,24 @@ function EilistraeanSongAvaliable(entity)
     local count = 0
     if sworddancer >= 1 then
         local hasarmor = clotharmor | noarmor
+        local hasbladesongweapon = IsWeaponOfProficiencyGroup('Daggers|Sickles|Shortswords|Rapiers|Scimitars|Longswords', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand))
+        local hasnoranged = IsWeaponOfProficiencyGroup('HandCrossbows|HeavyCrossbows|LightCrossbows|Longbows|Shortbows', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand))
         if ~hasarmor then count = count + 1 end
         if hasnoranged.Result then count = count + 1 end
     elseif silverhair >= 1 then
         local hasarmor = clotharmor | noarmor
+        local hasbladesongweapon = (not IsWeaponOfProficiencyGroup('Battleaxes|Clubs|Daggers|Flails|Glaives|Greataxes|Greatclubs|Greatswords|Halberds|Handaxes|Javelins|LightHammers|Longswords|Maces|Mauls|Morningstars|Pikes|Quarterstaffs|Rapiers|Scimitars|Shortswords|Sickles|Spears|Tridents|Warhammers|Warpicks', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand)))
+        local hasnoranged = IsWeaponOfProficiencyGroup('HeavyArmor', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand))
         if ~hasarmor then count = count + 1 end
     elseif darksong >= 1 then
         local hasarmor = HasHeavyArmor(context.Source) | HasMediumArmor(context.Source)
+        local hasbladesongweapon = IsWeaponOfProficiencyGroup('Daggers|Sickles|Shortswords|Rapiers|Scimitars|Longswords', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand))
+        local hasnoranged = IsWeaponOfProficiencyGroup('HeavyArmor', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand))
         if hasarmor.Result then count = count + 1 end
     elseif protector >= 1 then
         local hasarmor = HasHeavyArmor(context.Source) | HasMediumArmor(context.Source)
+        local hasbladesongweapon = IsWeaponOfProficiencyGroup('Daggers|Sickles|Shortswords|Rapiers|Scimitars|Longswords', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand))
+        local hasnoranged = IsWeaponOfProficiencyGroup('HeavyArmor', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand))
         if hasarmor.Result then count = count + 1 end
     end
 
@@ -44,15 +50,15 @@ function EilistraeanSongAvaliable(entity)
     end
     
     if not hasbladesongweapon.Result then
-        return ConditionResult(false, {ConditionError("HasNotArcaneBladesongWeapon")})
+        return ConditionResult(false, {ConditionError("HasNotEilistraeanSongWeapon")})
     end
     
     if hasnoranged.Result then
-        return ConditionResult(false, {ConditionError("HasNotArcaneBladesongRanged")})
+        return ConditionResult(false, {ConditionError("HasNotEilistraeanSongRanged")})
     end
     
     if hasarmor.Result then
-        return ConditionResult(false, {ConditionError("HasNotArcaneBladesongArmor")})
+        return ConditionResult(false, {ConditionError("HasNotEilistraeanSongArmor")})
     end  
     
     return ~hasshield
@@ -60,5 +66,5 @@ end
 
 function HasEilistraeanSongClimaxBlocked()
     result = HasStatus('EILISTRAEAN_ARMOR_MESSAGE') | HasStatus('EILISTRAEAN_SHIELD_MESSAGE') | HasStatus('EILISTRAEAN_WEAPON_MESSAGE') | HasStatus('EILISTRAEAN_UNARMED_MESSAGE') | HasStatus('EILISTRAEAN_SHIELD')
-    return ConditionResult(result.Result, {ConditionError("BladesongClimaxNotBlocked")}, {ConditionError("BladesongClimaxBlocked")})
+    return ConditionResult(result.Result, {ConditionError("EilistraeanSongClimaxNotBlocked")}, {ConditionError("EilistraeanSongClimaxBlocked")})
 end
