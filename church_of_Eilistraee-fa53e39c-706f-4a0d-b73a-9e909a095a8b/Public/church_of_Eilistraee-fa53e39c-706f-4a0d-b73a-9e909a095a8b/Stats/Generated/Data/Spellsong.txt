@@ -558,7 +558,6 @@ data "OnApplySuccess" "ApplyStatus(Spellsong_SongOfRapture_Status,100,6);ApplySt
 data "OnTickRoll" "not SavingThrow(Ability.Wisdom, SourceSpellDC()) and not HasStatus('Spellsong_SongOfRapture_Status_Technical')"
 data "OnTickSuccess" "ApplyStatus(Spellsong_SongOfRapture_Status,100,6);ApplyStatus(Spellsong_SongOfRapture_Target,100,6);ApplyStatus(Spellsong_SongOfRapture_Link,100,6);ApplyStatus(Spellsong_SongOfRapture_Status_Technical,100,-1)"
 
-
 new entry "Spellsong_SongOfRapture_Target"
 type "StatusData"
 data "StatusType" "BOOST"

@@ -51,17 +51,17 @@
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="Eilistraean Level 1"/>
-          <attribute id="Spells" type="LSString" value="Projectile_MoonlightShards;Projectile_LunarBolt;Shout_MoonveilStrike;Target_SmileOfTheDarkLady;Shout_EilistraeanImage_Spell;Target_EilistraeanDream_Spell;Target_EilistraeanMockery_Spell;Target_EilistraeanShadow_Spell;Zone_Thunderwave;Target_Goodberry;Target_HuntersMark;Target_CureWounds;Target_Sleep;Zone_EilistraeanColorSpray;Target_FaerieFire"/>
+          <attribute id="Spells" type="LSString" value="Projectile_MoonlightShards;Projectile_LunarBolt;Shout_MoonveilStrike;Target_SmileOfTheDarkLady;Zone_Thunderwave;Target_Goodberry;Target_HuntersMark;Target_CureWounds;Target_Sleep;Zone_EilistraeanColorSpray;Target_FaerieFire;Target_MageArmor;"/>
           <attribute id="UUID" type="guid" value="4a6c13fe-e3f3-4447-82b6-39b13db9eb42"/>
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="Eilistraean Level 2"/>
-          <attribute id="Spells" type="LSString" value="Shout_DetectThoughts;Shout_PassWithoutTrace;Shout_PrayerOfHealing;Shout_SeeInvisibility;Target_ArcaneLock;Target_Darkvision;Target_CloudOfDaggers;Target_EilistraeanMoonbeam;Target_ElegyOfObedience;Target_EnhanceAbility;Target_EnlargeReduce;Target_FindFamiliar;Target_HoldPerson;Target_Invisibility;Target_Knock;Target_LesserRestoration;Target_LunarShift;"/>
+          <attribute id="Spells" type="LSString" value="Shout_DetectThoughts;Shout_PassWithoutTrace;Shout_PrayerOfHealing;Shout_SeeInvisibility;Target_ArcaneLock;Target_Darkvision;Shout_Blur;Target_CloudOfDaggers;Target_EilistraeanMoonbeam;Target_ElegyOfObedience;Target_EnhanceAbility;Target_EnlargeReduce;Target_FindFamiliar;Target_HoldPerson;Target_Invisibility;Target_Knock;Target_LesserRestoration;Target_LunarShift;Shout_MirrorImage;Target_MistyStep;"/>
           <attribute id="UUID" type="guid" value="4a6c13fe-e3f3-4447-82b6-39b13db9eb42"/>
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="Eilistraean Level 3"/>
-          <attribute id="Spells" type="LSString" value="Shout_Blink;Shout_EilistraeanHope;Shout_EilistraeanImage_Spell;Target_CalmEmotions;Target_EilistraeanDream_Mass;Target_Fly;Target_Haste;Target_MoonlitSanctuary;Teleportation_Revivify;Zone_LightningBolt;"/>
+          <attribute id="Spells" type="LSString" value="Shout_Blink;Shout_EilistraeanHope;Target_CalmEmotions;Target_Fly;Target_Haste;Target_MoonlitSanctuary;Teleportation_Revivify;Zone_LightningBolt;"/>
           <attribute id="UUID" type="guid" value="4a6c13fe-e3f3-4447-82b6-39b13db9eb42"/>
         </node>
         <node id="SpellList">
