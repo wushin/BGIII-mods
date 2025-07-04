@@ -865,7 +865,7 @@ data "Level" "9"
 data "UseCosts" "ActionPoint:1;SpellSong:1:6"
 data "PowerLevel" "9"
 
-new entry "Shout_EilistraeanSongOfRest"
+new entry "SpellSong_SongOfRest"
 type "SpellData"
 data "SpellType" "Shout"
 using "Shout_SongOfRest"

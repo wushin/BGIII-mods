@@ -19,6 +19,145 @@
           <attribute id="Spells" type="LSString" value="Shout_EilistraeanSong"/>
           <attribute id="UUID" type="guid" value="f0f16b73-6f4a-40a8-800d-6164c7a30d89"/>
         </node>
+        <node id="SpellList">
+          <attribute id="Name" type="FixedString" value="SwordDancerSpells"/>
+          <attribute id="Spells" type="LSString" value="Target_LunarSmite;Target_LunarSmite_Unlock;Target_LunarSmite_Critical_Unlock;"/>
+          <attribute id="UUID" type="guid" value="d15f03ae-e181-487e-9055-01c564786f94"/>
+        </node>
+        <node id="SpellList">
+          <attribute id="Name" type="FixedString" value="SilverhairKnightSpells"/>
+          <attribute id="Spells" type="LSString" value=""/>
+          <attribute id="UUID" type="guid" value="bd6fa310-bfda-439b-8bf8-c9b558e6b0f9"/>
+        </node>
+        <node id="SpellList">
+          <attribute id="Name" type="FixedString" value="DarksongKnightSpells Level 1"/>
+          <attribute id="Spells" type="LSString" value="Target_EilistraeanLayOnHands;Shout_EilistraeanDivineSense;Target_Demonbane;"/>
+          <attribute id="UUID" type="guid" value="75ec5035-a771-451a-8b43-0d9aed4b5281"/>
+        </node>
+        <node id="SpellList">
+          <attribute id="Name" type="FixedString" value="DarksongKnightSpells Level 2"/>
+          <attribute id="Spells" type="LSString" value="Target_LunarSmite;Target_LunarSmite_Unlock;Target_LunarSmite_Critical_Unlock;"/>
+          <attribute id="UUID" type="guid" value="75ec5035-a771-451a-8b43-0d9aed4b5281"/>
+        </node>
+        <node id="SpellList">
+          <attribute id="Name" type="FixedString" value="ProtectorOfTheSongSpells"/>
+          <attribute id="Spells" type="LSString" value=""/>
+          <attribute id="UUID" type="guid" value="be66f294-9d60-48a6-9b98-dd6fbbdfb7ae"/>
+        </node>
+        <node id="SpellList">
+          <attribute id="Name" type="FixedString" value="Eilistraean cantrips"/>
+          <attribute id="Spells" type="LSString" value="Projectile_LunarBolt_cantrip;Target_EilistraeanDancingLights;Target_EilistraeanFriends;Target_EilistraeanGuidance;Target_EilistraeanMageHand;Target_EilistraeanIllusion;Target_EilistraeanMockery_Cantrip;Shout_EilistraeanImage_Cantrip;Shout_EilistraeanBlades_Cantrip;Target_EilistraeanShadow_Cantrip;Target_EilistraeanDream_Cantrip"/>
+          <attribute id="UUID" type="guid" value="a6a35d8c-7cb6-4db5-baa7-e380e7f991b1"/>
+        </node>
+        <node id="SpellList">
+          <attribute id="Name" type="FixedString" value="Eilistraean Level 1"/>
+          <attribute id="Spells" type="LSString" value="Projectile_MoonlightShards;Projectile_LunarBolt;Shout_MoonveilStrike;Target_SmileOfTheDarkLady;Shout_EilistraeanImage_Spell;Target_EilistraeanDream_Spell;Target_EilistraeanMockery_Spell;Target_EilistraeanShadow_Spell;Zone_Thunderwave;Target_Goodberry;Target_HuntersMark;Target_CureWounds;Target_Sleep;Zone_EilistraeanColorSpray;Target_FaerieFire"/>
+          <attribute id="UUID" type="guid" value="4a6c13fe-e3f3-4447-82b6-39b13db9eb42"/>
+        </node>
+        <node id="SpellList">
+          <attribute id="Name" type="FixedString" value="Eilistraean Level 2"/>
+          <attribute id="Spells" type="LSString" value="Shout_DetectThoughts;Shout_PassWithoutTrace;Shout_PrayerOfHealing;Shout_SeeInvisibility;Target_ArcaneLock;Target_Darkvision;Target_CloudOfDaggers;Target_EilistraeanMoonbeam;Target_ElegyOfObedience;Target_EnhanceAbility;Target_EnlargeReduce;Target_FindFamiliar;Target_HoldPerson;Target_Invisibility;Target_Knock;Target_LesserRestoration;Target_LunarShift;"/>
+          <attribute id="UUID" type="guid" value="4a6c13fe-e3f3-4447-82b6-39b13db9eb42"/>
+        </node>
+        <node id="SpellList">
+          <attribute id="Name" type="FixedString" value="Eilistraean Level 3"/>
+          <attribute id="Spells" type="LSString" value="Shout_Blink;Shout_EilistraeanHope;Shout_EilistraeanImage_Spell;Target_CalmEmotions;Target_EilistraeanDream_Mass;Target_Fly;Target_Haste;Target_MoonlitSanctuary;Teleportation_Revivify;Zone_LightningBolt;"/>
+          <attribute id="UUID" type="guid" value="4a6c13fe-e3f3-4447-82b6-39b13db9eb42"/>
+        </node>
+        <node id="SpellList">
+          <attribute id="Name" type="FixedString" value="Eilistraean Level 4"/>
+          <attribute id="Spells" type="LSString" value="Target_EilistraeanBanish;Target_EilistraeanFreedom;Teleportation_DimensionDoor;Target_Invisibility_Greater;Target_Confusion;Target_Stoneskin;Shout_FireShield;"/>
+          <attribute id="UUID" type="guid" value="4a6c13fe-e3f3-4447-82b6-39b13db9eb42"/>
+        </node>
+        <node id="SpellList">
+          <attribute id="Name" type="FixedString" value="Eilistraean Level 5"/>
+          <attribute id="Spells" type="LSString" value="Projectile_BladesongWaltz;Target_HoldMonster;Target_DominatePerson;Throw_Telekinesis;Target_FlameStrike;Target_GreaterRestoration;Target_CureWounds_Mass;Target_PlanarBinding;Shout_DestructiveWave;Target_FlameStrike;"/>
+          <attribute id="UUID" type="guid" value="4a6c13fe-e3f3-4447-82b6-39b13db9eb42"/>
+        </node>
+        <node id="SpellList">
+          <attribute id="Name" type="FixedString" value="Eilistraean Level 6"/>
+          <attribute id="Spells" type="LSString" value="Teleportation_ArcaneGate;Projectile_ChainLightning;Target_GlobeOfInvulnerability;Target_IrresistibleDance;Wall_BladeBarrier;Target_Heal;Shout_HeroesFeast;"/>
+          <attribute id="UUID" type="guid" value="4a6c13fe-e3f3-4447-82b6-39b13db9eb42"/>
+        </node>
+
+
+        <node id="SpellList">
+            <attribute id="Spells" type="LSString" value="Target_Regenerate;" />
+            <attribute id="UUID" type="guid" value="e4f25b27-dc1a-4c41-bf07-036a3410e622" />
+        </node>
+        <node id="SpellList">
+            <attribute id="Spells" type="LSString" value="Target_StaggeringSmite;Target_DeathWard;Shout_AuraOfLife" />
+            <attribute id="UUID" type="guid" value="5b68d766-577e-4377-b1c5-ff44458b1f9e" />
+        </node>
+        <node id="SpellList">
+            <attribute id="Spells" type="LSString" value="Target_Smite_Banishing;Shout_DestructiveWave;Target_HolyWeapon;Shout_CircleOfPower;Target_RaiseDead" />
+            <attribute id="UUID" type="guid" value="18a3edd8-8254-4738-b10d-6e51580f33dc" />
+        </node>
+        <node id="SpellList">
+            <attribute id="Name" type="FixedString" value="Darksong Knight Paladin"/>
+            <attribute id="Spells" type="LSString" value="Target_EilistraeanLayOnHands;Shout_EilistraeanDivineSense"/>
+            <attribute id="UUID" type="guid" value="ce82556f-fb80-4956-b753-4a252bfcbd67"/>
+        </node>
+        <node id="SpellList">
+            <attribute id="Spells" type="LSString" value="Projectile_LunarBolt;Projectile_MoonlightShards" />
+            <attribute id="UUID" type="guid" value="78e673e1-0862-4178-8e50-0b8ff54bd751" />
+        </node>
+        <node id="SpellList">
+            <attribute id="Spells" type="LSString" value="Target_EilistraeanMoonbeam" />
+            <attribute id="UUID" type="guid" value="de394dcf-2bf3-46ea-8620-81aa7fa90520" />
+        </node>
+        <node id="SpellList">
+            <attribute id="Spells" type="LSString" value="Shout_EilistraeanHope;Target_MoonlitSanctuary" />
+            <attribute id="UUID" type="guid" value="a2829c9a-cec2-4a29-9df3-d1022f1f9688" />
+        </node>
+        <node id="SpellList">
+            <attribute id="Spells" type="LSString" value="Target_EilistraeanFreedom" />
+            <attribute id="UUID" type="guid" value="290fb52a-a874-4399-91e4-1d84b5d36b42" />
+        </node>
+        <node id="SpellList">
+            <attribute id="Spells" type="LSString" value="Target_SmileOfTheDarkLady" />
+            <attribute id="UUID" type="guid" value="2ef68b6e-5e92-4112-a482-04402cb95ed3" />
+        </node>
+        <node id="SpellList">
+            <attribute id="Spells" type="LSString" value="Spellsong_SongOfLife;Spellsong_SongOfProtection;Spellsong_SongOfRenewal;Spellsong_SongOfHope;Spellsong_SongOfRapture;SpellSong_SongOfRest" />
+            <attribute id="UUID" type="guid" value="690a5593-c746-407e-a785-ecb8c2d1f69b" />
+        </node>
+        <node id="SpellList">
+            <attribute id="Spells" type="LSString" value="Target_LunarSmite;Interrupt_LunarSmite;Interrupt_LunarSmite_Critical;LunarSmite_Unlock;LunarSmite_Critical_Unlock" />
+            <attribute id="UUID" type="guid" value="f95232e4-2616-4028-9226-d1dcb5fdb701" />
+        </node>
+        <node id="SpellList">
+            <attribute id="Spells" type="LSString" value="Shout_AuraOfTruth;Target_Demonbane" />
+            <attribute id="UUID" type="guid" value="f1e0d093-1516-4669-8e65-85acb539552b" />
+        </node>
+        <node id="SpellList">
+            <attribute id="Spells" type="LSString" value="Target_EilistraeanMoonbeam;Target_LunarShift" />
+            <attribute id="UUID" type="guid" value="afe50e6f-77c5-4d06-ad29-831e866d666c" />
+        </node>
+        <node id="SpellList">
+            <attribute id="Spells" type="LSString" value="Shout_AuraOfTruth" />
+            <attribute id="UUID" type="guid" value="5fe032ad-cd3f-4f36-942a-4c1e97e084b3" />
+        </node>
+        <node id="SpellList">
+            <attribute id="Spells" type="LSString" value="Target_EilistraeanBanish" />
+            <attribute id="UUID" type="guid" value="e72926de-d339-4b47-a5e6-231f4d5cd762" />
+        </node>
+        <node id="SpellList">
+            <attribute id="Spells" type="LSString" value="Projectile_BladesongWaltz" />
+            <attribute id="UUID" type="guid" value="2d053228-a843-4990-8e12-b6e9f691c4dd" />
+        </node>
+        <node id="SpellList">
+            <attribute id="Spells" type="LSString" value="Shout_EilistraeanHope" />
+            <attribute id="UUID" type="guid" value="f41eaf7c-ec3e-418d-b55d-dedb076935fc" />
+        </node>
+        <node id="SpellList">
+            <attribute id="Spells" type="LSString" value="Shout_EilistraeanProtection" />
+            <attribute id="UUID" type="guid" value="4e157a00-ac5f-4d8a-8bfe-2f573cac03f1" />
+        </node>
+        <node id="SpellList">
+            <attribute id="Spells" type="LSString" value="Shout_EilistraeanCourage" />
+            <attribute id="UUID" type="guid" value="f928adb5-1b10-4d9f-abbc-429418cc3593" />
+        </node>
       </children>
     </node>
   </region>

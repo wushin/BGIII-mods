@@ -5,24 +5,29 @@
     <node id="root">
       <children>
         <node id="PassiveList">
-          <attribute id="Name" type="FixedString" value="EilistraeanBladeManeuvers"/>
-          <attribute id="Passives" type="LSString" value="Eilistraean_Trip,Eilistraean_Disarm,Eilistraean_Distract,Eilistraean_Feint,Eilistraean_Cleave,Eilistraean_Charge"/>
-          <attribute id="UUID" type="guid" value="5c402747-97cf-4c9c-ad6f-7efbac9d6750"/>
-        </node>
-        <node id="PassiveList">
-          <attribute id="Name" type="FixedString" value="EilistraeanDefense"/>
-          <attribute id="Passives" type="LSString" value="EilistraeanParry,EilistraeanRiposte,EilistraeanInit,EilistraeanFootwork,EilistraeanCunning,EilistraeanCounter"/>
-          <attribute id="UUID" type="guid" value="e1c516d0-8e83-4ce4-87b5-e2b6af966d09"/>
-        </node>
-        <node id="PassiveList">
-          <attribute id="Name" type="FixedString" value="EilistraeanBladeSpells"/>
-          <attribute id="Passives" type="LSString" value="EilistraeanMockery,EilistraeanWord,EilistraeanBlades,EilistraeanImage,EilistraeanShadows"/>
-          <attribute id="UUID" type="guid" value="3e85b253-18fe-4fc1-b535-50086e71c220"/>
-        </node>
-        <node id="PassiveList">
-          <attribute id="Name" type="FixedString" value="EilistraeanSpellSongs"/>
+          <attribute id="Name" type="FixedString" value="EilistraeanSpellSongRituals"/>
           <attribute id="Spells" type="LSString" value="EilistraeanRituals;"/>
           <attribute id="UUID" type="guid" value="fa5d6551-846b-437b-8d52-df57e796fc05"/>
+        </node>
+        <node id="PassiveList">
+          <attribute id="Name" type="FixedString" value="SwordDancerPassives"/>
+          <attribute id="Spells" type="LSString" value=""/>
+          <attribute id="UUID" type="guid" value="97931250-4eb4-4205-bd0a-b88dd9c71450"/>
+        </node>
+        <node id="PassiveList">
+          <attribute id="Name" type="FixedString" value="SilverhairKnightPassives"/>
+          <attribute id="Spells" type="LSString" value=""/>
+          <attribute id="UUID" type="guid" value="3895f5d0-0c96-4169-84b6-8d0836d080ca"/>
+        </node>
+        <node id="PassiveList">
+          <attribute id="Name" type="FixedString" value="DarksongKnightPassives"/>
+          <attribute id="Spells" type="LSString" value=""/>
+          <attribute id="UUID" type="guid" value="80eece91-e34a-4a22-acf0-79034be85957"/>
+        </node>
+        <node id="PassiveList">
+          <attribute id="Name" type="FixedString" value="ProtectorOfTheSongPassives"/>
+          <attribute id="Spells" type="LSString" value=""/>
+          <attribute id="UUID" type="guid" value="6d347257-8473-422a-9240-6d2b5b634939"/>
         </node>
       </children>
     </node>

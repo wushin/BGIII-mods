@@ -271,7 +271,7 @@
           <attribute id="Boosts" type="LSString" value="ActionResource(Bladesong,4,0)"/>
           <attribute id="Level" type="uint8" value="3"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
-          <attribute id="PassivesAdded" type="LSString" value="TraininginEilistraeanandSong;EilistraeanSong_Armor_Message;EilistraeanSong_Weapon_Message;EilistraeanSong_Shield_Message;EilistraeanSong_Weapon;EilistraeanSong_Shield;EilistraeanSong_Unarmed;EilistraeanSpellSongSlotOne;EilistraeanMockery;EilistraeanImage;"/>
+          <attribute id="PassivesAdded" type="LSString" value="TraininginEilistraeanandSong;EilistraeanSong_Armor_Message;EilistraeanSong_Weapon_Message;EilistraeanSong_Shield_Message;EilistraeanSong_Weapon;EilistraeanSong_Shield;EilistraeanSong_Unarmed;EilistraeanSpellSongSlotOne;"/>
           <attribute id="Selectors" type="LSString" value="AddSpells(f0f16b73-6f4a-40a8-800d-6164c7a30d89,,,,AlwaysPrepared);"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
           <attribute id="TableUUID" type="guid" value="3d4d52ad-65e5-4dc9-9ec7-a360092ab0dd"/>
@@ -316,7 +316,7 @@
         </node>
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="false"/>
-          <attribute id="PassivesAdded" type="LSString" value="Eilistraean_Distract,Eilistraean_Feint"/>
+          <attribute id="PassivesAdded" type="LSString" value="Eilistraean_Trip,Eilistraean_Disarm"/>
           <attribute id="Level" type="uint8" value="8"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -486,7 +486,7 @@
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong"/>
           <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;BardSpellcasting"/>
           <attribute id="ProgressionType" type="uint8" value="1"/>
-          <attribute id="Selectors" type="LSString" value="SelectEquipment(f372063f-130d-49cc-9311-220c0906cd79,1,WarAndSong);SelectSpells(dcb45167-86bd-4297-9b9d-c295be51af5b,4,0,BardSpells);SelectSpells(2f43a103-5bf1-4534-b14f-663decc0c525,1,0,Eilistraean_ClericCantrip,Charisma,,AlwaysPrepared);AddSpells(78e673e1-0862-4178-8e50-0b8ff54bd751,SDOE,Charisma,,AlwaysPrepared)"/>
+          <attribute id="Selectors" type="LSString" value="SelectEquipment(f372063f-130d-49cc-9311-220c0906cd79,1,WarAndSong);SelectSpells(dcb45167-86bd-4297-9b9d-c295be51af5b,4,0,BardSpells);SelectSpells(2f43a103-5bf1-4534-b14f-663decc0c525,1,0,Eilistraean_ClericCantrip,Charisma,,AlwaysPrepared);AddSpells(78e673e1-0862-4178-8e50-0b8ff54bd751,Eilistraean,Charisma,,AlwaysPrepared)"/>
           <attribute id="TableUUID" type="guid" value="ee3f894e-fa8b-46d9-89bd-e34a1572b209"/>
           <attribute id="UUID" type="guid" value="ad90b9e9-37fa-419d-a827-6625bec706b9"/>
         </node>
