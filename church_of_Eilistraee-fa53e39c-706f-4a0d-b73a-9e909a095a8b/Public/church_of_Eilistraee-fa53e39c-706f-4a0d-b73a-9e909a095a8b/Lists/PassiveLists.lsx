@@ -10,24 +10,14 @@
           <attribute id="UUID" type="guid" value="fa5d6551-846b-437b-8d52-df57e796fc05"/>
         </node>
         <node id="PassiveList">
-          <attribute id="Name" type="FixedString" value="SwordDancerPassives"/>
-          <attribute id="Spells" type="LSString" value=""/>
-          <attribute id="UUID" type="guid" value="97931250-4eb4-4205-bd0a-b88dd9c71450"/>
+          <attribute id="Name" type="FixedString" value="Eilistraean fighting style"/>
+          <attribute id="Passives" type="LSString" value="FightingStyle_Defense,FightingStyle_Dueling,FightingStyle_GreatWeaponFighting,FightingStyle_TwoWeaponFighting"/>
+          <attribute id="UUID" type="guid" value="47f35056-a172-4223-ad1b-db7be36de2aa"/>
         </node>
         <node id="PassiveList">
-          <attribute id="Name" type="FixedString" value="SilverhairKnightPassives"/>
-          <attribute id="Spells" type="LSString" value=""/>
-          <attribute id="UUID" type="guid" value="3895f5d0-0c96-4169-84b6-8d0836d080ca"/>
-        </node>
-        <node id="PassiveList">
-          <attribute id="Name" type="FixedString" value="DarksongKnightPassives"/>
-          <attribute id="Spells" type="LSString" value=""/>
-          <attribute id="UUID" type="guid" value="80eece91-e34a-4a22-acf0-79034be85957"/>
-        </node>
-        <node id="PassiveList">
-          <attribute id="Name" type="FixedString" value="ProtectorOfTheSongPassives"/>
-          <attribute id="Spells" type="LSString" value=""/>
-          <attribute id="UUID" type="guid" value="6d347257-8473-422a-9240-6d2b5b634939"/>
+          <attribute id="Name" type="FixedString" value="Eilistraean Maneuvers"/>
+          <attribute id="Passives" type="LSString" value="EilistraeanRiposte,Eilistraean_Distract,Eilistraean_Feint,Eilistraean_Cleave,Eilistraean_Charge"/>
+          <attribute id="UUID" type="guid" value="677038ed-31ae-47e9-b8ea-a310d5eda0e0"/>
         </node>
       </children>
     </node>

@@ -79,4 +79,53 @@ data "BoostContext" "OnStatusApply;OnStatusRemove;OnEquip;OnShortRest;OnCreate;O
 data "BoostConditions" "IsDexterityGreaterThanStrength()"
 data "Boosts" "MonkWeaponAttackOverride();UnlockSpell(Throw_MainHand);UnlockSpell(Throw_OffHand)"
 
+new entry "Passive_EternalDance"
+type "PassiveData"
+data "DisplayName" "h92cb2a92ge9abg4532gb47cg73e6c1ac4ba2"
+data "Description" "hc5eaeb7cg12abg4a60g9ed3ge66730e0e566"
+data "Icon" "Eilistraean_EternalDance"
+data "Properties" "Highlighted"
+data "Boosts" "AreaDamageEvade();StatusImmunity(SG_DifficultTerrain);Advantage(Skill,Acrobatics)"
+
+new entry "Passive_Lunar_Smite"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockInterrupt(Interrupt_LunarSmite);UnlockInterrupt(Interrupt_LunarSmite_Critical)"
+
+new entry "Passive_Lunar_Smite_2"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockInterrupt(Interrupt_LunarSmite_2);UnlockInterrupt(Interrupt_LunarSmite_Critical_2)"
+
+new entry "Passive_Lunar_Smite_3"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockInterrupt(Interrupt_LunarSmite_3);UnlockInterrupt(Interrupt_LunarSmite_Critical_3)"
+
+new entry "Passive_Lunar_Smite_4"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockInterrupt(Interrupt_LunarSmite_4);UnlockInterrupt(Interrupt_LunarSmite_Critical_4)"
+
+new entry "Passive_Lunar_Smite_5"
+type "PassiveData"
+data "Properties" "IsHidden"
+data "Boosts" "UnlockInterrupt(Interrupt_LunarSmite_5);UnlockInterrupt(Interrupt_LunarSmite_Critical_5)"
+
+new entry "Passive_ImprovedLunarSmite"
+type "PassiveData"
+data "DisplayName" "h1b084979g0e15g45acg8345g42bfed69a2c9"
+data "Description" "hd8c33265g9f41g4f75ga8aagde9b8c4fc4ee"
+data "DescriptionParams" "DealDamage(1d4,Cold);DealDamage(1d4,Radiant)"
+data "Icon" "Eilistraean_LunarSmite"
+data "Properties" "Highlighted"
+data "Boosts" "IF(IsMeleeAttack()):CharacterWeaponDamage(1d4,Cold);IF(IsMeleeAttack()):CharacterWeaponDamage(1d4,Radiant)"
+
+new entry "Target_Demonbane_Passive"
+type "PassiveData"
+data "DisplayName" "h832c9fc7g0a19g4fabg8e99g3335c0895625;1"
+data "Properties" "IsHidden"
+data "BoostContext" "OnAttack"
+data "BoostConditions" "HasStatus('Target_Demonbane_Status',context.Target)"
+data "Boosts" "IgnoreResistance(Fire,Immune);IgnoreResistance(Fire,Resistant);IgnoreResistance(Cold,Immune);IgnoreResistance(Cold,Resistant);IgnoreResistance(Psychic,Immune);IgnoreResistance(Psychic,Resistant);IgnoreResistance(Thunder,Immune);IgnoreResistance(Thunder,Resistant);IgnoreResistance(Lightning,Immune);IgnoreResistance(Lightning,Resistant);IgnoreResistance(Necrotic,Immune);IgnoreResistance(Necrotic,Resistant);IgnoreResistance(Radiant,Immune);IgnoreResistance(Radiant,Resistant);IgnoreResistance(Poison,Immune);IgnoreResistance(Poison,Resistant);IgnoreResistance(Force,Immune);IgnoreResistance(Force,Resistant);IgnoreResistance(Acid,Immune);IgnoreResistance(Acid,Resistant);IgnoreResistance(Piercing,Immune);IgnoreResistance(Piercing,Resistant);IgnoreResistance(Slashing,Immune);IgnoreResistance(Slashing,Resistant);IgnoreResistance(Bludgeoning,Immune);IgnoreResistance(Bludgeoning,Resistant)"
 

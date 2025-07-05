@@ -44,7 +44,7 @@
           <attribute id="MustPrepareSpells" type="bool" value="false"/>
           <attribute id="Name" type="FixedString" value="SwordDancer"/>
           <attribute id="PrimaryAbility" type="uint8" value="2"/>
-          <attribute id="ProgressionTableUUID" type="guid" value="3d4d52ad-65e5-4dc9-9ec7-a360092ab0dd"/>
+          <attribute id="ProgressionTableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
           <attribute id="SpellCastingAbility" type="uint8" value="5"/>
           <attribute id="SoundClassType" type="FixedString" value="Rogue"/>
           <attribute id="SpellList" type="guid" value="9c57921c-0a34-408a-8b69-5c07b6f483a8"/>

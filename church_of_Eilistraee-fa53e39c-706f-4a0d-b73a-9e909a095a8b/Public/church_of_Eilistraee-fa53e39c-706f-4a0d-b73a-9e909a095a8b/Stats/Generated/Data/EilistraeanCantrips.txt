@@ -189,7 +189,7 @@ data "Level" "0"
 using "Target_MinorIllusion"
 data "Icon" "Spell_Illusion_MinorIllusion"
 data "DisplayName" "h6d2db94cgbc70g4cdcgaf76gb7bd76bd0a8c;1"
-data "UseCosts" "ActionPoint:1"
+data "UseCosts" "BonusActionPoint:1"
 
 new entry "Projectile_LunarBolt_cantrip"
 type "SpellData"
