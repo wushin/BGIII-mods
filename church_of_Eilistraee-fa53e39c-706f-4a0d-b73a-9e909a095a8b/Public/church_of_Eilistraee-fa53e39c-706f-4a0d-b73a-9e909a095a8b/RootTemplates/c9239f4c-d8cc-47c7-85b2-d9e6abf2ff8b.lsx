@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" lslib_meta="v1,bswap_guids" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="Acceleration" type="float" value="10" />
+					<attribute id="CameraOffset" type="fvec3" value="0 0 0" />
+					<attribute id="CastBone" type="FixedString" value="Dummy_CastFX" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="GroundImpactFX" type="LSString" value="VFX_Enemies_Nightsong_LunarBolt_TargetAOE_01_SDOE" />
+					<attribute id="GroupID" type="uint32" value="0" />
+					<attribute id="HasGameplayValue" type="bool" value="False" />
+					<attribute id="ImpactFX" type="FixedString" value="VFX_Enemies_Nightsong_LunarBolt_Impact_01_SDOE" />
+					<attribute id="InitialSpeed" type="float" value="10" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="00aab221-d1ed-4ecb-863b-350f990e88b9" />
+					<attribute id="Name" type="LSString" value="VFX_Projectile_Spell_LunarBolt_01_SDOE" />
+					<attribute id="ParentTemplateId" type="FixedString" value="" />
+					<attribute id="PhysicsOpenTemplate" type="FixedString" value="" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="" />
+					<attribute id="PreviewPathImpactFX" type="FixedString" value="VFX_UI_DestinationBeam_Projectile_01" />
+					<attribute id="PreviewPathMaterial" type="FixedString" value="312a1494-a0e2-c215-cf51-bda58a6b2341" />
+					<attribute id="ShiftBMax_Bezier4" type="float" value="0.25" />
+					<attribute id="ShiftBMin_Bezier4" type="float" value="0.25" />
+					<attribute id="TrailFX" type="FixedString" value="VFX_Projectiles_Nightsong_LunarBolt_Projectile_01_SDOE" />
+					<attribute id="Type" type="FixedString" value="projectile" />
+					<attribute id="VelocityMode" type="uint8" value="1" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725658" />
+					<children>
+						<node id="Bounds" />
+					</children>
+				</node>
+                <node id="GameObjects">
+					<attribute id="CameraOffset" type="fvec3" value="0 0 0" />
+					<attribute id="CastBone" type="FixedString" value="Dummy_CastFX" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="GroundImpactFX" type="LSString" value="" />
+					<attribute id="GroupID" type="uint32" value="0" />
+					<attribute id="HasGameplayValue" type="bool" value="False" />
+					<attribute id="ImpactFX" type="FixedString" value="VFX_BladesongWaltz_Impact_Texkey_01_SDOE_000" />
+					<attribute id="InitialSpeed" type="float" value="20" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="aac93296-6d64-42e3-9d03-75d80a12415e" />
+					<attribute id="Name" type="LSString" value="VFX_Projectile_Spell_MagicMissile_01_Bladesong" />
+					<attribute id="OffsetMin_Bezier3" type="fvec2" value="0 1.5" />
+					<attribute id="ParentTemplateId" type="FixedString" value="" />
+					<attribute id="PathRadius" type="float" value="1.5" />
+					<attribute id="PathShift" type="float" value="0.55" />
+					<attribute id="PhysicsOpenTemplate" type="FixedString" value="" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="" />
+					<attribute id="PreviewPathImpactFX" type="FixedString" value="VFX_UI_DestinationBeam_Projectile_01" />
+					<attribute id="PreviewPathMaterial" type="FixedString" value="312a1494-a0e2-c215-cf51-bda58a6b2341" />
+					<attribute id="ProjectilePath" type="uint8" value="1" />
+					<attribute id="RotateImpact" type="bool" value="False" />
+					<attribute id="Scale" type="float" value="1" />
+					<attribute id="ShiftMin_Bezier3" type="float" value="0.55" />
+					<attribute id="Speed" type="float" value="20" />
+					<attribute id="TrailFX" type="FixedString" value="VFX_Projectiles_Force_MagicMissile_Projectile_01_SDOE_BW" />
+					<attribute id="TrajectoryType" type="uint8" value="0" />
+					<attribute id="Type" type="FixedString" value="projectile" />
+					<attribute id="VelocityMode" type="uint8" value="0" />
+					<attribute id="VisualTemplate" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758167" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0" />
+									<attribute id="IsIgnoringScale" type="bool" value="False" />
+									<attribute id="Max" type="fvec3" value="0 0 0" />
+									<attribute id="Min" type="fvec3" value="0 0 0" />
+									<attribute id="Radius" type="float" value="0" />
+									<attribute id="Shape" type="uint8" value="0" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0" />
+									<attribute id="IsIgnoringScale" type="bool" value="False" />
+									<attribute id="Max" type="fvec3" value="0 0 0" />
+									<attribute id="Min" type="fvec3" value="0 0 0" />
+									<attribute id="Radius" type="float" value="0" />
+									<attribute id="Shape" type="uint8" value="0" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0" />
+									<attribute id="IsIgnoringScale" type="bool" value="False" />
+									<attribute id="Max" type="fvec3" value="0 0 0" />
+									<attribute id="Min" type="fvec3" value="0 0 0" />
+									<attribute id="Radius" type="float" value="0" />
+									<attribute id="Shape" type="uint8" value="0" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+                <node id="GameObjects">
+					<attribute id="CameraOffset" type="fvec3" value="0 0 0" />
+					<attribute id="CastBone" type="FixedString" value="Dummy_CastFX" />
+					<attribute id="Flag" type="int32" value="0" />
+					<attribute id="GroundImpactFX" type="LSString" value="" />
+					<attribute id="GroupID" type="uint32" value="0" />
+					<attribute id="HasGameplayValue" type="bool" value="False" />
+					<attribute id="ImpactFX" type="FixedString" value="VFX_Projectiles_Force_MagicMissile_Impact_01_SDOE" />
+					<attribute id="InitialSpeed" type="float" value="20" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="ae3bd5ff-112c-4fdf-88e8-cf3c464cdf63" />
+					<attribute id="Name" type="LSString" value="VFX_Projectile_Spell_MagicMissile_01_SDOE" />
+					<attribute id="OffsetMin_Bezier3" type="fvec2" value="0 1.5" />
+					<attribute id="ParentTemplateId" type="FixedString" value="" />
+					<attribute id="PathRadius" type="float" value="1.5" />
+					<attribute id="PathShift" type="float" value="0.55" />
+					<attribute id="PhysicsOpenTemplate" type="FixedString" value="" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="" />
+					<attribute id="PreviewPathImpactFX" type="FixedString" value="VFX_UI_DestinationBeam_Projectile_01" />
+					<attribute id="PreviewPathMaterial" type="FixedString" value="312a1494-a0e2-c215-cf51-bda58a6b2341" />
+					<attribute id="ProjectilePath" type="uint8" value="1" />
+					<attribute id="RotateImpact" type="bool" value="False" />
+					<attribute id="Scale" type="float" value="1" />
+					<attribute id="ShiftMin_Bezier3" type="float" value="0.55" />
+					<attribute id="Speed" type="float" value="20" />
+					<attribute id="TrailFX" type="FixedString" value="VFX_Projectiles_Force_MagicMissile_Projectile_01_SDOE" />
+					<attribute id="TrajectoryType" type="uint8" value="0" />
+					<attribute id="Type" type="FixedString" value="projectile" />
+					<attribute id="VelocityMode" type="uint8" value="0" />
+					<attribute id="VisualTemplate" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758167" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0" />
+									<attribute id="IsIgnoringScale" type="bool" value="False" />
+									<attribute id="Max" type="fvec3" value="0 0 0" />
+									<attribute id="Min" type="fvec3" value="0 0 0" />
+									<attribute id="Radius" type="float" value="0" />
+									<attribute id="Shape" type="uint8" value="0" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0" />
+									<attribute id="IsIgnoringScale" type="bool" value="False" />
+									<attribute id="Max" type="fvec3" value="0 0 0" />
+									<attribute id="Min" type="fvec3" value="0 0 0" />
+									<attribute id="Radius" type="float" value="0" />
+									<attribute id="Shape" type="uint8" value="0" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0" />
+									<attribute id="IsIgnoringScale" type="bool" value="False" />
+									<attribute id="Max" type="fvec3" value="0 0 0" />
+									<attribute id="Min" type="fvec3" value="0 0 0" />
+									<attribute id="Radius" type="float" value="0" />
+									<attribute id="Shape" type="uint8" value="0" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+                <node id="GameObjects">
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="8dc58f82-92d4-4a07-a6b8-f37193f6a4db" />
+					<attribute id="Name" type="LSString" value="VFX_Projectile_Spell_MagicMissile_Pathfind_SDOE" />
+					<attribute id="ParentTemplateId" type="FixedString" value="ae3bd5ff-112c-4fdf-88e8-cf3c464cdf63" />
+					<attribute id="TrajectoryType" type="uint8" value="2" />
+					<attribute id="Type" type="FixedString" value="projectile" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209012" />
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
