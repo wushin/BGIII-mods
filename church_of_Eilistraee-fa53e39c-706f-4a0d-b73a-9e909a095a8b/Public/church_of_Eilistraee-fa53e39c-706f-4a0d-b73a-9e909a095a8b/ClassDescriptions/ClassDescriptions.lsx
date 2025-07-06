@@ -24,12 +24,9 @@
           <attribute id="ProgressionTableUUID" type="guid" value="c5ef8f15-1e39-48d8-ab88-91e4c90d9b6c"/>
           <attribute id="SpellCastingAbility" type="uint8" value="5"/>
           <attribute id="SoundClassType" type="FixedString" value="Cleric"/>
+          <attribute id="SubclassTitle" type="TranslatedString" handle="hee3ec834g1a90g4f22g9f78g2d0195c29d37" version="1" />
+          <attribute id="ValidSomaticEquipmentList" type="LSString" value="Flute;Lute;Lyre" />
           <attribute id="UUID" type="guid" value="523a3410-f3b9-4bda-ae51-65bb088e62e9"/>
-          <children>
-            <node id="Tags">
-              <attribute id="Object" type="guid" value="c4749983-8bb9-4aa5-bf18-afd9cb1ce915"/>
-            </node>
-          </children>
         </node>
         <node id="ClassDescription">
           <attribute id="BaseHp" type="int32" value="6"/>

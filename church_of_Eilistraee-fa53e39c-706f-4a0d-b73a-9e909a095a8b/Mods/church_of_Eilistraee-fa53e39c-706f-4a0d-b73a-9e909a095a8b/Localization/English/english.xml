@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <content contentuid="h6hwhr9nk44x0iszbjtwdarj90zcjucgqpfpf" version="1">Eilistraean Initiate</content>
+  <content contentuid="h6hwhr9nk44x0iszbjtwdarj90zcjucgqpfpf" version="1">Eilistraean Worshipper</content>
   <content contentuid="hv8ayr9z11q23z9zytdtubbux8zkn3qvpr2nd" version="1">You are a new follower of Eilistraee still trying to find your way in the world.</content>
   <content contentuid="h8fc45cdbg1e6fg4aaeg8b14g7b0c79193026" version="1">Sword Dancer</content>
   <content contentuid="h826a670eg6980g4df8g8320g2f1cd9b2652c" version="1">Specialized clerics of the Dark Maiden were known as Sword Dancers. They were excellent dancers and spellsingers, known to use an agile and acrobatic fencing style resembling a dance. The sword dancers led missions to find, assist, and protect any drow looking to return to the surface (or that could be made to return) and embrace a different life. They were skilled diplomats, especially active near the settlements of elves and other races, working to establish peace and cooperation between drow and surface dwellers.</content>
@@ -21,21 +21,15 @@
   <content contentuid="h3e0bc8a7g4057g478cgb07fg1ecc1c13f518" version="1">Sixth Eilistraean Image</content>
   <content contentuid="h615d1044gf0c6g45dfgaf87g1e4e66581dc5" version="1">Sneak Attack : SWord Dancer</content>
   <content contentuid="h3f756e2bg7038g46afg9057g94d3afc7bbb7" version="1">Sneak Attack (Critical Hit) : Sword Dancer</content>
-  <content contentuid="h33951923g9a9bg4c4dg8f9egabb42b068d1e" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
-  <content contentuid="h62e17494g68dbg4e2dg931bgc0c535f9a77d" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread acid to melt another nearby creature for [2].</content>
-  <content contentuid="h9ff9aebdgfa87g4875ga7dfg5e006aa7ae9e" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread ice to freeze another nearby creature for [2].</content>
-  <content contentuid="h689a58efgdef7g4056gb349g6bd9f568f1f5" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread necrotic energy and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; another nearby creature for [2].</content>
+  <content contentuid="h33951923g9a9bg4c4dg8f9egabb42b068d1e" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread Moon Fire to burn another nearby creature for [2].</content>
   <content contentuid="h0a17578bgbd95g47cdg9d04g50c88ec82633" version="1">Eilistraean Disarming Attack</content>
   <content contentuid="h0cd0d661g2c83g40a7g8a96g05d1c2e88ddc" version="1">Cover more distance this turn: double your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt;.</content>
-  <content contentuid="h0b2fe3bege978g4a9agb4begbbf49492ec7e" version="1">This reaction won't trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Green-Flame Blade.</content>
+  <content contentuid="h0b2fe3bege978g4a9agb4begbbf49492ec7e" version="1">This reaction won't trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Moon Fire Blade.</content>
   <content contentuid="h271fc951g0dd0g4100g93c4g284f3aaad296" version="1">This reaction won't trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Booming Blade.</content>
   <content contentuid="h185e568bg0bccg4f2ega9c1g69239d2aff17" version="1">Opportunity Attack</content>
   <content contentuid="h18fc5297g5141g4625g9083g2ddbd588b8d6" version="1">Eilistraean Spell Song Level Three</content>
   <content contentuid="h1ed988f1g4ad7g41bcga465gc04e6bb6e58c" version="1">Parry the next melee attack that hits you to reduce the damage by [1] + &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;.</content>
   <content contentuid="hb3325955g1a4fg43a2gb96eg59ccea931b15" version="1">Burn another enemy for [1].</content>
-  <content contentuid="hyldn0ko1rbyanieg99nwi2gkgy19y2n0qwlg" version="1">Freeze another enemy for [1].</content>
-  <content contentuid="hmomdrx7bhnupuz2ulrxtq8mf7w4awyhu90r2" version="1">Melt another enemy for [1].</content>
-  <content contentuid="hi2wsoft3jnib4vz42ztd1neuutzaknnp74gv" version="1">Necrotize another enemy for [1] and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;.</content>
   <content contentuid="h9c0ec279gedd2g4aa8g96fcg9de433fa026e" version="1">Heal your nearby allies.</content>
   <content contentuid="hz90txim4jhdmrwiu6y1bt3wrqr6oihbsv2hw" version="1">Eilistraean Weapon Bind</content>
   <content contentuid="hkrf8qw0znegmrn8ux2ti57to7ngp8dcirwho" version="1">Eilistraean Weapon Bond</content>
@@ -52,71 +46,35 @@
   <content contentuid="hadz36e78rjopsa79ubf1b4toyykjxgpl2bpk" version="1">You also unlock your sub-class Maneuvers and &lt;LSTag Type="Spell" Tooltip="Target_EilistraeanSong_Finisher"&gt;Eilistraean Song Climax&lt;/LSTag&gt; and the ability to accumulate &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt; in combat.</content>
   <content contentuid="haj3d1kw23hi2b86qopn88fyv2pa5ke9re3vc" version="1">You also unlock your sub-class Maneuvers and &lt;LSTag Type="Spell" Tooltip="Rush_EilistraeanSong_Finisher"&gt;Eilistraean Song Climax&lt;/LSTag&gt; and the ability to accumulate &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt; in combat.</content>
   <content contentuid="holu9llozb8qgqz55bjod4tbabpmqmhy9t4eu" version="1">You also unlock your sub-class Maneuvers and &lt;LSTag Type="Spell" Tooltip="Shout_EilistraeanSong_Finisher"&gt;Eilistraean Song Climax&lt;/LSTag&gt; and the ability to accumulate &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt; in combat.</content>
-  <content contentuid="h798d708cgfbdag4a53g9fecgd0765856b836" version="1">Booming Blade Critical: Reaction</content>
-  <content contentuid="h4strl3yvqxqnz1q6m11wy2dlwli4jpgwr4cm" version="1">Divine Blade Critical: Reaction</content>
-  <content contentuid="hylk49bzpwgofye937lgd1mubmylcqbvngxjd" version="1">Psionic Blade Critical: Reaction</content>
-  <content contentuid="h2jwwsu8x4jik898zbhsjc9q87zccrvaic7k4" version="1">Shocking Blade Critical: Reaction</content>
   <content contentuid="h6ae26f1dg9d43g441ag8f8cg36ede9cce52e" version="1">Eilistraean Step</content>
   <content contentuid="h3ca76469g8a92g4888g9853gf2f6f422b762" version="1">Eilistraean Spell Song Level Four</content>
   <content contentuid="he41f1d3eg4574g4143g83b4gffae7ee47435" version="1">Skeletons and creatures killed with Acid, Fire, Lightning, Necrotic, or Radiant damage no longer have a mouth and can't be made to talk using this spell.&lt;br&gt;&lt;br&gt;Doesn't work on Undead. </content>
   <content contentuid="h59875e1bg7fe7g4349g9d4fgf287667d2c29" version="1">Attackers have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against this creature, unless they do not rely on sight or can see through illusions.</content>
-  <content contentuid="h4c11d446g6813g49a5ga3e7g3f0c2c8b5154" version="1">Can only use Booming Blade once per action.</content>
-  <content contentuid="hibskoc3mxslgbo7eynq5elwcqcj0o4dlug13" version="1">Can only use Divine Blade once per action.</content>
-  <content contentuid="hqrvcb8py8pk7wzifi15hbt26emvarm4v6doi" version="1">Can only use Psionic Blade once per action.</content>
-  <content contentuid="h2ev2enay7a36haw2507jvnu50hmi6wnp8ryc" version="1">Can only use Lightning Blade once per action.</content>
   <content contentuid="h8ec328aagf460g45f8g93ddgd3bb43102b0b" version="1">Also works if you have an ally within [1] of the target or there is no one but you and the target within [1] but for both you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
   <content contentuid="hbf30c62cg082cg4263g89c8g83bcb67e6900" version="1">Reaction</content>
   <content contentuid="h7947189agd31ag488egb2eag41249c52f2a5" version="1">This reaction will trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;.</content>
-  <content contentuid="h0ac23424g1193g4797g88a6g1df2f25cefdd" version="1">Booming Blade: Sneak Attack</content>
-  <content contentuid="h2cxyr765mcili22c1sv7e46228fiehvrz5kt" version="1">Divine Blade: Sneak Attack</content>
-  <content contentuid="hx23lstzpuxp0kjlxd9r4e7lhaisc0rvmf7x3" version="1">Psionic Blade: Sneak Attack</content>
-  <content contentuid="hpe1a2mxus6cmnzobgjyed96sfm07yt02txr1" version="1">Shocking Blade: Sneak Attack</content>
   <content contentuid="h6tjb2yc9yaxlgso3cqn7op7d38imzby4hdvl" version="1">Strike the target dealing a bonus [1] and deal extra damage to a foe you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="hlbad8pwu8qbgfa6pu1pwdjq8gomehyx2n0n4" version="1">Strike the target dealing a bonus [1] and deal extra damage to a foe you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against. If the attack lands, the target is sheathed in radiant energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="hzcjc7fyjtt9h0fb81yg44kdc4nqg9bthfy2n" version="1">Strike the target dealing a bonus [1] and deal extra damage to a foe you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against. If the attack lands, the target is sheathed in psionic energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="h8exrbcyh2ap97conc01r9cvap6i5tyodhavc" version="1">Strike the target dealing a bonus [1] and deal extra damage to a foe you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against. If the attack lands, the target is sheathed in lightning that deals [2] to them if they willingly move.</content>
   <content contentuid="h4d5b4c09g28f3g4c2bgbf9cg0d7819d81851" version="1">Sneak Attack (Melee) : Sword Dancer </content>
   <content contentuid="h7f63d6aegaaceg453dga001g950baa9b14b6" version="1">Cloud of Daggers</content>
   <content contentuid="h4ec5ac65g324cg4065g86a8g7837c21272d8" version="1">Attack an enemy moving out of your reach.</content>
-  <content contentuid="hda796617g5f86g4fd7gaf31g364417a52a32" version="1">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="h1h8wxm2ppxm4o1gzwt72696iiv542f4niufy" version="1">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in radiant energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="he4ae8c45023pv70m5hfspaa7jrzx05z9rflk" version="1">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in psionic energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="hpnjc4uqbuja4vefr3aj90sj1clxmlh53pnh9" version="1">Strike the target dealing a bonus [1]. If the attack lands, the target is sheathed in lightning that deals [2] to them if they willingly move.</content>
   <content contentuid="h54329a4ag8521g469bgb66ag00db03c2dd1c" version="1">Eilistraean Song impeded by a weapon. Until the ranged weapon is removed and/or one of the required melee weapons equipped, your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG"&gt;Eilistraean Song&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt;.</content>
   <content contentuid="hieepmifd124pa1fjv3el7c5j1r2fnkh2ks0n" version="1">Eilistraean Song is impeded.</content>
   <content contentuid="hrg26nwpxrz48ipmt83quvswnyscbbtcnuuiy" version="1">Eilistraean Song is not impeded.</content>
   <content contentuid="h560a7147ge71ag4933g95b4gf5519904702e" version="1">Eilistraean Song impeded by armour. Until the armour is removed, your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG"&gt;Eilistraean Song&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt;.</content>
   <content contentuid="h57e194fdg3959g43e8gb994g7ffa82590ea7" version="1">Whenever you successfully evade an attack, one of the duplicates disappears. Doesn't affect creatures that don't rely on sight or that can see through illusions.</content>
-  <content contentuid="h49c9724bg4631g4e97g938bg25eed9cd7247" version="1">Booming Blade on Critical</content>
-  <content contentuid="hjit4oqm6fh9jdmdc6nilzfo5rgoaowv9d4a0" version="1">Divine Blade on Critical</content>
-  <content contentuid="hmmyyv5b4bra27rtkg7oveity4fpsg924iwjr" version="1">Psionic Blade on Critical</content>
-  <content contentuid="hj8lbycpx6ylr7jup5tl97kowy6yal16lvka9" version="1">Shocking Blade on Critical</content>
   <content contentuid="h586db789gf3e0g4260gb1ecg93974571793c" version="1">Eilistraean Song Climax</content>
   <content contentuid="h4aa671b5gc52eg4de9gafe6gb08bd3b97f6e" version="1">Unleash the full damaging and healing effects of your Eilistraean Song at once. Your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_CHARGE"&gt;Eilistraean Song Charges&lt;/LSTag&gt; will harm enemies an additional [1], and will heal you and your allies an additional [2].</content>
   <content contentuid="h6119cea0ga41eg450ag9854g6bdc092b3c45" version="1">Blade Barrier</content>
   <content contentuid="h59afe09dg6994g45a9g8aa9gac4f62379339" version="1">If it is higher level than [1], you must make a &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;check&lt;/LSTag&gt; to prevent it. The check's difficulty is equal to [2] plus the level of the spell you are trying to counter. </content>
-  <content contentuid="h8848976bgdb18g4e36gac35g687209f28cad" version="1">Spread Green-Flame Blade</content>
-  <content contentuid="hty0d5uz4hsxdinf9e53sk7s5k5nwftzkuxbv" version="1">Spread Caustic Blade</content>
-  <content contentuid="h9kp3uzsp3v4uw423zfkg8oni91fsg1qose6d" version="1">Spread Icewind Blade</content>
-  <content contentuid="h24ofk3jqg6wtn1t3d81s3b39w6azrvj1mgyl" version="1">Spread Necrotic Blade</content>
-  <content contentuid="h7414e810g42b6g4a29gbd5cg62fbd64b0649" version="1">Green-Flame Blade: Reaction</content>
-  <content contentuid="hcje1219ztzlsbzgfsyxjc6ffp9pwb8pibk2f" version="1">Caustic Blade: Reaction</content>
-  <content contentuid="hh4v4134wv9n9y43vby7hzwupq4i2w6ruiv8t" version="1">Icewind Blade: Reaction</content>
-  <content contentuid="hzvr4zyep9rrlwbgydk8zvs9v2f1r4owslr40" version="1">Necrotic Blade: Reaction</content>
+  <content contentuid="h8848976bgdb18g4e36gac35g687209f28cad" version="1">Spread Moon Fire Blade</content>
+  <content contentuid="h7414e810g42b6g4a29gbd5cg62fbd64b0649" version="1">Moon Fire Blade: Reaction</content>
   <content contentuid="h5fdf6f37g677dg4ac4gb400g7b004b9d4232" version="1">Eilistraean Feinting Attack</content>
   <content contentuid="h7c6e9315g4728g4139g90b9g6002929bd47b" version="1">Blurred</content>
   <content contentuid="h60dd5dceg1b77g4f22gbcf6g28c3f18db5c7" version="1">Eilistraean Action: Dash</content>
   <content contentuid="h61ae48c5gdc3ag4609ga020g1b817db1f2c9" version="1">Blade Wall</content>
-  <content contentuid="h0e153e2agf0a3g4e36g97b6gd02031b758df" version="1">Booming Blast</content>
-  <content contentuid="h5y6vwrularw15ph3sre6p6fzroizu431mq5n" version="1">Divine Blast</content>
-  <content contentuid="h2lnngfiqomb2mfqkjjmkkg1r2ftigfote97q" version="1">Psionic Blast</content>
-  <content contentuid="h8cybbi08qn877deohv7o0k4n86lvdx95suf9" version="1">Lightning Blast</content>
   <content contentuid="h6535344dgd9e5g4b96gbc90gf134fff960d6" version="1">&lt;LSTag Type="Status" Tooltip="DISTRACTED"&gt;Distract&lt;/LSTag&gt; your target, giving your allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against the target.</content>
-  <content contentuid="h80e649e4ge45cg4132g9f39ge5233534e318" version="1">Green-Flame Blade</content>
-  <content contentuid="hc83bb5f2gc358g4c6dgbce2gb5ee32cc689d" version="1">Caustic Blade</content>
-  <content contentuid="h8b442720g25a1g49dcga5c9gfadcb5fe7afc" version="1">Icewind Blade</content>
-  <content contentuid="h6f2bb9dfg3ce5g4eafg890cgd3d6118b910b" version="1">Necrotic Blade</content>
-  <content contentuid="h19e52d51g2e44g42aaga534g451260f091e6" version="1">This reaction will trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Green-Flame Blade.</content>
+  <content contentuid="h80e649e4ge45cg4132g9f39ge5233534e318" version="1">Moon Fire Blade</content>
+  <content contentuid="h19e52d51g2e44g42aaga534g451260f091e6" version="1">This reaction will trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Moon Fire Blade.</content>
   <content contentuid="h66e98aebgefcdg468fg9a1cgb42ffcd225cc" version="1">Eilistraean Song Impeded</content>
   <content contentuid="h022784ddg33afg430bgbd54gd78f83fb246d" version="1">Eilistraean Spells</content>
 	<content contentuid="hc56a92f0g40dcg4b57gb626g0e5095ad4fab" version="1">Pick Your Spell Groups</content>
@@ -132,9 +90,6 @@
   <content contentuid="h691d0234gf9b7g44cdgb713g2270d16a43c9" version="1">Training in Eilistraean War and Song</content>
   <content contentuid="he23c7347g69beg45f9g9400g89fcee6b4e56" version="1">Teleport to a foe from a &lt;LSTag Type="HIDING" Tooltip=""&gt;hidden&lt;/LSTag&gt; position, striking them with the creeping, psychic ferocity of the shadows themselves. </content>
   <content contentuid="h3c5bf901g2901g44e2g85e6gcfadefe2ef0c" version="1">Deal a bonus [1] to the target. If the attack lands and you remain stationary, you can spread green flames to burn another for [2].</content>
-  <content contentuid="hwt405oyof0z0l8ozb07114wl3n0y03wgzpjj" version="1">Deal a bonus [1] to the target. If the attack lands and you remain stationary, you can spread caustic to melt another for [2].</content>
-  <content contentuid="h8u8slosw59hqw38jyb9eahdza8vb4dnp0ipi" version="1">Deal a bonus [1] to the target. If the attack lands and you remain stationary, you can spread icewind to freeze another for [2].</content>
-  <content contentuid="hxkz5cmkyq1qvcoh3n644ae52pjswvm6mvmws" version="1">Deal a bonus [1] to the target. If the attack lands and you remain stationary, you can spread necrotic to necrotize another for [2].</content>
   <content contentuid="h54d90cd2g3708g4944g99f8g4df9d9b30f91" version="1">Eilistraean Blade Song</content>
   <content contentuid="h710acb4ag12b3g43f8ga8f0gb2c92426bc2f" version="1">Invoke the Eilistraean Blade Song. You gain a +[1] bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; increases by [2]. You also gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; in Acrobatics and a +[1] bonus to Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
   <content contentuid="h4caboy1d2t1czhd77y7ttzaqwgbdd1vqaht5" version="1">Eilistraean Moon Dance</content>
@@ -143,123 +98,28 @@
   <content contentuid="hjgqt318l32bt80v6umy3y2jrlrf2izpubarr" version="1">Invoke the Eilistraean War Rhythm. You gain a +[1] bonus to your &lt;LSTag Type="Spell" Tooltip="Target_MainHandAttack"&gt;MainHand Attack&lt;/LSTag&gt;. You also gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; in Athletics and a +[2] bonus to Strength &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. You are immune to &lt;LSTag Type="Status" Tooltip="PARALYSED"&gt;Paralysed&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Restrained&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;. </content>
   <content contentuid="hsggyulz0wpqk7329tj2anw7xg8ll2u4oudjl" version="1">Eilistraean Spell Song</content>
   <content contentuid="hiesv5059zl5qliyxiumr5f90gg3li90gxe2j" version="1">Invoke the Eilistraean Spell Song. You gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; in Performance and a +[1] bonus to Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. You also gain a +[1] bonus to Wisdom and Charisma. You are immune to &lt;LSTag Type="Status" Tooltip="PARALYSED"&gt;Paralysed&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Restrained&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;</content>
-  <content contentuid="ha46f6404g3f08g4f18ga1f7gccbf691e2138" version="1">Green-Flame Blade Critical: Reaction</content>
-  <content contentuid="hc1748iuac4v1l3knshsqxkfi95qzce55rw2p" version="1">Caustic Blade Critical: Reaction</content>
-  <content contentuid="h3u4f0xv94wg310mjx2944mu555pgti4ivgkn" version="1">Icewind Blade Critical: Reaction</content>
-  <content contentuid="h8jg8s67dhe1tfeezp0fg9eisi8wr4kg7d0cq" version="1">Necrotic Blade Critical: Reaction</content>
+  <content contentuid="ha46f6404g3f08g4f18ga1f7gccbf691e2138" version="1">Moon Fire Blade Critical: Reaction</content>
   <content contentuid="h71a6820egd3e3g4a31g9383g41bc377d9b55" version="1">Eilistraean Song Charge</content>
   <content contentuid="h72564112g891bg4d1ag8abcg4ed41c3ab6df" version="1">Eilistraean Action: Hide</content>
   <content contentuid="ha4c12be3gd2cdg435dgb0b4gbdc7e09a4ca6" version="1">Spinning daggers fill the air. Anyone inside the whirlwind takes [1] each turn.</content>
   <content contentuid="h75d5a90bg99b8g4ef1g9c7ag75e79729df99" version="1">When a creature misses you with a melee attack, you can retaliate with a powerful strike that deals an additional [1] damage if you are wielding a melee weapon. </content>
-  <content contentuid="hcfa6e50cge421g4571g9028gf7cea12dfff9" version="1">Takes Thunder damage upon moving.</content>
-  <content contentuid="hgiya2hw5hboeuqdrjmmp6t34r9k8zc2ukalk" version="1">Takes Radiant damage upon moving.</content>
-  <content contentuid="h1hac03fetpwuqlndkgfqi2qkhhsp19ny1ewu" version="1">Takes Psychic damage upon moving.</content>
-  <content contentuid="h54hsgtsnbpdjl1mfszut1pryxxwretqwar1q" version="1">Takes Lightning damage upon moving.</content>
   <content contentuid="h7da8fab0g4dbbg4888gb7d9g61c798217f57" version="1">You learn Eilistraean Actions &lt;LSTag Type="Spell" Tooltip="Shout_EilistraeanHide"&gt;Eilistraean Hide&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Shout_EilistraeanDash"&gt;Eilistraean Dash&lt;/LSTag&gt;.</content>
   <content contentuid="hb907b24agb1b6g456eg95f2g9e7c9b7d8ab5" version="1">Conjure a cloud of spinning daggers that attack anyone inside.</content>
   <content contentuid="h7df25f89g62a0g44b2g98a8g223e05178eef" version="1">This will end your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG"&gt;Eilistraean Song&lt;/LSTag&gt;.</content>
   <content contentuid="h7eb5ccd1g99d1g4aa1gad7bg0608091830e1" version="1">Eilistraean Trip Attack</content>
-  <content contentuid="hfe280cf0ga4a4g44b2g98cagf6214e7471c0" version="1">Green-Flame Trip Attack</content>
-  <content contentuid="he4cc5482gc412g4d0bg9fc3gbe77ec454f7f" version="1">Caustic Trip Attack</content>
-  <content contentuid="h5335a512g7593g4860g8b66g6219ab1ad3df" version="1">Icewind Trip Attack</content>
-  <content contentuid="hcee61926gbc9ag4c52ga2bdg2a378043812c" version="1">Necrotic Trip Attack</content>
-  <content contentuid="hg2o9yu0o2srkkv42bx40xuukj1k5rb5vdx5u" version="1">Booming Trip Attack</content>
-  <content contentuid="h7vya6sgb6dme6nd4r1ditnipj6f06oea3oc4" version="1">Divine Trip Attack</content>
-  <content contentuid="h7pvuvycka01p8jwlvy31ixd37itthe0ook71" version="1">Psionic Trip Attack</content>
-  <content contentuid="hjlsrx3a2yte7iczm0jvv8312esagz4f6c81v" version="1">Shocking Trip Attack</content>
-  <content contentuid="ha221e5begc45fg4070gb53fg39dea2ad7299" version="1">Attack the target dealing a bonus [1] and possibly knocks the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
-  <content contentuid="h5e8c2e0fgd660g44c9gb063g19f7d048a28c" version="1">Attack the target dealing a bonus [1] and possibly knocks the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;. If the attack lands and you remain stationary, you can spread acid to melt another nearby creature for [2].</content>
-  <content contentuid="h98f57732gdb3bg4e15g81eeg6f9e4755c7c7" version="1">Attack the target dealing a bonus [1] and possibly knocks the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;. If the attack lands and you remain stationary, you can spread ice to freeze another nearby creature for [2].</content>
-  <content contentuid="h2ea6c458gdc3dg43fdg9e7cg35f0a2d006e4" version="1">Attack the target dealing a bonus [1] and possibly knocks the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;. If the attack lands and you remain stationary, you can spread necrotic energy and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; another nearby creature for [2].</content>
-  <content contentuid="h0183nlz3g23nbci13xqpad6aarhgwnthxczr" version="1">Attack the target dealing a bonus [1] and possibly knocks the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="hk0ajh36wk6gdj8xsd3tommakp9mx8j5sa5hd" version="1">Attack the target dealing a bonus [1] and possibly knocks the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;. If the attack lands, the target is sheathed in radiant energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="hovjl5s3dymyromauh41kpzmyri3rz25o7595" version="1">Attack the target dealing a bonus [1] and possibly knocks the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;. If the attack lands, the target is sheathed in psionic energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="hovjl5s3dymyromauh41kpzmyri3rz25o7595" version="1">Attack the target dealing a bonus [1] and possibly knocks the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;. If the attack lands, the target is sheathed in lightning that deals [2] to them if they willingly move.</content>
-  <content contentuid="h45f3b74cgcd09g4fb6g9892g3530d121c242" version="1">Green-Flame Disarm Attack</content>
-  <content contentuid="h09b3240egcdbag4dd4g8d5cgfd1e0d64e3bc" version="1">Caustic Disarm Attack</content>
-  <content contentuid="hceedd506g3f76g4670gbf0bg26ea20fe5e4b" version="1">Icewind Disarm Attack</content>
-  <content contentuid="hd220efb4g125eg4743gba56gb90da3dfb559" version="1">Necrotic Disarm Attack</content>
-  <content contentuid="h4wyxqnpv28g84jy0l41n15sf1puiys9o0b00" version="1">Booming Disarm Attack</content>
-  <content contentuid="hr69oqo00qidflca5vqzvv1bxff3cacak73zu" version="1">Divine Disarm Attack</content>
-  <content contentuid="hx3ru308dkymbsmyqcwwccy0loh42xorms8j2" version="1">Psionic Disarm Attack</content>
-  <content contentuid="h2rvrlbilb5cvyq7u3688jhrk4eu92sjscopa" version="1">Shocking Disarm Attack</content>
-  <content contentuid="hb79418ebg9ae9g42f8gaff0g7c281f3d4f27" version="1">Attack the target dealing a bonus [1] and possibly force them to drop the weapons they are holding. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
-  <content contentuid="h5dd54c51g7ac3g44f6g9dcagfde90ff3de39" version="1">Attack the target dealing a bonus [1] and possibly force them to drop the weapons they are holding. If the attack lands and you remain stationary, you can spread acid to melt another nearby creature for [2].</content>
-  <content contentuid="hd5b9a85bgd2f5g423cgbba2ga7f06fc0915f" version="1">Attack the target dealing a bonus [1] and possibly force them to drop the weapons they are holding. If the attack lands and you remain stationary, you can spread ice to freeze another nearby creature for [2].</content>
-  <content contentuid="hd8ad0992g025cg4946g8d9bg3cee166f64be" version="1">Attack the target dealing a bonus [1] and possibly force them to drop the weapons they are holding. If the attack lands and you remain stationary, you can spread necrotic energy and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; another nearby creature for [2].</content>
-  <content contentuid="hbwd1coyfasv8t55poapcgoqmr4990e073xqv" version="1">Attack the target dealing a bonus [1] and possibly force them to drop the weapons they are holding. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="h2ftnjkjz6mbwuhw6xzzawuxqxce5dg7cfcct" version="1">Attack the target dealing a bonus [1] and possibly force them to drop the weapons they are holding. If the attack lands, the target is sheathed in radiant energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="ho3ngigzru22fkiz0g33rczst108bzovbtqy2" version="1">Attack the target dealing a bonus [1] and possibly force them to drop the weapons they are holding. If the attack lands, the target is sheathed in psionic energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="hpyhgfbk1tfwwv0jx54lafwfctn7lh22aa7sq" version="1">Attack the target dealing a bonus [1] and possibly force them to drop the weapons they are holding. If the attack lands, the target is sheathed in lightning that deals [2] to them if they willingly move.</content>
-  <content contentuid="hn9gkjhzd1b8dvilxqleoozl4k9vmvlbhunw0" version="1">Green-Flame Distract Attack</content>
-  <content contentuid="h4ar3lsinfjvkj2bh5d9wrhdvb8rokfguolib" version="1">Caustic Distract Attack</content>
-  <content contentuid="hbhh6s438wzqr9uav0drmeewpzxqqagz6fa43" version="1">Icewind Distract Attack</content>
-  <content contentuid="harjzwtgamc1on9doz8m96791uvzi43n9l4nf" version="1">Necrotic Distract Attack</content>
-  <content contentuid="hgszquq5emrsbvb0x5dimeht7as9ovjp279jl" version="1">Booming Distract Attack</content>
-  <content contentuid="h5tezuj6h7qz67eo8z4ocdhf951zdxdojnf0j" version="1">Divine Distract Attack</content>
-  <content contentuid="hi5diijkvympzo1z9jusn8o2xaslc0fh0hqat" version="1">Psionic Distract Attack</content>
-  <content contentuid="ht29pt2su2szwoa9fxh7bydulhtug5dx3oxpb" version="1">Shocking Distract Attack</content>
-  <content contentuid="hri8pdc41348voo76krv0izvp2tpmn1p9bwk7" version="1">Attack the target dealing a bonus [1] and &lt;LSTag Type="Status" Tooltip="DISTRACTED"&gt;Distract&lt;/LSTag&gt; your target, giving your allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against it. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
-  <content contentuid="hbfyx4zjas8qehcbe9qp18nhmpgdvi04uw9lv" version="1">Attack the target dealing a bonus [1] and &lt;LSTag Type="Status" Tooltip="DISTRACTED"&gt;Distract&lt;/LSTag&gt; your target, giving your allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against it. If the attack lands and you remain stationary, you can spread acid to melt another nearby creature for [2].</content>
-  <content contentuid="h7gaxoj6y3yjwrhy2e03mjyzmc65t7eyqkeh8" version="1">Attack the target dealing a bonus [1] and &lt;LSTag Type="Status" Tooltip="DISTRACTED"&gt;Distract&lt;/LSTag&gt; your target, giving your allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against it. If the attack lands and you remain stationary, you can spread ice to freeze another nearby creature for [2].</content>
-  <content contentuid="hj5ucoanxro569p8nv2104qfcg3hsputdlrdz" version="1">Attack the target dealing a bonus [1] and &lt;LSTag Type="Status" Tooltip="DISTRACTED"&gt;Distract&lt;/LSTag&gt; your target, giving your allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against it. If the attack lands and you remain stationary, you can spread necrotic energy and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; another nearby creature for [2].</content>
-  <content contentuid="hdhqh6dojk4z0y5iidkv4jqtxiaks2bgcfoz1" version="1">Attack the target dealing a bonus [1] and &lt;LSTag Type="Status" Tooltip="DISTRACTED"&gt;Distract&lt;/LSTag&gt; your target, giving your allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against it. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="hza0vjev1srdhrcbnw1ozfs3009r897nzq48a" version="1">Attack the target dealing a bonus [1] and &lt;LSTag Type="Status" Tooltip="DISTRACTED"&gt;Distract&lt;/LSTag&gt; your target, giving your allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against it. If the attack lands, the target is sheathed in radiant energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="hzlodee3koew1rjukxdglc53rdy2nmspjedk9" version="1">Attack the target dealing a bonus [1] and &lt;LSTag Type="Status" Tooltip="DISTRACTED"&gt;Distract&lt;/LSTag&gt; your target, giving your allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against it. If the attack lands, the target is sheathed in psionic energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="h7h2fqqk5camwlkmm0iywsr60cql3b3s9amas" version="1">Attack the target dealing a bonus [1] and &lt;LSTag Type="Status" Tooltip="DISTRACTED"&gt;Distract&lt;/LSTag&gt; your target, giving your allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against it. If the attack lands, the target is sheathed in lightning that deals [2] to them if they willingly move.</content>
-  <content contentuid="h505zoonu2xkc8to6lcjcbssa5hw1mjq1kgiy" version="1">Green-Flame Feint Attack</content>
-  <content contentuid="hdwxibeu43a28uxjvxbln6f68i2y5wca1xrun" version="1">Caustic Feint Attack</content>
-  <content contentuid="hg4p296qlyj7hy6eotsf6fv2go5wfrkbfte57" version="1">Icewind Feint Attack</content>
-  <content contentuid="haify954ybgzghu1lgh0y3t8jhcbs9plcvsdy" version="1">Necrotic Feint Attack</content>
-  <content contentuid="hp6qyof8l6bkecy86tcz1r2kxbpcn4axlrqdr" version="1">Booming Feint Attack</content>
-  <content contentuid="h7m5yozsqg5fybrr1mbgguog8t4mtbui0jlkn" version="1">Divine Feint Attack</content>
-  <content contentuid="h7upqgb7actota4tg43r9kh0pqeldm1l8169p" version="1">Psionic Feint Attack</content>
-  <content contentuid="h03va4qpkcj78sdcksgrcebh8bynavnb1nnxu" version="1">Shocking Feint Attack</content>
-  <content contentuid="htm95dau92y66a230p7xu3twsp0xbrpg4akka" version="1">Attack the target with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; dealing a bonus [1]. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
-  <content contentuid="heazekeh1ri8s52ls8ynfvaunycuxdir4ajyv" version="1">Attack the target with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; dealing a bonus [1]. If the attack lands and you remain stationary, you can spread acid to melt another nearby creature for [2].</content>
-  <content contentuid="hzfxhx6ogctu480dowhsiz17kgghhbdt7hb7w" version="1">Attack the target with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; dealing a bonus [1]. If the attack lands and you remain stationary, you can spread ice to freeze another nearby creature for [2].</content>
-  <content contentuid="hxu3arx967mkjnvbmpczh1kmykz555s2irlve" version="1">Attack the target with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; dealing a bonus [1]. If the attack lands and you remain stationary, you can spread necrotic energy and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; another nearby creature for [2].</content>
-  <content contentuid="h59n37kwvxzseejtbidasglokpmls6mdc0qoo" version="1">Attack the target with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; dealing a bonus [1]. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="hfqyri544y9357jfm813v7zycgbd5rv73gs7i" version="1">Attack the target with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; dealing a bonus [1]. If the attack lands, the target is sheathed in radiant energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="hqoyh7hf9o08v19wn11uovjznkvl547rvdx2n" version="1">Attack the target with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; dealing a bonus [1]. If the attack lands, the target is sheathed in psionic energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="hj21ftbifnb69addvp6u6ghqsr3qag3nvi2gt" version="1">Attack the target with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; dealing a bonus [1]. If the attack lands, the target is sheathed in lightning that deals [2] to them if they willingly move.</content>
-  <content contentuid="hykblrpsh9dxgj29in5icbhpkx5ofvu59hdx7" version="1">Green-Flame Cleave Blade</content>
-  <content contentuid="hac25mh5h6y48l3utvqn4ewg9ao3f4m1b9xan" version="1">Caustic Cleave Blade</content>
-  <content contentuid="hjkri2bfx1kwrs2xuxib44bmob4l36xind2ci" version="1">Icewind Cleave Blade</content>
-  <content contentuid="huynb0a2bqke4o1wdb7sugj5ppvdwvabxomnj" version="1">Necrotic Cleave Blade</content>
-  <content contentuid="hwq1uba5vha0xj2in6e4m0sg91acq2ia1x21b" version="1">Booming Cleave Blade</content>
-  <content contentuid="hedcav4lgxn5q7daiqhh7ox19uj9drk13wxdn" version="1">Divine Cleave Blade</content>
-  <content contentuid="h8ttcwhqqic2hscunnk5b2j59idrxnne6xbx0" version="1">Psionic Cleave Blade</content>
-  <content contentuid="h7fnrm2pf8fm0gqn7e7sxrz8lvgqz8eg8yu1l" version="1">Shocking Cleave Blade</content>
-  <content contentuid="heckygcv8l6xcbryw8l763orkaswpjyadvisb" version="1">Swing your weapon in a large arc to attack up to [1] enemies at once dealing a bonus [2]. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [3].</content>
-  <content contentuid="h9dx8e73yz5cy79gq9hxk9xiwe8mueefdhyqd" version="1">Swing your weapon in a large arc to attack up to [1] enemies at once dealing a bonus [2]. If the attack lands and you remain stationary, you can spread acid to melt another nearby creature for [3].</content>
-  <content contentuid="hi8n3i9vnr4mb065ekhssrt7mpe5yjmmqmduc" version="1">Swing your weapon in a large arc to attack up to [1] enemies at once dealing a bonus [2]. If the attack lands and you remain stationary, you can spread ice to freeze another nearby creature for [3].</content>
-  <content contentuid="h287zxijrekliurb0e9apq5tuut2lc2bur2hu" version="1">Swing your weapon in a large arc to attack up to [1] enemies at once dealing a bonus [2]. If the attack lands and you remain stationary, you can spread necrotic energy and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; another nearby creature for [3].</content>
-  <content contentuid="h0183nlz3g23nbci13xqpad6aarhgwnthxczr" version="1">Swing your weapon in a large arc to attack up to [1] enemies at once dealing a bonus [2]. If the attack lands, the target is sheathed in booming energy that deals [3] to them if they willingly move.</content>
-  <content contentuid="hk0ajh36wk6gdj8xsd3tommakp9mx8j5sa5hd" version="1">Swing your weapon in a large arc to attack up to [1] enemies at once dealing a bonus [2]. If the attack lands, the target is sheathed in radiant energy that deals [3] to them if they willingly move.</content>
-  <content contentuid="hovjl5s3dymyromauh41kpzmyri3rz25o7595" version="1">Swing your weapon in a large arc to attack up to [1] enemies at once dealing a bonus [2]. If the attack lands, the target is sheathed in psionic energy that deals [3] to them if they willingly move.</content>
-  <content contentuid="hovjl5s3dymyromauh41kpzmyri3rz25o7595" version="1">Swing your weapon in a large arc to attack up to [1] enemies at once dealing a bonus [2]. If the attack lands, the target is sheathed in lightning that deals [3] to them if they willingly move.</content>
-  <content contentuid="h6cf3tyfi7iynzx6tgz9ckd11kt8u0b04t29c" version="1">Green-Flame Charge Blade</content>
-  <content contentuid="hiqi1jv3thxh38gl1olows895h0zya3pai8r6" version="1">Caustic Charge Blade</content>
-  <content contentuid="hea7e9jan73fg9h9u2c2pdh2czfse7j2zt5mb" version="1">Icewind Charge Blade</content>
-  <content contentuid="hxxlzd61kk4mk5m9cjnoq1g9b56gp0lmdqaxz" version="1">Necrotic Charge Blade</content>
-  <content contentuid="h4ivxft9lj7ytw0l6gw4m2g7f311nzpg2crar" version="1">Booming Charge Blade</content>
-  <content contentuid="hrydhwik7nfop6qvbh8std72n58fpp5853873" version="1">Divine Charge Blade</content>
-  <content contentuid="h7hgexvbvmrff0vd2z9u4aim3cy6sgeu2nn6h" version="1">Psionic Charge Blade</content>
-  <content contentuid="hbyb08igmaxc3v26ksptvy8zmee20qovndijz" version="1">Shocking Charge Blade</content>
-  <content contentuid="hv3d975owslmq6hzrm4q27x4ngx5xxtxstcbz" version="1">Charge forward and slam your weapon into the first enemy in your way dealing a bonus [1]. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
-  <content contentuid="hhvh0xkcw7o6jqnrjk9basxu7zl3czup2k9n1" version="1">Charge forward and slam your weapon into the first enemy in your way dealing a bonus [1]. If the attack lands and you remain stationary, you can spread acid to melt another nearby creature for [2].</content>
-  <content contentuid="hqqixt3mlxih5wrjk0l4ynsp1hs9flldx8l1x" version="1">Charge forward and slam your weapon into the first enemy in your way dealing a bonus [1]. If the attack lands and you remain stationary, you can spread ice to freeze another nearby creature for [2].</content>
-  <content contentuid="hlvyo74yerbg7t2io50o6hfc80a7go48lkwbc" version="1">Charge forward and slam your weapon into the first enemy in your way dealing a bonus [1]. If the attack lands and you remain stationary, you can spread necrotic energy and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; another nearby creature for [2].</content>
-  <content contentuid="hgh60n3zyk4k82a6qngmlil92h4n40x3fa2k8" version="1">Charge forward and slam your weapon into the first enemy in your way dealing a bonus [1]. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="hh7msxmduf75ixqbj6ev48h5dcs6w4aq2gs57" version="1">Charge forward and slam your weapon into the first enemy in your way dealing a bonus [1]. If the attack lands, the target is sheathed in radiant energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="h5naercwrzg4nqhr7jskjpx0vcb7eibm241ik" version="1">Charge forward and slam your weapon into the first enemy in your way dealing a bonus [1]. If the attack lands, the target is sheathed in psionic energy that deals [2] to them if they willingly move.</content>
-  <content contentuid="h20lpafcrlabm3anfj49d9peyg257b095gmcl" version="1">Charge forward and slam your weapon into the first enemy in your way dealing a bonus [1]. If the attack lands, the target is sheathed in lightning that deals [2] to them if they willingly move.</content>
+  <content contentuid="hfe280cf0ga4a4g44b2g98cagf6214e7471c0" version="1">Moon Fire Trip Attack</content>
+  <content contentuid="ha221e5begc45fg4070gb53fg39dea2ad7299" version="1">Attack the target dealing a bonus [1] and possibly knocks the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;. If the attack lands and you remain stationary, you can spread Moon Fire to burn another nearby creature for [2].</content>
+  <content contentuid="h45f3b74cgcd09g4fb6g9892g3530d121c242" version="1">Moon Fire Disarm Attack</content>
+  <content contentuid="hb79418ebg9ae9g42f8gaff0g7c281f3d4f27" version="1">Attack the target dealing a bonus [1] and possibly force them to drop the weapons they are holding. If the attack lands and you remain stationary, you can spread Moon Fire to burn another nearby creature for [2].</content>
+  <content contentuid="hn9gkjhzd1b8dvilxqleoozl4k9vmvlbhunw0" version="1">Moon Fire Distract Attack</content>
+  <content contentuid="hri8pdc41348voo76krv0izvp2tpmn1p9bwk7" version="1">Attack the target dealing a bonus [1] and &lt;LSTag Type="Status" Tooltip="DISTRACTED"&gt;Distract&lt;/LSTag&gt; your target, giving your allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against it. If the attack lands and you remain stationary, you can spread Moon Fire to burn another nearby creature for [2].</content>
+  <content contentuid="h505zoonu2xkc8to6lcjcbssa5hw1mjq1kgiy" version="1">Moon Fire Feint Attack</content>
+  <content contentuid="htm95dau92y66a230p7xu3twsp0xbrpg4akka" version="1">Attack the target with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; dealing a bonus [1]. If the attack lands and you remain stationary, you can spread Moon Fire to burn another nearby creature for [2].</content>
+  <content contentuid="hykblrpsh9dxgj29in5icbhpkx5ofvu59hdx7" version="1">Moon Fire Cleave Blade</content>
+  <content contentuid="heckygcv8l6xcbryw8l763orkaswpjyadvisb" version="1">Swing your weapon in a large arc to attack up to [1] enemies at once dealing a bonus [2]. If the attack lands and you remain stationary, you can spread Moon Fire to burn another nearby creature for [3].</content>
+  <content contentuid="h6cf3tyfi7iynzx6tgz9ckd11kt8u0b04t29c" version="1">Moon Fire Charge Blade</content>
+  <content contentuid="hv3d975owslmq6hzrm4q27x4ngx5xxtxstcbz" version="1">Charge forward and slam your weapon into the first enemy in your way dealing a bonus [1]. If the attack lands and you remain stationary, you can spread Moon Fire to burn another nearby creature for [2].</content>
   <content contentuid="h82c20330g94f4g4da8gaf92g53e2a94013df" version="1">When hit with a melee attack, the affected entity can use a reaction and reduce the damage by [1].</content>
-  <content contentuid="hfd16b1c5g3c60g440fg8c91g213f397157e1" version="1">Booming Energy</content>
-  <content contentuid="hl3te2unjs4ys8at8oxbdbqhk1dhv0r18exuy" version="1">Divine Energy</content>
-  <content contentuid="h3i2iw48euz4b38bx5ol3foeln31yt5i738bd" version="1">Psionic Energy</content>
-  <content contentuid="hztxl5c95c5hulmn1xelt8qz5e5ot6duf5log" version="1">Lightning</content>
   <content contentuid="his7wm3ke3v1vhas87ijzu8nthlhtxzb731fl" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; The target can't be Huge in size.</content>
   <content contentuid="h869334e3gca97g4926g9804g34b7b1dca095" version="1">Eilistraean Parry</content>
   <content contentuid="h87100760g26bfg4c09g8e41g6c8feaefe71c" version="1">Stop your Eilistraean Song early.</content>
@@ -291,23 +151,11 @@
   <content contentuid="hq86sfl8gd1ldrelw8xjnp55e9hc97rbhmp7k" version="1">Eilistraean Spell Song Level Six</content>
   <content contentuid="h9c3b8dadg3600g4865gaed0g1b3fd0d4be8e" version="1">Nullify another creature's spell as a reaction. The spell must be Level [1] or lower. If it is higher, you must succeed a &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; to nullify it, the difficulty of which is based on  the spell's Level.</content>
   <content contentuid="ha18d0b3eg1838g47b9g83aege6fcf45e5251" version="1">This effect still works if your attack misses.</content>
-  <content contentuid="h7cc1e81bg6fb0g4501g8749g399dd04d3847" version="1">Can only use Green-Flame Blade once per action.</content>
-  <content contentuid="hafy4b59z83n8f4opu30cdwtn7t30dbyzxkyq" version="1">Can only use Caustic Blade once per action.</content>
-  <content contentuid="hwrxuh7315slfv2glv0zsl4gtbsoi4z9sqlnd" version="1">Can only use Icewind Blade once per action.</content>
-  <content contentuid="hc9lumr52dfv492keeio4kmjs72ahv7mqb62k" version="1">Can only use Necrotic Blade once per action.</content>
-  <content contentuid="hed90ea51g822dg4011ga6a8gc8c40527698a" version="1">Green-Flame Blade on Critical</content>
-  <content contentuid="h6n4cb2eyb6w6bwbabbs243veazwysecww72m" version="1">Caustic Blade on Critical</content>
-  <content contentuid="hjfljl8fgai970h2586mu8lgcpkbnue6hdybf" version="1">Icewind Blade on Critical</content>
-  <content contentuid="hj1c6wj1k4jat6sk0ikirngjqbgjxz4a2jzai" version="1">Necrotic Blade on Critical</content>
+  <content contentuid="h7cc1e81bg6fb0g4501g8749g399dd04d3847" version="1">Can only use Moon Fire Blade once per action.</content>
+  <content contentuid="hed90ea51g822dg4011ga6a8gc8c40527698a" version="1">Moon Fire Blade on Critical</content>
   <content contentuid="hca6ab0beg5905g4cb2g889bga761fe4684b9" version="1">Also works if you have an ally within [1] of the target or there is no one but you and the target within [1] but for both you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
-  <content contentuid="had6c7a65g9e68g47b1gb9f1g76571af0c296" version="1">Green-Flame Blade: Sneak Attack</content>
-  <content contentuid="hba637747g1a4dg4e02gad5cg2d9f32409fb1" version="1">Icewind Blade: Sneak Attack</content>
-  <content contentuid="hd5402717gdabag4a05gb80bgb01a7730f054" version="1">Caustic Blade: Sneak Attack</content>
-  <content contentuid="h6d367382gc9b4g49f0g8ac4gb3354a8a3d78" version="1">Necrotic Blade: Sneak Attack</content>
-  <content contentuid="hkis76up4gsfayjxgd4b6hb9nu0q8ufikxmet" version="1">Strike the target dealing a bonus [1] and deal extra damage to a foe you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against. If the attack lands and you remain stationary, you can spread green-flame to burn another nearby creature for [2].</content>
-  <content contentuid="htyg36w5fgi7dkkl282iqsy5sybrm10h1uog5" version="1">Strike the target dealing a bonus [1] and deal extra damage to a foe you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against. If the attack lands and you remain stationary, you can spread acid to melt another nearby creature for [2].</content>
-  <content contentuid="hob7apj94vsol6vndlfs9i4cic4zmtssodmt2" version="1">Strike the target dealing a bonus [1] and deal extra damage to a foe you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against. If the attack lands and you remain stationary, you can spread ice to freeze another nearby creature for [2].</content>
-  <content contentuid="hoodvpidj6kd08x4czvi8b5lt3si6c5nyci2l" version="1">Strike the target dealing a bonus [1] and deal extra damage to a foe you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against. If the attack lands and you remain stationary, you can spread necrotic energy and &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;FRIGHTENED&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt; another nearby creature for [2].</content>
+  <content contentuid="had6c7a65g9e68g47b1gb9f1g76571af0c296" version="1">Moon Fire Blade: Sneak Attack</content>
+  <content contentuid="hkis76up4gsfayjxgd4b6hb9nu0q8ufikxmet" version="1">Strike the target dealing a bonus [1] and deal extra damage to a foe you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against. If the attack lands and you remain stationary, you can spread Moon Fire to burn another nearby creature for [2].</content>
   <content contentuid="ha8a850fbgd7adg40a3g902dg9a87f641aca1" version="1">Invoking the Eilistraean Song. You gain a +[1] bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is increased by [2]m. You also gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; in Acrobatics and a +[1] bonus to Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
   <content contentuid="ha9427cdfgfa61g43cdgaa2eg9a9ddbd1e431" version="1">You can make an attack that deals an additional [1] damage and possibly knocks the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
   <content contentuid="ha9c8d475gedc0g4760gadd5g1dc647dbb500" version="1">Eilistraean Charger</content>
@@ -324,10 +172,7 @@
   <content contentuid="hb3137566g45dbg49c3gac35g39e9d286dfda" version="1">Eilistraean Initiative</content>
   <content contentuid="hb3e939dag71dcg409bgac55ge9bc9016376e" version="1">Eilistraean Spell Song Level One</content>
   <content contentuid="hb777ae33g478fg4591g9941gfc4a3d2055b1" version="1">Eilistraean Mockery</content>
-  <content contentuid="h3522f4b1gfd3fg4708g84a9g68e7133d34a0" version="1">Can burn a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_MoonFireBladeExtra"&gt;Spread Green Flame Blade&lt;/LSTag&gt;. Removed if you move.</content>
-  <content contentuid="htyaoyyg131x75h58r53ht2d0pf3cfolt1a3i" version="1">Can melt a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_CausticBladeExtra"&gt;Spread Caustic Blade&lt;/LSTag&gt;. Removed if you move.</content>
-  <content contentuid="hhtltqjypoopv0x5go6tkluptf7nk89gdl7hy" version="1">Can freeze a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_IcewindBladeExtra"&gt;Spread Icewind Blade&lt;/LSTag&gt;. Removed if you move.</content>
-  <content contentuid="hd3ni3trdmm0bhjnubklaeu15mrpt16yzypld" version="1">Can necrotize a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_NecroticBladeExtra"&gt;Spread Necrotic Blade&lt;/LSTag&gt;. Removed if you move.</content>
+  <content contentuid="h3522f4b1gfd3fg4708g84a9g68e7133d34a0" version="1">Can burn a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_MoonFireBladeExtra"&gt;Spread Moon Fire Blade&lt;/LSTag&gt;. Removed if you move.</content>
   <content contentuid="hb83ff5a2g23a5g4f1cga48bg09a70ba7d131" version="1">You gain an additional way to use your Sneak Attack; You can now also perform sneak attacks if there are no other enemies within [1] of the target (the enemy is isolated).</content>
   <content contentuid="h8b98823aga3c7g474egbc0egcfd0d066c47d" version="1">Reactions, such as &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;, are responses you can have to events. Reactions can trigger both during and outside of your turn.</content>
   <content contentuid="hba328959g46dfg4645g80e6gccaef6b1db20" version="1">You and allies within [1] gain &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to Falling damage.</content>
@@ -350,14 +195,7 @@
   <content contentuid="hc862d785g74efg4169g85c0g6acfb43d2cf2" version="1">A charge that will increase how much damage you deal to enemies by [1] and how much you heal yourself and your allies by [1] when using &lt;LSTag Type="Spell" Tooltip="Projectile_EilistraeanSong_Finisher"&gt;Eilistraean Song Climax&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;You can accumulate these charges by attacking with weapons.</content>
   <content contentuid="hc91c8298g7ae5g4b31gbab7g1b5eb102acbe" version="1">Use this resource to upcast spells during combat</content>
   <content contentuid="hedd34b0cg2823g4dc1gb1acgfb01e535cb7e" version="1">You have &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; in &lt;LSTag Tooltip="History"&gt;History&lt;/LSTag&gt;, &lt;LSTag Tooltip="Perception"&gt;Perception&lt;/LSTag&gt;, &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt;, &lt;LSTag Tooltip="Nature"&gt;Nature&lt;/LSTag&gt; and &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt; </content>
-  <content contentuid="h39561eeeg608dg4d59g9cccgd123a77f6c8f" version="1">Green-Flame Burn</content>
-  <content contentuid="hnyx204guszyug9yr5v3zmkznxyv8q3o832bk" version="1">Caustic Melt</content>
-  <content contentuid="h35exfodzhlu9ais5etv0ein8m8wlwarq1p8c" version="1">Icewind Freeze</content>
-  <content contentuid="h8ybyfddun4qqt7toh9razykhm8ji3p5c6jj8" version="1">Necrotize</content>
-  <content contentuid="h0de631e3gcb26g47c9gb387g3050f462c5e2" version="1">Booming Blade: Reaction</content>
-  <content contentuid="hmn00go5xb18mq2fpr8ae3fu2oc4di79a6vxp" version="1">Divine Blade: Reaction</content>
-  <content contentuid="hvyboei32ebf84026g2ivvhidkxjn2uy1aeep" version="1">Psionic Blade: Reaction</content>
-  <content contentuid="hf1yopcd7a6m0n7opwklcm9bfa16xgarybqof" version="1">Shocking Blade: Reaction</content>
+  <content contentuid="h39561eeeg608dg4d59g9cccgd123a77f6c8f" version="1">Moon Fire Burn</content>
   <content contentuid="hd0de1c33g306bg4e79ga8f9g8527121e62d7" version="1">Create illusory duplicates of yourself that distract attackers. Each duplicate increases your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
   <content contentuid="hjat73l2lybv283rs9puu74hq2m94j2q5tprm" version="1">Create [1] illusory duplicates of yourself that distract attackers. Each duplicate increases your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; to [2]. Attackers have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against you.</content>
   <content contentuid="hd1df7174ga4ecg473bg9600g1de6643a7787" version="1">You can't use this attack if you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
@@ -373,20 +211,10 @@
   <content contentuid="hefd823e0g0dcbg4625ga9e5g5757a4873b84" version="1">Blade Barrier</content>
   <content contentuid="hd8c13b92gcdabg48faga6b5g6573b7106832" version="1">Eilistraean Counter</content>
   <content contentuid="hae8a7661g222cg4f61gb8dbg60a6d06ff5ea" version="1">Mass Eilistraean Word</content>
-  <content contentuid="hb798a19ag01e9g48dcg9ab7g8bdb8274edbc" version="1">Cannot be targeted by &lt;LSTag Type="Spell" Tooltip="Target_MoonFireBladeExtra"&gt;Spread Green Flame Blade&lt;/LSTag&gt;.</content>
-  <content contentuid="ho25392a3rsmzjtl8g4m0jc7sfcg7lgt6c146" version="1">Cannot be targeted by &lt;LSTag Type="Spell" Tooltip="Target_CausticBladeExtra"&gt;Spread Caustic Blade&lt;/LSTag&gt;.</content>
-  <content contentuid="hqm9nrj9ye5rl8poecufr9phh5oxc3ecsfur9" version="1">Cannot be targeted by &lt;LSTag Type="Spell" Tooltip="Target_IcewindBladeExtra"&gt;Spread Icewind Blade&lt;/LSTag&gt;.</content>
-  <content contentuid="hjos1y9gq9plm775kzkdif8qpd6chngiraghh" version="1">Cannot be targeted by &lt;LSTag Type="Spell" Tooltip="Target_NecroticBladeExtra"&gt;Spread Necrotic Blade&lt;/LSTag&gt;.</content>
+  <content contentuid="hb798a19ag01e9g48dcg9ab7g8bdb8274edbc" version="1">Cannot be targeted by &lt;LSTag Type="Spell" Tooltip="Target_MoonFireBladeExtra"&gt;Spread Moon Fire Blade&lt;/LSTag&gt;.</content>
   <content contentuid="hac846208g3593g4071g95ebg3032f00371fb" version="1">Creatures that approach the barrier are slit and sliced and cut and carved like so much meat on a blood-grouted block. </content>
   <content contentuid="hdd5b8d00g1b76g498cg93c4g3b74f2928d4a" version="1">Eilistraean Distracting Strike</content>
-  <content contentuid="h813a82a7gb9e8g4d69gb79bg1f5993a7f660" version="1">Green-Flame Blade (Once)</content>
-  <content contentuid="hrpfkl8owdb0843e6kygexpjpks46pvhde2bv" version="1">Caustic Blade (Once)</content>
-  <content contentuid="he8tb8ilxeq9j8p5bbrceadfelagc2f80805t" version="1">Icewind Blade (Once)</content>
-  <content contentuid="hb09thxie2mplgbij2iy1xxjj3duc9wvd6jig" version="1">Necrotic Blade (Once)</content>
-  <content contentuid="h90afeac8gdeb8g422ag884bg57927169062a" version="1">Booming Blade (Once)</content>
-  <content contentuid="h7rx27u30b2zdso5afzk420oqilyxjtw1hrcj" version="1">Divine Blade (Once)</content>
-  <content contentuid="hhh5h27rrtan6c5rn58qcst5q6espscbkuiy5" version="1">Psionic Blade (Once)</content>
-  <content contentuid="haa1884lauanhru81fvxzj19ay3rmwf4tyrr7" version="1">Shocking Blade (Once)</content>
+  <content contentuid="h813a82a7gb9e8g4d69gb79bg1f5993a7f660" version="1">Moon Fire Blade (Once)</content>
   <content contentuid="h43ca88c6g3809g4b70ga54dgf62cd73ed518" version="1">Teleport from shadow to shadow. Afterwards, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next melee &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
   <content contentuid="hzjvxu0wvdotd2wlgql7dgr40d85rz8ha3xo3" version="1">Blade Rituals</content>
   <content contentuid="h0v9n69iqraa63q3il1zmhjqjl4cell9g1541" version="1">Ritual Songs taught to Eilistraeans to aid in their quests</content>
