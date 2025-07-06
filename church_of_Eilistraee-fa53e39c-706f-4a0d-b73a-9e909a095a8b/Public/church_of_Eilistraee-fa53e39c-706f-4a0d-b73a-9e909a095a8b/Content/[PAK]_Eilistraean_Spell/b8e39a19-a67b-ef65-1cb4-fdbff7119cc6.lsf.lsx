@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="200" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="EffectBank">
+		<node id="EffectBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="b8e39a19-a67b-ef65-1cb4-fdbff7119cc6" />
+					<attribute id="Name" type="LSString" value="VFX_Script_Nightsong_Teleport_01_SDOE" />
+					<attribute id="SourceFile" type="LSString" value="Public/sde_06e7001e-c3ef-228a-1e9f-424cdf7e7ffb/Assets/Effects/Effects_Banks/Script/VFX_Script_Nightsong_Teleport_01_SDOE.lsfx" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Script_Nightsong_Teleport_01_SDOE" />
+					<attribute id="BoundsMin" type="fvec3" value="-5 -2 -5" />
+					<attribute id="BoundsMax" type="fvec3" value="5 8 5" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="3.5" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="InterruptionMode" type="uint32" value="2" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="54087b8b-1633-f41d-ebcd-861f97ccff3c" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="c6a74939-bef8-f8e5-2c21-3037b8a1d8bf" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="bd5fd30b-ac81-0a1f-2996-9c619cbac161" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="4f5b525d-cdf7-1d04-2db5-d1f6e28c013b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="136005b8-52cf-20ef-8dc9-d0b981010947" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="efbe92b2-fb21-d294-49b1-57bc9f54d78b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="1a1a7099-9c46-4d5f-8f00-a249af1dc519" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="a3c36b9f-f82d-2fd7-168f-4b43038bd8ef" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="70148014-3c4e-8afa-af1e-9bc00dda86bf" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="972b996e-282d-711a-72e5-cc2f0fc6e811" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="317bf423-2205-46f1-6932-c1e980336040" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

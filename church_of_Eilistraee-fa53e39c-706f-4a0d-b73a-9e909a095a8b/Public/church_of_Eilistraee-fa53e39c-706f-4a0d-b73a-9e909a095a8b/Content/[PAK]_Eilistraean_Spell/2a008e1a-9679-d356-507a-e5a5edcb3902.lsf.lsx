@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="200" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="EffectBank">
+		<node id="EffectBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="2a008e1a-9679-d356-507a-e5a5edcb3902" />
+					<attribute id="Name" type="LSString" value="VFX_Spells_Prepare_Arcane_Intent_Debuff_Bane_L_HandFX_Textkey_01_SDOE" />
+					<attribute id="SourceFile" type="LSString" value="Public/sde_06e7001e-c3ef-228a-1e9f-424cdf7e7ffb/Assets/Effects/Effects_Banks/Spells/Prepare/Arcane/Intent/Debuff/VFX_Spells_Prepare_Arcane_Intent_Debuff_Bane_L_HandFX_Textkey_01_SDOE.lsfx" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Spells_Prepare_Arcane_Intent_Debuff_Bane_L_HandFX_Textkey_01_SDOE" />
+					<attribute id="BoundsMin" type="fvec3" value="-5.5 -5.5 -5.5" />
+					<attribute id="BoundsMax" type="fvec3" value="5.5 5.5 5.5" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2.3000002" />
+					<attribute id="Looping" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="35616aa2-cdec-342a-943c-74b0fd665ecf" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="e8a4937f-b05a-eb00-3785-2e1e75cf34db" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

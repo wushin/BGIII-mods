@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="200" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="EffectBank">
+		<node id="EffectBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="4423f8db-c28d-3eee-ba41-2aedc2042c25" />
+					<attribute id="Name" type="LSString" value="VFX_Spells_Cast_Paladin_AuraofProtection_BodyFX_Textkey_01_SDOE" />
+					<attribute id="SourceFile" type="LSString" value="Public/sde_06e7001e-c3ef-228a-1e9f-424cdf7e7ffb/Assets/Effects/Effects_Banks/Spells/Cast/Paladin/VFX_Spells_Cast_Paladin_AuraofProtection_BodyFX_Textkey_01_SDOE.lsfx" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Spells_Cast_Paladin_AuraofProtection_BodyFX_Textkey_01_SDOE" />
+					<attribute id="BoundsMin" type="fvec3" value="-7 -7 -7" />
+					<attribute id="BoundsMax" type="fvec3" value="7 7 7" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="1.5" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="InterruptionMode" type="uint32" value="2" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="c9221129-d08b-423c-9779-c8a43158333c" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="a3f72833-9da5-3fb0-3832-1c4e13a6fc2b" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5648d41b-5f6b-2e1c-8e1f-9e69e8094264" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
