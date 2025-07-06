@@ -13,8 +13,8 @@
           <attribute id="UUID" type="FixedString" value="ee5a28b6-4dfe-42f0-b7f5-11f1e936a5ff"/>
         </node>
         <node id="TextureAtlasTextureSize">
-          <attribute id="Height" type="int64" value="256"/>
-          <attribute id="Width" type="int64" value="256"/>
+          <attribute id="Height" type="int64" value="512"/>
+          <attribute id="Width" type="int64" value="512"/>
         </node>
       </children>
     </node>
@@ -23,116 +23,286 @@
     <node id="root">
       <children>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="empty_1"/>
-          <attribute id="U1" type="float" value="0.0"/>
-          <attribute id="U2" type="float" value="0.25"/>
-          <attribute id="V1" type="float" value="0.0"/>
-          <attribute id="V2" type="float" value="0.25"/>
+            <attribute id="MapKey" type="FixedString" value="Spell_Eilistraean_MoonFireBlade"/>
+            <attribute id="U1" type="float" value="0.0009765625"/>
+            <attribute id="U2" type="float" value="0.12402344"/>
+            <attribute id="V1" type="float" value="0.0009765625"/>
+            <attribute id="V2" type="float" value="0.12402344"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Spell_Eilistraean_MoonFireBlade"/>
-          <attribute id="U1" type="float" value="0.25"/>
-          <attribute id="U2" type="float" value="0.5"/>
-          <attribute id="V1" type="float" value="0.0"/>
-          <attribute id="V2" type="float" value="0.25"/>
+            <attribute id="MapKey" type="FixedString" value="Action_BladeSong"/>
+            <attribute id="U1" type="float" value="0.12597656"/>
+            <attribute id="U2" type="float" value="0.24902344"/>
+            <attribute id="V1" type="float" value="0.0009765625"/>
+            <attribute id="V2" type="float" value="0.12402344"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="empty_2"/>
-          <attribute id="U1" type="float" value="0.5"/>
-          <attribute id="U2" type="float" value="0.75"/>
-          <attribute id="V1" type="float" value="0.0"/>
-          <attribute id="V2" type="float" value="0.25"/>
+            <attribute id="MapKey" type="FixedString" value="Action_MoonDance"/>
+            <attribute id="U1" type="float" value="0.25097656"/>
+            <attribute id="U2" type="float" value="0.37402344"/>
+            <attribute id="V1" type="float" value="0.0009765625"/>
+            <attribute id="V2" type="float" value="0.12402344"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="empty_3"/>
-          <attribute id="U1" type="float" value="0.75"/>
-          <attribute id="U2" type="float" value="1.0"/>
-          <attribute id="V1" type="float" value="0.0"/>
-          <attribute id="V2" type="float" value="0.25"/>
+            <attribute id="MapKey" type="FixedString" value="Action_WarRhythm"/>
+            <attribute id="U1" type="float" value="0.37597656"/>
+            <attribute id="U2" type="float" value="0.49902344"/>
+            <attribute id="V1" type="float" value="0.0009765625"/>
+            <attribute id="V2" type="float" value="0.12402344"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="empty_4"/>
-          <attribute id="U1" type="float" value="0.0"/>
-          <attribute id="U2" type="float" value="0.25"/>
-          <attribute id="V1" type="float" value="0.25"/>
-          <attribute id="V2" type="float" value="0.5"/>
+            <attribute id="MapKey" type="FixedString" value="Action_SpellSong"/>
+            <attribute id="U1" type="float" value="0.50097656"/>
+            <attribute id="U2" type="float" value="0.62402344"/>
+            <attribute id="V1" type="float" value="0.0009765625"/>
+            <attribute id="V2" type="float" value="0.12402344"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="empty_5"/>
-          <attribute id="U1" type="float" value="0.25"/>
-          <attribute id="U2" type="float" value="0.5"/>
-          <attribute id="V1" type="float" value="0.25"/>
-          <attribute id="V2" type="float" value="0.5"/>
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_ThrowMain"/>
+            <attribute id="U1" type="float" value="0.62597656"/>
+            <attribute id="U2" type="float" value="0.74902344"/>
+            <attribute id="V1" type="float" value="0.0009765625"/>
+            <attribute id="V2" type="float" value="0.12402344"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="empty_6"/>
-          <attribute id="U1" type="float" value="0.5"/>
-          <attribute id="U2" type="float" value="0.75"/>
-          <attribute id="V1" type="float" value="0.25"/>
-          <attribute id="V2" type="float" value="0.5"/>
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_ThrowOff"/>
+            <attribute id="U1" type="float" value="0.75097656"/>
+            <attribute id="U2" type="float" value="0.87402344"/>
+            <attribute id="V1" type="float" value="0.0009765625"/>
+            <attribute id="V2" type="float" value="0.12402344"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="empty_7"/>
-          <attribute id="U1" type="float" value="0.75"/>
-          <attribute id="U2" type="float" value="1.0"/>
-          <attribute id="V1" type="float" value="0.25"/>
-          <attribute id="V2" type="float" value="0.5"/>
+            <attribute id="MapKey" type="FixedString" value="EilistraeanDexterity"/>
+            <attribute id="U1" type="float" value="0.87597656"/>
+            <attribute id="U2" type="float" value="0.99902344"/>
+            <attribute id="V1" type="float" value="0.0009765625"/>
+            <attribute id="V2" type="float" value="0.12402344"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Icon_SpellSong"/>
-          <attribute id="U1" type="float" value="0.0"/>
-          <attribute id="U2" type="float" value="0.25"/>
-          <attribute id="V1" type="float" value="0.5"/>
-          <attribute id="V2" type="float" value="0.75"/>
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_AuraOfPurity"/>
+            <attribute id="U1" type="float" value="0.0009765625"/>
+            <attribute id="U2" type="float" value="0.12402344"/>
+            <attribute id="V1" type="float" value="0.12597656"/>
+            <attribute id="V2" type="float" value="0.24902344"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Icon_ThrowMain"/>
-          <attribute id="U1" type="float" value="0.25"/>
-          <attribute id="U2" type="float" value="0.5"/>
-          <attribute id="V1" type="float" value="0.5"/>
-          <attribute id="V2" type="float" value="0.75"/>
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_AuraOfTruth"/>
+            <attribute id="U1" type="float" value="0.12597656"/>
+            <attribute id="U2" type="float" value="0.24902344"/>
+            <attribute id="V1" type="float" value="0.12597656"/>
+            <attribute id="V2" type="float" value="0.24902344"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Icon_ThrowOff"/>
-          <attribute id="U1" type="float" value="0.5"/>
-          <attribute id="U2" type="float" value="0.75"/>
-          <attribute id="V1" type="float" value="0.5"/>
-          <attribute id="V2" type="float" value="0.75"/>
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_Banish"/>
+            <attribute id="U1" type="float" value="0.25097656"/>
+            <attribute id="U2" type="float" value="0.37402344"/>
+            <attribute id="V1" type="float" value="0.12597656"/>
+            <attribute id="V2" type="float" value="0.24902344"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="Icon_EilistraeanDexterity"/>
-          <attribute id="U1" type="float" value="0.75"/>
-          <attribute id="U2" type="float" value="1.0"/>
-          <attribute id="V1" type="float" value="0.5"/>
-          <attribute id="V2" type="float" value="0.75"/>
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_BeaconOfHope"/>
+            <attribute id="U1" type="float" value="0.37597656"/>
+            <attribute id="U2" type="float" value="0.49902344"/>
+            <attribute id="V1" type="float" value="0.12597656"/>
+            <attribute id="V2" type="float" value="0.24902344"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="MySweetMod_13_Icon"/>
-          <attribute id="U1" type="float" value="0.0"/>
-          <attribute id="U2" type="float" value="0.25"/>
-          <attribute id="V1" type="float" value="0.75"/>
-          <attribute id="V2" type="float" value="1.0"/>
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_BladesongWaltz"/>
+            <attribute id="U1" type="float" value="0.50097656"/>
+            <attribute id="U2" type="float" value="0.62402344"/>
+            <attribute id="V1" type="float" value="0.12597656"/>
+            <attribute id="V2" type="float" value="0.24902344"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="MySweetMod_14_Icon"/>
-          <attribute id="U1" type="float" value="0.25"/>
-          <attribute id="U2" type="float" value="0.5"/>
-          <attribute id="V1" type="float" value="0.75"/>
-          <attribute id="V2" type="float" value="1.0"/>
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_DeathWard"/>
+            <attribute id="U1" type="float" value="0.62597656"/>
+            <attribute id="U2" type="float" value="0.74902344"/>
+            <attribute id="V1" type="float" value="0.12597656"/>
+            <attribute id="V2" type="float" value="0.24902344"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="MySweetMod_15_Icon"/>
-          <attribute id="U1" type="float" value="0.5"/>
-          <attribute id="U2" type="float" value="0.75"/>
-          <attribute id="V1" type="float" value="0.75"/>
-          <attribute id="V2" type="float" value="1.0"/>
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_DeathWard_Multi"/>
+            <attribute id="U1" type="float" value="0.75097656"/>
+            <attribute id="U2" type="float" value="0.87402344"/>
+            <attribute id="V1" type="float" value="0.12597656"/>
+            <attribute id="V2" type="float" value="0.24902344"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="MySweetMod_16_Icon"/>
-          <attribute id="U1" type="float" value="0.75"/>
-          <attribute id="U2" type="float" value="1.0"/>
-          <attribute id="V1" type="float" value="0.75"/>
-          <attribute id="V2" type="float" value="1.0"/>
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_Demonbane"/>
+            <attribute id="U1" type="float" value="0.87597656"/>
+            <attribute id="U2" type="float" value="0.99902344"/>
+            <attribute id="V1" type="float" value="0.12597656"/>
+            <attribute id="V2" type="float" value="0.24902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_EternalDance"/>
+            <attribute id="U1" type="float" value="0.0009765625"/>
+            <attribute id="U2" type="float" value="0.12402344"/>
+            <attribute id="V1" type="float" value="0.25097656"/>
+            <attribute id="V2" type="float" value="0.37402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_FreedomOfMovement"/>
+            <attribute id="U1" type="float" value="0.12597656"/>
+            <attribute id="U2" type="float" value="0.24902344"/>
+            <attribute id="V1" type="float" value="0.25097656"/>
+            <attribute id="V2" type="float" value="0.37402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_LesserRestoration"/>
+            <attribute id="U1" type="float" value="0.25097656"/>
+            <attribute id="U2" type="float" value="0.37402344"/>
+            <attribute id="V1" type="float" value="0.25097656"/>
+            <attribute id="V2" type="float" value="0.37402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_LunarBolt"/>
+            <attribute id="U1" type="float" value="0.37597656"/>
+            <attribute id="U2" type="float" value="0.49902344"/>
+            <attribute id="V1" type="float" value="0.25097656"/>
+            <attribute id="V2" type="float" value="0.37402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_LunarShift"/>
+            <attribute id="U1" type="float" value="0.50097656"/>
+            <attribute id="U2" type="float" value="0.62402344"/>
+            <attribute id="V1" type="float" value="0.25097656"/>
+            <attribute id="V2" type="float" value="0.37402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_LunarSmite"/>
+            <attribute id="U1" type="float" value="0.62597656"/>
+            <attribute id="U2" type="float" value="0.74902344"/>
+            <attribute id="V1" type="float" value="0.25097656"/>
+            <attribute id="V2" type="float" value="0.37402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_Moonbeam"/>
+            <attribute id="U1" type="float" value="0.75097656"/>
+            <attribute id="U2" type="float" value="0.87402344"/>
+            <attribute id="V1" type="float" value="0.25097656"/>
+            <attribute id="V2" type="float" value="0.37402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_MoonbeamMove"/>
+            <attribute id="U1" type="float" value="0.87597656"/>
+            <attribute id="U2" type="float" value="0.99902344"/>
+            <attribute id="V1" type="float" value="0.25097656"/>
+            <attribute id="V2" type="float" value="0.37402344"/>
+        </node>
+
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_MoonlitSanctuary"/>
+            <attribute id="U1" type="float" value="0.0009765625"/>
+            <attribute id="U2" type="float" value="0.12402344"/>
+            <attribute id="V1" type="float" value="0.37597656"/>
+            <attribute id="V2" type="float" value="0.49902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_Moonshards"/>
+            <attribute id="U1" type="float" value="0.12597656"/>
+            <attribute id="U2" type="float" value="0.24902344"/>
+            <attribute id="V1" type="float" value="0.37597656"/>
+            <attribute id="V2" type="float" value="0.49902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_MoonveilStrike"/>
+            <attribute id="U1" type="float" value="0.25097656"/>
+            <attribute id="U2" type="float" value="0.37402344"/>
+            <attribute id="V1" type="float" value="0.37597656"/>
+            <attribute id="V2" type="float" value="0.49902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_PrismaticSpray"/>
+            <attribute id="U1" type="float" value="0.37597656"/>
+            <attribute id="U2" type="float" value="0.49902344"/>
+            <attribute id="V1" type="float" value="0.37597656"/>
+            <attribute id="V2" type="float" value="0.49902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_RemoveCurse"/>
+            <attribute id="U1" type="float" value="0.50097656"/>
+            <attribute id="U2" type="float" value="0.62402344"/>
+            <attribute id="V1" type="float" value="0.37597656"/>
+            <attribute id="V2" type="float" value="0.49902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_Sanctuary"/>
+            <attribute id="U1" type="float" value="0.62597656"/>
+            <attribute id="U2" type="float" value="0.74902344"/>
+            <attribute id="V1" type="float" value="0.37597656"/>
+            <attribute id="V2" type="float" value="0.49902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_SongOfHope"/>
+            <attribute id="U1" type="float" value="0.75097656"/>
+            <attribute id="U2" type="float" value="0.87402344"/>
+            <attribute id="V1" type="float" value="0.37597656"/>
+            <attribute id="V2" type="float" value="0.49902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_SongOfLife"/>
+            <attribute id="U1" type="float" value="0.87597656"/>
+            <attribute id="U2" type="float" value="0.99902344"/>
+            <attribute id="V1" type="float" value="0.37597656"/>
+            <attribute id="V2" type="float" value="0.49902344"/>
+        </node>
+
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_SongOfProtection"/>
+            <attribute id="U1" type="float" value="0.0009765625"/>
+            <attribute id="U2" type="float" value="0.12402344"/>
+            <attribute id="V1" type="float" value="0.50097656"/>
+            <attribute id="V2" type="float" value="0.62402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_SongOfRapture"/>
+            <attribute id="U1" type="float" value="0.12597656"/>
+            <attribute id="U2" type="float" value="0.24902344"/>
+            <attribute id="V1" type="float" value="0.50097656"/>
+            <attribute id="V2" type="float" value="0.62402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_SongOfRenewal"/>
+            <attribute id="U1" type="float" value="0.25097656"/>
+            <attribute id="U2" type="float" value="0.37402344"/>
+            <attribute id="V1" type="float" value="0.50097656"/>
+            <attribute id="V2" type="float" value="0.62402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_SwordBurst"/>
+            <attribute id="U1" type="float" value="0.37597656"/>
+            <attribute id="U2" type="float" value="0.49902344"/>
+            <attribute id="V1" type="float" value="0.50097656"/>
+            <attribute id="V2" type="float" value="0.62402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_ViciousMockery"/>
+            <attribute id="U1" type="float" value="0.50097656"/>
+            <attribute id="U2" type="float" value="0.62402344"/>
+            <attribute id="V1" type="float" value="0.50097656"/>
+            <attribute id="V2" type="float" value="0.62402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_MirrorImage"/>
+            <attribute id="U1" type="float" value="0.62597656"/>
+            <attribute id="U2" type="float" value="0.74902344"/>
+            <attribute id="V1" type="float" value="0.50097656"/>
+            <attribute id="V2" type="float" value="0.62402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_ShadowStep"/>
+            <attribute id="U1" type="float" value="0.75097656"/>
+            <attribute id="U2" type="float" value="0.87402344"/>
+            <attribute id="V1" type="float" value="0.50097656"/>
+            <attribute id="V2" type="float" value="0.62402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value=""/>
+            <attribute id="U1" type="float" value="0.87597656"/>
+            <attribute id="U2" type="float" value="0.99902344"/>
+            <attribute id="V1" type="float" value="0.50097656"/>
+            <attribute id="V2" type="float" value="0.62402344"/>
         </node>
       </children>
     </node>
