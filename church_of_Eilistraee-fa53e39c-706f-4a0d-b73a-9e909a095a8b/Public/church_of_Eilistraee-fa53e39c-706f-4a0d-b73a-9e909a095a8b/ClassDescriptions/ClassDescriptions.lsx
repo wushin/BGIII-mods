@@ -8,6 +8,7 @@
           <attribute id="BaseHp" type="int32" value="6"/>
           <attribute id="CanLearnSpells" type="bool" value="false"/>
           <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
+          <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_SWORDDANCER"/>
           <attribute id="ClassHotbarColumns" type="int32" value="5"/>
           <attribute id="CommonHotbarColumns" type="int32" value="9"/>
           <attribute id="Description" type="TranslatedString" handle="hv8ayr9z11q23z9zytdtubbux8zkn3qvpr2nd" version="1"/>
@@ -18,12 +19,12 @@
           <attribute id="LearningStrategy" type="uint8" value="1"/>
           <attribute id="MulticlassSpellcasterModifier" type="double" value="1"/>
           <attribute id="MustPrepareSpells" type="bool" value="false"/>
-          <attribute id="Name" type="FixedString" value="EilistraeanInitiate"/>
+          <attribute id="Name" type="FixedString" value="EilistraeanWorshipper"/>
           <attribute id="PrimaryAbility" type="uint8" value="6"/>
-          <attribute id="ProgressionTableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
+          <attribute id="ProgressionTableUUID" type="guid" value="c5ef8f15-1e39-48d8-ab88-91e4c90d9b6c"/>
           <attribute id="SpellCastingAbility" type="uint8" value="5"/>
-          <attribute id="SpellList" type="guid" value="9c57921c-0a34-408a-8b69-5c07b6f483a8"/>
-          <attribute id="UUID" type="guid" value="61027a37-e869-4a14-885f-91fea7bb47dc"/>
+          <attribute id="SoundClassType" type="FixedString" value="Cleric"/>
+          <attribute id="UUID" type="guid" value="523a3410-f3b9-4bda-ae51-65bb088e62e9"/>
           <children>
             <node id="Tags">
               <attribute id="Object" type="guid" value="c4749983-8bb9-4aa5-bf18-afd9cb1ce915"/>
@@ -37,7 +38,7 @@
           <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_SWORDDANCER"/>
           <attribute id="Description" type="TranslatedString" handle="h826a670eg6980g4df8g8320g2f1cd9b2652c" version="1"/>
           <attribute id="DisplayName" type="TranslatedString" handle="h8fc45cdbg1e6fg4aaeg8b14g7b0c79193026" version="1"/>
-          <attribute id="ParentGuid" type="guid" value="61027a37-e869-4a14-885f-91fea7bb47dc"/>
+          <attribute id="ParentGuid" type="guid" value="523a3410-f3b9-4bda-ae51-65bb088e62e9"/>
           <attribute id="HpPerLevel" type="int32" value="4"/>
           <attribute id="LearningStrategy" type="uint8" value="1"/>
           <attribute id="MulticlassSpellcasterModifier" type="double" value="1"/>
@@ -47,7 +48,6 @@
           <attribute id="ProgressionTableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
           <attribute id="SpellCastingAbility" type="uint8" value="5"/>
           <attribute id="SoundClassType" type="FixedString" value="Rogue"/>
-          <attribute id="SpellList" type="guid" value="9c57921c-0a34-408a-8b69-5c07b6f483a8"/>
           <attribute id="UUID" type="guid" value="b5ef7745-7682-449d-ad17-9e6e43ee1105"/>
           <children>
             <node id="Tags">
@@ -71,18 +71,17 @@
           <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_SILVERHAIRKNIGHT"/>
           <attribute id="Description" type="TranslatedString" handle="hcez7vvmx3zgjip02tmih7mqyw2tr6pgurftw" version="1"/>
           <attribute id="DisplayName" type="TranslatedString" handle="h8qza0xv0xcsnaaopqu8cv8d5k8unk7oy0zho" version="1"/>
-          <attribute id="ParentGuid" type="guid" value="61027a37-e869-4a14-885f-91fea7bb47dc"/>
+          <attribute id="ParentGuid" type="guid" value="523a3410-f3b9-4bda-ae51-65bb088e62e9"/>
           <attribute id="HasGod" type="bool" value="true"/>
           <attribute id="HpPerLevel" type="int32" value="5"/>
           <attribute id="LearningStrategy" type="uint8" value="1"/>
           <attribute id="MulticlassSpellcasterModifier" type="double" value="1"/>
           <attribute id="MustPrepareSpells" type="bool" value="false"/>
           <attribute id="Name" type="FixedString" value="SilverhairKnight"/>
-          <attribute id="PrimaryAbility" type="uint8" value="3"/>
+          <attribute id="PrimaryAbility" type="uint8" value="2"/>
           <attribute id="ProgressionTableUUID" type="guid" value="3d4d52ad-65e5-4dc9-9ec7-a360092ab0dd"/>
           <attribute id="SpellCastingAbility" type="uint8" value="5"/>
           <attribute id="SoundClassType" type="FixedString" value="Monk"/>
-          <attribute id="SpellList" type="guid" value="9c57921c-0a34-408a-8b69-5c07b6f483a8"/>
           <attribute id="UUID" type="guid" value="71e39703-444b-4ab6-955f-f2d6f346f56b"/>
           <children>
             <node id="Tags">
@@ -100,7 +99,7 @@
           <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_DARKSONGKNIGHT"/>
           <attribute id="Description" type="TranslatedString" handle="hvl30sn8nwkdw9omjb9kv28a5gtx8m2ji5ksn" version="1"/>
           <attribute id="DisplayName" type="TranslatedString" handle="h47xc6tp4azdpmh1h00x2mb2z9yb94tq4jpdm" version="1"/>
-          <attribute id="ParentGuid" type="guid" value="61027a37-e869-4a14-885f-91fea7bb47dc"/>
+          <attribute id="ParentGuid" type="guid" value="523a3410-f3b9-4bda-ae51-65bb088e62e9"/>
           <attribute id="HasGod" type="bool" value="true"/>
           <attribute id="HpPerLevel" type="int32" value="6"/>
           <attribute id="LearningStrategy" type="uint8" value="1"/>
@@ -111,7 +110,6 @@
           <attribute id="ProgressionTableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
           <attribute id="SpellCastingAbility" type="uint8" value="5"/>
           <attribute id="SoundClassType" type="FixedString" value="Paladin"/>
-          <attribute id="SpellList" type="guid" value="9c57921c-0a34-408a-8b69-5c07b6f483a8"/>
           <attribute id="UUID" type="guid" value="3bdbed67-1eb5-456b-b313-9d8a1ce4b65e"/>
           <children>
             <node id="Tags">
@@ -132,7 +130,7 @@
           <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_PROTECTOROFTHESONG"/>
           <attribute id="Description" type="TranslatedString" handle="h9il79j60fz39ynvqqbf2bmnzobwa24xenne6" version="1"/>
           <attribute id="DisplayName" type="TranslatedString" handle="h2oqf4fjb2mdo4mtdflzteu3g3uxn1ms18sis" version="1"/>
-          <attribute id="ParentGuid" type="guid" value="61027a37-e869-4a14-885f-91fea7bb47dc"/>
+          <attribute id="ParentGuid" type="guid" value="523a3410-f3b9-4bda-ae51-65bb088e62e9"/>
           <attribute id="HasGod" type="bool" value="true"/>
           <attribute id="HpPerLevel" type="int32" value="5"/>
           <attribute id="LearningStrategy" type="uint8" value="1"/>
@@ -143,7 +141,6 @@
           <attribute id="ProgressionTableUUID" type="guid" value="ee3f894e-fa8b-46d9-89bd-e34a1572b209"/>
           <attribute id="SpellCastingAbility" type="uint8" value="5"/>
           <attribute id="SoundClassType" type="FixedString" value="Cleric"/>
-          <attribute id="SpellList" type="guid" value="9c57921c-0a34-408a-8b69-5c07b6f483a8"/>
           <attribute id="UUID" type="guid" value="cd95081f-788e-4fb5-9d51-493640783d04"/>
           <children>
             <node id="Tags">

@@ -8,7 +8,7 @@
           <attribute id="Add" type="LSString" value="Dexterity;Charisma"/>
           <attribute id="Level" type="int32" value="1"/>
           <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
-          <attribute id="UUID" type="guid" value="15c1caf1-d767-4cc4-8f98-92897f530b3e"/>
+          <attribute id="UUID" type="guid" value="b9149c8e-52c8-46e5-9cb6-fc39301c05fe"/>
         </node>
       </children>
     </node>
