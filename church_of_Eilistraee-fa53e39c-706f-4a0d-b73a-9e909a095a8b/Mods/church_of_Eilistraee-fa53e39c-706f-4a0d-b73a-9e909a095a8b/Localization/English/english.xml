@@ -2,12 +2,13 @@
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <content contentuid="h6hwhr9nk44x0iszbjtwdarj90zcjucgqpfpf" version="1">Eilistraean Worshipper</content>
   <content contentuid="hv8ayr9z11q23z9zytdtubbux8zkn3qvpr2nd" version="1">You are a new follower of Eilistraee still trying to find your way in the world.</content>
+  <content contentuid="h2dzoeu4zn5afbda8nv1w1qwnwm3btjtafbbz" version="1">Select Clergy</content>
   <content contentuid="h8fc45cdbg1e6fg4aaeg8b14g7b0c79193026" version="1">Sword Dancer</content>
   <content contentuid="h826a670eg6980g4df8g8320g2f1cd9b2652c" version="1">Specialized clerics of the Dark Maiden were known as Sword Dancers. They were excellent dancers and spellsingers, known to use an agile and acrobatic fencing style resembling a dance. The sword dancers led missions to find, assist, and protect any drow looking to return to the surface (or that could be made to return) and embrace a different life. They were skilled diplomats, especially active near the settlements of elves and other races, working to establish peace and cooperation between drow and surface dwellers.</content>
   <content contentuid="h8qza0xv0xcsnaaopqu8cv8d5k8unk7oy0zho" version="1">Silverhair Knight</content>
   <content contentuid="hcez7vvmx3zgjip02tmih7mqyw2tr6pgurftw" version="1">The Silverhair Knights were an order of clerics of Eilistraee completely dedicated to the redemption and subsequent protection of drow followers of Lolth, Vhaeraun, and other deities of the Dark Seldarine. They fully embraced the teaching of Eilistraee about showing mercy and compassion, and fought these dark elves only using non-lethal means, hoping to make them understand the error of their ways and choose a different life. Like the Sword Dancers, they often embarked on missions within Lolthite settlements, aiming to find and rescue drow who were in danger or seeking an alternative.</content>
   <content contentuid="h47xc6tp4azdpmh1h00x2mb2z9yb94tq4jpdm" version="1">Darksong Knight</content>
-  <content contentuid="hvl30sn8nwkdw9omjb9kv28a5gtx8m2ji5ksn" version="1">The Darksong Knights were an elite order of Eilistraeeans, mostly active in the South, beneath the lands of ancient Ilythiir. Each member of this order was a battle-priest who chose to devote their life not only to furthering the Dark Maiden's goals, but also to the destruction of yochlol and other demons and minions of Lolth, for they were the cause of the corruption and fall of the drow people.</content>
+  <content contentuid="hvl30sn8nwkdw9omjb9kv28a5gtx8m2ji5ksn" version="1">The Darksong Knights were an elite order of Eilistraeeans, mostly active in the South, beneath the lands of ancient Ilythiir. Each member of this order was a battle-priest who chose to devote their life not only to furthering the Dark Maiden&apos;s goals, but also to the destruction of yochlol and other demons and minions of Lolth, for they were the cause of the corruption and fall of the drow people.</content>
   <content contentuid="h2oqf4fjb2mdo4mtdflzteu3g3uxn1ms18sis" version="1">Protector Of The Song</content>
   <content contentuid="h9il79j60fz39ynvqqbf2bmnzobwa24xenne6" version="1">The Protectors of the Song were the temple guards of the Promenade of the Dark Maiden, the main center of worship of Eilistraee on Faerûn. Their main duty was to protect the temple and patrol the area around the Pit of Ghaunadaur, to prevent the return of the slime god.</content>
   <content contentuid="h00081d9agb4e9g46aagbfe1ga6b7addc0c55" version="1">Eilistraean Footwork</content>
@@ -24,8 +25,8 @@
   <content contentuid="h33951923g9a9bg4c4dg8f9egabb42b068d1e" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread Moon Fire to burn another nearby creature for [2].</content>
   <content contentuid="h0a17578bgbd95g47cdg9d04g50c88ec82633" version="1">Eilistraean Disarming Attack</content>
   <content contentuid="h0cd0d661g2c83g40a7g8a96g05d1c2e88ddc" version="1">Cover more distance this turn: double your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt;.</content>
-  <content contentuid="h0b2fe3bege978g4a9agb4begbbf49492ec7e" version="1">This reaction won't trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Moon Fire Blade.</content>
-  <content contentuid="h271fc951g0dd0g4100g93c4g284f3aaad296" version="1">This reaction won't trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Booming Blade.</content>
+  <content contentuid="h0b2fe3bege978g4a9agb4begbbf49492ec7e" version="1">This reaction won&apos;t trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Moon Fire Blade.</content>
+  <content contentuid="h271fc951g0dd0g4100g93c4g284f3aaad296" version="1">This reaction won&apos;t trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;Cannot be stacked with Booming Blade.</content>
   <content contentuid="h185e568bg0bccg4f2ega9c1g69239d2aff17" version="1">Opportunity Attack</content>
   <content contentuid="h18fc5297g5141g4625g9083g2ddbd588b8d6" version="1">Eilistraean Spell Song Level Three</content>
   <content contentuid="h1ed988f1g4ad7g41bcga465gc04e6bb6e58c" version="1">Parry the next melee attack that hits you to reduce the damage by [1] + &lt;LSTag Tooltip="Dexterity"&gt;Dexterity&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;.</content>
@@ -33,8 +34,8 @@
   <content contentuid="h9c0ec279gedd2g4aa8g96fcg9de433fa026e" version="1">Heal your nearby allies.</content>
   <content contentuid="hz90txim4jhdmrwiu6y1bt3wrqr6oihbsv2hw" version="1">Eilistraean Weapon Bind</content>
   <content contentuid="hkrf8qw0znegmrn8ux2ti57to7ngp8dcirwho" version="1">Eilistraean Weapon Bond</content>
-  <content contentuid="h4zbtq93z6uf9xtivjwk8n9u4vz73hh38qs7h" version="1">Ritually bind the weapon in your main hand. The weapon can't be knocked out of your hand, and it automatically returns to you when &lt;LSTag Type="Spell" Tooltip="Throw_Throw"&gt;Thrown&lt;/LSTag&gt;.</content>
-  <content contentuid="h88zrr0lutd86jiy3e9txys74rsrgvzw312i6" version="1">Ritually bound to its wielder. &lt;br&gt;&lt;br&gt;The weapon can't be knocked out of the wielder's hand, and automatically returns to the wielder when &lt;LSTag Type="Spell" Tooltip="Throw_Throw"&gt;Thrown&lt;/LSTag&gt;.</content>
+  <content contentuid="h4zbtq93z6uf9xtivjwk8n9u4vz73hh38qs7h" version="1">Ritually bind the weapon in your main hand. The weapon can&apos;t be knocked out of your hand, and it automatically returns to you when &lt;LSTag Type="Spell" Tooltip="Throw_Throw"&gt;Thrown&lt;/LSTag&gt;.</content>
+  <content contentuid="h88zrr0lutd86jiy3e9txys74rsrgvzw312i6" version="1">Ritually bound to its wielder. &lt;br&gt;&lt;br&gt;The weapon can&apos;t be knocked out of the wielder&apos;s hand, and automatically returns to the wielder when &lt;LSTag Type="Spell" Tooltip="Throw_Throw"&gt;Thrown&lt;/LSTag&gt;.</content>
   <content contentuid="h8e61ee08g724ag42dbgbf8bg73cb80bb2c66" version="1">Sneak Attack (Critical Hit) : Eilistraean</content>
   <content contentuid="h2d774af3gd5b6g4e19gb39bgd282a4b10527" version="1">Eilistraean Song Charge</content>
   <content contentuid="he0h9vdgbyohqxxm244ndnwqmst1tx6c41oj5" version="1">Charges that can be accumulated for the Eilistraean Song Climax while Eilistraean Singing. Attacking with a weapon grants a &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_CHARGE"&gt;Eilistraean Song Charge&lt;/LSTag&gt;. In addition to gaining Eilistraean Song Slot Slots.</content>
@@ -48,24 +49,24 @@
   <content contentuid="holu9llozb8qgqz55bjod4tbabpmqmhy9t4eu" version="1">You also unlock your sub-class Maneuvers and &lt;LSTag Type="Spell" Tooltip="Shout_EilistraeanSong_Finisher"&gt;Eilistraean Song Climax&lt;/LSTag&gt; and the ability to accumulate &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt; in combat.</content>
   <content contentuid="h6ae26f1dg9d43g441ag8f8cg36ede9cce52e" version="1">Eilistraean Step</content>
   <content contentuid="h3ca76469g8a92g4888g9853gf2f6f422b762" version="1">Eilistraean Spell Song Level Four</content>
-  <content contentuid="he41f1d3eg4574g4143g83b4gffae7ee47435" version="1">Skeletons and creatures killed with Acid, Fire, Lightning, Necrotic, or Radiant damage no longer have a mouth and can't be made to talk using this spell.&lt;br&gt;&lt;br&gt;Doesn't work on Undead. </content>
+  <content contentuid="he41f1d3eg4574g4143g83b4gffae7ee47435" version="1">Skeletons and creatures killed with Acid, Fire, Lightning, Necrotic, or Radiant damage no longer have a mouth and can&apos;t be made to talk using this spell.&lt;br&gt;&lt;br&gt;Doesn&apos;t work on Undead. </content>
   <content contentuid="h59875e1bg7fe7g4349g9d4fgf287667d2c29" version="1">Attackers have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against this creature, unless they do not rely on sight or can see through illusions.</content>
-  <content contentuid="h8ec328aagf460g45f8g93ddgd3bb43102b0b" version="1">Also works if you have an ally within [1] of the target or there is no one but you and the target within [1] but for both you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+  <content contentuid="h8ec328aagf460g45f8g93ddgd3bb43102b0b" version="1">Also works if you have an ally within [1] of the target or there is no one but you and the target within [1] but for both you can&apos;t have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
   <content contentuid="hbf30c62cg082cg4263g89c8g83bcb67e6900" version="1">Reaction</content>
   <content contentuid="h7947189agd31ag488egb2eag41249c52f2a5" version="1">This reaction will trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;.</content>
   <content contentuid="h6tjb2yc9yaxlgso3cqn7op7d38imzby4hdvl" version="1">Strike the target dealing a bonus [1] and deal extra damage to a foe you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against. If the attack lands, the target is sheathed in booming energy that deals [2] to them if they willingly move.</content>
   <content contentuid="h4d5b4c09g28f3g4c2bgbf9cg0d7819d81851" version="1">Sneak Attack (Melee) : Sword Dancer </content>
   <content contentuid="h7f63d6aegaaceg453dga001g950baa9b14b6" version="1">Cloud of Daggers</content>
   <content contentuid="h4ec5ac65g324cg4065g86a8g7837c21272d8" version="1">Attack an enemy moving out of your reach.</content>
-  <content contentuid="h54329a4ag8521g469bgb66ag00db03c2dd1c" version="1">Eilistraean Song impeded by a weapon. Until the ranged weapon is removed and/or one of the required melee weapons equipped, your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG"&gt;Eilistraean Song&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt;.</content>
+  <content contentuid="h54329a4ag8521g469bgb66ag00db03c2dd1c" version="1">Eilistraean Song impeded by a weapon. Until the ranged weapon is removed and/or one of the required melee weapons equipped, your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG"&gt;Eilistraean Song&lt;/LSTag&gt; won&apos;t grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt;.</content>
   <content contentuid="hieepmifd124pa1fjv3el7c5j1r2fnkh2ks0n" version="1">Eilistraean Song is impeded.</content>
   <content contentuid="hrg26nwpxrz48ipmt83quvswnyscbbtcnuuiy" version="1">Eilistraean Song is not impeded.</content>
-  <content contentuid="h560a7147ge71ag4933g95b4gf5519904702e" version="1">Eilistraean Song impeded by armour. Until the armour is removed, your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG"&gt;Eilistraean Song&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt;.</content>
-  <content contentuid="h57e194fdg3959g43e8gb994g7ffa82590ea7" version="1">Whenever you successfully evade an attack, one of the duplicates disappears. Doesn't affect creatures that don't rely on sight or that can see through illusions.</content>
+  <content contentuid="h560a7147ge71ag4933g95b4gf5519904702e" version="1">Eilistraean Song impeded by armour. Until the armour is removed, your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG"&gt;Eilistraean Song&lt;/LSTag&gt; won&apos;t grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt;.</content>
+  <content contentuid="h57e194fdg3959g43e8gb994g7ffa82590ea7" version="1">Whenever you successfully evade an attack, one of the duplicates disappears. Doesn&apos;t affect creatures that don&apos;t rely on sight or that can see through illusions.</content>
   <content contentuid="h586db789gf3e0g4260gb1ecg93974571793c" version="1">Eilistraean Song Climax</content>
   <content contentuid="h4aa671b5gc52eg4de9gafe6gb08bd3b97f6e" version="1">Unleash the full damaging and healing effects of your Eilistraean Song at once. Your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_CHARGE"&gt;Eilistraean Song Charges&lt;/LSTag&gt; will harm enemies an additional [1], and will heal you and your allies an additional [2].</content>
   <content contentuid="h6119cea0ga41eg450ag9854g6bdc092b3c45" version="1">Blade Barrier</content>
-  <content contentuid="h59afe09dg6994g45a9g8aa9gac4f62379339" version="1">If it is higher level than [1], you must make a &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;check&lt;/LSTag&gt; to prevent it. The check's difficulty is equal to [2] plus the level of the spell you are trying to counter. </content>
+  <content contentuid="h59afe09dg6994g45a9g8aa9gac4f62379339" version="1">If it is higher level than [1], you must make a &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;check&lt;/LSTag&gt; to prevent it. The check&apos;s difficulty is equal to [2] plus the level of the spell you are trying to counter. </content>
   <content contentuid="h8848976bgdb18g4e36gac35g687209f28cad" version="1">Spread Moon Fire Blade</content>
   <content contentuid="h7414e810g42b6g4a29gbd5cg62fbd64b0649" version="1">Moon Fire Blade: Reaction</content>
   <content contentuid="h5fdf6f37g677dg4ac4gb400g7b004b9d4232" version="1">Eilistraean Feinting Attack</content>
@@ -120,7 +121,7 @@
   <content contentuid="h6cf3tyfi7iynzx6tgz9ckd11kt8u0b04t29c" version="1">Moon Fire Charge Blade</content>
   <content contentuid="hv3d975owslmq6hzrm4q27x4ngx5xxtxstcbz" version="1">Charge forward and slam your weapon into the first enemy in your way dealing a bonus [1]. If the attack lands and you remain stationary, you can spread Moon Fire to burn another nearby creature for [2].</content>
   <content contentuid="h82c20330g94f4g4da8gaf92g53e2a94013df" version="1">When hit with a melee attack, the affected entity can use a reaction and reduce the damage by [1].</content>
-  <content contentuid="his7wm3ke3v1vhas87ijzu8nthlhtxzb731fl" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; The target can't be Huge in size.</content>
+  <content contentuid="his7wm3ke3v1vhas87ijzu8nthlhtxzb731fl" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; The target can&apos;t be Huge in size.</content>
   <content contentuid="h869334e3gca97g4926g9804g34b7b1dca095" version="1">Eilistraean Parry</content>
   <content contentuid="h87100760g26bfg4c09g8e41g6c8feaefe71c" version="1">Stop your Eilistraean Song early.</content>
   <content contentuid="h873181b8g944ag45d8gb068ge320d493e4a9" version="1">You can use both your action and bonus action on a turn to attack a target with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and deal an additional [1] damage.</content>
@@ -149,11 +150,11 @@
   <content contentuid="h9befc561gb9a5g4330gb1a0g1eaf5ed5b0b1" version="1">Eilistraean Spell Song Level Two</content>
   <content contentuid="h9c1aeb81gd11eg4af1g8e4bgbefda966aa51" version="1">Eilistraean Spell Song Level Five</content>
   <content contentuid="hq86sfl8gd1ldrelw8xjnp55e9hc97rbhmp7k" version="1">Eilistraean Spell Song Level Six</content>
-  <content contentuid="h9c3b8dadg3600g4865gaed0g1b3fd0d4be8e" version="1">Nullify another creature's spell as a reaction. The spell must be Level [1] or lower. If it is higher, you must succeed a &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; to nullify it, the difficulty of which is based on  the spell's Level.</content>
+  <content contentuid="h9c3b8dadg3600g4865gaed0g1b3fd0d4be8e" version="1">Nullify another creature&apos;s spell as a reaction. The spell must be Level [1] or lower. If it is higher, you must succeed a &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; to nullify it, the difficulty of which is based on  the spell&apos;s Level.</content>
   <content contentuid="ha18d0b3eg1838g47b9g83aege6fcf45e5251" version="1">This effect still works if your attack misses.</content>
   <content contentuid="h7cc1e81bg6fb0g4501g8749g399dd04d3847" version="1">Can only use Moon Fire Blade once per action.</content>
   <content contentuid="hed90ea51g822dg4011ga6a8gc8c40527698a" version="1">Moon Fire Blade on Critical</content>
-  <content contentuid="hca6ab0beg5905g4cb2g889bga761fe4684b9" version="1">Also works if you have an ally within [1] of the target or there is no one but you and the target within [1] but for both you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+  <content contentuid="hca6ab0beg5905g4cb2g889bga761fe4684b9" version="1">Also works if you have an ally within [1] of the target or there is no one but you and the target within [1] but for both you can&apos;t have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
   <content contentuid="had6c7a65g9e68g47b1gb9f1g76571af0c296" version="1">Moon Fire Blade: Sneak Attack</content>
   <content contentuid="hkis76up4gsfayjxgd4b6hb9nu0q8ufikxmet" version="1">Strike the target dealing a bonus [1] and deal extra damage to a foe you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against. If the attack lands and you remain stationary, you can spread Moon Fire to burn another nearby creature for [2].</content>
   <content contentuid="ha8a850fbgd7adg40a3g902dg9a87f641aca1" version="1">Invoking the Eilistraean Song. You gain a +[1] bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and your &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; is increased by [2]m. You also gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; in Acrobatics and a +[1] bonus to Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
@@ -161,13 +162,13 @@
   <content contentuid="ha9c8d475gedc0g4760gadd5g1dc647dbb500" version="1">Eilistraean Charger</content>
   <content contentuid="hac9f8fcbg3a64g49ebg8dafg77d7261cf448" version="1">Your hands have become infused with the weave and anticipate your movements. You gain an additional action.</content>
   <content contentuid="h2df5e4aag322ag45d9gadceg89cd7cdd9bf6" version="1">Gain the ability to comprehend and communicate with beasts.</content>
-  <content contentuid="hadf84c5bg3db5g4c09gaf65ge38b304fb6d3" version="1">Eilistraean Song impeded by a shield. Until the shield is removed, your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG"&gt;Eilistraean Song&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt;.</content>
+  <content contentuid="hadf84c5bg3db5g4c09gaf65ge38b304fb6d3" version="1">Eilistraean Song impeded by a shield. Until the shield is removed, your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG"&gt;Eilistraean Song&lt;/LSTag&gt; won&apos;t grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt;.</content>
   <content contentuid="hafc47e90g3c61g4e12g8981g3deb31177522" version="1">Swing your weapon in a large arc to attack up to [1] enemies at once.</content>
   <content contentuid="hb0218f3dgb466g4627gb91bga9f69afb5e3f" version="1">Make an attack that deals an additional [1] damage and possibly forces the target to drop the weapons they are holding.</content>
   <content contentuid="h5da476ccgca0eg46a8gbf3dgbfe2c4343787" version="1">Eilistraean Word</content>
   <content contentuid="h1b163398g3139g463cga3a0g2b9f17915f36" version="1">Heal a creature you can see.</content>
   <content contentuid="h653c41ivnonop6k5fjd5w6br3n8qt8qqdj3b" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; No effect on undead and constructs.</content>
-  <content contentuid="hb24c36c5g3cedg4f48g9098g73e7c2086efb" version="1">If you move after making a melee attack, you don't provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; from your target.</content>
+  <content contentuid="hb24c36c5g3cedg4f48g9098g73e7c2086efb" version="1">If you move after making a melee attack, you don&apos;t provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; from your target.</content>
   <content contentuid="h1cezs8v77hcjtf4g5x46ychyvc8u28jfeg3c" version="1">This effect still works if your attack misses.</content>
   <content contentuid="hb3137566g45dbg49c3gac35g39e9d286dfda" version="1">Eilistraean Initiative</content>
   <content contentuid="hb3e939dag71dcg409bgac55ge9bc9016376e" version="1">Eilistraean Spell Song Level One</content>
@@ -198,10 +199,10 @@
   <content contentuid="h39561eeeg608dg4d59g9cccgd123a77f6c8f" version="1">Moon Fire Burn</content>
   <content contentuid="hd0de1c33g306bg4e79ga8f9g8527121e62d7" version="1">Create illusory duplicates of yourself that distract attackers. Each duplicate increases your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt;.</content>
   <content contentuid="hjat73l2lybv283rs9puu74hq2m94j2q5tprm" version="1">Create [1] illusory duplicates of yourself that distract attackers. Each duplicate increases your &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; to [2]. Attackers have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; against you.</content>
-  <content contentuid="hd1df7174ga4ecg473bg9600g1de6643a7787" version="1">You can't use this attack if you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+  <content contentuid="hd1df7174ga4ecg473bg9600g1de6643a7787" version="1">You can&apos;t use this attack if you have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
   <content contentuid="hd361a44dg6327g4b1agb1a3g501be341ce5b" version="1">You gain &lt;LSTag Tooltip="Proficiency"&gt;Proficiency&lt;/LSTag&gt; with Light Armour and in the Performance skill. You also gain Proficiency with Daggers, Sickles, Shortswords, Rapiers, Scimitars, and Longswords.</content>
-  <content contentuid="h78b921f5g6dc8g4d95ga61fgdf204f8e54e0" version="1">The mirror image distracts attackers, increasing the spellcaster's &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 3. When the caster successfully evades an attack, one of the images disappears.</content>
-  <content contentuid="hd3cbf498g356cg44d3g952bg6f3096720f8c" version="1">Nullify another creature's spell as a reaction. The spell must be 3rd Level or lower. If it is higher than [1] you must succeed a &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; to nullify it, the difficulty of which is based on the spell's Level.</content>
+  <content contentuid="h78b921f5g6dc8g4d95ga61fgdf204f8e54e0" version="1">The mirror image distracts attackers, increasing the spellcaster&apos;s &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; by 3. When the caster successfully evades an attack, one of the images disappears.</content>
+  <content contentuid="hd3cbf498g356cg44d3g952bg6f3096720f8c" version="1">Nullify another creature&apos;s spell as a reaction. The spell must be 3rd Level or lower. If it is higher than [1] you must succeed a &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; to nullify it, the difficulty of which is based on the spell&apos;s Level.</content>
   <content contentuid="hiznqdqwua8esbmq2mvurdlnmc9eklrl5mpfc" version="1">Eilistraean Counter Success</content>
   <content contentuid="hd42770ccg5605g4b33gb09eg55f66a42bf93" version="1">Insult a creature: it has &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt; on its next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;. Targets allies within [1] new to make a save or &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt; with laughter, without the ability to get up.</content>
   <content contentuid="hd55c7fdbgbb05g4f70g8a2bgdb1fdedc091a" version="1">Eilistraean Cunning</content>
@@ -223,18 +224,139 @@
   <content contentuid="h3e505a21g6413g4b7fgbfa8g6fe7dee4de64" version="1">Speak with Dead</content>
   <content contentuid="h389e07f7gbfdbg4e99ga23fgc352c05b1658" version="1">Grant a semblance of life to a humanoid corpse, allowing it to answer up to 5 questions.</content>
   <content contentuid="hf02e8af8g105bg4dd0gb7eagc9d76f1d9959" version="1">During Eilistraean Song, Cleave your weapon in a rapid, sweeping arc to attack multiple enemies at once.</content>
-  <content contentuid="hf1d94f30g949bg4c8eg836cg7b688cda78f8" version="1">Eilistraean Song impeded due to being unarmed. Until a valid weapon is equipped, your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG"&gt;Eilistraean Song&lt;/LSTag&gt; won't grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt;.</content>
+  <content contentuid="hf1d94f30g949bg4c8eg836cg7b688cda78f8" version="1">Eilistraean Song impeded due to being unarmed. Until a valid weapon is equipped, your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG"&gt;Eilistraean Song&lt;/LSTag&gt; won&apos;t grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt;.</content>
   <content contentuid="hf6d26065g1663g4b50g9869g53cc6f87df66" version="1">Eilistraean Cleave Attack</content>
   <content contentuid="h90355806g354dg4df9gbe99g24a27811a889" version="1">Booming Blade</content>
   <content contentuid="hiiqy500yqrtak14d4ms7csa1t89wicbj5s0v" version="1">Divine Blade</content>
   <content contentuid="hn1gmh1x4prky2ro1mon06njip5ipodshzv3f" version="1">Psionic Blade</content>
   <content contentuid="hb8azp34h6wm4pc1xib5l2egnxelh7kovnyu3" version="1">Shocking Blade</content>
-  <content contentuid="hfcc3686bg9128g4b6ag8d5eg79db57330e93" version="1">Also works if you have an ally within [1] of the target or there is no one but you and within [1] of the target. However you can't have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
+  <content contentuid="hfcc3686bg9128g4b6ag8d5eg79db57330e93" version="1">Also works if you have an ally within [1] of the target or there is no one but you and within [1] of the target. However you can&apos;t have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
   <content contentuid="h28f519b8g00d5g4d5bg92e4gb23d2842d33e" version="1">Can only cast Blade Extra Attack once per action.</content>
   <content contentuid="hfcf76d77g1ec8g47e6gaef1gaf3e03a6ba82" version="1">Eilistraean Song</content>
   <content contentuid="hfdc38bbbg603cg46c9gbd00gb687292a2970" version="1">Eilistraean Action</content>
   <content contentuid="h73bee451g2bd3g4ee0gaac2gd5ee1dc5244b" version="1">Affect an additional target per level.</content>
   <content contentuid="h2b1ff176g3871g40c4ga926g109412a37ce8" version="1">Deals an additional [1] per level.</content>
-  <content contentuid="hbe07fb88g37c6g4cb6g9115gee976a7f1935" version="1">Casting this spell at a higher level doesn't grant any additional benefits.</content>
+  <content contentuid="hbe07fb88g37c6g4cb6g9115gee976a7f1935" version="1">Casting this spell at a higher level doesn&apos;t grant any additional benefits.</content>
   <content contentuid="h7e155e0eg5f18g405bgb606g498afc42229b" version="1">Heals an additional [1] per level.</content>
+	<content contentuid="h5uo23gzgiypq9ebvmo5j8864rhhia2zstgoh" version="1">You conjure [2] shards of concentrated moonlight and send them streaking toward targets within range. Each shard always hits and deals [1].</content>
+	<content contentuid="hw3xycyt3pri7o4t1g00wqtwu0f8fyule7ina" version="1">Spellsong: Song of Hope</content>
+	<content contentuid="h41s1zntqbxohy78st0ptajzommhwbwaimxfp" version="1">Spellsong: Song of Life</content>
+	<content contentuid="hrnhc8001r8n056go0htwc8edw9s45ct58h1y" version="1">Spellsong: Song of Rapture</content>
+	<content contentuid="h9slefdxxrmfy1avxqxfsr49woff3g8x6khx7" version="1">Improved Lunar Smite</content>
+	<content contentuid="hm9qdb5v1o2e8wfrms9cjxtk9o2ifm6q83lmk" version="1">You touch a creature and stimulate its natural healing ability. The target regains [1] + [3]. For the duration of the spell, the target regains [2] at the start of each of its turns.</content>
+	<content contentuid="hw5d3sjtquuglscyrgzyngs4eyxriynj4rotx" version="1">Spellsong: Song of Renewal</content>
+	<content contentuid="h8ox3cqytp6xjo79mcm10sw3erzh7ay6fkzu7" version="1">You channel the fury of Eilistraee on a Fiends and Undead, weakening their very essence. Magic that would normally bounce off its form now burns its flesh. All Darksong spells and attacks will ignore any &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; the target has to all damage types. </content>
+	<content contentuid="h6gkd702dgaf12vpr05qsnsj9x3yez4rwbb97" version="1">Using a 4th-level spell slot, you cast &lt;LSTag Type="Spell" Tooltip="SDOE_SongOfProtection_Sanctuary"&gt;Spellsong: Sanctuary&lt;/LSTag&gt; on 2 targets within 10m. At 5th level, you may instead cast &lt;LSTag Type="Spell" Tooltip="SDOE_SongOfProtection_Deathward"&gt;Spellsong: Death Ward&lt;/LSTag&gt; on a single creature within 10m. At 8th level, you may cast Spellsong: Death Ward on up to 4 targets.</content>
+	<content contentuid="hqhhxjw3dqystakft1w4hzoqf9ssq5qbnsk8p" version="1">Wrap yourself in silvery moonlight and vanish, reappearing in an unoccupied space within 18m.</content>
+	<content contentuid="homsqiar4lst2xsox7l91iepkjp1i5ztzww73" version="1">Remove Curses and Hexes on up to [1] Creatures or Objects afflicted by them within 6m.</content>
+	<content contentuid="h4tlvbh357njnsk2fa14qt7ikh8vuaqd33qin" version="1">Creature is engulfed by Eilistraee&apos;s Moonlight that deal [1] and [2] per turn. On a successful save, the creature still takes half damage.</content>
+	<content contentuid="h3d321f04xvo0l5czxxue8yb5bg64weyg4h32" version="1">Lunar Smite</content>
+	<content contentuid="hs9xdtsxsyqeqv86dl150nmn734wdbxisuzn5" version="1">Lunar Smite: Reaction</content>
+	<content contentuid="hljqam1lq4oywzyp7pqe24igg36dd9iezjubc" version="1">Perform an inspiring melody that affects up to [1] of creatures within 10m who can hear you. Affected allies gain advantage on saving throws against being Charmed or Frightened, a bonus to &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt; equal to your Charisma &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;, and a bonus to &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; equal to half your Charisma &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;. Lasts for 10 turns while you maintain concentration.</content>
+	<content contentuid="htnjlki9os8triyrtmyzmcwyogx21vg5pwsuu" version="1">Lunar Smite Critical: Reaction</content>
+	<content contentuid="h7yhqz6bipgjs776gjkbx87psrpbmqxrt41qx" version="1">You conjure strands of moonlight in the form of elven spirits that embrace and heal your allies. Choose up to 6 creatures within 10m who can hear you, each target is healed for [1] plus your Charisma &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;. The healing increases by 1d6 for each spell slot level above 4th.</content>
+	<content contentuid="hg54aplcgr3yipsnllaqssif09y6ct9f38hb5" version="1">Move Eilistraee&apos;s Moonlight up to [1]. The Moonlight damages any creature [2] and [3] that enters it or starts its turn inside.</content>
+	<content contentuid="hef5noh6gl2o5nppdlas7zloxwisqajelznrx" version="1">Aura of Purity</content>
+	<content contentuid="hfnak5hdaejs81o08d4cy1d8a85emm0il4mgt" version="1">Protect up to [1] targets, they cannot be targeted until attacking or harming another creature but can still take damage from area spells.</content>
+	<content contentuid="hoy23r3so7wmnd501zq7vktmj28h0lu3f34oh" version="1">Fire a bolt of concentrated moonlight at a target, dealing [1] and [2] and leaving a frozen surface at the point of impact. </content>
+	<content contentuid="hm3a7omebfgxdpxetjnty9qnmospvcjjxsv62" version="1">Lunar Shift</content>
+	<content contentuid="hbyh4m31ipmqzkklic7ziqxxkhyd349ys6l8y" version="1">Prismatic Spray</content>
+	<content contentuid="hgw92kbd9spcl3tdo98d58k3lzlu19868i1n2" version="1">Protect up to [1] creatures from death. The next time damage would reduce them to 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, they remain conscious with 1 hit point left.</content>
+	<content contentuid="hmulng23wspch29al63fn30xgbi7vvoxo806d" version="1">Spellsong: Song of Protection</content>
+	<content contentuid="hhz6f8lfe8vfo5r5mtz0il4szosj71trt9w6y" version="1">Eilistraee&apos;s Moonlight engulfs any creature that enters this silvery light or starts its turn inside it. They take [1] and [2]. On a successful save, targets still take half damage.</content>
+	<content contentuid="h6ht693fecb69wqgn6srvayz216dvj3mdjzv5" version="1">Strike your foe with Eilistraee&apos;s divine power, channeling both the radiant brilliance and frigid grace of the moon dealing [1] and [2]. The [3] increases by [4] when attacking Fiends or Undead.</content>
+	<content contentuid="hglcxwqaw9hbrz3ocm4cbsl7br5uxb49dli05" version="1">Spellsong: Sanctuary</content>
+	<content contentuid="hn8p3zbge9w545qtomgaovd2ogmhk7fom43vm" version="1">Moonveil Strike</content>
+	<content contentuid="hfdyd59fdv3lcqfy352p993alfzri0ospu104" version="1">Moonlight Shards</content>
+	<content contentuid="hojj2t67uutqicq483qnf18zkkors0m1x5py2" version="1">Spellsong: Lesser Restoration</content>
+	<content contentuid="hpiws7wwux33eqpkmzdoanlny176858yu6sbg" version="1">Move Moonlight</content>
+	<content contentuid="hhaimzl4g0iau79av0cj6pshmdb2sm684heyq" version="1">Lunar Bolt</content>
+	<content contentuid="hsmciijnwnlrx9agwjtloscm9wrkqh9kftpux" version="1">Eternal Dance</content>
+	<content contentuid="h49q0vkidzitw5u7ljj3za6247wur9yilogdx" version="1">Bladesong Waltz</content>
+	<content contentuid="h62mcetyqngheuz7t0sh4hyxri6dynt7bvfkm" version="1">You perform a haunting melody that &lt;LSTag Type="Status" Tooltip="CHARMED "&gt;Charms&lt;/LSTag&gt; nearby foes and &lt;LSTag Type="Status" Tooltip="INCAPACITATED "&gt;Incapacitates&lt;/LSTag&gt; all creatures within 10m who fail a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, including those who enter the area later. Affected targets cannot be charmed again by this spell more than once, you cannot take actions while performing and moving will break concentration. </content>
+	<content contentuid="hscc7ph0u87g3axqi0botbfsawwty957nb6ai" version="1">Empower yourself with the grace of the Dark Maiden, you gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next weapon attack, it deals an additional [1] and [2] on a hit and you do not provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;. Whether you hit or miss, your walking speed increases by 9m until the end of that turn.</content>
+	<content contentuid="hvp9y3nw2myvxzl0sscdtybc18k2jt63h0f2a" version="1">Moonlit Sanctuary</content>
+	<content contentuid="hgq1ab76anvbdhzzvx7b469s4p2x2qzbhgy1c" version="1">Cure up to [1] creatures from disease, poison, paralysis or blindness within 9m.</content>
+	<content contentuid="hhu4rdle012z9s62z7ygm3h1v2tpqzlfsyz9t" version="1">You become so attuned to Eilistraee&apos;s own dance and song, that all your movements are cloaked in unearthly grace. You ignore effects of &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;, have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on &lt;LSTag Tooltip="Acrobatics"&gt;Acrobatics&lt;/LSTag&gt; and if a spell or effect would deal half damage on a successful Dexterity &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, it deals no damage if you succeed, and only half damage if you fail.</content>
+	<content contentuid="hpys3ahmp02enjxjqsns339uhhdbm4x8zjdd0" version="1">Spellsong: Remove Curse</content>
+	<content contentuid="hjsswxavo1leqwd7thrgb3fxecz5s9j3xjwju" version="1">Aura of Truth</content>
+	<content contentuid="hvxs5yiu64v48g2m7bijjadkwhsdvxtp7b0gr" version="1">Demonbane</content>
+	<content contentuid="htr15lj3vb5n5wepbj6teackshri8bvox5b1g" version="1">You teleport between up to 5 enemies within range, dancing through them in a flurry of strikes. Each hit channels Eilistraee&apos;s will, dealing [1] and [2] and you reappear beside the final target, your form trailing glimmers of moonlight. </content>
+	<content contentuid="hrzrwwu6f6oqp2octuw5694ltiv1rrpe6100n" version="1">Six multicolored rays of light flash from your hand. Each creature in a 18m cone must make a Dexterity saving throw. For each target, roll a d6 to determine the effect. &lt;br&gt;&lt;br&gt;On roll of 1: [1], on 2: [2], on 3: [3], on 4: [4], on 5: [5] and half as much on a failed save. On a 6 and a failed save, the target is &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is &lt;LSTag Type="Status" Tooltip="BANISHED"&gt;Banished&lt;/LSTag&gt; for 4 turns.</content>
+	<content contentuid="hql8d09y95st1fmx6g53cbspyqoak9f7fa386" version="1">Conjure a 4m radius circle of silvery moonlight that lasts for 3 turns. Allies inside restore [1] each turn, gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Necrotic and Psychic damage. Targets cannot become &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt; and Invisibility is removed while inside.</content>
+	<content contentuid="ha9uz6nml5mwzcbqkue2dap5huu0woxhgijwd" version="1">Using a 4th-level spell slot you can cast &lt;LSTag Type="Spell" Tooltip="SDOE_Spellsong_SongOfRenewal_RemoveCurse"&gt;Spellsong: Remove Curse&lt;/LSTag&gt; within 9m. At 5th level, you may cast &lt;LSTag Type="Spell" Tooltip="SDOE_Spellsong_AuraOfPurity"&gt;Spellsong: Aura of Purity&lt;/LSTag&gt; and at 6th level, you may cast &lt;LSTag Type="Spell" Tooltip="SDOE_Spellsong_SongOfRenewal_Restoration"&gt;Spellsong: Lesser Restoration&lt;/LSTag&gt; on up to 3 targets within 6m.</content>
+	<content contentuid="hcfsbq8va5ra6a8n220jarxa9nlxgmywpa0lm" version="1">Your attacks are suffused with Eilistraee&apos;s Divine Moonlight dealing an additional [1] and [2].</content>
+	<content contentuid="h0v7vpwbby5xtblhhi20ehez6k0kptzjs8ev7" version="1">Regenerate</content>
+	<content contentuid="h0cf7iqvfklavrzc7fpvlvob12ob6hsaw4b1m" version="1">Purifying energy radiates from you in an aura with a 9m radius. You and allies are &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to Disease, &lt;LSTag Tooltip="Resistant"&gt;Resistant&lt;/LSTag&gt; to &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poison&lt;/LSTag&gt;, gain an &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and against &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyzed&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="POISONED"&gt;Poisoned&lt;/LSTag&gt; status effects.</content>
+	<content contentuid="hghm3yw5opqg86hkikrs91wt2wk9z3cpaz1no" version="1">Spellsong: Death Ward</content>
+	<content contentuid="hg963qi2uw669bygfjir43i3k6xhx6e0xkwqj" version="1">Spellsong: Aura of Purity</content>
+	<content contentuid="ho6xoqoc01rq1fzsjm36hci1ei5ak1lov8dxl" version="1">Protect a creature from death. The next time damage would reduce it to 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, it remains conscious with 1 hit point left.</content>
+	<content contentuid="hddgtebchcmfui1sp3x5kkad6em9kg2cweqy9" version="1">Eilistraee&apos;s Moonlight</content>
+	<content contentuid="hooil0txs5n63wdif5p2aqlzfzh24s0eonae3" version="1">You and any nearby allies within 3m can see through magical and non-magical darkness, and cannot be &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;. In addition, gain a bonus to Insight and Stealth &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt; based on your Charisma &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;. The aura disappears if you fall Unconscious.</content>
+	<content contentuid="hldl10eigxpszj9u8k4lp4vaecsmcj8r57a00" version="1">You call down a pillar of moonlit grace infused with the divine presence of the Dark Maiden. All creatures within the area take [2] and [3]. You can use an action to move it [1].</content>
+  <content contentuid="h004d056bga0c0g4211g864fgd0a167f0cf2d" version="1"></content>
+  <content contentuid="h024a4ca2g135dg49fcg92bcgd7464d904d7f" version="1"></content>
+  <content contentuid="h04190fa0g38fbg45bcg9444geb22d810007c" version="1"></content>
+  <content contentuid="h079617d7g9976g4db6ga722g411ccacf63e4" version="1"></content>
+  <content contentuid="h0b4a5a5eg640ag46f6ga23bg176a00faec23" version="1"></content>
+  <content contentuid="h19303fadgf83fg49ddgb579g51e2f5fd8fe5" version="1"></content>
+  <content contentuid="h1ee0dfcbg9ebcg4117gb921gebf190ea4a7d" version="1"></content>
+  <content contentuid="h215eb8b5g1e29g4e8bgac3dg79b458de3aea" version="1"></content>
+  <content contentuid="h22f5a641g88dbg46e6g854ag9fe8523e3a4c" version="1"></content>
+  <content contentuid="h2534e05eg7948g4ba5g9597g85860f7635a9" version="1"></content>
+  <content contentuid="h26eba7c3ge9bag47e4g954eg8d34e058401a" version="1"></content>
+  <content contentuid="h2a01f0f1g9717g45a8g8a67gad9f8222befd" version="1"></content>
+  <content contentuid="h2ac6cc32gacbeg466bgb8e4g156092f71216" version="1"></content>
+  <content contentuid="h2bdc925cga924g4afdg9ab4g60387ed16db1" version="1"></content>
+  <content contentuid="h2efe7e22gf007g487fgb47cg31ba7a8206f4" version="1"></content>
+  <content contentuid="h2ffcbe26g6bf4g401cga90cg3b3524f64508" version="1"></content>
+  <content contentuid="h3728832agb688g4081gad4eg7dcab2a79276" version="1"></content>
+  <content contentuid="h3957297bgfba0g4683gb07cg8565d13fb4ab" version="1"></content>
+  <content contentuid="h3b546256g8ae9g4c27g960dg2d570fdf498b" version="1"></content>
+  <content contentuid="h3ce43d50g5b6dg4772g834fgba200cc3cdcd" version="1"></content>
+  <content contentuid="h3f273f88g663cg456dg8430g51108bf5b9e8" version="1"></content>
+  <content contentuid="h3f6c3f1bg2c1ag46b4g86c2g4d72cb8dc87d" version="1"></content>
+  <content contentuid="h417cde81g931eg48a2gad6cg6c32ef472f51" version="1"></content>
+  <content contentuid="h446e0ad1gfd15g47a2gb144ge583b869f0f1" version="1"></content>
+  <content contentuid="h4c9bff86g74d3g443cg8db8gb5e515776d71" version="1"></content>
+  <content contentuid="h50cad90fg8a5eg486cg85e3g4b0b969ceedc" version="1"></content>
+  <content contentuid="h59a88f53g4d80g40fbga723g533a9147099e" version="1"></content>
+  <content contentuid="h5a03f166g60adg4efagb59ag6620badc825b" version="1"></content>
+  <content contentuid="h61169861gae88g4aadgb0degc3c1cc0e0885" version="1"></content>
+  <content contentuid="h6664033bge8b7g48c8g8fc6g18986baa0bae" version="1"></content>
+  <content contentuid="h6d2db94cgbc70g4cdcgaf76gb7bd76bd0a8c" version="1"></content>
+  <content contentuid="h6dc7d859g0635g4fc0gabbfg80e4218d0c89" version="1"></content>
+  <content contentuid="h7181b2afgef4bg4736g9e94gceb949d30369" version="1"></content>
+  <content contentuid="h75e483fbge595g453fg83d3g9fc6118e6f47" version="1"></content>
+  <content contentuid="h80779d74g9d58g47ebga2a9g171250a92ad6" version="1"></content>
+  <content contentuid="h832c9fc7g0a19g4fabg8e99g3335c0895625" version="1"></content>
+  <content contentuid="h8adfa797g3556g4807gbfe3gb5590c15c4f4" version="1"></content>
+  <content contentuid="h8c0fe0b3g81f3g4611gbcc1g8063938e6912" version="1"></content>
+  <content contentuid="h8ea4240dge845g4debg9ea8gd7190c579389" version="1"></content>
+  <content contentuid="h8f8a19a6gb008g490dgb644gb10fe05748fc" version="1"></content>
+  <content contentuid="h9246c057g9d29g4588ga5ddg74a2c0e4da99" version="1"></content>
+  <content contentuid="h94d5c94ag7a04g4006gbfd3g862065ae2b3d" version="1"></content>
+  <content contentuid="h965f0370gd35dg41dfga882gbf43562cadc2" version="1"></content>
+  <content contentuid="h9b32b3b6g1e06g449cg85ddg0e2ffb29b009" version="1"></content>
+  <content contentuid="h9c45b075g7cfeg4557ga26fgbcee9d2040a5" version="1"></content>
+  <content contentuid="h9d889237gb4f7g4377g88a2g0e163cf8766a" version="1"></content>
+  <content contentuid="ha12ebad1gfaf7g4b82g827fg125b781e62a7" version="1"></content>
+  <content contentuid="ha2ac2d1ag3f78g486bgb77agde19d9daaf48" version="1"></content>
+  <content contentuid="ha8d0991dg0cd3g4163ga409gc2330fbf41b0" version="1"></content>
+  <content contentuid="had8ba418g9ed0g4cb6ga7ecgdd8840f0183f" version="1"></content>
+  <content contentuid="hc2ea28bfg2274g40bcg8b89gdd404c9acd40" version="1"></content>
+  <content contentuid="hc3df2c93gdd42g4c64g82faga4c5cd24f049" version="1"></content>
+  <content contentuid="hc4af052dga4f4g4595ga56ag198276f7dd8d" version="1"></content>
+  <content contentuid="hc9451523g081eg40beg9402g9f061f264ae3" version="1"></content>
+  <content contentuid="hcd6bba91geed0g4000g8d7dg29f979d94622" version="1"></content>
+  <content contentuid="hcff00306gc5eag4cbfg9929ge3e239fccdf5" version="1"></content>
+  <content contentuid="hd4623c73g0f51g435agaea2g6276746001a4" version="1"></content>
+  <content contentuid="hd8ffaca7g8aa7g4e02ga546g3592286387a8" version="1"></content>
+  <content contentuid="hda1fa0a8gb96bg4f69g93a8g75e342cfaef1" version="1"></content>
+  <content contentuid="hda5b0875g47b0g48a0g8180g2bdafaa5470f" version="1"></content>
+  <content contentuid="he307b00cgd36dg46d1g8285g8445afe31727" version="1"></content>
+  <content contentuid="he8bda060g1455g4c7eg9820gecc4b0bd85f3" version="1"></content>
+  <content contentuid="heb43a2a5g1461g41b9g8f61g105371026238" version="1"></content>
+  <content contentuid="hedc0ea3fgcab6g43e4g9590g6e35420375a0" version="1"></content>
+  <content contentuid="hf012bee1g484cg4787g8113geeb2bb5322c1" version="1"></content>
 </contentList>

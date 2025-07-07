@@ -81,8 +81,8 @@ data "Boosts" "MonkWeaponAttackOverride();UnlockSpell(Throw_MainHand);UnlockSpel
 
 new entry "Passive_EternalDance"
 type "PassiveData"
-data "DisplayName" "h92cb2a92ge9abg4532gb47cg73e6c1ac4ba2"
-data "Description" "hc5eaeb7cg12abg4a60g9ed3ge66730e0e566"
+data "DisplayName" "hsmciijnwnlrx9agwjtloscm9wrkqh9kftpux"
+data "Description" "hhu4rdle012z9s62z7ygm3h1v2tpqzlfsyz9t"
 data "Icon" "Eilistraean_EternalDance"
 data "Properties" "Highlighted"
 data "Boosts" "AreaDamageEvade();StatusImmunity(SG_DifficultTerrain);Advantage(Skill,Acrobatics)"
@@ -114,8 +114,8 @@ data "Boosts" "UnlockInterrupt(Interrupt_LunarSmite_5);UnlockInterrupt(Interrupt
 
 new entry "Passive_ImprovedLunarSmite"
 type "PassiveData"
-data "DisplayName" "h1b084979g0e15g45acg8345g42bfed69a2c9"
-data "Description" "hd8c33265g9f41g4f75ga8aagde9b8c4fc4ee"
+data "DisplayName" "h9slefdxxrmfy1avxqxfsr49woff3g8x6khx7"
+data "Description" "hcfsbq8va5ra6a8n220jarxa9nlxgmywpa0lm"
 data "DescriptionParams" "DealDamage(1d4,Cold);DealDamage(1d4,Radiant)"
 data "Icon" "Eilistraean_LunarSmite"
 data "Properties" "Highlighted"
