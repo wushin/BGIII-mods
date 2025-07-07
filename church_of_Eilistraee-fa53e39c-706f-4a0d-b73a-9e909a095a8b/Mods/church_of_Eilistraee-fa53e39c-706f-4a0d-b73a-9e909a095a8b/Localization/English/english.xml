@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <content contentuid="h6hwhr9nk44x0iszbjtwdarj90zcjucgqpfpf" version="1">Eilistraean Worshipper</content>
-  <content contentuid="hv8ayr9z11q23z9zytdtubbux8zkn3qvpr2nd" version="1">You are a new follower of Eilistraee still trying to find your way in the world.</content>
-  <content contentuid="h2dzoeu4zn5afbda8nv1w1qwnwm3btjtafbbz" version="1">Select Clergy</content>
   <content contentuid="h8fc45cdbg1e6fg4aaeg8b14g7b0c79193026" version="1">Sword Dancer</content>
   <content contentuid="h826a670eg6980g4df8g8320g2f1cd9b2652c" version="1">Specialized clerics of the Dark Maiden were known as Sword Dancers. They were excellent dancers and spellsingers, known to use an agile and acrobatic fencing style resembling a dance. The sword dancers led missions to find, assist, and protect any drow looking to return to the surface (or that could be made to return) and embrace a different life. They were skilled diplomats, especially active near the settlements of elves and other races, working to establish peace and cooperation between drow and surface dwellers.</content>
   <content contentuid="h8qza0xv0xcsnaaopqu8cv8d5k8unk7oy0zho" version="1">Silverhair Knight</content>
@@ -19,7 +16,7 @@
   <content contentuid="he5e527a0g04cdg40f0g9df8g2d125cd69e3c" version="1">Fouth Eilistraean Image</content>
   <content contentuid="ha370ba4ag673fg4741g81fdg8026fdc5a564" version="1">Fifth Eilistraean Image</content>
   <content contentuid="h3e0bc8a7g4057g478cgb07fg1ecc1c13f518" version="1">Sixth Eilistraean Image</content>
-  <content contentuid="h615d1044gf0c6g45dfgaf87g1e4e66581dc5" version="1">Sneak Attack : SWord Dancer</content>
+  <content contentuid="h615d1044gf0c6g45dfgaf87g1e4e66581dc5" version="1">Sneak Attack : Sword Dancer</content>
   <content contentuid="h3f756e2bg7038g46afg9057g94d3afc7bbb7" version="1">Sneak Attack (Critical Hit) : Sword Dancer</content>
   <content contentuid="h33951923g9a9bg4c4dg8f9egabb42b068d1e" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread Moon Fire to burn another nearby creature for [2].</content>
   <content contentuid="h0a17578bgbd95g47cdg9d04g50c88ec82633" version="1">Eilistraean Disarming Attack</content>
