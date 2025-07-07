@@ -45,7 +45,7 @@ data "TargetConditions" "Character() and not Ally() and IntelligenceGreaterThan(
 data "Icon" "Eilistraean_ViciousMockery"
 data "DisplayName" "hb777ae33g478fg4591g9941gfc4a3d2055b1;1"
 data "Description" "hd42770ccg5605g4b33gb09eg55f66a42bf93;1"
-data "TooltipDamageList" "1"
+data "TooltipDamageList" "DealDamage(1d4,Psychic,Magical)"
 data "TooltipAttackSave" "Wisdom"
 data "TooltipStatusApply" "ApplyStatus(VICIOUSMOCKERY,100,1);AOE:ApplyStatus(HIDEOUS_LAUGHTER,100,3)"
 data "PrepareSound" "Vocal_Component_PrepareViciousMockery"

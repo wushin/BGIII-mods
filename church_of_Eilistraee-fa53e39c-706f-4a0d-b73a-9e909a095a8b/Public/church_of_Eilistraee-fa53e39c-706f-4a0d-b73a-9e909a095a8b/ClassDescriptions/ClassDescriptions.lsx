@@ -22,7 +22,7 @@
           <attribute id="Name" type="FixedString" value="EilistraeanWorshipper"/>
           <attribute id="PrimaryAbility" type="uint8" value="6"/>
           <attribute id="ProgressionTableUUID" type="guid" value="c5ef8f15-1e39-48d8-ab88-91e4c90d9b6c"/>
-          <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+          <attribute id="SpellCastingAbility" type="uint8" value="6"/>
           <attribute id="SoundClassType" type="FixedString" value="Cleric"/>
           <attribute id="SubclassTitle" type="TranslatedString" handle="h2dzoeu4zn5afbda8nv1w1qwnwm3btjtafbbz" version="1" />
           <attribute id="ValidSomaticEquipmentList" type="LSString" value="Flute;Lute;Lyre" />
@@ -30,7 +30,7 @@
         </node>
         <node id="ClassDescription">
           <attribute id="BaseHp" type="int32" value="6"/>
-          <attribute id="CanLearnSpells" type="bool" value="false"/>
+          <attribute id="CanLearnSpells" type="bool" value="true"/>
           <attribute id="CharacterCreationPose" type="guid" value="0f07ec6e-4ef0-434e-9a51-1353260ccff8"/>
           <attribute id="ClassEquipment" type="FixedString" value="EQP_CC_SWORDDANCER"/>
           <attribute id="Description" type="TranslatedString" handle="h826a670eg6980g4df8g8320g2f1cd9b2652c" version="1"/>
@@ -43,7 +43,7 @@
           <attribute id="Name" type="FixedString" value="SwordDancer"/>
           <attribute id="PrimaryAbility" type="uint8" value="2"/>
           <attribute id="ProgressionTableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
-          <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+          <attribute id="SpellCastingAbility" type="uint8" value="4"/>
           <attribute id="SoundClassType" type="FixedString" value="Rogue"/>
           <attribute id="UUID" type="guid" value="b5ef7745-7682-449d-ad17-9e6e43ee1105"/>
           <children>
@@ -75,7 +75,7 @@
           <attribute id="MulticlassSpellcasterModifier" type="double" value="1"/>
           <attribute id="MustPrepareSpells" type="bool" value="false"/>
           <attribute id="Name" type="FixedString" value="SilverhairKnight"/>
-          <attribute id="PrimaryAbility" type="uint8" value="2"/>
+          <attribute id="PrimaryAbility" type="uint8" value="3"/>
           <attribute id="ProgressionTableUUID" type="guid" value="3d4d52ad-65e5-4dc9-9ec7-a360092ab0dd"/>
           <attribute id="SpellCastingAbility" type="uint8" value="5"/>
           <attribute id="SoundClassType" type="FixedString" value="Monk"/>
@@ -105,7 +105,7 @@
           <attribute id="Name" type="FixedString" value="DarksongKnight"/>
           <attribute id="PrimaryAbility" type="uint8" value="1"/>
           <attribute id="ProgressionTableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
-          <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+          <attribute id="SpellCastingAbility" type="uint8" value="6"/>
           <attribute id="SoundClassType" type="FixedString" value="Paladin"/>
           <attribute id="UUID" type="guid" value="3bdbed67-1eb5-456b-b313-9d8a1ce4b65e"/>
           <children>
@@ -136,7 +136,7 @@
           <attribute id="Name" type="FixedString" value="ProtectorOfTheSong"/>
           <attribute id="PrimaryAbility" type="uint8" value="5"/>
           <attribute id="ProgressionTableUUID" type="guid" value="ee3f894e-fa8b-46d9-89bd-e34a1572b209"/>
-          <attribute id="SpellCastingAbility" type="uint8" value="5"/>
+          <attribute id="SpellCastingAbility" type="uint8" value="6"/>
           <attribute id="SoundClassType" type="FixedString" value="Cleric"/>
           <attribute id="UUID" type="guid" value="cd95081f-788e-4fb5-9d51-493640783d04"/>
           <children>

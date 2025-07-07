@@ -7,8 +7,8 @@
         <node id="DefaultValue">
           <attribute id="Add" type="LSString" value="Acrobatics;Investigation;Performance;Persuasion;SleightOfHand;"/>
           <attribute id="Level" type="int32" value="1"/>
-          <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
-          <attribute id="UUID" type="guid" value="23c1343d-83cf-4a44-a3c3-1897c058d517"/>
+          <attribute id="TableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
+          <attribute id="UUID" type="guid" value="22b43255-88a6-4c86-ad63-c784be8c59a6"/>
         </node>
       </children>
     </node>

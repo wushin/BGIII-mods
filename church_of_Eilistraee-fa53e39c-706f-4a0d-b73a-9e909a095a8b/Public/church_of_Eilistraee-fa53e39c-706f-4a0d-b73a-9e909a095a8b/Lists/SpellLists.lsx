@@ -46,7 +46,7 @@
         </node>
         <node id="SpellList">
             <attribute id="Name" type="FixedString" value="SilverhairKnightSpells Level 1"/>
-            <attribute id="Spells" type="LSString" value="Target_EilistraeanShadow_Spell;Shout_EilistraeanImage_Spell;"/>
+            <attribute id="Spells" type="LSString" value="Target_EilistraeanShadow_Ki;Shout_EilistraeanImage_Ki;"/>
             <attribute id="UUID" type="guid" value="e4309598-46db-4250-aad8-21d31dfd936d"/>
         </node>
         <node id="SpellList">

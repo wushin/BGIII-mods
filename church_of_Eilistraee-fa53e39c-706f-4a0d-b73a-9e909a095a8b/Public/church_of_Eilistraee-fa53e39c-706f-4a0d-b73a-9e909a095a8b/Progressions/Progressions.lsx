@@ -7,7 +7,7 @@
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="false"/>
           <attribute id="IsMulticlass" type="bool" value="false"/>
-          <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Wisdom);Proficiency(MusicalInstrument);"/>
+          <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Charisma);Proficiency(MusicalInstrument);"/>
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="EilistraeanWorshipper"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -36,7 +36,7 @@
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="false"/>
           <attribute id="IsMulticlass" type="bool" value="true"/>
-          <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Wisdom);Proficiency(MusicalInstrument);"/>
+          <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Charisma);Proficiency(MusicalInstrument);"/>
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="EilistraeanWorshipper"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -839,7 +839,7 @@
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="false"/>
           <attribute id="IsMulticlass" type="bool" value="false"/>
-          <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Charisma);Attribute(UseMusicalInstrumentForCasting);Proficiency(LightArmor);Proficiency(Daggers);Proficiency(Shortswords);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Longswords)"/>
+          <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Wisdom);Attribute(UseMusicalInstrumentForCasting);Proficiency(LightArmor);Proficiency(Daggers);Proficiency(Shortswords);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Longswords)"/>
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong"/>
           <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;BardSpellcasting"/>
