@@ -17,12 +17,12 @@
         <node id="SkillList">
           <attribute id="Name" type="FixedString" value="Darksong Knight Skill List"/>
           <attribute id="Skills" type="LSString" value="Athletics, Insight, Intimidation, Medicine, Performance, Persuasion, Religion"/>
-          <attribute id="UUID" type="guid" value="92330862-e3b7-43dd-87b7-963733c91da7"/>
+          <attribute id="UUID" type="guid" value="1fa3bf2e-484b-4300-9028-e08b26601516"/>
         </node>
         <node id="SkillList">
           <attribute id="Name" type="FixedString" value="Protector Of The Song Skill List"/>
           <attribute id="Skills" type="LSString" value="History, Insight, Medicine, Performance, Persuasion, Religion"/>
-          <attribute id="UUID" type="guid" value="92330862-e3b7-43dd-87b7-963733c91da7"/>
+          <attribute id="UUID" type="guid" value="5b22e7f2-068e-44f5-b768-82ea65eb2436"/>
         </node>
       </children>
     </node>

@@ -10,6 +10,24 @@
           <attribute id="TableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
           <attribute id="UUID" type="guid" value="22b43255-88a6-4c86-ad63-c784be8c59a6"/>
         </node>
+        <node id="DefaultValue">
+          <attribute id="Add" type="LSString" value="Acrobatics;Athletics;Insight;Performance;Stealth;"/>
+          <attribute id="Level" type="int32" value="1"/>
+          <attribute id="TableUUID" type="guid" value="3d4d52ad-65e5-4dc9-9ec7-a360092ab0dd"/>
+          <attribute id="UUID" type="guid" value="d640fce6-e546-4899-bc2d-b050c2271b95"/>
+        </node>
+        <node id="DefaultValue">
+          <attribute id="Add" type="LSString" value="Athletics;Insight;Medicine;Performance;Religion;"/>
+          <attribute id="Level" type="int32" value="1"/>
+          <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
+          <attribute id="UUID" type="guid" value="2401f880-41f7-4c9a-bd34-166a3b481485"/>
+        </node>
+        <node id="DefaultValue">
+          <attribute id="Add" type="LSString" value="History;Insight;Medicine;Performance;Persuasion;"/>
+          <attribute id="Level" type="int32" value="1"/>
+          <attribute id="TableUUID" type="guid" value="ee3f894e-fa8b-46d9-89bd-e34a1572b209"/>
+          <attribute id="UUID" type="guid" value="b0a3801e-469e-4b85-9046-8050a48d38aa"/>
+        </node>
       </children>
     </node>
   </region>
