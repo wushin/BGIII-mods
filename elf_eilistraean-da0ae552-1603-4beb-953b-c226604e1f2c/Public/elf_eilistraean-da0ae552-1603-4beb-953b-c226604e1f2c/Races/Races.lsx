@@ -8,6 +8,7 @@
                     <attribute id="Description" type="TranslatedString" handle="hapt7jmjga5bapspsj2wbg68ce4u699o184p5" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="hk2ff387lnmw9p6q67wsvig09tt5c5cvadm6e" version="1"/>
                     <attribute id="DisplayTypeUUID" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/>
+                    <attribute id="ParentGuid" type="guid" value="899d275e-9893-490a-9cd5-be856794929f"/>
                     <attribute id="Name" type="FixedString" value="Elf_Eilistraean"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="d3a83912-f814-4ea6-8a40-bb016b80fe98"/>
                     <attribute id="RaceSoundSwitch" type="FixedString" value="Elf"/>

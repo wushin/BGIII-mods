@@ -113,13 +113,13 @@
         </node>
         <node id="GameObjects">
           <attribute id="CharacterVisualResourceID" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a" />
-          <attribute id="DisplayName" type="TranslatedString" handle="hk2ff387lnmw9p6q67wsvig09tt5c5cvadm6e" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hbb7oewr4cg2j3iqywqj480i5ob92r9pt48gb" version="1" />
           <attribute id="Icon" type="FixedString" value="4c8affee-8495-7a94-6506-bf050e0e091a-_(Icon_Elf_Male)" />
           <attribute id="LevelName" type="FixedString" value="" />
           <attribute id="MapKey" type="FixedString" value="e876ae99-c9a1-42aa-9495-ad9744c532f1" />
           <attribute id="Name" type="LSString" value="BASE_Elves_Male_Wood" />
           <attribute id="ParentTemplateId" type="FixedString" value="858a8c1e-b8fa-429f-9a31-41033042ede3" />
-          <attribute id="Race" type="guid" value="814a554a-bf74-4deb-ad43-969753dc932f" />
+          <attribute id="Race" type="guid" value="dcfb049e-e252-4739-ae20-ae5eee061156" />
           <attribute id="Type" type="FixedString" value="character" />
           <attribute id="VisualTemplate" type="FixedString" value="" />
           <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855916" />
@@ -172,13 +172,13 @@
         </node>
         <node id="GameObjects">
           <attribute id="CharacterVisualResourceID" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000" />
-          <attribute id="DisplayName" type="TranslatedString" handle="hk2ff387lnmw9p6q67wsvig09tt5c5cvadm6e" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hbb7oewr4cg2j3iqywqj480i5ob92r9pt48gb" version="1" />
           <attribute id="Icon" type="FixedString" value="24bcc44f-4168-1468-222a-b1bb6370e000-_(Icon_Elf_Female)" />
           <attribute id="LevelName" type="FixedString" value="" />
           <attribute id="MapKey" type="FixedString" value="04de760b-22fe-4ebc-9d9d-e87d72dac258" />
           <attribute id="Name" type="LSString" value="BASE_Elves_Female_Wood" />
           <attribute id="ParentTemplateId" type="FixedString" value="4c3d8aa0-2e31-4dce-a792-84fc07fa63d8" />
-          <attribute id="Race" type="guid" value="814a554a-bf74-4deb-ad43-969753dc932f" />
+          <attribute id="Race" type="guid" value="dcfb049e-e252-4739-ae20-ae5eee061156" />
           <attribute id="Type" type="FixedString" value="character" />
           <attribute id="VisualTemplate" type="FixedString" value="" />
           <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855903" />
@@ -240,6 +240,7 @@
           <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
           <attribute id="Stats" type="FixedString" value="HeroElfMale" />
           <attribute id="Type" type="FixedString" value="character" />
+          <attribute id="Race" type="guid" value="dcfb049e-e252-4739-ae20-ae5eee061156" />
           <attribute id="VisualTemplate" type="FixedString" value="" />
           <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
           <children>
@@ -267,6 +268,7 @@
           <attribute id="Name" type="LSString" value="Elves_Male_Wood_Player_Strong" />
           <attribute id="ParentTemplateId" type="FixedString" value="e876ae99-c9a1-42aa-9495-ad9744c532f1" />
           <attribute id="Type" type="FixedString" value="character" />
+          <attribute id="Race" type="guid" value="dcfb049e-e252-4739-ae20-ae5eee061156" />
           <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
           <children>
             <node id="LocomotionParams" />
@@ -290,6 +292,7 @@
           <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
           <attribute id="Stats" type="FixedString" value="HeroElfFemale" />
           <attribute id="Type" type="FixedString" value="character" />
+          <attribute id="Race" type="guid" value="dcfb049e-e252-4739-ae20-ae5eee061156" />
           <attribute id="VisualTemplate" type="FixedString" value="" />
           <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
           <children>
@@ -317,6 +320,7 @@
           <attribute id="Name" type="LSString" value="Elves_Female_Wood_Player_Strong" />
           <attribute id="ParentTemplateId" type="FixedString" value="04de760b-22fe-4ebc-9d9d-e87d72dac258" />
           <attribute id="Type" type="FixedString" value="character" />
+          <attribute id="Race" type="guid" value="dcfb049e-e252-4739-ae20-ae5eee061156" />
           <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
           <children>
             <node id="LocomotionParams" />
@@ -369,6 +373,7 @@
           <attribute id="ParentTemplateId" type="FixedString" value="8cbbfeec-742b-4afb-af56-5aee889eaa47" />
           <attribute id="PortraitVisualResourceID" type="FixedString" value="06bc048a-2d5a-9943-b202-9d9261e9cde2" />
           <attribute id="Type" type="FixedString" value="character" />
+          <attribute id="Race" type="guid" value="91618490-5e7e-429b-9d12-5db9bf23802b" />
           <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
           <children>
             <node id="LocomotionParams" />
@@ -392,6 +397,7 @@
           <attribute id="ParentTemplateId" type="FixedString" value="19ce6c1c-237a-40d3-87be-374687fbe2c0" />
           <attribute id="PortraitVisualResourceID" type="FixedString" value="f6bdb7da-ceb8-fd9e-9c04-78c93d3f0806" />
           <attribute id="Type" type="FixedString" value="character" />
+          <attribute id="Race" type="guid" value="91618490-5e7e-429b-9d12-5db9bf23802b" />
           <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209033" />
           <children>
             <node id="LocomotionParams" />
