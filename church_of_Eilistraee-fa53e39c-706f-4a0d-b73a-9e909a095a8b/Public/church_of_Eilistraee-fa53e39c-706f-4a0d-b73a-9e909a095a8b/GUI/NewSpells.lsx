@@ -298,7 +298,7 @@
             <attribute id="V2" type="float" value="0.62402344"/>
         </node>
         <node id="IconUV">
-            <attribute id="MapKey" type="FixedString" value=""/>
+            <attribute id="MapKey" type="FixedString" value="Action_SpellSongRituals"/>
             <attribute id="U1" type="float" value="0.87597656"/>
             <attribute id="U2" type="float" value="0.99902344"/>
             <attribute id="V1" type="float" value="0.50097656"/>
