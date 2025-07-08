@@ -23,7 +23,7 @@
           <attribute id="Name" type="LSString" value="SwordDancer"/>
           <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;EilistraeanCunning;EilistraeanInit;EilistraeanHands;"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="Selectors" type="LSString" value="SelectSpells(4a6c13fe-e3f3-4447-82b6-39b13db9eb42,2,0)"/>
+          <attribute id="Selectors" type="LSString" value="SelectSpells(4a6c13fe-e3f3-4447-82b6-39b13db9eb42,2,0);AddSpells(5167ef17-a077-435f-b6f5-bf6be2fb2b62,,,,AlwaysPrepared);"/>
           <attribute id="TableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
           <attribute id="UUID" type="guid" value="3323d506-b89a-40bf-b414-c5ed25135a7a"/>
         </node>
