@@ -33,9 +33,7 @@
   <content contentuid="h88zrr0lutd86jiy3e9txys74rsrgvzw312i6" version="1">Ritually bound to its wielder. &lt;br&gt;&lt;br&gt;The weapon can&apos;t be knocked out of the wielder&apos;s hand, and automatically returns to the wielder when &lt;LSTag Type="Spell" Tooltip="Throw_Throw"&gt;Thrown&lt;/LSTag&gt;.</content>
   <content contentuid="h2d774af3gd5b6g4e19gb39bgd282a4b10527" version="1">Eilistraean Song Charge</content>
   <content contentuid="he0h9vdgbyohqxxm244ndnwqmst1tx6c41oj5" version="1">Charges that can be accumulated for the Eilistraean Song Climax while Eilistraean Singing. Attacking with a weapon grants a &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_CHARGE"&gt;Eilistraean Song Charge&lt;/LSTag&gt;. In addition to gaining Eilistraean Song Slot Slots.</content>
-  <content contentuid="h2e7b78a6g87a7g4910gb830g431368a24fd1" version="1">Eilistraean Fall</content>
   <content contentuid="h2eef0206g3201g427agabd0g3556b40d985d" version="1">Eilistraean Cleave</content>
-  <content contentuid="h319193c0g7bc4g47f9g8f88g87d59140852a" version="1">Increase allies within [1] &lt;LSTag Tooltip="MovementSpeed"&gt;movement speed&lt;/LSTag&gt; by [2]</content>
   <content contentuid="h34a2dee9g267dg42e5gb9ecgdcb9c3e96093" version="1">End Eilistraean Song</content>
   <content contentuid="h36dad42bgcc72g43dcgbcacg67b935462720" version="1">You also unlock your sub-class Maneuvers and &lt;LSTag Type="Spell" Tooltip="Projectile_EilistraeanSong_Finisher"&gt;Eilistraean Song Climax&lt;/LSTag&gt; and the ability to accumulate &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt; in combat.</content>
   <content contentuid="hadz36e78rjopsa79ubf1b4toyykjxgpl2bpk" version="1">You also unlock your sub-class Maneuvers and &lt;LSTag Type="Spell" Tooltip="Target_EilistraeanSong_Finisher"&gt;Eilistraean Song Climax&lt;/LSTag&gt; and the ability to accumulate &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt; in combat.</content>
@@ -65,8 +63,6 @@
   <content contentuid="h6535344dgd9e5g4b96gbc90gf134fff960d6" version="1">&lt;LSTag Type="Status" Tooltip="DISTRACTED"&gt;Distract&lt;/LSTag&gt; your target, giving your allies &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on their next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; against the target.</content>
   <content contentuid="h80e649e4ge45cg4132g9f39ge5233534e318" version="1">Moon Fire Blade</content>
   <content contentuid="h66e98aebgefcdg468fg9a1cgb42ffcd225cc" version="1">Eilistraean Song Impeded</content>
-  <content contentuid="hiwxdxnjgphlxnp8h7qxfzl2gwfu6grobvk6o" version="1">Blade Ritual Point</content>
-	<content contentuid="hx8saho0kx6idqs94xrj86fdoq62aefpkyup4" version="1">Blade Ritual Points are used to cast &lt;LSTag Type="Spell" Tooltip="EilistraeanRituals"&gt;Eilistraean Rituals&lt;/LSTag&gt; </content>
   <content contentuid="h691d0234gf9b7g44cdgb713g2270d16a43c9" version="1">Training in Eilistraean War and Song</content>
   <content contentuid="h3c5bf901g2901g44e2g85e6gcfadefe2ef0c" version="1">Deal a bonus [1] to the target. If the attack lands and you remain stationary, you can spread green flames to burn another for [2].</content>
   <content contentuid="h54d90cd2g3708g4944g99f8g4df9d9b30f91" version="1">Eilistraean Blade Song</content>
@@ -114,7 +110,6 @@
   <content contentuid="h9s8pmoi7uz36ho9nm7m9hrd3ypwcui5gjmol" version="1">Throw melee off hand to do [1] to target.</content>
   <content contentuid="h6ialsjpuppqe0gzy6w056ktnwpdm8e916h4m" version="1">Blade Toss (Main Hand)</content>
   <content contentuid="h78lacn0j7g78e5llzyavbt2twrhk5lsa7irh" version="1">Blade Toss (Off Hand)</content>
-  <content contentuid="h933c4150ge7e3g4fbdgb8b8g2cf8eea211eb" version="1">Eilistraean Strider</content>
   <content contentuid="h971bd2eag142bg4a39gbd0cg82575df420f0" version="1">Eilistraean Riposte</content>
   <content contentuid="hdusnmtsjx401006rbz2m5n2ttb1qcfu8hbth" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You must be wielding a Dagger, Longsword, Rapier, Scimitar, Shortsword, or Sickle. You can not have any ranged weapon equipped.</content>
   <content contentuid="hpop98bqpu2q0ydgy31nvrsgpcp1p79iyrn9u" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You can only wear cloth or no armor while Eilistraean Song. All other Light or Medium or Heavy Armour or Shields are not allowed</content>
@@ -136,7 +131,6 @@
   <content contentuid="ha9427cdfgfa61g43cdgaa2eg9a9ddbd1e431" version="1">You can make an attack that deals an additional [1] damage and possibly knocks the target &lt;LSTag Type="Status" Tooltip="PRONE"&gt;Prone&lt;/LSTag&gt;.</content>
   <content contentuid="ha9c8d475gedc0g4760gadd5g1dc647dbb500" version="1">Eilistraean Charger</content>
   <content contentuid="hac9f8fcbg3a64g49ebg8dafg77d7261cf448" version="1">Your hands have become infused with the weave and anticipate your movements. You gain an additional action.</content>
-  <content contentuid="h2df5e4aag322ag45d9gadceg89cd7cdd9bf6" version="1">Gain the ability to comprehend and communicate with beasts.</content>
   <content contentuid="hadf84c5bg3db5g4c09gaf65ge38b304fb6d3" version="1">Eilistraean Song impeded by a shield. Until the shield is removed, your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG"&gt;Eilistraean Song&lt;/LSTag&gt; won&apos;t grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt;.</content>
   <content contentuid="hafc47e90g3c61g4e12g8981g3deb31177522" version="1">Swing your weapon in a large arc to attack up to [1] enemies at once.</content>
   <content contentuid="hb0218f3dgb466g4627gb91bga9f69afb5e3f" version="1">Make an attack that deals an additional [1] damage and possibly forces the target to drop the weapons they are holding.</content>
@@ -151,12 +145,7 @@
   <content contentuid="h3522f4b1gfd3fg4708g84a9g68e7133d34a0" version="1">Can burn a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_MoonFireBladeExtra"&gt;Spread Moon Fire Blade&lt;/LSTag&gt;. Removed if you move.</content>
   <content contentuid="hb83ff5a2g23a5g4f1cga48bg09a70ba7d131" version="1">You gain an additional way to use your Sneak Attack; You can now also perform sneak attacks if there are no other enemies within [1] of the target (the enemy is isolated).</content>
   <content contentuid="h8b98823aga3c7g474egbc0egcfd0d066c47d" version="1">Reactions, such as &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;, are responses you can have to events. Reactions can trigger both during and outside of your turn.</content>
-  <content contentuid="hba328959g46dfg4645g80e6gccaef6b1db20" version="1">You and allies within [1] gain &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; to Falling damage.</content>
-  <content contentuid="hf6762524g976dg47b1g9ddeg094738301a35" version="1">Speak with Animals</content>
   <content contentuid="hbdfb1160g8a27g4a6dg8416gd750cd35c098" version="1">Your confidence propels you into battle. You can give yourself a bonus to your initiative rolls equal to your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; </content>
-  <content contentuid="hbe73661fge65bg47acg8547gd7a327a282f3" version="1">Triple allies within [1] jumping distance.</content>
-  <content contentuid="hbee27d43g9926g45c6gaf88g79217a6aec99" version="1">Eilistraean Image</content>
-  <content contentuid="hbf829dd6gbb18g4af2g86b6g2f786c838da8" version="1">Eilistraean Jump</content>
   <content contentuid="h327d9b8aga2e5g4e4aga72fg3b33b05aa88c" version="1">Attack Cantrip Helper</content>
   <content contentuid="hsymvl59s23yqtov8cpm81lymnzngco5z6778" version="1">Summon blades to sweep at creatures within [1] of you.</content>
   <content contentuid="hc4f6b056g12c1g46acgae36g347d8ca09498" version="1">Hide from enemies by succeeding &lt;LSTag Tooltip="Stealth"&gt;Stealth checks&lt;/LSTag&gt;. Stick to the dark and avoid enemy sightlines. Attacking or casting a spell will reveal your location.</content>
@@ -183,11 +172,7 @@
   <content contentuid="hb798a19ag01e9g48dcg9ab7g8bdb8274edbc" version="1">Cannot be targeted by &lt;LSTag Type="Spell" Tooltip="Target_MoonFireBladeExtra"&gt;Spread Moon Fire Blade&lt;/LSTag&gt;.</content>
   <content contentuid="hdd5b8d00g1b76g498cg93c4g3b74f2928d4a" version="1">Eilistraean Distracting Strike</content>
   <content contentuid="h813a82a7gb9e8g4d69gb79bg1f5993a7f660" version="1">Moon Fire Blade (Once)</content>
-  <content contentuid="hzjvxu0wvdotd2wlgql7dgr40d85rz8ha3xo3" version="1">Blade Rituals</content>
-  <content contentuid="h0v9n69iqraa63q3il1zmhjqjl4cell9g1541" version="1">Ritual Songs taught to Eilistraeans to aid in their quests</content>
   <content contentuid="hd6f40f82g4c8bg4804g8b2dg945d8d70a1d2" version="1">Sword Burst</content>
-  <content contentuid="h3e505a21g6413g4b7fgbfa8g6fe7dee4de64" version="1">Speak with Dead</content>
-  <content contentuid="h389e07f7gbfdbg4e99ga23fgc352c05b1658" version="1">Grant a semblance of life to a humanoid corpse, allowing it to answer up to 5 questions.</content>
   <content contentuid="hf02e8af8g105bg4dd0gb7eagc9d76f1d9959" version="1">During Eilistraean Song, Cleave your weapon in a rapid, sweeping arc to attack multiple enemies at once.</content>
   <content contentuid="hf1d94f30g949bg4c8eg836cg7b688cda78f8" version="1">Eilistraean Song impeded due to being unarmed. Until a valid weapon is equipped, your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG"&gt;Eilistraean Song&lt;/LSTag&gt; won&apos;t grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt;.</content>
   <content contentuid="hf6d26065g1663g4b50g9869g53cc6f87df66" version="1">Eilistraean Cleave Attack</content>

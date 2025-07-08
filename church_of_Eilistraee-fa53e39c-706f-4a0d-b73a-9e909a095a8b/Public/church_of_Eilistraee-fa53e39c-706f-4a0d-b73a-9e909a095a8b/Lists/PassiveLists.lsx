@@ -5,11 +5,6 @@
     <node id="root">
       <children>
         <node id="PassiveList">
-          <attribute id="Name" type="FixedString" value="EilistraeanSpellSongRituals"/>
-          <attribute id="Spells" type="LSString" value="EilistraeanRituals;"/>
-          <attribute id="UUID" type="guid" value="fa5d6551-846b-437b-8d52-df57e796fc05"/>
-        </node>
-        <node id="PassiveList">
           <attribute id="Name" type="FixedString" value="Eilistraean fighting style"/>
           <attribute id="Passives" type="LSString" value="FightingStyle_Defense,FightingStyle_Dueling,FightingStyle_GreatWeaponFighting,FightingStyle_TwoWeaponFighting"/>
           <attribute id="UUID" type="guid" value="47f35056-a172-4223-ad1b-db7be36de2aa"/>

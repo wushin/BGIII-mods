@@ -11,22 +11,22 @@
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="Eilistraean Blade Song"/>
-          <attribute id="Spells" type="LSString" value="Shout_EilistraeanSong"/>
+          <attribute id="Spells" type="LSString" value="Shout_EilistraeanSong;Shout_EilistraeanWeaponBond"/>
           <attribute id="UUID" type="guid" value="f0f16b73-6f4a-40a8-800d-6164c7a30d89"/>
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="Eilistraean Moon Dance"/>
-          <attribute id="Spells" type="LSString" value="Shout_EilistraeanMoonDance"/>
+          <attribute id="Spells" type="LSString" value="Shout_EilistraeanMoonDance;Shout_EilistraeanWeaponBond"/>
           <attribute id="UUID" type="guid" value="cbfbe1db-3f42-4053-a459-6644bdb06271"/>
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="Eilistraean War Rhythm"/>
-          <attribute id="Spells" type="LSString" value="Shout_EilistraeanWarRhythm"/>
+          <attribute id="Spells" type="LSString" value="Shout_EilistraeanWarRhythm;Shout_EilistraeanWeaponBond"/>
           <attribute id="UUID" type="guid" value="91507804-02a2-4706-97ce-4d92d2cec63f"/>
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="Eilistraean Spell Song"/>
-          <attribute id="Spells" type="LSString" value="Shout_EilistraeanSpellSong"/>
+          <attribute id="Spells" type="LSString" value="Shout_EilistraeanSpellSong;Shout_EilistraeanWeaponBond"/>
           <attribute id="UUID" type="guid" value="aa6a76a1-2556-41d7-9847-75cf251558b1"/>
         </node>
         <node id="SpellList">
@@ -131,7 +131,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="Eilistraean Level 1"/>
-          <attribute id="Spells" type="LSString" value="Projectile_MoonlightShards;Projectile_LunarBolt;Shout_MoonveilStrike;Target_SmileOfTheDarkLady;Zone_Thunderwave;Target_Goodberry;Target_HuntersMark;Target_CureWounds;Target_Sleep;Zone_EilistraeanColorSpray;Target_FaerieFire;Target_MageArmor;"/>
+          <attribute id="Spells" type="LSString" value="Projectile_MoonlightShards;Projectile_LunarBolt;Shout_MoonveilStrike;Target_SmileOfTheDarkLady;Zone_Thunderwave;Target_Goodberry;Target_HuntersMark;Target_CureWounds;Target_Sleep;Zone_EilistraeanColorSpray;Target_FaerieFire;Target_MageArmor;Target_Jump;Target_Longstrider;Shout_FeatherFall;Shout_SpeakWithAnimals"/>
           <attribute id="UUID" type="guid" value="4a6c13fe-e3f3-4447-82b6-39b13db9eb42"/>
         </node>
         <node id="SpellList">
@@ -141,7 +141,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="Eilistraean Level 3"/>
-          <attribute id="Spells" type="LSString" value="Shout_Blink;Shout_EilistraeanHope;Target_CalmEmotions;Target_Fly;Target_Haste;Target_MoonlitSanctuary;Teleportation_Revivify;Zone_LightningBolt;"/>
+          <attribute id="Spells" type="LSString" value="Shout_Blink;Shout_EilistraeanHope;Target_CalmEmotions;Target_Fly;Target_Haste;Target_MoonlitSanctuary;Teleportation_Revivify;Zone_LightningBolt;Target_SpeakWithDead"/>
           <attribute id="UUID" type="guid" value="309f5e62-3bb8-434c-914b-7ba105d23536"/>
         </node>
         <node id="SpellList">
