@@ -111,8 +111,14 @@
   <content contentuid="h6ialsjpuppqe0gzy6w056ktnwpdm8e916h4m" version="1">Blade Toss (Main Hand)</content>
   <content contentuid="h78lacn0j7g78e5llzyavbt2twrhk5lsa7irh" version="1">Blade Toss (Off Hand)</content>
   <content contentuid="h971bd2eag142bg4a39gbd0cg82575df420f0" version="1">Eilistraean Riposte</content>
-  <content contentuid="hdusnmtsjx401006rbz2m5n2ttb1qcfu8hbth" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You must be wielding a Dagger, Longsword, Rapier, Scimitar, Shortsword, or Sickle. You can not have any ranged weapon equipped.</content>
+  <content contentuid="hdusnmtsjx401006rbz2m5n2ttb1qcfu8hbth" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You must be wielding a Dagger, Longsword, Rapier, Scimitar, or Shortsword. You can not have any ranged weapon equipped.</content>
   <content contentuid="hpop98bqpu2q0ydgy31nvrsgpcp1p79iyrn9u" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You can only wear cloth or no armor while Eilistraean Song. All other Light or Medium or Heavy Armour or Shields are not allowed</content>
+  <content contentuid="hartk2s3xkoupoyerd6g6ouokkp2huatmliom" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You must be Unarmed.</content>
+  <content contentuid="h5y1uj2j09rsh92x56cfs8hx8txymhvzlk7b8" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You can only wear cloth or no armor while Eilistraean Song. All other Light or Medium or Heavy Armour or Shields are not allowed</content>
+  <content contentuid="hmyarez4desb8sa07mmb4obshf5tivx4d48p4" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You must be wielding a Dagger, Longsword, Rapier, Scimitar, Shortsword or Greatsword.</content>
+  <content contentuid="h7mrhxxnyvwfm6qbeg45g1mck4sdx4dpn10fd" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You can only wear light, cloth or no armor while Eilistraean Song. All other Medium or Heavy Armour or Shields are not allowed</content>
+  <content contentuid="hrt3svrup6qj20viukuc9dhky22hvb139w8ax" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You must be wielding a Dagger, Longsword, Rapier, Scimitar, or Shortsword.</content>
+  <content contentuid="hegavms1q71wk0mz4jpbqiwc7yax8s77jdtwq" version="1">&lt;LSTag Type="Image" Info="SoftWarning"/&gt; You can only wear light, cloth or no armor while Eilistraean Song. All other Medium or Heavy Armour or Shields are not allowed</content>
   <content contentuid="h18xxywgfpq99g7612urdf3cx2c3ipc9wdvqi" version="1">Equipped gear, melee weapon, ranged weapon, or shield is incompatible with Eilistraean Song.</content>
   <content contentuid="hzvgbqtnvfy0np484squ047fldihbdxb6jggv" version="1">Equipped melee weapon is incompatible with Eilistraean Song.</content>
   <content contentuid="h5g2gzv4vjn5edu73a8r0t34zafj7p0k8n40d" version="1">Equipping a ranged weapon is incompatible with Eilistraean Song.</content>
