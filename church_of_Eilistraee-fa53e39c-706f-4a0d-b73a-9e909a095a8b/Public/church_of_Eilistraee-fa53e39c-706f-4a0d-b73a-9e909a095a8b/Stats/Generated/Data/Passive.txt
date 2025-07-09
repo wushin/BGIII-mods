@@ -40,7 +40,6 @@ data "Boosts" "ActionResource(ActionPoint,1,0)"
 new entry "EilistraeanSpellSongSlotOne"
 type "PassiveData"
 data "DisplayName" "hb3e939dag71dcg409bgac55ge9bc9016376e;1"
-data "Properties" "Highlighted"
 data "Boosts" "ActionResource(SpellSongCharge,1,0);"
 
 new entry "EilistraeanSpellSongSlotTwo"

@@ -2,46 +2,29 @@ function EilistraeanSongAttackCheck()
     return HasStringInSpellRoll('WeaponAttack') | HasStringInSpellRoll('UnarmedAttack') | HasStringInSpellRoll('ThrowAttack') | SpellId('Target_CommandersStrike') | SpellId('Target_Bufotoxin_Frog_Summon') | SpellId('Projectile_ArrowOfSmokepowder')
 end
 
-function EilistraeanSongAvaliable(entity)
+function SwordDancerSongAvaliable(entity)
     local hasbladesong = HasStatus('EILISTRAEAN_SONG')
     if hasbladesong.Result then 
         return ~hasbladesong
     end
     entity = entity or context.Target
-    local sworddancer = entity.GetClassLevel('SwordDancer')
-    local silverhair = entity.GetClassLevel('SilverhairKnight')
-    local darksong = entity.GetClassLevel('DarksongKnight')
-    local protector = entity.GetClassLevel('ProtectorOfTheSong')
+    local classcheck = ConditionResult(entity.GetClassLevel('SwordDancer') >= 1)
+    if not classcheck.Result then
+        return classcheck.Result
+    end
     
+    local count = 0
     local armor = GetActiveArmor(entity)
     local clotharmor = ConditionResult(armor.ArmorType == ArmorType.Cloth)
     local noarmor = WearingArmor(context.Source)
     local hasshield = HasShieldEquipped(context.Source)
 
-    local count = 0
-    if sworddancer >= 1 then
-        local hasarmor = clotharmor | noarmor
-        local hasbladesongweapon = IsWeaponOfProficiencyGroup('Daggers|Sickles|Shortswords|Rapiers|Scimitars|Longswords', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand))
-        local hasnoranged = IsWeaponOfProficiencyGroup('HandCrossbows|HeavyCrossbows|LightCrossbows|Longbows|Shortbows', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand))
-        if ~hasarmor then count = count + 1 end
-        if hasnoranged.Result then count = count + 1 end
-    elseif silverhair >= 1 then
-        local hasarmor = clotharmor | noarmor
-        local hasbladesongweapon = (not IsWeaponOfProficiencyGroup('Battleaxes|Clubs|Daggers|Flails|Glaives|Greataxes|Greatclubs|Greatswords|Halberds|Handaxes|Javelins|LightHammers|Longswords|Maces|Mauls|Morningstars|Pikes|Quarterstaffs|Rapiers|Scimitars|Shortswords|Sickles|Spears|Tridents|Warhammers|Warpicks', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand)))
-        local hasnoranged = IsWeaponOfProficiencyGroup('HeavyArmor', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand))
-        if ~hasarmor then count = count + 1 end
-    elseif darksong >= 1 then
-        local hasarmor = HasHeavyArmor(context.Source) | HasMediumArmor(context.Source)
-        local hasbladesongweapon = IsWeaponOfProficiencyGroup('Daggers|Sickles|Shortswords|Rapiers|Scimitars|Longswords', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand))
-        local hasnoranged = IsWeaponOfProficiencyGroup('HeavyArmor', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand))
-        if hasarmor.Result then count = count + 1 end
-    elseif protector >= 1 then
-        local hasarmor = HasHeavyArmor(context.Source) | HasMediumArmor(context.Source)
-        local hasbladesongweapon = IsWeaponOfProficiencyGroup('Daggers|Sickles|Shortswords|Rapiers|Scimitars|Longswords', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand))
-        local hasnoranged = IsWeaponOfProficiencyGroup('HeavyArmor', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand))
-        if hasarmor.Result then count = count + 1 end
-    end
+    local hasarmor = clotharmor | noarmor
+    local hasbladesongweapon = IsWeaponOfProficiencyGroup('Daggers|Sickles|Shortswords|Rapiers|Scimitars|Longswords', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand))
+    local hasnoranged = IsWeaponOfProficiencyGroup('HandCrossbows|HeavyCrossbows|LightCrossbows|Longbows|Shortbows', GetItemInEquipmentSlot(EquipmentSlot.RangedMainHand))
 
+    if ~hasarmor then count = count + 1 end
+    if hasnoranged.Result then count = count + 1 end
     if not hasbladesongweapon.Result then count = count + 1 end
     if hasshield.Result then count = count + 1 end
     
@@ -55,6 +38,115 @@ function EilistraeanSongAvaliable(entity)
     
     if hasnoranged.Result then
         return ConditionResult(false, {ConditionError("HasNotEilistraeanSongRanged")})
+    end
+    
+    if hasarmor.Result then
+        return ConditionResult(false, {ConditionError("HasNotEilistraeanSongArmor")})
+    end  
+    
+    return ~hasshield
+end
+
+function SilverhairKnightSongAvaliable(entity)
+    local hasbladesong = HasStatus('EILISTRAEAN_SONG')
+    if hasbladesong.Result then 
+        return ~hasbladesong
+    end
+    entity = entity or context.Target
+    local classcheck = ConditionResult(entity.GetClassLevel('SilverhairKnight') >= 1)
+    if not classcheck.Result then
+        return classcheck.Result
+    end
+    
+    local count = 0
+    local armor = GetActiveArmor(entity)
+    local clotharmor = ConditionResult(armor.ArmorType == ArmorType.Cloth)
+    local noarmor = WearingArmor(context.Source)
+    local hasshield = HasShieldEquipped(context.Source)
+
+    local hasarmor = clotharmor | noarmor
+    local hasbladesongweapon = Unarmed(entity)
+
+    if ~hasarmor then count = count + 1 end
+    if not hasbladesongweapon.Result then count = count + 1 end
+    if hasshield.Result then count = count + 1 end
+    
+    if count >= 2 then
+        return ConditionResult(false, {ConditionError("HasMultipleEilistraeanSongIssues")})
+    end
+    
+    if not hasbladesongweapon.Result then
+        return ConditionResult(false, {ConditionError("HasNotEilistraeanSongWeapon")})
+    end
+    
+    if hasarmor.Result then
+        return ConditionResult(false, {ConditionError("HasNotEilistraeanSongArmor")})
+    end  
+    
+    return ~hasshield
+end
+
+function DarksongKnightSongAvaliable(entity)
+    local hasbladesong = HasStatus('EILISTRAEAN_SONG')
+    if hasbladesong.Result then 
+        return ~hasbladesong
+    end
+    entity = entity or context.Target
+    local classcheck = ConditionResult(entity.GetClassLevel('DarksongKnight') >= 1)
+    if not classcheck.Result then
+        return classcheck.Result
+    end
+    
+    local count = 0
+    local hasshield = HasShieldEquipped(context.Source)
+    local hasarmor = HasHeavyArmor(context.Source) | HasMediumArmor(context.Source)
+    local hasbladesongweapon = IsWeaponOfProficiencyGroup('Daggers|Sickles|Shortswords|Rapiers|Scimitars|Longswords|Greatswords', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand))
+    
+    if hasarmor.Result then count = count + 1 end
+    if not hasbladesongweapon.Result then count = count + 1 end
+    if hasshield.Result then count = count + 1 end
+    
+    if count >= 2 then
+        return ConditionResult(false, {ConditionError("HasMultipleEilistraeanSongIssues")})
+    end
+    
+    if not hasbladesongweapon.Result then
+        return ConditionResult(false, {ConditionError("HasNotEilistraeanSongWeapon")})
+    end
+    
+    if hasarmor.Result then
+        return ConditionResult(false, {ConditionError("HasNotEilistraeanSongArmor")})
+    end  
+    
+    return ~hasshield
+end
+
+function ProtectorOfTheSongSongAvaliable(entity)
+    local hasbladesong = HasStatus('EILISTRAEAN_SONG')
+    if hasbladesong.Result then 
+        return ~hasbladesong
+    end
+    entity = entity or context.Target
+    local classcheck = ConditionResult(entity.GetClassLevel('ProtectorOfTheSong') >= 1)
+    if not classcheck.Result then
+        return classcheck.Result
+    end
+    
+    local count = 0
+    local hasshield = HasShieldEquipped(context.Source)
+    local hasarmor = HasHeavyArmor(context.Source) | HasMediumArmor(context.Source)
+    local hasbladesongweapon = IsWeaponOfProficiencyGroup('Daggers|Sickles|Shortswords|Rapiers|Scimitars|Longswords', GetItemInEquipmentSlot(EquipmentSlot.MeleeMainHand))
+    
+    if hasarmor.Result then count = count + 1 end
+    if not hasbladesongweapon.Result then count = count + 1 end
+    if hasshield.Result then count = count + 1 end
+    
+    if count >= 2 then
+        return ConditionResult(false, {ConditionError("HasMultipleEilistraeanSongIssues")})
+    end
+    
+    if not hasbladesongweapon.Result then
+        return ConditionResult(false, {ConditionError("HasNotEilistraeanSongWeapon")})
     end
     
     if hasarmor.Result then
