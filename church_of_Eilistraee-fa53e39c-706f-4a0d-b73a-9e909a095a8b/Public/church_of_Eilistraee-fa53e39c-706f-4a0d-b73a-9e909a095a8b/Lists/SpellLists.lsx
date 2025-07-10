@@ -136,7 +136,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="Eilistraean Level 2"/>
-          <attribute id="Spells" type="LSString" value="Shout_DetectThoughts;Shout_PassWithoutTrace;Shout_PrayerOfHealing;Shout_SeeInvisibility;Target_ArcaneLock;Target_Darkvision;Shout_Blur;Target_CloudOfDaggers;Target_EilistraeanMoonbeam;Target_ElegyOfObedience;Target_EnhanceAbility;Target_EnlargeReduce;Target_FindFamiliar;Target_HoldPerson;Target_Invisibility;Target_Knock;Target_LesserRestoration;Target_LunarShift;Shout_MirrorImage;Target_MistyStep;"/>
+          <attribute id="Spells" type="LSString" value="Shout_DetectThoughts;Shout_PassWithoutTrace;Shout_PrayerOfHealing;Shout_SeeInvisibility;Target_ArcaneLock;Target_Darkvision;Shout_Blur;Target_CloudOfDaggers;Target_EilistraeanMoonbeam;Target_ElegyOfObedience;Target_EnhanceAbility;Target_EnlargeReduce;Target_FindFamiliar;Target_HoldPerson;Target_Invisibility;Target_Knock;Target_LesserRestoration;Target_LunarShift;Shout_MirrorImage;"/>
           <attribute id="UUID" type="guid" value="f75555bd-d4e0-4fb2-a84b-a3cdb4a5ff20"/>
         </node>
         <node id="SpellList">

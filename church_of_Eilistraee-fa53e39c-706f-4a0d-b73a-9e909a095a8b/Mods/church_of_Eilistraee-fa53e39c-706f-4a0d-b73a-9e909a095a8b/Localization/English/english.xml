@@ -10,6 +10,7 @@
   <content contentuid="h9il79j60fz39ynvqqbf2bmnzobwa24xenne6" version="1">The Protectors of the Song were the temple guards of the Promenade of the Dark Maiden, the main center of worship of Eilistraee on Faerûn. Their main duty was to protect the temple and patrol the area around the Pit of Ghaunadaur, to prevent the return of the slime god.</content>
   <content contentuid="h00081d9agb4e9g46aagbfe1ga6b7addc0c55" version="1">Eilistraean Footwork</content>
   <content contentuid="hf5a05dfbgacb2g4beeg8e39gd401cb1d6550" version="1">This spell can be cast while you are &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;The bonus on hit damage starts at 0 and increases by [1] every 5 levels.</content>
+  <content contentuid="hyxl8qwl56v64nva63p1u0x2vey8l2hg7r7uh" version="1">Elegy Of Obedience</content>
   <content contentuid="h0c79413dg1a9cg4738g8c2cgf46c3c4562bd" version="1">Eilistraean Image</content>
   <content contentuid="hd6515a64g6d43g4f2eg8a57g6dd0b70a8c76" version="1">Second Eilistraean Image</content>
   <content contentuid="hf4ebfa4egfeb9g4a2fga0b8g7e3cfc8906bb" version="1">Third Eilistraean Image</content>
@@ -244,69 +245,20 @@
 	<content contentuid="hddgtebchcmfui1sp3x5kkad6em9kg2cweqy9" version="1">Eilistraee&apos;s Moonlight</content>
 	<content contentuid="hooil0txs5n63wdif5p2aqlzfzh24s0eonae3" version="1">You and any nearby allies within 3m can see through magical and non-magical darkness, and cannot be &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;. In addition, gain a bonus to Insight and Stealth &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Checks&lt;/LSTag&gt; based on your Charisma &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;. The aura disappears if you fall Unconscious.</content>
 	<content contentuid="hldl10eigxpszj9u8k4lp4vaecsmcj8r57a00" version="1">You call down a pillar of moonlit grace infused with the divine presence of the Dark Maiden. All creatures within the area take [2] and [3]. You can use an action to move it [1].</content>
-  <content contentuid="h004d056bga0c0g4211g864fgd0a167f0cf2d" version="1"></content>
-  <content contentuid="h024a4ca2g135dg49fcg92bcgd7464d904d7f" version="1"></content>
-  <content contentuid="h04190fa0g38fbg45bcg9444geb22d810007c" version="1"></content>
-  <content contentuid="h079617d7g9976g4db6ga722g411ccacf63e4" version="1"></content>
-  <content contentuid="h0b4a5a5eg640ag46f6ga23bg176a00faec23" version="1"></content>
-  <content contentuid="h19303fadgf83fg49ddgb579g51e2f5fd8fe5" version="1"></content>
-  <content contentuid="h1ee0dfcbg9ebcg4117gb921gebf190ea4a7d" version="1"></content>
-  <content contentuid="h215eb8b5g1e29g4e8bgac3dg79b458de3aea" version="1"></content>
-  <content contentuid="h22f5a641g88dbg46e6g854ag9fe8523e3a4c" version="1"></content>
-  <content contentuid="h2534e05eg7948g4ba5g9597g85860f7635a9" version="1"></content>
-  <content contentuid="h26eba7c3ge9bag47e4g954eg8d34e058401a" version="1"></content>
-  <content contentuid="h2a01f0f1g9717g45a8g8a67gad9f8222befd" version="1"></content>
-  <content contentuid="h2ac6cc32gacbeg466bgb8e4g156092f71216" version="1"></content>
-  <content contentuid="h2bdc925cga924g4afdg9ab4g60387ed16db1" version="1"></content>
-  <content contentuid="h2efe7e22gf007g487fgb47cg31ba7a8206f4" version="1"></content>
-  <content contentuid="h2ffcbe26g6bf4g401cga90cg3b3524f64508" version="1"></content>
-  <content contentuid="h3728832agb688g4081gad4eg7dcab2a79276" version="1"></content>
-  <content contentuid="h3957297bgfba0g4683gb07cg8565d13fb4ab" version="1"></content>
-  <content contentuid="h3b546256g8ae9g4c27g960dg2d570fdf498b" version="1"></content>
-  <content contentuid="h3ce43d50g5b6dg4772g834fgba200cc3cdcd" version="1"></content>
-  <content contentuid="h3f273f88g663cg456dg8430g51108bf5b9e8" version="1"></content>
-  <content contentuid="h3f6c3f1bg2c1ag46b4g86c2g4d72cb8dc87d" version="1"></content>
-  <content contentuid="h417cde81g931eg48a2gad6cg6c32ef472f51" version="1"></content>
-  <content contentuid="h446e0ad1gfd15g47a2gb144ge583b869f0f1" version="1"></content>
-  <content contentuid="h4c9bff86g74d3g443cg8db8gb5e515776d71" version="1"></content>
-  <content contentuid="h50cad90fg8a5eg486cg85e3g4b0b969ceedc" version="1"></content>
-  <content contentuid="h59a88f53g4d80g40fbga723g533a9147099e" version="1"></content>
-  <content contentuid="h5a03f166g60adg4efagb59ag6620badc825b" version="1"></content>
-  <content contentuid="h61169861gae88g4aadgb0degc3c1cc0e0885" version="1"></content>
-  <content contentuid="h6664033bge8b7g48c8g8fc6g18986baa0bae" version="1"></content>
-  <content contentuid="h6d2db94cgbc70g4cdcgaf76gb7bd76bd0a8c" version="1"></content>
-  <content contentuid="h6dc7d859g0635g4fc0gabbfg80e4218d0c89" version="1"></content>
-  <content contentuid="h7181b2afgef4bg4736g9e94gceb949d30369" version="1"></content>
-  <content contentuid="h75e483fbge595g453fg83d3g9fc6118e6f47" version="1"></content>
-  <content contentuid="h80779d74g9d58g47ebga2a9g171250a92ad6" version="1"></content>
-  <content contentuid="h832c9fc7g0a19g4fabg8e99g3335c0895625" version="1"></content>
-  <content contentuid="h8adfa797g3556g4807gbfe3gb5590c15c4f4" version="1"></content>
-  <content contentuid="h8c0fe0b3g81f3g4611gbcc1g8063938e6912" version="1"></content>
-  <content contentuid="h8ea4240dge845g4debg9ea8gd7190c579389" version="1"></content>
-  <content contentuid="h8f8a19a6gb008g490dgb644gb10fe05748fc" version="1"></content>
-  <content contentuid="h9246c057g9d29g4588ga5ddg74a2c0e4da99" version="1"></content>
-  <content contentuid="h94d5c94ag7a04g4006gbfd3g862065ae2b3d" version="1"></content>
-  <content contentuid="h965f0370gd35dg41dfga882gbf43562cadc2" version="1"></content>
-  <content contentuid="h9b32b3b6g1e06g449cg85ddg0e2ffb29b009" version="1"></content>
-  <content contentuid="h9c45b075g7cfeg4557ga26fgbcee9d2040a5" version="1"></content>
-  <content contentuid="h9d889237gb4f7g4377g88a2g0e163cf8766a" version="1"></content>
-  <content contentuid="ha12ebad1gfaf7g4b82g827fg125b781e62a7" version="1"></content>
-  <content contentuid="ha2ac2d1ag3f78g486bgb77agde19d9daaf48" version="1"></content>
-  <content contentuid="ha8d0991dg0cd3g4163ga409gc2330fbf41b0" version="1"></content>
-  <content contentuid="had8ba418g9ed0g4cb6ga7ecgdd8840f0183f" version="1"></content>
-  <content contentuid="hc2ea28bfg2274g40bcg8b89gdd404c9acd40" version="1"></content>
-  <content contentuid="hc3df2c93gdd42g4c64g82faga4c5cd24f049" version="1"></content>
-  <content contentuid="hc4af052dga4f4g4595ga56ag198276f7dd8d" version="1"></content>
-  <content contentuid="hc9451523g081eg40beg9402g9f061f264ae3" version="1"></content>
-  <content contentuid="hcd6bba91geed0g4000g8d7dg29f979d94622" version="1"></content>
-  <content contentuid="hcff00306gc5eag4cbfg9929ge3e239fccdf5" version="1"></content>
-  <content contentuid="hd4623c73g0f51g435agaea2g6276746001a4" version="1"></content>
-  <content contentuid="hd8ffaca7g8aa7g4e02ga546g3592286387a8" version="1"></content>
-  <content contentuid="hda1fa0a8gb96bg4f69g93a8g75e342cfaef1" version="1"></content>
-  <content contentuid="hda5b0875g47b0g48a0g8180g2bdafaa5470f" version="1"></content>
-  <content contentuid="he307b00cgd36dg46d1g8285g8445afe31727" version="1"></content>
-  <content contentuid="he8bda060g1455g4c7eg9820gecc4b0bd85f3" version="1"></content>
-  <content contentuid="heb43a2a5g1461g41b9g8f61g105371026238" version="1"></content>
-  <content contentuid="hedc0ea3fgcab6g43e4g9590g6e35420375a0" version="1"></content>
-  <content contentuid="hf012bee1g484cg4787g8113geeb2bb5322c1" version="1"></content>
+	<content contentuid="h00129aecg465dg40afgb002gbddc01ec7e8d" version="1">You conjure [2] shards of concentrated moonlight and send them streaking toward targets within range. Each shard always hits and deals [1].</content>
+	<content contentuid="h30914ddbg67dag4d04gbf56g5bd6f655c1eb" version="1">Wrap yourself in silvery moonlight and vanish, reappearing in an unoccupied space within 18m.</content>
+	<content contentuid="h4d9a5099g6f1fg450fg9369g7e28636c0169" version="1">Move Eilistraee’s Moonlight up to [1]. The Moonlight damages any creature [2] and [3] that enters it or starts its turn inside.</content>
+	<content contentuid="h576157e4gd088g4380gb2e1g13683c705523" version="1">Fire a bolt of concentrated moonlight at a target, dealing [1] and [2] and leaving a frozen surface at the point of impact. </content>
+	<content contentuid="h599d19a1ge3c4g4ad8g9ba4g3940645b6a62" version="1">Lunar Shift</content>
+	<content contentuid="h59c676d3gf9c5g4c7dg9a5eg24e87f41e221" version="1">Prismatic Spray</content>
+	<content contentuid="h7a09991eg5ea4g4094g9c9eg45424523c9a9" version="1">Moonveil Strike</content>
+	<content contentuid="h7ec38721g87bfg4189g8067gb6aa5afe9ffd" version="1">Moonlight Shards</content>
+	<content contentuid="h8bd7c947g16b3g4338gadc4g132faefd5a1f" version="1">Move Moonlight</content>
+	<content contentuid="h8c0b28bbgbbe0g43a8g98c1ga917206120c5" version="1">Lunar Bolt</content>
+	<content contentuid="hb8cef15bg2580g403bgb508g42e741476ecf" version="1">Empower yourself with the grace of the Dark Maiden, you gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next weapon attack, it deals an additional [1] and [2] on a hit and you do not provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;. Whether you hit or miss, your walking speed increases by 9m until the end of that turn.</content>
+	<content contentuid="hbe252d88g7e8dg4938gafedg2a4c2b4c900b" version="1">Moonlit Sanctuary</content>
+	<content contentuid="hd3d733b3g4eb3g40b0gba98g2e94ea999f46" version="1">Six multicolored rays of light flash from your hand. Each creature in a 18m cone must make a Dexterity saving throw. For each target, roll a d6 to determine the effect. &lt;br&gt;&lt;br&gt;On roll of 1: [1], on 2: [2], on 3: [3], on 4: [4], on 5: [5] and half as much on a failed save. On a 6 and a failed save, the target is &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is &lt;LSTag Type="Status" Tooltip="BANISHED"&gt;Banished&lt;/LSTag&gt; for 4 turns.</content>
+	<content contentuid="hd4c5a01bgcf32g43degba62g51413534cfdd" version="1">Conjure a 4m radius circle of silvery moonlight that lasts for 3 turns. Allies inside restore [1] each turn, gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Necrotic and Psychic damage. Targets cannot become &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt; and Invisibility is removed while inside.</content>
+	<content contentuid="he1e991b0g4498g47d6gb7c0g465aad6880fb" version="1">Eilistraee’s Moonlight</content>
+	<content contentuid="hedf1516eg5a4fg43f2ga6d5g82de9dd2a247" version="1">You call down a pillar of moonlit grace infused with the divine presence of the Dark Maiden. All creatures within the area take [2] and [3]. You can use an action to move it [1].</content>
 </contentList>
