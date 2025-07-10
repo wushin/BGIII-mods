@@ -15,7 +15,7 @@
           <attribute id="HpPerLevel" type="int32" value="4"/>
           <attribute id="LearningStrategy" type="uint8" value="1"/>
           <attribute id="MulticlassSpellcasterModifier" type="double" value="1"/>
-          <attribute id="MustPrepareSpells" type="bool" value="false"/>
+          <attribute id="MustPrepareSpells" type="bool" value="true"/>
           <attribute id="Name" type="FixedString" value="SwordDancer"/>
           <attribute id="PrimaryAbility" type="uint8" value="2"/>
           <attribute id="ProgressionTableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
@@ -77,7 +77,7 @@
           <attribute id="HpPerLevel" type="int32" value="6"/>
           <attribute id="LearningStrategy" type="uint8" value="1"/>
           <attribute id="MulticlassSpellcasterModifier" type="double" value="1"/>
-          <attribute id="MustPrepareSpells" type="bool" value="false"/>
+          <attribute id="MustPrepareSpells" type="bool" value="true"/>
           <attribute id="Name" type="FixedString" value="DarksongKnight"/>
           <attribute id="PrimaryAbility" type="uint8" value="1"/>
           <attribute id="ProgressionTableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
@@ -108,7 +108,7 @@
           <attribute id="HpPerLevel" type="int32" value="5"/>
           <attribute id="LearningStrategy" type="uint8" value="1"/>
           <attribute id="MulticlassSpellcasterModifier" type="double" value="1"/>
-          <attribute id="MustPrepareSpells" type="bool" value="false"/>
+          <attribute id="MustPrepareSpells" type="bool" value="true"/>
           <attribute id="Name" type="FixedString" value="ProtectorOfTheSong"/>
           <attribute id="PrimaryAbility" type="uint8" value="5"/>
           <attribute id="ProgressionTableUUID" type="guid" value="ee3f894e-fa8b-46d9-89bd-e34a1572b209"/>
