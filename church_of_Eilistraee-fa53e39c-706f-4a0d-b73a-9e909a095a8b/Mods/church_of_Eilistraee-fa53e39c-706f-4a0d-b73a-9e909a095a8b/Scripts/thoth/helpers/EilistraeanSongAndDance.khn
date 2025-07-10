@@ -3,7 +3,7 @@ function EilistraeanSongAttackCheck()
 end
 
 function SwordDancerSongAvaliable(entity)
-    local hasbladesong = HasStatus('EILISTRAEAN_SONG')
+    local hasbladesong = HasStatus('EILISTRAEAN_BLADE')
     if hasbladesong.Result then 
         return ~hasbladesong
     end
@@ -48,7 +48,7 @@ function SwordDancerSongAvaliable(entity)
 end
 
 function SilverhairKnightSongAvaliable(entity)
-    local hasbladesong = HasStatus('EILISTRAEAN_SONG')
+    local hasbladesong = HasStatus('EILISTRAEAN_DANCE')
     if hasbladesong.Result then 
         return ~hasbladesong
     end
@@ -87,7 +87,7 @@ function SilverhairKnightSongAvaliable(entity)
 end
 
 function DarksongKnightSongAvaliable(entity)
-    local hasbladesong = HasStatus('EILISTRAEAN_SONG')
+    local hasbladesong = HasStatus('EILISTRAEAN_RHYTHM')
     if hasbladesong.Result then 
         return ~hasbladesong
     end
@@ -158,5 +158,10 @@ end
 
 function HasEilistraeanSongClimaxBlocked()
     result = HasStatus('EILISTRAEAN_ARMOR_MESSAGE') | HasStatus('EILISTRAEAN_SHIELD_MESSAGE') | HasStatus('EILISTRAEAN_WEAPON_MESSAGE') | HasStatus('EILISTRAEAN_UNARMED_MESSAGE') | HasStatus('EILISTRAEAN_SHIELD')
+    return ConditionResult(result.Result, {ConditionError("EilistraeanSongClimaxNotBlocked")}, {ConditionError("EilistraeanSongClimaxBlocked")})
+end
+
+function HasEilistraeanMoonDanceClimaxBlocked()
+    result = HasStatus('EILISTRAEAN_ARMOR_MESSAGE') | HasStatus('EILISTRAEAN_SHIELD_MESSAGE') | HasStatus('EILISTRAEAN_SHIELD')
     return ConditionResult(result.Result, {ConditionError("EilistraeanSongClimaxNotBlocked")}, {ConditionError("EilistraeanSongClimaxBlocked")})
 end
