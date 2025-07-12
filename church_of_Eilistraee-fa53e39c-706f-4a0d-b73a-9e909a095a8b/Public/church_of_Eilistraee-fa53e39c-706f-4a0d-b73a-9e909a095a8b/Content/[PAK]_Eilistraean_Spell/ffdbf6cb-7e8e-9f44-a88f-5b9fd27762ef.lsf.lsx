@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="100" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="EffectBank">
+		<node id="EffectBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="ffdbf6cb-7e8e-9f44-a88f-5b9fd27762ef" />
+					<attribute id="Name" type="LSString" value="VFX_Status_HypnoticGaze_HeadFX_01_SDOE" />
+					<attribute id="SourceFile" type="LSString" value="Public/sde_06e7001e-c3ef-228a-1e9f-424cdf7e7ffb/Assets/Effects/Effects_Banks/Status/VFX_Status_HypnoticGaze_HeadFX_01_SDOE.lsfx" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Status_HypnoticGaze_HeadFX_01_SDOE" />
+					<attribute id="BoundsMin" type="fvec3" value="-3 -3 -3" />
+					<attribute id="BoundsMax" type="fvec3" value="3 3 3" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="3" />
+					<attribute id="Looping" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="2" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="6d9e3d13-d153-5ecc-5248-0a46c058e001" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="0f4640df-5d43-1fa7-7725-de7914d20a1c" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="83fe3c2c-7557-b45f-e7c2-c988dc149799" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="70148014-3c4e-8afa-af1e-9bc00dda86bf" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

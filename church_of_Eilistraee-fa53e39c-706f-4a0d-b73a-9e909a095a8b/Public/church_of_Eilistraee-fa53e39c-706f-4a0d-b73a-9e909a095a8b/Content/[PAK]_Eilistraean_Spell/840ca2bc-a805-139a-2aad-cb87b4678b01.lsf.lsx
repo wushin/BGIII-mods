@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="200" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="EffectBank">
+		<node id="EffectBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="840ca2bc-a805-139a-2aad-cb87b4678b01" />
+					<attribute id="Name" type="LSString" value="VFX_Spells_Prepare_Warlock_BanishingSmite_Root_01_SDOE" />
+					<attribute id="SourceFile" type="LSString" value="Public/sde_06e7001e-c3ef-228a-1e9f-424cdf7e7ffb/Assets/Effects/Effects_Banks/Spells/Prepare/Warlock/VFX_Spells_Prepare_Warlock_BanishingSmite_Root_01_SDOE.lsfx" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Spells_Prepare_Warlock_BanishingSmite_Root_01_SDOE" />
+					<attribute id="BoundsMin" type="fvec3" value="-5 -3.5 -5" />
+					<attribute id="BoundsMax" type="fvec3" value="5 6.5 5" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="4" />
+					<attribute id="Looping" type="bool" value="True" />
+					<attribute id="InterruptionMode" type="uint32" value="2" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f7fc084b-d098-0d9a-8033-1cb61c3beb37" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="10bdb4bc-9e95-ad4b-c94b-451daeced47a" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f725b8e0-e32a-e0fb-db9d-bdbb0d254c36" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

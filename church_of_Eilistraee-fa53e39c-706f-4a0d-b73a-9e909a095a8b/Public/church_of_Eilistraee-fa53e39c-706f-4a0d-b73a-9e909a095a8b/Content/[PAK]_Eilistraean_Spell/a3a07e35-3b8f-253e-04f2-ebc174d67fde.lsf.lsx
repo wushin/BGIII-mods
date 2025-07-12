@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="100" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="EffectBank">
+		<node id="EffectBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="a3a07e35-3b8f-253e-04f2-ebc174d67fde" />
+					<attribute id="Name" type="LSString" value="VFX_Spells_Cast_Fighter_Target_Riposte_Impact_BodyFX_01_SDOE" />
+					<attribute id="SourceFile" type="LSString" value="Public/sde_06e7001e-c3ef-228a-1e9f-424cdf7e7ffb/Assets/Effects/Effects_Banks/Spells/Cast/Fighter/VFX_Spells_Cast_Fighter_Target_Riposte_Impact_BodyFX_01_SDOE.lsfx" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Spells_Cast_Fighter_Target_Riposte_Impact_BodyFX_01_SDOE" />
+					<attribute id="BoundsMin" type="fvec3" value="-3 -3 -3" />
+					<attribute id="BoundsMax" type="fvec3" value="3 3 3" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="1.5" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="InterruptionMode" type="uint32" value="0" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5874a588-b4ad-4a78-a823-8f5f739555be" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5956f5b1-693f-8770-65d0-bf96713f4ed5" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="97b12629-982f-c7b4-7807-1ca4cd35e0aa" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="707add78-20c6-ec43-477d-bf2d0fa51d67" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="09507f13-8b48-c991-2f7e-46e2958f3344" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="200" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="EffectBank">
+		<node id="EffectBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="8cb91e20-f3a9-0f0d-456f-2698084be2df" />
+					<attribute id="Name" type="LSString" value="VFX_Spells_Cast_Cleric_Death_TollTheDead_Overlay_HandFX_Textkey_02_SDOE" />
+					<attribute id="SourceFile" type="LSString" value="Public/sde_06e7001e-c3ef-228a-1e9f-424cdf7e7ffb/Assets/Effects/Effects_Banks/Spells/Cast/Cleric/VFX_Spells_Cast_Cleric_Death_TollTheDead_Overlay_HandFX_Textkey_02_SDOE.lsfx" />
+					<attribute id="EffectName" type="FixedString" value="VFX_Spells_Cast_Cleric_Death_TollTheDead_Overlay_HandFX_Textkey_02_SDOE" />
+					<attribute id="BoundsMin" type="fvec3" value="-2 -2 -2" />
+					<attribute id="BoundsMax" type="fvec3" value="2 2 2" />
+					<attribute id="CullingDistance" type="float" value="0" />
+					<attribute id="Duration" type="float" value="2" />
+					<attribute id="Looping" type="bool" value="False" />
+					<attribute id="InterruptionMode" type="uint32" value="2" />
+					<children>
+						<node id="Dependencies">
+							<children>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="8d0917f9-70f6-23c5-7e1b-9b3b67d7de20" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="f4ddbcde-41aa-aca8-c489-00a7249001e4" />
+								</node>
+								<node id="DependentResource">
+									<attribute id="Object" type="FixedString" value="5648d41b-5f6b-2e1c-8e1f-9e69e8094264" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
