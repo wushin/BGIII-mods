@@ -21,7 +21,7 @@
   <content contentuid="huv5simt8k98hcx131019rkb36ur9j4mecwot" version="1">Eilistraee&apos;s Sword</content>
 	<content contentuid="h5zij4k5dotis035yb4co2si2el6zp62ffu16" version="1">Summon a great sword of force that hovers within range. When the sword appears, The sword can make melee regular melee attacks and &lt;LSTag Type="Spell" Tooltip="SpellSong_MordenkainensSlash"&gt;Spell Song Mordenkainens Slash&lt;/LSTag&gt; dealing [1]. Until the spell ends, the sword can move up to 30m from you and attack as if it was a Greatsword.</content>
 	<content contentuid="hxadh6lonyibaz6nyu08woxsvr9t672oyhtpb" version="1">Eilistraee&apos;s Slash</content>
-	<content contentuid="hxadh6lonyibaz6nyu08woxsvr9t672oyhtpb" version="1">Make a melee spell attack against a target dealing [1].</content>
+	<content contentuid="hjosmv1u165s3eqwjdlki2kyu45t5n371fxs1" version="1">Make a melee spell attack against a target dealing [1].</content>
   <content contentuid="h615d1044gf0c6g45dfgaf87g1e4e66581dc5" version="1">Sneak Attack : Sword Dancer</content>
   <content contentuid="h3f756e2bg7038g46afg9057g94d3afc7bbb7" version="1">Sneak Attack (Critical Hit) : Sword Dancer</content>
   <content contentuid="h33951923g9a9bg4c4dg8f9egabb42b068d1e" version="1">Attack the target dealing a bonus [1]. If the attack lands and you remain stationary, you can spread Moon Fire to burn another nearby creature for [2].</content>

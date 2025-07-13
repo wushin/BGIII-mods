@@ -12,7 +12,7 @@
           <attribute id="Name" type="LSString" value="SwordDancer"/>
           <attribute id="PassivesAdded" type="LSString" value="EilistraeanDexterity;TraininginEilistraeanandSong;EilistraeanSong_Armor_Message;EilistraeanSong_Weapon_Message;EilistraeanSong_Shield_Message;EilistraeanSong_Weapon;EilistraeanSong_Shield;EilistraeanSong_Unarmed;EilistraeanSpellSongSlotOne;"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="Selectors" type="LSString" value="SelectSkills(23c1343d-83cf-4a44-a3c3-1897c058d517,5);SelectSkillsExpertise(23c1343d-83cf-4a44-a3c3-1897c058d517,2);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectEquipment(a7cfcf8f-21da-4edd-9a12-b02df197df45,1,EilistraeanInstrument);SelectEquipment(f372063f-130d-49cc-9311-220c0906cd79,1,WarAndSong);AddSpells(f0f16b73-6f4a-40a8-800d-6164c7a30d89,,,,AlwaysPrepared);"/>
+          <attribute id="Selectors" type="LSString" value="SelectSkills(23c1343d-83cf-4a44-a3c3-1897c058d517,5);SelectSkillsExpertise(23c1343d-83cf-4a44-a3c3-1897c058d517,2);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectEquipment(a7cfcf8f-21da-4edd-9a12-b02df197df45,1,EilistraeanInstrument);SelectEquipment(f372063f-130d-49cc-9311-220c0906cd79,1,WarAndSong);AddSpells(f0f16b73-6f4a-40a8-800d-6164c7a30d89,,,,AlwaysPrepared);AddSpells(5025ae16-243d-4bf2-8211-2b6fb3206250,,,,AlwaysPrepared);"/>
           <attribute id="TableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
           <attribute id="UUID" type="guid" value="b2835b93-5754-4620-a164-a27b2bb78c5c"/>
         </node>
@@ -237,7 +237,7 @@
           <attribute id="Name" type="LSString" value="SilverhairKnight"/>
           <attribute id="PassivesAdded" type="LSString" value="UnarmoredMovement_1;TraininginEilistraeanandSong;EilistraeanSong_Armor_Message;EilistraeanSong_Weapon_Message;EilistraeanSong_Shield_Message;EilistraeanSong_Weapon;EilistraeanSong_Shield;EilistraeanSong_Unarmed;EilistraeanSpellSongSlotOne;EilistraeanHands;"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="Selectors" type="LSString" value="AddSpells(61c423c4-34ec-42cd-8a32-376ffd0b66b9);AddSpells(cbfbe1db-3f42-4053-a459-6644bdb06271,,,,AlwaysPrepared);"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(61c423c4-34ec-42cd-8a32-376ffd0b66b9);AddSpells(cbfbe1db-3f42-4053-a459-6644bdb06271,,,,AlwaysPrepared);AddSpells(5025ae16-243d-4bf2-8211-2b6fb3206250,,,,AlwaysPrepared);"/>
           <attribute id="TableUUID" type="guid" value="3d4d52ad-65e5-4dc9-9ec7-a360092ab0dd"/>
           <attribute id="UUID" type="guid" value="168a9bd9-b2dd-40e1-ada4-aaca9d047529"/>
         </node>
@@ -441,7 +441,7 @@
           <attribute id="Level" type="uint8" value="3"/>
           <attribute id="Name" type="LSString" value="DarksongKnight"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="Selectors" type="LSString" value="AddSpells(91507804-02a2-4706-97ce-4d92d2cec63f,,,,AlwaysPrepared);"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(91507804-02a2-4706-97ce-4d92d2cec63f,,,,AlwaysPrepared);AddSpells(5025ae16-243d-4bf2-8211-2b6fb3206250,,,,AlwaysPrepared);"/>
           <attribute id="PassivesAdded" type="LSString" value="DivineHealth;TraininginEilistraeanandSong;EilistraeanSong_Armor_Message;EilistraeanSong_Weapon_Message;EilistraeanSong_Shield_Message;EilistraeanSong_Weapon;EilistraeanSong_Shield;EilistraeanSong_Unarmed;EilistraeanSpellSongSlotOne;"/>
           <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
           <attribute id="UUID" type="guid" value="dbb00252-773e-4070-b451-dcc52d4a46e2"/>
@@ -620,7 +620,7 @@
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
           <attribute id="PassivesAdded" type="LSString" value="TraininginEilistraeanandSong;EilistraeanSong_Armor_Message;EilistraeanSong_Weapon_Message;EilistraeanSong_Shield_Message;EilistraeanSong_Weapon;EilistraeanSong_Shield;EilistraeanSong_Unarmed;EilistraeanSpellSongSlotOne;"/>
-          <attribute id="Selectors" type="LSString" value="AddSpells(aa6a76a1-2556-41d7-9847-75cf251558b1,,,,AlwaysPrepared)"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(aa6a76a1-2556-41d7-9847-75cf251558b1,,,,AlwaysPrepared);AddSpells(5025ae16-243d-4bf2-8211-2b6fb3206250,,,,AlwaysPrepared);"/>
           <attribute id="TableUUID" type="guid" value="ee3f894e-fa8b-46d9-89bd-e34a1572b209"/>
           <attribute id="UUID" type="guid" value="9e86666e-d8b8-402f-b6a1-2fbdbe424861"/>
         </node>

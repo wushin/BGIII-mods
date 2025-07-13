@@ -313,7 +313,7 @@
             <attribute id="V2" type="float" value="0.74902344"/>
         </node>
         <node id="IconUV">
-            <attribute id="MapKey" type="FixedString" value=""/>
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_SongOfDefense"/>
             <attribute id="U1" type="float" value="0.12597656"/>
             <attribute id="U2" type="float" value="0.24902344"/>
             <attribute id="V1" type="float" value="0.62597656"/>
