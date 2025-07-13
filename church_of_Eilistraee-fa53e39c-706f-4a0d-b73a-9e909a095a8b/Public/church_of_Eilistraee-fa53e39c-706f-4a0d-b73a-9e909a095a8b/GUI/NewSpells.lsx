@@ -298,7 +298,7 @@
             <attribute id="V2" type="float" value="0.62402344"/>
         </node>
         <node id="IconUV">
-            <attribute id="MapKey" type="FixedString" value="Eilistraean_MordenkainensSword"/>
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_EilistraeesSword"/>
             <attribute id="U1" type="float" value="0.87597656"/>
             <attribute id="U2" type="float" value="0.99902344"/>
             <attribute id="V1" type="float" value="0.50097656"/>
@@ -306,7 +306,7 @@
         </node>
 
         <node id="IconUV">
-            <attribute id="MapKey" type="FixedString" value="Eilistraean_MordenkainensSwordSlash"/>
+            <attribute id="MapKey" type="FixedString" value="Eilistraean_EilistraeesSwordSlash"/>
             <attribute id="U1" type="float" value="0.0009765625"/>
             <attribute id="U2" type="float" value="0.12402344"/>
             <attribute id="V1" type="float" value="0.62597656"/>

@@ -18,11 +18,8 @@
   <content contentuid="ha370ba4ag673fg4741g81fdg8026fdc5a564" version="1">Fifth Eilistraean Image</content>
   <content contentuid="h3e0bc8a7g4057g478cgb07fg1ecc1c13f518" version="1">Sixth Eilistraean Image</content>
   <content contentuid="hzrlg97oi7tb9zpgvamato535novhd96ko57s" version="1">Blade of Eilistraee</content>
-  <content contentuid="h9avwjy7f0nm7pny5pguap94798nc6851x3k9" version="1">Blade of Eilistraee Tech</content>
-  <content contentuid="hxf1wkaotxa5xv81r8l1vu8w32pxu9pn6vwck" version="1">Blade of Eilistraee Aura</content>
-  <content contentuid="h4nobnx0edqpw23g3psm3ainv17pqug57456r" version="1">Blade of Eilistraee Stat</content>
   <content contentuid="huv5simt8k98hcx131019rkb36ur9j4mecwot" version="1">Eilistraee&apos;s Sword</content>
-	<content contentuid="h5zij4k5dotis035yb4co2si2el6zp62ffu16" version="1">Summon a great sword of force that hovers within range. When the sword appears, The sword can make melee regular melee attacks and a spell attack using a &lt;LSTag Type="ActionResource" Tooltip="ActionPoint"&gt; Actions&lt;/LSTag&gt; dealing [1] against a target of your choice within 2m of the sword. Until the spell ends, you can move the sword up to 6m to a spot you can see and repeat this attack.</content>
+	<content contentuid="h5zij4k5dotis035yb4co2si2el6zp62ffu16" version="1">Summon a great sword of force that hovers within range. When the sword appears, The sword can make melee regular melee attacks and &lt;LSTag Type="Spell" Tooltip="SpellSong_MordenkainensSlash"&gt;Spell Song Mordenkainens Slash&lt;/LSTag&gt; dealing [1]. Until the spell ends, the sword can move up to 30m from you and attack as if it was a Greatsword.</content>
 	<content contentuid="hxadh6lonyibaz6nyu08woxsvr9t672oyhtpb" version="1">Eilistraee&apos;s Slash</content>
 	<content contentuid="hxadh6lonyibaz6nyu08woxsvr9t672oyhtpb" version="1">Make a melee spell attack against a target dealing [1].</content>
   <content contentuid="h615d1044gf0c6g45dfgaf87g1e4e66581dc5" version="1">Sneak Attack : Sword Dancer</content>
