@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+	<region id="CharacterVisualBank">
+		<node id="CharacterVisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="BaseVisual" type="FixedString" value="aa38d7aa-c82e-33d5-c486-04bb9810f9bb" />
+					<attribute id="BodySetVisual" type="FixedString" value="ca67259a-cad4-401d-bb68-997c54cd2473" />
+					<attribute id="ID" type="FixedString" value="a99ae703-912d-495f-ad39-138a7c4103e2" />
+					<attribute id="Name" type="LSString" value="MINWEAVER_MindbladeApparition" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144678138029277384" />
+					<children>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="MaterialPresets" />
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="SphereMask_Radius" />
+									<attribute id="Value" type="float" value="0.65" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="SphereMask_Intensity" />
+									<attribute id="Value" type="float" value="1.5" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="FresnelScroll_Speed" />
+									<attribute id="Value" type="float" value="-0.5" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="FresnelBorder_Power" />
+									<attribute id="Value" type="float" value="1" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="FresnelBorder_Mult" />
+									<attribute id="Value" type="float" value="1" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="OpacityMult" />
+									<attribute id="Value" type="float" value="5" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Fade_Distance" />
+									<attribute id="Value" type="float" value="1" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="GradientMap_Contrast" />
+									<attribute id="Value" type="float" value="1" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="EmissiveMult" />
+									<attribute id="Value" type="float" value="5" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="BonePosition_Offset" />
+									<attribute id="Value" type="fvec3" value="0 1.25 0" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="BonePosition" />
+									<attribute id="Value" type="fvec3" value="0 0 0" />
+								</node>
+								<node id="VectorParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="DynamicParameter" />
+									<attribute id="Value" type="fvec4" value="1 1 1 1" />
+								</node>
+								<node id="VectorParameters">
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Parameter" type="FixedString" value="Color" />
+									<attribute id="Value" type="fvec4" value="1 1 1 1" />
+								</node>
+							</children>
+						</node>
+						<node id="RealMaterialOverrides" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

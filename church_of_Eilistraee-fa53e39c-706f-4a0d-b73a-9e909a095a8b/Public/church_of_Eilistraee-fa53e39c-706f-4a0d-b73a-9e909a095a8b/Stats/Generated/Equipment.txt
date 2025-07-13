@@ -95,3 +95,13 @@ add equipmentgroup
 add equipment entry "OBJ_Bag_AlchemyPouch"
 add equipmentgroup
 add equipment entry "OBJ_Backpack_CampSupplies"
+
+new equipment "EQP_Greatsword_1"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Greatsword_1"
+
+new equipment "EQP_Greatsword_2"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Greatsword_2"

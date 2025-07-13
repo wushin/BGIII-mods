@@ -172,6 +172,321 @@
 					<attribute id="Type" type="FixedString" value="projectile" />
 					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209012" />
 				</node>
+				<node id="GameObjects">
+					<attribute id="Archetype" type="FixedString" value="melee" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="a99ae703-912d-495f-ad39-138a7c4103e2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hzrlg97oi7tb9zpgvamato535novhd96ko57s" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Greatsword" />
+					<attribute id="MapKey" type="FixedString" value="5b26f4a5-a6ce-4405-879d-33d133786a73" />
+					<attribute id="Name" type="LSString" value="Eilistraean_MordenkainensSword" />
+					<attribute id="ParentTemplateId" type="FixedString" value="dfa62397-bf6c-4bb5-b561-bfd5b8415bd0" />
+					<attribute id="Stats" type="FixedString" value="Eilistraean_MordenkainensSword_Stats" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<children>
+            			<node id="StatusList">
+              				<children>
+								<node id="Status">
+                  					<attribute id="Object" type="FixedString" value="SpellSong_MordenkainensSword_Technical" />
+                				</node>
+                				<node id="Status">
+                  					<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
+                				</node>
+              			</children>
+            			</node>
+						<node id="LocomotionParams" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+                  					<attribute id="Skill" type="FixedString" value="SpellSong_MordenkainensSlash_Summons" />
+                  					<attribute id="SpellCastingAbility" type="uint8" value="0" />
+                  					<attribute id="LearningStrategy" type="uint8" value="0" />
+                  					<attribute id="ScoreModifier" type="float" value="1" />
+                  					<attribute id="StartRound" type="int32" value="0" />
+                  					<attribute id="FallbackStartRound" type="int32" value="-1" />
+                  					<attribute id="MinimumImpact" type="int32" value="0" />
+                  					<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                  					<attribute id="AIFlags" type="uint16" value="0" />
+                  					<children>
+                    					<node id="SourceConditions">
+                      						<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                      						<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                      						<children>
+                        						<node id="Tags" />
+                      						</children>
+                    					</node>
+                    					<node id="TargetConditions">
+                      						<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                      						<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                      						<children>
+                        						<node id="Tags" />
+                      						</children>
+                    					</node>
+                  					</children>
+                				</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="aec4ed1a-993b-491f-a2db-640bf11869c1" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Archetype" type="FixedString" value="melee" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="a99ae703-912d-495f-ad39-138a7c4103e2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hzrlg97oi7tb9zpgvamato535novhd96ko57s" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Greatsword" />
+					<attribute id="MapKey" type="FixedString" value="2df52ffd-3085-4758-817a-1b43f833f1d5" />
+					<attribute id="Name" type="LSString" value="Eilistraean_MordenkainensSword_2" />
+					<attribute id="ParentTemplateId" type="FixedString" value="dfa62397-bf6c-4bb5-b561-bfd5b8415bd0" />
+					<attribute id="Stats" type="FixedString" value="Eilistraean_MordenkainensSword_Stats_2" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<children>
+            			<node id="StatusList">
+              				<children>
+								<node id="Status">
+                  					<attribute id="Object" type="FixedString" value="SpellSong_MordenkainensSword_Technical" />
+                				</node>
+                				<node id="Status">
+                  					<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
+                				</node>
+              			</children>
+            			</node>
+						<node id="LocomotionParams" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+                  					<attribute id="Skill" type="FixedString" value="SpellSong_MordenkainensSlash_Summons_2" />
+                  					<attribute id="SpellCastingAbility" type="uint8" value="0" />
+                  					<attribute id="LearningStrategy" type="uint8" value="0" />
+                  					<attribute id="ScoreModifier" type="float" value="1" />
+                  					<attribute id="StartRound" type="int32" value="0" />
+                  					<attribute id="FallbackStartRound" type="int32" value="-1" />
+                  					<attribute id="MinimumImpact" type="int32" value="0" />
+                  					<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                  					<attribute id="AIFlags" type="uint16" value="0" />
+                  					<children>
+                    					<node id="SourceConditions">
+                      						<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                      						<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                      						<children>
+                        						<node id="Tags" />
+                      						</children>
+                    					</node>
+                    					<node id="TargetConditions">
+                      						<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                      						<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                      						<children>
+                        						<node id="Tags" />
+                      						</children>
+                    					</node>
+                  					</children>
+                				</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="aec4ed1a-993b-491f-a2db-640bf11869c1" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Archetype" type="FixedString" value="melee" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="a99ae703-912d-495f-ad39-138a7c4103e2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hzrlg97oi7tb9zpgvamato535novhd96ko57s" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Greatsword_1" />
+					<attribute id="MapKey" type="FixedString" value="1bccef9e-0bdd-4727-a9e6-d353932b9b7c" />
+					<attribute id="Name" type="LSString" value="Eilistraean_MordenkainensSword_3" />
+					<attribute id="ParentTemplateId" type="FixedString" value="dfa62397-bf6c-4bb5-b561-bfd5b8415bd0" />
+					<attribute id="Stats" type="FixedString" value="Eilistraean_MordenkainensSword_Stats_3" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<children>
+            			<node id="StatusList">
+              				<children>
+								<node id="Status">
+                  					<attribute id="Object" type="FixedString" value="SpellSong_MordenkainensSword_Technical" />
+                				</node>
+                				<node id="Status">
+                  					<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
+                				</node>
+              			</children>
+            			</node>
+						<node id="LocomotionParams" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+                  					<attribute id="Skill" type="FixedString" value="SpellSong_MordenkainensSlash_Summons_3" />
+                  					<attribute id="SpellCastingAbility" type="uint8" value="0" />
+                  					<attribute id="LearningStrategy" type="uint8" value="0" />
+                  					<attribute id="ScoreModifier" type="float" value="1" />
+                  					<attribute id="StartRound" type="int32" value="0" />
+                  					<attribute id="FallbackStartRound" type="int32" value="-1" />
+                  					<attribute id="MinimumImpact" type="int32" value="0" />
+                  					<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                  					<attribute id="AIFlags" type="uint16" value="0" />
+                  					<children>
+                    					<node id="SourceConditions">
+                      						<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                      						<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                      						<children>
+                        						<node id="Tags" />
+                      						</children>
+                    					</node>
+                    					<node id="TargetConditions">
+                      						<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                      						<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                      						<children>
+                        						<node id="Tags" />
+                      						</children>
+                    					</node>
+                  					</children>
+                				</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="aec4ed1a-993b-491f-a2db-640bf11869c1" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Archetype" type="FixedString" value="melee" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="a99ae703-912d-495f-ad39-138a7c4103e2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hzrlg97oi7tb9zpgvamato535novhd96ko57s" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Greatsword" />
+					<attribute id="MapKey" type="FixedString" value="1b9aed46-9e31-47ad-a024-9fef2c31aec3" />
+					<attribute id="Name" type="LSString" value="Eilistraean_MordenkainensSword_4" />
+					<attribute id="ParentTemplateId" type="FixedString" value="dfa62397-bf6c-4bb5-b561-bfd5b8415bd0" />
+					<attribute id="Stats" type="FixedString" value="Eilistraean_MordenkainensSword_Stats_4" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<children>
+            			<node id="StatusList">
+              				<children>
+								<node id="Status">
+                  					<attribute id="Object" type="FixedString" value="SpellSong_MordenkainensSword_Technical" />
+                				</node>
+                				<node id="Status">
+                  					<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
+                				</node>
+              			</children>
+            			</node>
+						<node id="LocomotionParams" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+                  					<attribute id="Skill" type="FixedString" value="SpellSong_MordenkainensSlash_Summons_4" />
+                  					<attribute id="SpellCastingAbility" type="uint8" value="0" />
+                  					<attribute id="LearningStrategy" type="uint8" value="0" />
+                  					<attribute id="ScoreModifier" type="float" value="1" />
+                  					<attribute id="StartRound" type="int32" value="0" />
+                  					<attribute id="FallbackStartRound" type="int32" value="-1" />
+                  					<attribute id="MinimumImpact" type="int32" value="0" />
+                  					<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                  					<attribute id="AIFlags" type="uint16" value="0" />
+                  					<children>
+                    					<node id="SourceConditions">
+                      						<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                      						<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                      						<children>
+                        						<node id="Tags" />
+                      						</children>
+                    					</node>
+                    					<node id="TargetConditions">
+                      						<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                      						<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                      						<children>
+                        						<node id="Tags" />
+                      						</children>
+                    					</node>
+                  					</children>
+                				</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="aec4ed1a-993b-491f-a2db-640bf11869c1" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="Archetype" type="FixedString" value="melee" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="a99ae703-912d-495f-ad39-138a7c4103e2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hzrlg97oi7tb9zpgvamato535novhd96ko57s" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Greatsword_2" />
+					<attribute id="MapKey" type="FixedString" value="47430152-de2e-4825-ab5b-904143f2a71b" />
+					<attribute id="Name" type="LSString" value="Eilistraean_MordenkainensSword_5" />
+					<attribute id="ParentTemplateId" type="FixedString" value="dfa62397-bf6c-4bb5-b561-bfd5b8415bd0" />
+					<attribute id="Stats" type="FixedString" value="Eilistraean_MordenkainensSword_Stats_5" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<children>
+            			<node id="StatusList">
+              				<children>
+								<node id="Status">
+                  					<attribute id="Object" type="FixedString" value="SpellSong_MordenkainensSword_Technical" />
+                				</node>
+                				<node id="Status">
+                  					<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
+                				</node>
+              			</children>
+            			</node>
+						<node id="LocomotionParams" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+                  					<attribute id="Skill" type="FixedString" value="SpellSong_MordenkainensSlash_Summons_5" />
+                  					<attribute id="SpellCastingAbility" type="uint8" value="0" />
+                  					<attribute id="LearningStrategy" type="uint8" value="0" />
+                  					<attribute id="ScoreModifier" type="float" value="1" />
+                  					<attribute id="StartRound" type="int32" value="0" />
+                  					<attribute id="FallbackStartRound" type="int32" value="-1" />
+                  					<attribute id="MinimumImpact" type="int32" value="0" />
+                  					<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                  					<attribute id="AIFlags" type="uint16" value="0" />
+                  					<children>
+                    					<node id="SourceConditions">
+                      						<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                      						<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                      						<children>
+                        						<node id="Tags" />
+                      						</children>
+                    					</node>
+                    					<node id="TargetConditions">
+                      						<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                      						<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                      						<children>
+                        						<node id="Tags" />
+                      						</children>
+                    					</node>
+                  					</children>
+                				</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="aec4ed1a-993b-491f-a2db-640bf11869c1" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
 			</children>
 		</node>
 	</region>
