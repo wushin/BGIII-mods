@@ -31,7 +31,7 @@
         </node>
         <node id="SpellList">
             <attribute id="Name" type="FixedString" value="Eilistraean Spell Songs"/>
-            <attribute id="Spells" type="LSString" value="Spellsong_SongOfLife;Spellsong_SongOfProtection;Spellsong_SongOfRenewal;Spellsong_SongOfHope;Spellsong_SongOfRapture;SpellSong_SongOfDefense" />
+            <attribute id="Spells" type="LSString" value="Spellsong_SongOfLife;Spellsong_SongOfProtection;Spellsong_SongOfRenewal;Spellsong_SongOfHope;Spellsong_SongOfRapture;SpellSong_SongOfDefense;SpellSong_EilistraeesSword;SpellSong_EilistraeesSlash" />
             <attribute id="UUID" type="guid" value="5025ae16-243d-4bf2-8211-2b6fb3206250" />
         </node>
         <node id="SpellList">
