@@ -36,7 +36,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="SwordDancerSpells Level 1"/>
-          <attribute id="Spells" type="LSString" value="Target_EilistraeanMockery_Spell;Shout_EilistraeanImage_Spell;Target_MoonFireBlade;Target_MoonFireBlade_Unlock;Target_MoonFireBlade_Critical_Unlock;SpellSong_EilistraeesSword"/>
+          <attribute id="Spells" type="LSString" value="Target_EilistraeanMockery_Spell;Shout_EilistraeanImage_Spell;Target_MoonFireBlade;Target_MoonFireBlade_Unlock;Target_MoonFireBlade_Critical_Unlock;"/>
           <attribute id="UUID" type="guid" value="5167ef17-a077-435f-b6f5-bf6be2fb2b62"/>
         </node>
         <node id="SpellList">
