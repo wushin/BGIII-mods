@@ -11,28 +11,38 @@
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="Eilistraean Blade Song"/>
-          <attribute id="Spells" type="LSString" value="Shout_EilistraeanSong;Shout_EilistraeanWeaponBond;SpellSong_SongOfRest"/>
+          <attribute id="Spells" type="LSString" value="Shout_EilistraeanSong;Shout_EilistraeanWeaponBond;"/>
           <attribute id="UUID" type="guid" value="f0f16b73-6f4a-40a8-800d-6164c7a30d89"/>
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="Eilistraean Moon Dance"/>
-          <attribute id="Spells" type="LSString" value="Shout_EilistraeanMoonDance;Shout_EilistraeanWeaponBond;SpellSong_SongOfRest"/>
+          <attribute id="Spells" type="LSString" value="Shout_EilistraeanMoonDance;Shout_EilistraeanWeaponBond;"/>
           <attribute id="UUID" type="guid" value="cbfbe1db-3f42-4053-a459-6644bdb06271"/>
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="Eilistraean War Rhythm"/>
-          <attribute id="Spells" type="LSString" value="Shout_EilistraeanWarRhythm;Shout_EilistraeanWeaponBond;SpellSong_SongOfRest"/>
+          <attribute id="Spells" type="LSString" value="Shout_EilistraeanWarRhythm;Shout_EilistraeanWeaponBond;"/>
           <attribute id="UUID" type="guid" value="91507804-02a2-4706-97ce-4d92d2cec63f"/>
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="Eilistraean Spell Song"/>
-          <attribute id="Spells" type="LSString" value="Shout_EilistraeanSpellSong;Shout_EilistraeanWeaponBond;SpellSong_SongOfRest"/>
+          <attribute id="Spells" type="LSString" value="Shout_EilistraeanSpellSong;Shout_EilistraeanWeaponBond;"/>
           <attribute id="UUID" type="guid" value="aa6a76a1-2556-41d7-9847-75cf251558b1"/>
         </node>
         <node id="SpellList">
-            <attribute id="Name" type="FixedString" value="Eilistraean Spell Songs"/>
-            <attribute id="Spells" type="LSString" value="Spellsong_SongOfLife;Spellsong_SongOfProtection;Spellsong_SongOfRenewal;Spellsong_SongOfHope;Spellsong_SongOfRapture;SpellSong_SongOfDefense;SpellSong_EilistraeesSword;SpellSong_EilistraeesSlash" />
+            <attribute id="Name" type="FixedString" value="Eilistraean Spell Songs Level 1"/>
+            <attribute id="Spells" type="LSString" value="Spellsong_SongOfLife;Spellsong_SongOfProtection;SpellSong_EilistraeesSword;SpellSong_EilistraeesSlash;SpellSong_SongOfRest" />
             <attribute id="UUID" type="guid" value="5025ae16-243d-4bf2-8211-2b6fb3206250" />
+        </node>
+        <node id="SpellList">
+            <attribute id="Name" type="FixedString" value="Eilistraean Spell Songs Level 2"/>
+            <attribute id="Spells" type="LSString" value="Spellsong_SongOfTheUndying;Spellsong_AuraOfPurity;Spellsong_SongOfRenewal;Spellsong_SongOfHope;" />
+            <attribute id="UUID" type="guid" value="84f212b3-72fb-4275-848c-cf7dca5e9178" />
+        </node>
+        <node id="SpellList">
+            <attribute id="Name" type="FixedString" value="Eilistraean Spell Songs Level 3"/>
+            <attribute id="Spells" type="LSString" value="Spellsong_SongOfRapture;SpellSong_SongOfDefense" />
+            <attribute id="UUID" type="guid" value="212927e8-0a51-42f0-a019-3c2f681dafce" />
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="SwordDancerSpells Level 1"/>

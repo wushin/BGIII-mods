@@ -23,17 +23,17 @@
           <attribute id="Name" type="LSString" value="SwordDancer"/>
           <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;EilistraeanCunning;EilistraeanInit;EilistraeanHands;"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="Selectors" type="LSString" value="SelectSpells(4a6c13fe-e3f3-4447-82b6-39b13db9eb42,2,0);AddSpells(5167ef17-a077-435f-b6f5-bf6be2fb2b62,,,,AlwaysPrepared);"/>
+          <attribute id="Selectors" type="LSString" value="SelectSpells(4a6c13fe-e3f3-4447-82b6-39b13db9eb42,4,0);AddSpells(5167ef17-a077-435f-b6f5-bf6be2fb2b62,,,,AlwaysPrepared);"/>
           <attribute id="TableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
           <attribute id="UUID" type="guid" value="3323d506-b89a-40bf-b414-c5ed25135a7a"/>
         </node>
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="false"/>
-          <attribute id="Boosts" type="LSString" value="ActionResource(SneakAttack_Charge,1,0);ActionResource(SpellSlot,1,1)"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SneakAttack_Charge,1,0);ActionResource(SpellSlot,1,1);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="3"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
           <attribute id="PassivesAdded" type="LSString" value="SwordDancerSneakAttack;SwordDancerSneakAttackSwitch;"/>
-          <attribute id="Selectors" type="LSString" value="AddSpells(db021c8d-2080-4049-8d79-6fc163df914e);SelectSpells(4a6c13fe-e3f3-4447-82b6-39b13db9eb42,1,1)"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(db021c8d-2080-4049-8d79-6fc163df914e);SelectSpells(4a6c13fe-e3f3-4447-82b6-39b13db9eb42,2,1)"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
           <attribute id="TableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
           <attribute id="UUID" type="guid" value="d9ab231d-41ad-4baa-8f3b-6f65ad9db858"/>
@@ -50,19 +50,19 @@
         </node>
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="false"/>
-          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,2,2)"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,2,2);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="PassivesAdded" type="LSString" value="UncannyDodge;ExtraAttack;UnlockedSpellSlotLevel2"/>
           <attribute id="Level" type="uint8" value="5"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="Selectors" type="LSString" value="SelectSpells(f75555bd-d4e0-4fb2-a84b-a3cdb4a5ff20,1,1)"/>
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f75555bd-d4e0-4fb2-a84b-a3cdb4a5ff20,2,1);AddSpells(84f212b3-72fb-4275-848c-cf7dca5e9178,,,,AlwaysPrepared);"/>
           <attribute id="TableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
           <attribute id="UUID" type="guid" value="b5b78a1c-18ca-4fa2-9644-0436af1c9e99"/>
         </node>
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="false"/>
           <attribute id="Boosts" type="LSString" value="ActionResource(Bladesong,1,0);"/>
-          <attribute id="PassivesAdded" type="LSString" value="EilistraeanSpellSongSlotTwo;EilistraeanRiposte;"/>
+          <attribute id="PassivesAdded" type="LSString" value="EilistraeanRiposte;"/>
           <attribute id="Level" type="uint8" value="6"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -72,12 +72,12 @@
         </node>
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="false"/>
-          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2)"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="PassivesAdded" type="LSString" value="Evasion"/>
           <attribute id="Level" type="uint8" value="7"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="Selectors" type="LSString" value="SelectSpells(f75555bd-d4e0-4fb2-a84b-a3cdb4a5ff20,1,1)"/>
+          <attribute id="Selectors" type="LSString" value="SelectSpells(f75555bd-d4e0-4fb2-a84b-a3cdb4a5ff20,2,1)"/>
           <attribute id="TableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
           <attribute id="UUID" type="guid" value="3f3be1c3-5968-47a3-a638-d6695e15b5d5"/>
         </node>
@@ -93,12 +93,12 @@
         </node>
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="false"/>
-          <attribute id="PassivesAdded" type="LSString" value="EilistraeanSpellSongSlotThree;UnlockedSpellSlotLevel3;EilistraeanAction;"/>
-          <attribute id="Boosts" type="LSString" value="ActionResource(Bladesong,1,0);ActionResource(SpellSlot,2,3)"/>
+          <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel3;EilistraeanAction;"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(Bladesong,1,0);ActionResource(SpellSlot,2,3);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="9"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="Selectors" type="LSString" value="SelectSpells(309f5e62-3bb8-434c-914b-7ba105d23536,1,1)"/>
+          <attribute id="Selectors" type="LSString" value="SelectSpells(309f5e62-3bb8-434c-914b-7ba105d23536,2,1)"/>
           <attribute id="TableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
           <attribute id="UUID" type="guid" value="698ae753-9c40-45f3-b724-82d6d4a347e5"/>
         </node>
@@ -108,18 +108,18 @@
           <attribute id="Level" type="uint8" value="10"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="Selectors" type="LSString" value="SelectSpells(309f5e62-3bb8-434c-914b-7ba105d23536,0,1)"/>
+          <attribute id="Selectors" type="LSString" value="SelectSpells(309f5e62-3bb8-434c-914b-7ba105d23536,0,1);AddSpells(212927e8-0a51-42f0-a019-3c2f681dafce,,,,AlwaysPrepared);"/>
           <attribute id="TableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
           <attribute id="UUID" type="guid" value="0951f59c-8d72-45e7-a439-72b4eceb9b80"/>
         </node>
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="false"/>
-          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3)"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="PassivesAdded" type="LSString" value="ExtraAttack_2;ReliableTalent"/>
           <attribute id="Level" type="uint8" value="11"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="Selectors" type="LSString" value="SelectSpells(309f5e62-3bb8-434c-914b-7ba105d23536,1,1)"/>
+          <attribute id="Selectors" type="LSString" value="SelectSpells(309f5e62-3bb8-434c-914b-7ba105d23536,2,1)"/>
           <attribute id="TableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
           <attribute id="UUID" type="guid" value="8fa5294c-c2e2-4848-bb99-9bfad7f65726"/>
         </node>
@@ -135,12 +135,12 @@
         </node>
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="false"/>
-          <attribute id="PassivesAdded" type="LSString" value="EilistraeanSpellSongSlotFour;UnlockedSpellSlotLevel4;EilistraeanHands_2;"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSongCharge,1,0);"/>
+          <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel4;EilistraeanHands_2;"/>
           <attribute id="Level" type="uint8" value="13"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="Selectors" type="LSString" value="SelectSpells(a9422866-5b68-4208-9ced-ca117b403652,1,1)"/>
-          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4)"/>
+          <attribute id="Selectors" type="LSString" value="SelectSpells(a9422866-5b68-4208-9ced-ca117b403652,2,1)"/>
           <attribute id="TableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
           <attribute id="UUID" type="guid" value="674233b2-e0f4-4c05-b5e8-83ba518c95ba"/>
         </node>
@@ -157,12 +157,12 @@
         </node>
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="false"/>
-          <attribute id="Boosts" type="LSString" value="ActionResource(Bladesong,1,0);ActionResource(SpellSlot,1,4)"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(Bladesong,1,0);ActionResource(SpellSlot,1,4);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="PassivesAdded" type="LSString" value="SlipperyMind"/>
           <attribute id="Level" type="uint8" value="15"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="Selectors" type="LSString" value="SelectSpells(a9422866-5b68-4208-9ced-ca117b403652,1,1)"/>
+          <attribute id="Selectors" type="LSString" value="SelectSpells(a9422866-5b68-4208-9ced-ca117b403652,2,1)"/>
           <attribute id="TableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
           <attribute id="UUID" type="guid" value="0bc03ff2-847c-4720-9a07-0aca49ea87f9"/>
         </node>
@@ -177,12 +177,12 @@
         </node>
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="false"/>
-          <attribute id="PassivesAdded" type="LSString" value="EilistraeanSpellSongSlotFive;UnlockedSpellSlotLevel5;EilistraeanAction_2;"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(SpellSongCharge,1,0);"/>
+          <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel5;EilistraeanAction_2;"/>
           <attribute id="Level" type="uint8" value="17"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="Selectors" type="LSString" value="SelectSpells(c1b9eec0-cd36-4ee8-af23-64c89daaad27,1,1)"/>
-          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5)"/>
+          <attribute id="Selectors" type="LSString" value="SelectSpells(c1b9eec0-cd36-4ee8-af23-64c89daaad27,2,1)"/>
           <attribute id="TableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
           <attribute id="UUID" type="guid" value="2cebeba5-70a6-40d1-858d-64449c0354c6"/>
         </node>
@@ -199,12 +199,11 @@
         </node>
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="false"/>
-          <attribute id="PassivesAdded" type="LSString" value="EilistraeanSpellSongSlotFive"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="19"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="Selectors" type="LSString" value="SelectSpells(c1b9eec0-cd36-4ee8-af23-64c89daaad27,1,1)"/>
-          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5)"/>
+          <attribute id="Selectors" type="LSString" value="SelectSpells(c1b9eec0-cd36-4ee8-af23-64c89daaad27,2,1)"/>
           <attribute id="TableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
           <attribute id="UUID" type="guid" value="8305a96b-93e3-48fa-97fe-60ee66702a02"/>
         </node>
@@ -254,7 +253,7 @@
         </node>
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="true"/>
-          <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="4"/>
           <attribute id="Name" type="LSString" value="SilverhairKnight"/>
           <attribute id="PassivesAdded" type="LSString" value="SlowFall"/>
@@ -273,7 +272,7 @@
           <attribute id="UUID" type="guid" value="84d0642e-0534-4ea5-8055-6cb0c92e0f3f"/>
         </node>
         <node id="Progression">
-          <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0);"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="6"/>
           <attribute id="Name" type="LSString" value="SilverhairKnight"/>
           <attribute id="PassivesAdded" type="LSString" value="UnarmoredMovement_2;KiEmpoweredStrikes"/>
@@ -288,13 +287,13 @@
           <attribute id="Name" type="LSString" value="SilverhairKnight"/>
           <attribute id="PassivesAdded" type="LSString" value="Evasion;StillnessOfMind"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="Selectors" type="LSString" value="AddSpells(38dc1ecc-6e52-46b7-89fa-d987cc41c640 )"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(38dc1ecc-6e52-46b7-89fa-d987cc41c640);AddSpells(84f212b3-72fb-4275-848c-cf7dca5e9178,,,,AlwaysPrepared);"/>
           <attribute id="TableUUID" type="guid" value="3d4d52ad-65e5-4dc9-9ec7-a360092ab0dd"/>
           <attribute id="UUID" type="guid" value="24f793ef-33d8-478f-a32b-0860e09730fc"/>
         </node>
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="true"/>
-          <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="8"/>
           <attribute id="Name" type="LSString" value="SilverhairKnight"/>
           <attribute id="PassivesAdded" type="LSString" value="EilistraeanRiposte;Passive_EternalDance"/>
@@ -313,7 +312,7 @@
           <attribute id="UUID" type="guid" value="cce5bfa1-6ced-4a3a-a405-b7926b293d01"/>
         </node>
         <node id="Progression">
-          <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0);"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="10"/>
           <attribute id="Name" type="LSString" value="SilverhairKnight"/>
           <attribute id="PassivesAdded" type="LSString" value="UnarmoredMovement_3;PurityOfBody"/>
@@ -332,10 +331,11 @@
         </node>
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="true"/>
-          <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="12"/>
           <attribute id="Name" type="LSString" value="SilverhairKnight"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(212927e8-0a51-42f0-a019-3c2f681dafce,,,,AlwaysPrepared);"/>
           <attribute id="TableUUID" type="guid" value="3d4d52ad-65e5-4dc9-9ec7-a360092ab0dd"/>
           <attribute id="UUID" type="guid" value="453ebef2-c26c-4fd3-97ca-cdf265236099"/>
         </node>
@@ -349,7 +349,7 @@
           <attribute id="UUID" type="guid" value="9b7daafa-7032-4d54-83e9-53078150d13d"/>
         </node>
         <node id="Progression">
-          <attribute id="Boosts" type="LSString" value=""/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="14"/>
           <attribute id="Name" type="LSString" value="SilverhairKnight"/>
           <attribute id="PassivesAdded" type="LSString" value="UnarmoredMovement_4"/>
@@ -368,7 +368,7 @@
         </node>
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="true"/>
-          <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="16"/>
           <attribute id="Name" type="LSString" value="SilverhairKnight"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -385,7 +385,7 @@
           <attribute id="UUID" type="guid" value="9bb94e8f-df50-4bda-8fe3-07360bdb1653"/>
         </node>
         <node id="Progression">
-          <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0);"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="18"/>
           <attribute id="Name" type="LSString" value="SilverhairKnight"/>
           <attribute id="PassivesAdded" type="LSString" value="UnarmoredMovement_5"/>
@@ -404,7 +404,7 @@
           <attribute id="UUID" type="guid" value="730aca35-117f-4863-9b20-524ed34d549f"/>
         </node>
         <node id="Progression">
-          <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0)"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(KiPoint,1,0);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="20"/>
           <attribute id="Name" type="LSString" value="SilverhairKnight"/>
           <attribute id="PassivesAdded" type="LSString" value="PerfectSelf"/>
@@ -457,7 +457,7 @@
           <attribute id="UUID" type="guid" value="57a416ce-caf6-4e6a-9043-cf590eade2cf"/>
         </node>
         <node id="Progression">
-          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,2,2)"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,2,2);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="5"/>
           <attribute id="Name" type="LSString" value="DarksongKnight"/>
           <attribute id="PassivesAdded" type="LSString" value="ExtraAttack;UnlockedSpellSlotLevel2;Passive_Lunar_Smite_2"/>
@@ -476,11 +476,11 @@
            <attribute id="UUID" type="guid" value="5c640fcc-5f7d-49f7-ae2b-f4b88b8c18ab"/>
         </node>
         <node id="Progression">
-           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2)"/>
+           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2);ActionResource(SpellSongCharge,1,0);"/>
            <attribute id="Level" type="uint8" value="7"/>
            <attribute id="Name" type="LSString" value="DarksongKnight"/>
            <attribute id="ProgressionType" type="uint8" value="0"/>
-           <attribute id="Selectors" type="LSString" value="AddSpells(162ccdf2-22e2-42fb-b708-f0184794200c,,,,AlwaysPrepared)"/>
+           <attribute id="Selectors" type="LSString" value="AddSpells(162ccdf2-22e2-42fb-b708-f0184794200c,,,,AlwaysPrepared);AddSpells(84f212b3-72fb-4275-848c-cf7dca5e9178,,,,AlwaysPrepared);"/>
            <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
            <attribute id="UUID" type="guid" value="283b580d-db14-424f-a546-2a035bf2b1a3"/>
         </node>
@@ -495,7 +495,7 @@
            <attribute id="UUID" type="guid" value="fe0893a6-afb8-4d5b-a913-544bf8d94016"/>
         </node>
         <node id="Progression">
-           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3)"/>
+           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3);ActionResource(SpellSongCharge,1,0);"/>
            <attribute id="Level" type="uint8" value="9"/>
            <attribute id="Name" type="LSString" value="DarksongKnight"/>
            <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel3;Passive_Lunar_Smite_3;EilistraeanAction;"/>
@@ -514,7 +514,7 @@
            <attribute id="UUID" type="guid" value="bce3558f-a608-4a0a-bc5d-59e22dc6d1b5"/>
         </node>
         <node id="Progression">
-           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3)"/>
+           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3);ActionResource(SpellSongCharge,1,0);"/>
            <attribute id="Level" type="uint8" value="11"/>
            <attribute id="Name" type="LSString" value="DarksongKnight"/>
            <attribute id="PassivesAdded" type="LSString" value="Passive_ImprovedLunarSmite"/>
@@ -528,12 +528,12 @@
            <attribute id="Level" type="uint8" value="12"/>
            <attribute id="Name" type="LSString" value="DarksongKnight"/>
            <attribute id="ProgressionType" type="uint8" value="0"/>
-           <attribute id="Selectors" type="LSString" value="SelectPassives(677038ed-31ae-47e9-b8ea-a310d5eda0e0,1,EilistraeanManeuvers);" />
+           <attribute id="Selectors" type="LSString" value="SelectPassives(677038ed-31ae-47e9-b8ea-a310d5eda0e0,1,EilistraeanManeuvers);AddSpells(212927e8-0a51-42f0-a019-3c2f681dafce,,,,AlwaysPrepared);" />
            <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
            <attribute id="UUID" type="guid" value="13360075-941d-45b6-bbe5-45bc0dbda7fb"/>
         </node>
         <node id="Progression">
-           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4)"/>
+           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSongCharge,1,0);"/>
            <attribute id="Level" type="uint8" value="13"/>
            <attribute id="Name" type="LSString" value="DarksongKnight"/>
            <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel4;Passive_Lunar_Smite_4;EilistraeanHands_2;"/>
@@ -551,7 +551,7 @@
            <attribute id="UUID" type="guid" value="771c94c6-424a-472e-8052-f5ffe1aa59fc"/>
         </node>
         <node id="Progression">
-           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4)"/>
+           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSongCharge,1,0);"/>
            <attribute id="Level" type="uint8" value="15"/>
            <attribute id="Name" type="LSString" value="DarksongKnight"/>
            <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -568,7 +568,7 @@
            <attribute id="UUID" type="guid" value="e2a2f419-d13a-468c-ab82-5ef98ac98ae3"/>
         </node>
         <node id="Progression">
-           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5)"/>
+           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(SpellSongCharge,1,0);"/>
            <attribute id="Level" type="uint8" value="17"/>
            <attribute id="Name" type="LSString" value="DarksongKnight"/>
            <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel5;Passive_Lunar_Smite_5;EilistraeanAction_2;"/>
@@ -586,7 +586,7 @@
            <attribute id="UUID" type="guid" value="a346bffd-8f61-4c86-83ff-a36fa184cb06"/>
         </node>
         <node id="Progression">
-           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5)"/>
+           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(SpellSongCharge,1,0);"/>
            <attribute id="Level" type="uint8" value="19"/>
            <attribute id="Name" type="LSString" value="DarksongKnight"/>
            <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -636,7 +636,7 @@
           <attribute id="UUID" type="guid" value="d916f2c9-c32d-441e-94b9-cfafbb41de31"/>
         </node>
         <node id="Progression">
-          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2)" />
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2);ActionResource(SpellSongCharge,1,0);" />
           <attribute id="Level" type="uint8" value="4" />
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong" />
           <attribute id="ProgressionType" type="uint8" value="0" />
@@ -655,7 +655,7 @@
           <attribute id="UUID" type="guid" value="df47335c-db7e-4f78-a2dc-4b773f9e19e1" />
         </node>
         <node id="Progression">
-          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3);ActionResource(ChannelDivinity,1,0);"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3);ActionResource(ChannelDivinity,1,0);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="6"/>
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong"/>
           <attribute id="PassivesAdded" type="LSString" value="ExtraAttack;EilistraeanHands;" />
@@ -669,12 +669,12 @@
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong"/>
           <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel4" />
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="Selectors" type="LSString" value="AddSpells(a9422866-5b68-4208-9ced-ca117b403652)"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(a9422866-5b68-4208-9ced-ca117b403652);AddSpells(84f212b3-72fb-4275-848c-cf7dca5e9178,,,,AlwaysPrepared);"/>
           <attribute id="TableUUID" type="guid" value="ee3f894e-fa8b-46d9-89bd-e34a1572b209"/>
           <attribute id="UUID" type="guid" value="2e3b7a4e-3cdd-4251-a44a-c0f4fb141494"/>
         </node>
         <node id="Progression">
-          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4)"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="8"/>
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -692,7 +692,7 @@
           <attribute id="UUID" type="guid" value="db289337-f03f-43dd-b909-3ff7b7736e40"/>
         </node>
         <node id="Progression">
-          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(ChannelDivinity,1,0);"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(ChannelDivinity,1,0);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="10"/>
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -705,11 +705,12 @@
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong"/>
           <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel6" />
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="Selectors" type="LSString" value="AddSpells(540ded64-f143-4ab2-9f84-cfafe6c6f81d)"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(540ded64-f143-4ab2-9f84-cfafe6c6f81d);AddSpells(212927e8-0a51-42f0-a019-3c2f681dafce,,,,AlwaysPrepared);"/>
           <attribute id="TableUUID" type="guid" value="ee3f894e-fa8b-46d9-89bd-e34a1572b209"/>
           <attribute id="UUID" type="guid" value="f3658b21-b8d9-4e22-80e9-453194357ecf"/>
         </node>
         <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="12"/>
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -727,7 +728,7 @@
           <attribute id="UUID" type="guid" value="40d7d4b2-79fc-4713-82e4-f9389dc190b9"/>
         </node>
         <node id="Progression">
-          <attribute id="Boosts" type="LSString" value="ActionResource(ChannelDivinity,1,0);"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(ChannelDivinity,1,0);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="14"/>
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -745,6 +746,7 @@
           <attribute id="UUID" type="guid" value="8fcfb780-5705-407f-b655-23d4aebe3ba8"/>
         </node>
         <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="16"/>
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -762,7 +764,7 @@
           <attribute id="UUID" type="guid" value="3da1407c-d0bf-4915-b804-af57a1bd1be8"/>
         </node>
         <node id="Progression">
-          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(ChannelDivinity,1,0);"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(ChannelDivinity,1,0);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="18"/>
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -778,7 +780,7 @@
           <attribute id="UUID" type="guid" value="c1de63e7-4b53-4368-9f86-2cdf8b49bdf3"/>
         </node>
         <node id="Progression">
-          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7)"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,7);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="20"/>
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
