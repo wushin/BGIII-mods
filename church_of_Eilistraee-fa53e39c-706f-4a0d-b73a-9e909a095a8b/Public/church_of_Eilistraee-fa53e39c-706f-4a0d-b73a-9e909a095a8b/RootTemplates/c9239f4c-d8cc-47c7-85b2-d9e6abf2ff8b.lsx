@@ -487,6 +487,80 @@
 						</node>
 					</children>
 				</node>
+				<node id="GameObjects">
+					<attribute id="Archetype" type="FixedString" value="melee" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="a99ae703-912d-495f-ad39-138a7c4103e2" />
+					<attribute id="DisplayName" type="TranslatedString" handle="hzrlg97oi7tb9zpgvamato535novhd96ko57s" version="1" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Equipment" type="FixedString" value="EQP_Greatsword_2" />
+					<attribute id="MapKey" type="FixedString" value="0284e175-f33b-4502-a080-3f38be3ca049" />
+					<attribute id="Name" type="LSString" value="Eilistraean_EilistraeesSword_9" />
+					<attribute id="ParentTemplateId" type="FixedString" value="dfa62397-bf6c-4bb5-b561-bfd5b8415bd0" />
+					<attribute id="Stats" type="FixedString" value="Eilistraean_EilistraeesSword_Stats_9" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<children>
+            			<node id="StatusList">
+              				<children>
+								<node id="Status">
+                  					<attribute id="Object" type="FixedString" value="Shout_BladeOfEilistraee_Technical" />
+                				</node>
+                				<node id="Status">
+                  					<attribute id="Object" type="FixedString" value="UNSUMMON_ABLE" />
+                				</node>
+              			</children>
+            			</node>
+						<node id="LocomotionParams" />
+						<node id="SkillList">
+							<children>
+								<node id="Skill">
+                  					<attribute id="Skill" type="FixedString" value="Shout_BladeOfEilistraeeSlash_Summon" />
+                  					<attribute id="SpellCastingAbility" type="uint8" value="0" />
+                  					<attribute id="LearningStrategy" type="uint8" value="0" />
+                  					<attribute id="ScoreModifier" type="float" value="1" />
+                  					<attribute id="StartRound" type="int32" value="0" />
+                  					<attribute id="FallbackStartRound" type="int32" value="-1" />
+                  					<attribute id="MinimumImpact" type="int32" value="0" />
+                  					<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+                  					<attribute id="AIFlags" type="uint16" value="0" />
+                  					<children>
+                    					<node id="SourceConditions">
+                      						<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                      						<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                      						<children>
+                        						<node id="Tags" />
+                      						</children>
+                    					</node>
+                    					<node id="TargetConditions">
+                      						<attribute id="MinimumHealthPercentage" type="int32" value="0" />
+                      						<attribute id="MaximumHealthPercentage" type="int32" value="100" />
+                      						<children>
+                        						<node id="Tags" />
+                      						</children>
+                    					</node>
+                  					</children>
+                				</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="aec4ed1a-993b-491f-a2db-640bf11869c1" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+          			<attribute id="Description" type="TranslatedString" handle="h73a4f30bg5715g4b84gb541gaba97a84e1e0" version="1" />
+          			<attribute id="DisplayName" type="TranslatedString" handle="h800e8656g556eg4756gae17gaef54ee222dd" version="2" />
+          			<attribute id="LevelName" type="FixedString" value="" />
+          			<attribute id="MapKey" type="FixedString" value="69697f36-e10b-4124-86c3-4daf5c832f7d" />
+          			<attribute id="Name" type="LSString" value="Helper_Spell_HungerOfHadar" />
+          			<attribute id="ParentTemplateId" type="FixedString" value="06f96d65-0ee5-4ed5-a30a-92a3bfe3f708" />
+          			<attribute id="Type" type="FixedString" value="item" />
+          			<attribute id="VisualTemplate" type="FixedString" value="" />
+          			<attribute id="_OriginalFileVersion_" type="int64" value="144115205255725658" />
+        		</node>
 			</children>
 		</node>
 	</region>
