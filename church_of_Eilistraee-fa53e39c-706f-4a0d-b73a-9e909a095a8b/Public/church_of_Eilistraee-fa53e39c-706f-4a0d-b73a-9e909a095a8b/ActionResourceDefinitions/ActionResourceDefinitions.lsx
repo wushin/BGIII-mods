@@ -17,8 +17,8 @@
           <attribute id="IsSpellResource" type="bool" value="false"/>
         </node>
         <node id="ActionResourceDefinition">
-          <attribute id="Description" type="TranslatedString" handle="hc91c8298g7ae5g4b31gbab7g1b5eb102acbe" version="1"/>
-          <attribute id="DisplayName" type="TranslatedString" handle="h71a6820egd3e3g4a31g9383g41bc377d9b55" version="1"/>
+          <attribute id="Description" type="TranslatedString" handle="hfccb1uijzspi1dmxasbb0n1gley908sdw7cb" version="1"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="ha9veuy9m40t7kqefnib1k1m88539flkrqeb7" version="1"/>
           <attribute id="MaxLevel" type="uint32" value="0"/>
           <attribute id="Name" type="FixedString" value="CrownOfStars"/>
           <attribute id="ReplenishType" type="FixedString" value="Never"/>

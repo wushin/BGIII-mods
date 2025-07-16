@@ -251,7 +251,7 @@
 	<content contentuid="hldl10eigxpszj9u8k4lp4vaecsmcj8r57a00" version="1">You call down a pillar of moonlit grace infused with the divine presence of the Dark Maiden. All creatures within the area take [2] and [3]. You can use an action to move it [1].</content>
 	<content contentuid="h00129aecg465dg40afgb002gbddc01ec7e8d" version="1">You conjure [2] shards of concentrated moonlight and send them streaking toward targets within range. Each shard always hits and deals [1].</content>
 	<content contentuid="h30914ddbg67dag4d04gbf56g5bd6f655c1eb" version="1">Wrap yourself in silvery moonlight and vanish, reappearing in an unoccupied space within 18m.</content>
-	<content contentuid="h4d9a5099g6f1fg450fg9369g7e28636c0169" version="1">Move Eilistraee’s Moonlight up to [1]. The Moonlight damages any creature [2] and [3] that enters it or starts its turn inside.</content>
+	<content contentuid="h4d9a5099g6f1fg450fg9369g7e28636c0169" version="1">Move Eilistraee&apos;s Moonlight up to [1]. The Moonlight damages any creature [2] and [3] that enters it or starts its turn inside.</content>
 	<content contentuid="h576157e4gd088g4380gb2e1g13683c705523" version="1">Fire a bolt of concentrated moonlight at a target, dealing [1] and [2] and leaving a frozen surface at the point of impact. </content>
 	<content contentuid="h599d19a1ge3c4g4ad8g9ba4g3940645b6a62" version="1">Lunar Shift</content>
 	<content contentuid="h59c676d3gf9c5g4c7dg9a5eg24e87f41e221" version="1">Prismatic Spray</content>
@@ -263,9 +263,30 @@
 	<content contentuid="hbe252d88g7e8dg4938gafedg2a4c2b4c900b" version="1">Moonlit Sanctuary</content>
 	<content contentuid="hd3d733b3g4eb3g40b0gba98g2e94ea999f46" version="1">Six multicolored rays of light flash from your hand. Each creature in a 18m cone must make a Dexterity saving throw. For each target, roll a d6 to determine the effect. &lt;br&gt;&lt;br&gt;On roll of 1: [1], on 2: [2], on 3: [3], on 4: [4], on 5: [5] and half as much on a failed save. On a 6 and a failed save, the target is &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is &lt;LSTag Type="Status" Tooltip="BANISHED"&gt;Banished&lt;/LSTag&gt; for 4 turns.</content>
 	<content contentuid="hd4c5a01bgcf32g43degba62g51413534cfdd" version="1">Conjure a 4m radius circle of silvery moonlight that lasts for 3 turns. Allies inside restore [1] each turn, gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Necrotic and Psychic damage. Targets cannot become &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt; and Invisibility is removed while inside.</content>
-	<content contentuid="he1e991b0g4498g47d6gb7c0g465aad6880fb" version="1">Eilistraee’s Moonlight</content>
+	<content contentuid="he1e991b0g4498g47d6gb7c0g465aad6880fb" version="1">Eilistraee&apos;s Moonlight</content>
 	<content contentuid="hedf1516eg5a4fg43f2ga6d5g82de9dd2a247" version="1">You call down a pillar of moonlit grace infused with the divine presence of the Dark Maiden. All creatures within the area take [2] and [3]. You can use an action to move it [1].</content>
   <content contentuid="h52im4irbm1l3z71g7nb7idwbp85rt5qutdwd" version="1">Maddening Darkness</content>
   <content contentuid="hy8f8b3fchkm30usi84fo7yxi0sppcfk3hatd" version="1">Creatures within this black sphere are &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;,&lt;LSTag Type="Status" Tooltip="HIDEOUS_LAUGHTER"&gt;Hideous Laughter&lt;/LSTag&gt; and take damage at the start of their turn.</content>
   <content contentuid="hele95a3em0t6ijozhcujq7caeopzlp0rzadc" version="1">Creatures starting their turn in the area need to make a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt; or take [1] and be  &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; and succumb to &lt;LSTag Type="Status" Tooltip="HIDEOUS_LAUGHTER"&gt;Hideous Laughter&lt;/LSTag&gt;. On a successful save, they only take 1/2 damage and suffer no status aliments.</content>
+  <content contentuid="hswofvo2ps2ishhughl7kr5sot677lysilb7y" version="1">Mass Eilistraean Dream</content>
+  <content contentuid="h9gx12k1ftpyydydjwywmeczdhdz9y7qyosav" version="1">Heal each Ally that is not Undead or a Construct for 700 hp withing 30m and remove Poison, Disease, Paralysed, Blinded, Silence and Color Spray effects from them. Also removes the Astarion debuff.</content>
+  <content contentuid="h7kqvrniquel5nxjuicp3jhmy9orv2jff3a95" version="1">Invulnerability</content>
+  <content contentuid="hx5akzzzfe3hcl0zyq0ggcpgyfuon4kmsiaat" version="1">You become immune to all damage and all status effects.</content>
+  <content contentuid="hw8eirmfwpy3rhzl529ae2ue9hl2gb3wtw8q9" version="1">Moon Burst</content>
+  <content contentuid="ho8m0v7xnaq95obbbsu38s20zmgh417o5v5v1" version="1">Brilliant Moonlight flashes in a 20m radius centered on a point you choose within range. Each creature in that light must make a Constitution saving throw. On a failed save, a creature takes [1] radiant and [1] cold damage and is blinded for 10 turns. On a successful save, it takes half as much damage and isn’t blinded by this spell. Undead and oozes have disadvantage on this saving throw.</content>
+  <content contentuid="h3yewsit0vhsafxbv99znyepuszlglnmb61bu" version="1">Holy Aura</content>
+  <content contentuid="h7mrn0p2djsjb67pat4y83aamqepfyz8k2l2r" version="1">Allies in the Aura receive advantage on al ability checks. Enemies in the Aura recieve Disadvantage on Attack Rolls and take [1] damage.</content>
+  <content contentuid="hm8xd5f62ukq9wdo5vvmd971x2zoiy8m9gbtm" version="1">Dominate Monster</content>
+  <content contentuid="hyudpye69hdquo2yq5fnioj5qgu4r7jaqffbs" version="1">Target anything not a Plant and make it an ally regardless of level or type.</content>
+  <content contentuid="hxneb481ivxgng91frr0iafam1s0oijke8145" version="1">Divine Word</content>
+  <content contentuid="hhs2o48f6uvdin97wzvna0ef0d75ozv3lb3dg" version="1">Enemies within 30m who fail their save with less than 20 HP are instantly killed, those with 30 or less HP are blinded and stunned, those with 40 or less are Blinded. Any fiend, demon, celestial or elemental is banished for 10 turns.</content>
+  <content contentuid="h97n96uixw7atw7xsss4f8ec44xdf28irxqq1" version="1">Crown of Stars</content>
+  <content contentuid="h6dj0yfmy5v7long7dvizypjs8ci2c3o4hvle" version="1">Seven star-like motes of light appear and orbit your head until the spell ends. You can use a bonus action to send one of the motes streaking toward one creature or object within 30m feet of you. When you do so, make a ranged spell attack. On a hit, the target takes [1] radiant damage. Whether you hit or miss, the mote is expended. The spell ends early if you expend the last mote. If you have four or more motes remaining, they shed bright light in a 30-foot radius and dim light for an additional 30 feet.</content>
+  <content contentuid="he4xpjb0zl07rt2ypmj5xjb81a5xvt7pnd204" version="1">Dominated Monster</content>
+  <content contentuid="hnrbd600ocliex29194rygmze9rd02879vdrh" version="1">Crown of Stars Shard Attack</content>
+  <content contentuid="h81a6q1uqzcpmvxxodpaks1ji0bkrxaq143ub" version="1">Use a bonus action to send a shard at an enemy causing [1] damage.</content>
+  <content contentuid="hnv8b97jwz6eg7w7648kbv6bo7dpaemd6q365" version="1">Holy Aura Ally Status</content>
+  <content contentuid="hjtj5v505am95lif869tcf4skd07cyjnd2obk" version="1">Holy Aura Enemy Status</content>
+  <content contentuid="ha9veuy9m40t7kqefnib1k1m88539flkrqeb7" version="1">Crown of Stars Shards</content>
+  <content contentuid="hfccb1uijzspi1dmxasbb0n1gley908sdw7cb" version="1">You can use a bonus action to send one of the motes streaking toward one creature or object within 30m feet of you. When you do so, make a ranged spell attack. On a hit, the target takes [1] radiant damage.</content>
 </contentList>
