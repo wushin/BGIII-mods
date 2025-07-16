@@ -171,12 +171,12 @@
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="Eilistraean Level 7"/>
-          <attribute id="Spells" type="LSString" value="Target_Regenerate;Zone_EilistraeanPrismSpray;Target_CrownOfStars"/>
+          <attribute id="Spells" type="LSString" value="Target_Regenerate;Zone_EilistraeanPrismSpray;Target_CrownOfStars;Shout_DivineWord;"/>
           <attribute id="UUID" type="guid" value="cc7cadb1-4927-48dd-9a5b-798783683cff"/>
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="Eilistraean Level 8"/>
-          <attribute id="Spells" type="LSString" value="Target_MoonBurst;Target_MoonLightMaddness;Target_DominateMonster;"/>
+          <attribute id="Spells" type="LSString" value="Target_MoonBurst;Target_MaddeningDarkness;Target_DominateMonster;Shout_HolyAura;"/>
           <attribute id="UUID" type="guid" value="ada9596f-2c7e-425c-9173-6173ac61b4cf"/>
         </node>
         <node id="SpellList">
