@@ -5,6 +5,78 @@
     <node id="root">
       <children>
         <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="ActionResource(Movement,12,0);ProficiencyBonus(Skill,Perception);"/>
+          <attribute id="Level" type="uint8" value="1"/>
+          <attribute id="Name" type="LSString" value="Elf_Eilistraean"/>
+          <attribute id="PassivesAdded" type="LSString" value="Darkvision;FeyAncestry"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(bb74945e-10cb-49a7-a2de-ccf2057f981e,,Charisma,,AlwaysPrepared)"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="d3a83912-f814-4ea6-8a40-bb016b80fe98"/>
+          <attribute id="UUID" type="guid" value="bfeefd57-df1c-430f-a0ae-4cdd577dc6c4"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="1"/>
+          <attribute id="Name" type="LSString" value="Elf_Eilistraean_Underdark"/>
+          <attribute id="PassivesAdded" type="LSString" value="Elf_Eilistraean_Underdark_Weapons"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="Selectors" type="LSString" value="SelectPassives(64ea271f-9780-4b25-989d-b7914f827958,1)"/>
+          <attribute id="TableUUID" type="guid" value="d98ae9ea-b75f-4618-b99e-6ea8e604b6f9"/>
+          <attribute id="UUID" type="guid" value="c91bb3ce-73d0-4330-80e1-562880a53472"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="1"/>
+          <attribute id="Name" type="LSString" value="Elf_Eilistraean_Surface"/>
+          <attribute id="PassivesAdded" type="LSString" value="Elf_Eilistraean_Surface_Weapons"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="Selectors" type="LSString" value="SelectPassives(b4b3ff87-f9a6-4731-ba40-88ea8f4ec60e,1)"/>
+          <attribute id="TableUUID" type="guid" value="674c4853-c2a3-440c-8225-c15fc2df03aa"/>
+          <attribute id="UUID" type="guid" value="4d08f7c1-15a1-4417-b94e-0570747e95b5"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="2"/>
+          <attribute id="Name" type="LSString" value="Elf_Eilistraean"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="d3a83912-f814-4ea6-8a40-bb016b80fe98"/>
+          <attribute id="UUID" type="guid" value="da438c7b-2ddf-4e2e-9c56-cd16489e8536"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="2"/>
+          <attribute id="Name" type="LSString" value="Elf_Eilistraean_Underdark"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="d98ae9ea-b75f-4618-b99e-6ea8e604b6f9"/>
+          <attribute id="UUID" type="guid" value="4911c2a6-cf81-433d-b393-4acd35a45c04"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="2"/>
+          <attribute id="Name" type="LSString" value="Elf_Eilistraean_Surface"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="674c4853-c2a3-440c-8225-c15fc2df03aa"/>
+          <attribute id="UUID" type="guid" value="86acbbd3-a9ca-40ff-b702-7593cf12b2e6"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="3"/>
+          <attribute id="Name" type="LSString" value="Elf_Eilistraean"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="TableUUID" type="guid" value="d3a83912-f814-4ea6-8a40-bb016b80fe98"/>
+          <attribute id="UUID" type="guid" value="da438c7b-2ddf-4e2e-9c56-cd16489e8536"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="3"/>
+          <attribute id="Name" type="LSString" value="Elf_Eilistraean_Underdark"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="Selectors" type="LSString" value="SelectPassives(64ea271f-9780-4b25-989d-b7914f827958,1)"/>
+          <attribute id="TableUUID" type="guid" value="d98ae9ea-b75f-4618-b99e-6ea8e604b6f9"/>
+          <attribute id="UUID" type="guid" value="e91f8e0d-c69e-4163-9122-b227cb0ecb5b"/>
+        </node>
+        <node id="Progression">
+          <attribute id="Level" type="uint8" value="3"/>
+          <attribute id="Name" type="LSString" value="Elf_Eilistraean_Surface"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="Selectors" type="LSString" value="SelectPassives(b4b3ff87-f9a6-4731-ba40-88ea8f4ec60e,1)"/>
+          <attribute id="TableUUID" type="guid" value="674c4853-c2a3-440c-8225-c15fc2df03aa"/>
+          <attribute id="UUID" type="guid" value="96771ef2-74ce-493e-a80a-204ddb024774"/>
+        </node>
+        <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="false"/>
           <attribute id="IsMulticlass" type="bool" value="false"/>
           <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Charisma);Proficiency(MusicalInstrument);Proficiency(Daggers);Proficiency(Shortswords);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Longswords);ActionResource(Bladesong,4,0);"/>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<save>
+  <version major="4" minor="7" revision="1" build="3"/>
+  <region id="Backgrounds">
+    <node id="root">
+      <children>
+        <node id="Background">
+          <attribute id="Description" type="TranslatedString" handle="h2abf9d4cg876dg498agafa4ga65496c28f10" version="1"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="h8ef33f81g0dacg428bgad6dge079d247d5fa" version="1"/>
+          <attribute id="Passives" type="LSString" value="Background_Seeker"/>
+          <attribute id="UUID" type="guid" value="00fe0145-2c18-47dd-b969-6223e8c12f8f"/>
+          <children>
+            <node id="Tags">
+              <attribute id="Object" type="guid" value="d81df6f9-9f6e-4146-841a-9f285e6ee879"/>
+            </node>
+            <node id="Tags">
+              <attribute id="Object" type="guid" value="9c38904c-4aed-4d22-9038-fc7d103aaed5"/>
+            </node>
+          </children>
+        </node>
+        <node id="Background">
+          <attribute id="Description" type="TranslatedString" handle="hs7a02occ7w1blkje8o3v2xiprfn6o9av3vo0" version="1"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="htrz8juomwhxndw01sffvixp9l9ft0lb0at7p" version="1"/>
+          <attribute id="Passives" type="LSString" value="Background_Keeper"/>
+          <attribute id="UUID" type="guid" value="05002aae-5340-402a-aec9-ff9220c5460b"/>
+          <children>
+            <node id="Tags">
+              <attribute id="Object" type="guid" value="d135f265-c2e1-4077-a836-b548ee871681"/>
+            </node>
+            <node id="Tags">
+              <attribute id="Object" type="guid" value="906d1961-e9c6-4170-b775-62797a0efe1c"/>
+            </node>
+          </children>
+        </node>
+        <node id="Background">
+          <attribute id="Description" type="TranslatedString" handle="hk4dze1l220d7z82juwya8z0v1bb51pzt0p37" version="1"/>
+          <attribute id="DisplayName" type="TranslatedString" handle="hgqzzqv39md06ft3krvuqe4d19qmo21vds1y4" version="1"/>
+          <attribute id="Passives" type="LSString" value="Background_Examiner"/>
+          <attribute id="UUID" type="guid" value="79453e62-75a6-48d2-bd2a-6ea87f5ad240"/>
+          <children>
+            <node id="Tags">
+              <attribute id="Object" type="guid" value="dad18490-c61d-4958-805c-f017eb68f8a0"/>
+            </node>
+            <node id="Tags">
+              <attribute id="Object" type="guid" value="baf9fb0e-f535-40a0-bb78-3ec289d84e66"/>
+            </node>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

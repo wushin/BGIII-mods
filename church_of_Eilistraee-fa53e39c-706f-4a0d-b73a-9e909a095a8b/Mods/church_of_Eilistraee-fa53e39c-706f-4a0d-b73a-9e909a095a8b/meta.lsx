@@ -9,7 +9,7 @@
         <node id="ModuleInfo">
           <attribute id="Author" type="LSString" value="Edie" />
           <attribute id="CharacterCreationLevelName" type="FixedString" value="" />
-          <attribute id="Description" type="LSString" value="Classes for the followers of Eilistraee." />
+          <attribute id="Description" type="LSString" value="Eilistraean Elves, Neither fully embracing the light or entirely shunning the dark, these Elves live somewhere inbetween and classes for them." />
           <attribute id="FileSize" type="uint64" value="7246246" />
           <attribute id="Folder" type="LSString" value="church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b" />
           <attribute id="GMTemplate" type="FixedString" value="" />
