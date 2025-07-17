@@ -391,28 +391,28 @@
             <attribute id="V2" type="float" value="0.87402344"/>
         </node>
         <node id="IconUV">
-            <attribute id="MapKey" type="FixedString" value=""/>
+            <attribute id="MapKey" type="FixedString" value="Target_HandsOfHealing"/>
             <attribute id="U1" type="float" value="0.50097656"/>
             <attribute id="U2" type="float" value="0.62402344"/>
             <attribute id="V1" type="float" value="0.75097656"/>
             <attribute id="V2" type="float" value="0.87402344"/>
         </node>
         <node id="IconUV">
-            <attribute id="MapKey" type="FixedString" value=""/>
+            <attribute id="MapKey" type="FixedString" value="Target_HandsOfHarming"/>
             <attribute id="U1" type="float" value="0.62597656"/>
             <attribute id="U2" type="float" value="0.74902344"/>
             <attribute id="V1" type="float" value="0.75097656"/>
             <attribute id="V2" type="float" value="0.87402344"/>
         </node>
         <node id="IconUV">
-            <attribute id="MapKey" type="FixedString" value=""/>
+            <attribute id="MapKey" type="FixedString" value="Target_HandsOfHealingAndHarm"/>
             <attribute id="U1" type="float" value="0.75097656"/>
             <attribute id="U2" type="float" value="0.87402344"/>
             <attribute id="V1" type="float" value="0.75097656"/>
             <attribute id="V2" type="float" value="0.87402344"/>
         </node>
         <node id="IconUV">
-            <attribute id="MapKey" type="FixedString" value=""/>
+            <attribute id="MapKey" type="FixedString" value="Target_FistOfTheFullMoon"/>
             <attribute id="U1" type="float" value="0.87597656"/>
             <attribute id="U2" type="float" value="0.99902344"/>
             <attribute id="V1" type="float" value="0.75097656"/>
@@ -420,14 +420,14 @@
         </node>
 
         <node id="IconUV">
-            <attribute id="MapKey" type="FixedString" value=""/>
+            <attribute id="MapKey" type="FixedString" value="Target_QuiveringPalm"/>
             <attribute id="U1" type="float" value="0.0009765625"/>
             <attribute id="U2" type="float" value="0.12402344"/>
             <attribute id="V1" type="float" value="0.87597656"/>
             <attribute id="V2" type="float" value="0.99902344"/>
         </node>
         <node id="IconUV">
-            <attribute id="MapKey" type="FixedString" value=""/>
+            <attribute id="MapKey" type="FixedString" value="Shout_QuiveringPalm_Dismiss"/>
             <attribute id="U1" type="float" value="0.12597656"/>
             <attribute id="U2" type="float" value="0.24902344"/>
             <attribute id="V1" type="float" value="0.87597656"/>

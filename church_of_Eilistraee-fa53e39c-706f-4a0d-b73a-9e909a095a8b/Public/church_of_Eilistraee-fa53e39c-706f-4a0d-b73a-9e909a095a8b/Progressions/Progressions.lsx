@@ -337,7 +337,7 @@
           <attribute id="Level" type="uint8" value="12"/>
           <attribute id="Name" type="LSString" value="SilverhairKnight"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="Selectors" type="LSString" value="AddSpells(212927e8-0a51-42f0-a019-3c2f681dafce,,,,AlwaysPrepared);"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(212927e8-0a51-42f0-a019-3c2f681dafce,,,,AlwaysPrepared);AddSpells(61f00a2f-b8ae-4278-aa3f-ca0d78ff1e5e);"/>
           <attribute id="TableUUID" type="guid" value="3d4d52ad-65e5-4dc9-9ec7-a360092ab0dd"/>
           <attribute id="UUID" type="guid" value="453ebef2-c26c-4fd3-97ca-cdf265236099"/>
         </node>
@@ -374,6 +374,7 @@
           <attribute id="Level" type="uint8" value="16"/>
           <attribute id="Name" type="LSString" value="SilverhairKnight"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(fb30e35c-3efa-46d7-b28b-28e2af99bd4f);"/>
           <attribute id="TableUUID" type="guid" value="3d4d52ad-65e5-4dc9-9ec7-a360092ab0dd"/>
           <attribute id="UUID" type="guid" value="b7e59d88-cc28-482e-96a5-1b0d185abe40"/>
         </node>
