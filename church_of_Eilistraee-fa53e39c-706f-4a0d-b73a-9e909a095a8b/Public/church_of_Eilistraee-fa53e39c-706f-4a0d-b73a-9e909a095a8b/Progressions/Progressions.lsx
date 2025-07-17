@@ -223,9 +223,9 @@
           <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Constitution);ProficiencyBonus(SavingThrow,Charisma);Proficiency(MusicalInstrument);Proficiency(Daggers);Proficiency(Shortswords);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Longswords);ActionResource(KiPoint,2,0);"/>
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="SilverhairKnight"/>
-          <attribute id="PassivesAdded" type="LSString" value="UnarmoredDefense_Monk;MartialArts_DextrousUnarmedAttacks;MartialArts_UnarmedDamage;MartialArts_BonusUnarmedStrike;Monk_SoundSwitch;FlurryOfBlowsUnlock;"/>
+          <attribute id="PassivesAdded" type="LSString" value="UnarmoredDefense_Monk;MartialArts_DextrousUnarmedAttacks;Silverhairknight_UnarmedDamage;MartialArts_BonusUnarmedStrike;Monk_SoundSwitch;FlurryOfBlowsUnlock;"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="Selectors" type="LSString" value="SelectEquipment(f372063f-130d-49cc-9311-220c0906cd79,1,WarAndSong);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectEquipment(a7cfcf8f-21da-4edd-9a12-b02df197df45,1,EilistraeanInstrument);SelectSkills(92330862-e3b7-43dd-87b7-963733c91da7,5);AddSpells(e4309598-46db-4250-aad8-21d31dfd936d,,,,AlwaysPrepared);"/>
+          <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectEquipment(a7cfcf8f-21da-4edd-9a12-b02df197df45,1,EilistraeanInstrument);SelectSkills(92330862-e3b7-43dd-87b7-963733c91da7,5);AddSpells(e4309598-46db-4250-aad8-21d31dfd936d,,,,AlwaysPrepared);"/>
           <attribute id="TableUUID" type="guid" value="3d4d52ad-65e5-4dc9-9ec7-a360092ab0dd"/>
           <attribute id="UUID" type="guid" value="a8411b20-f57f-47c7-8d95-e3ef0b9ac440"/>
         </node>

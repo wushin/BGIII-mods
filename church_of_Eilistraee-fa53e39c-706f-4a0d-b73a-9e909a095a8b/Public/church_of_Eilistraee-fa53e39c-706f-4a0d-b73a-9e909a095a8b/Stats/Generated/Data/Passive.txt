@@ -119,3 +119,12 @@ data "DescriptionParams" "LevelMapValue(EilistraeanSongDmg);SpellCastingAbilityM
 data "Icon" "Action_Monk_FlurryOfBlows"
 data "Properties" "Highlighted"
 data "Boosts" "UnlockInterrupt(Interrupt_FlurryOfHealing);UnlockInterrupt(Interrupt_FlurryOfHarming);UnlockInterrupt(Interrupt_FlurryOfHealingAndHarm);"
+
+new entry "Silverhairknight_UnarmedDamage"
+type "PassiveData"
+data "DisplayName" "hsrrgvhjcxjoumcuhrnm1b9cunobajgnho3wo;1"
+data "Description" "hnnzuay44020gy865g7cdq183be7cinhk0ajd;1"
+data "DescriptionParams" "DealDamage(LevelMapValue(EilistraeanSongDmg), Bludgeoning)"
+data "Icon" "PassiveFeature_MartialArts_UnarmedDamage"
+data "Properties" "Highlighted"
+data "Boosts" "MonkWeaponDamageDiceOverride(LevelMapValue(EilistraeanSongDmg))"

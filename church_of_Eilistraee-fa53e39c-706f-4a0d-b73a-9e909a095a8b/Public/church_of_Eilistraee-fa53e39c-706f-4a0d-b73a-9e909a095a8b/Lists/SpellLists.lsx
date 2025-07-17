@@ -16,7 +16,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="Eilistraean Moon Dance"/>
-          <attribute id="Spells" type="LSString" value="Shout_EilistraeanMoonDance;Shout_EilistraeanWeaponBond;"/>
+          <attribute id="Spells" type="LSString" value="Shout_EilistraeanMoonDance;"/>
           <attribute id="UUID" type="guid" value="cbfbe1db-3f42-4053-a459-6644bdb06271"/>
         </node>
         <node id="SpellList">
