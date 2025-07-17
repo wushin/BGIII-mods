@@ -5,10 +5,28 @@
     <node id="root">
       <children>
         <node id="DefaultValue">
-          <attribute id="Add" type="LSString" value="Dexterity;Charisma"/>
+          <attribute id="Add" type="LSString" value="Dexterity;Intelligence"/>
           <attribute id="Level" type="int32" value="1"/>
-          <attribute id="TableUUID" type="guid" value="89a84483-08b0-4e34-87b8-076b57232f1a"/>
-          <attribute id="UUID" type="guid" value="b9149c8e-52c8-46e5-9cb6-fc39301c05fe"/>
+          <attribute id="TableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
+          <attribute id="UUID" type="guid" value="4159e893-43b6-4579-b8fc-578266afa52a"/>
+        </node>
+        <node id="DefaultValue">
+          <attribute id="Add" type="LSString" value="Constitution;Wisdom"/>
+          <attribute id="Level" type="int32" value="1"/>
+          <attribute id="TableUUID" type="guid" value="3d4d52ad-65e5-4dc9-9ec7-a360092ab0dd"/>
+          <attribute id="UUID" type="guid" value="56dc5a34-7307-4f9e-b0d2-d96dd1ee6121"/>
+        </node>
+        <node id="DefaultValue">
+          <attribute id="Add" type="LSString" value="Strength;Charisma"/>
+          <attribute id="Level" type="int32" value="1"/>
+          <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
+          <attribute id="UUID" type="guid" value="84d85f48-35f2-472f-a0f8-285794b96605"/>
+        </node>
+        <node id="DefaultValue">
+          <attribute id="Add" type="LSString" value="Wisdom;Charisma"/>
+          <attribute id="Level" type="int32" value="1"/>
+          <attribute id="TableUUID" type="guid" value="ee3f894e-fa8b-46d9-89bd-e34a1572b209"/>
+          <attribute id="UUID" type="guid" value="f535fc6b-2b6f-4838-bf76-e4ef4317bd19"/>
         </node>
       </children>
     </node>
