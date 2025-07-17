@@ -130,12 +130,6 @@
   <content contentuid="h5g2gzv4vjn5edu73a8r0t34zafj7p0k8n40d" version="1">Equipping a ranged weapon is incompatible with Eilistraean Song.</content>
   <content contentuid="htfz1sh1bcl1s38rxiw6u9znogp8g1go9c0q5" version="1">Equipped armour is incompatible with Eilistraean Song.</content>
   <content contentuid="h85a6116cgdcc2g4ff4g99bdgbd111322c5c3" version="1">Shadow Step</content>
-  <content contentuid="h9befc561gb9a5g4330gb1a0g1eaf5ed5b0b1" version="1">Eilistraean Spell Song Level Two</content>
-  <content contentuid="h9c1aeb81gd11eg4af1g8e4bgbefda966aa51" version="1">Eilistraean Spell Song Level Five</content>
-  <content contentuid="hq86sfl8gd1ldrelw8xjnp55e9hc97rbhmp7k" version="1">Eilistraean Spell Song Level Six</content>
-  <content contentuid="h9dadwdhqkgqw95vl9zvb7ufbi01lod6v8lv0" version="1">Eilistraean Spell Song Level Seven</content>
-  <content contentuid="hl7c1pqrw388cnz56gul5lr1w1nocvdxkejog" version="1">Eilistraean Spell Song Level Eight</content>
-  <content contentuid="he8vya1v2pm8psjuatk60egas2jxfsp5wowwr" version="1">Eilistraean Spell Song Level Nine</content>
   <content contentuid="h9c3b8dadg3600g4865gaed0g1b3fd0d4be8e" version="1">Nullify another creature&apos;s spell as a reaction. The spell must be Level [1] or lower. If it is higher, you must succeed a &lt;LSTag Tooltip="AbilityCheck"&gt;Check&lt;/LSTag&gt; to nullify it, the difficulty of which is based on  the spell&apos;s Level.</content>
   <content contentuid="h7cc1e81bg6fb0g4501g8749g399dd04d3847" version="1">Can only use Moon Fire Blade once per action.</content>
   <content contentuid="hed90ea51g822dg4011ga6a8gc8c40527698a" version="1">Moon Fire Blade on Critical</content>
@@ -155,7 +149,8 @@
   <content contentuid="hb24c36c5g3cedg4f48g9098g73e7c2086efb" version="1">If you move after making a melee attack, you don&apos;t provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt; from your target.</content>
   <content contentuid="h1cezs8v77hcjtf4g5x46ychyvc8u28jfeg3c" version="1">This effect still works if your attack misses.</content>
   <content contentuid="hb3137566g45dbg49c3gac35g39e9d286dfda" version="1">Eilistraean Initiative</content>
-  <content contentuid="hb3e939dag71dcg409bgac55ge9bc9016376e" version="1">Eilistraean Spell Song Level One</content>
+  <content contentuid="hb3e939dag71dcg409bgac55ge9bc9016376e" version="1">Eilistraean Spell Songs</content>
+  <content contentuid="hmayag4staiochanjjoxqggi995702n9c9u76" version="1">You gain the ability to channel certain spells through song.</content>
   <content contentuid="hb777ae33g478fg4591g9941gfc4a3d2055b1" version="1">Eilistraean Mockery</content>
   <content contentuid="h3522f4b1gfd3fg4708g84a9g68e7133d34a0" version="1">Can burn a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_MoonFireBladeExtra"&gt;Spread Moon Fire Blade&lt;/LSTag&gt;. Removed if you move.</content>
   <content contentuid="hb83ff5a2g23a5g4f1cga48bg09a70ba7d131" version="1">You gain an additional way to use your Sneak Attack; You can now also perform sneak attacks if there are no other enemies within [1] of the target (the enemy is isolated).</content>
@@ -289,4 +284,20 @@
   <content contentuid="hjtj5v505am95lif869tcf4skd07cyjnd2obk" version="1">Holy Aura Enemy Status</content>
   <content contentuid="ha9veuy9m40t7kqefnib1k1m88539flkrqeb7" version="1">Crown of Stars Shards</content>
   <content contentuid="hfccb1uijzspi1dmxasbb0n1gley908sdw7cb" version="1">You can use a bonus action to send one of the motes streaking toward one creature or object within 30m feet of you. When you do so, make a ranged spell attack. On a hit, the target takes [1] radiant damage.</content>
+  <content contentuid="hdi672b8q44sdf2tjtd273b4zya75wvtx62fh" version="1">Flurry Of Healing and Harm</content>
+  <content contentuid="hrlvswstrp17tc7b9oce1u3hz91avw8d7p29n" version="1">You can now mete out a flurry of comfort and hurt. When you use Flurry of Blows, you can spend 1 Ki to an additional [1] + [2] of damage and you can spend another 1 Ki to regain [3] + [4] hit points.</content>
+  <content contentuid="h1yjm61sjldeam2xtq9r50t8xykxjibp0a8za" version="1">Hands Of Healing</content>
+  <content contentuid="h1uqprzwkpgyuxqz517yd806ruhg6xc5ezhzd" version="1">You can heal target for [1] + [2] hit points.</content>
+  <content contentuid="h1yjm61sjldeam2xtq9r50t8xykxjibp0a8za" version="1">Hands Of Harm</content>
+  <content contentuid="h1uqprzwkpgyuxqz517yd806ruhg6xc5ezhzd" version="1">You can harm a target for [1] + [2] hit points.</content>
+  <content contentuid="hxtom8ll7tty0tv0loh2sgzlp031h6dpa9pth" version="1">Flurry Of Healing</content>
+  <content contentuid="hmqlmzu4to6o2vbaypyseocuhna9b1j9dah3m" version="1">You can now mete out a flurry of comfort and hurt. When you use Flurry of Blows, you can spend 1 Ki to regain [1] + [2] hit points.</content>
+  <content contentuid="hfg6e0nz08mxaxsq7v843i0atnyekccqnirbb" version="1">Flurry Of Harm</content>
+  <content contentuid="hf0kmuldt3mb2z2vyty31jxf84cirachac4sm" version="1">You can now mete out a flurry of comfort and hurt. When you use Flurry of Blows, you can spend 1 Ki to an additional [1] + [2] of damage.</content>
+  <content contentuid="h3rri2t2yhikjpf2vokgezyf143267vbah3le" version="1">Quivering Palm</content>
+  <content contentuid="h695kh3zvu2a6l45euuftw58f0zn8so1xguhz" version="1">You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations. The vibrations are harmless unless you use your action to end them. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage. You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.</content>
+  <content contentuid="h6toieibhjig1l0zsdxglkkn3w3jxgoxru5s3" version="1">Quivering Palm Activation </content>
+  <content contentuid="hjtjv8cniyhk6qun0hszu3ltw5a9mq6aa69a2" version="1">Active Quivering Palm on target making them make a Constitution saving throw or die, on a save target takes 10d10 necrotic damage.</content>
+  <content contentuid="hhbwk63gmpue61dz5qacc440xjbhzj74c0spr" version="1">Quivering Palm Dismiss</content>
+  <content contentuid="h5xxkhbvensx5xvlcx66bnkxkpdufronunm3f" version="1">Dismiss Quivering Palm without any adverse effect on target.</content>
 </contentList>

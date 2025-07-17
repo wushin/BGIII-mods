@@ -56,22 +56,27 @@
         </node>
         <node id="SpellList">
             <attribute id="Name" type="FixedString" value="SilverhairKnightSpells Level 1"/>
-            <attribute id="Spells" type="LSString" value="Target_EilistraeanShadow_Ki;Shout_EilistraeanImage_Ki;"/>
+            <attribute id="Spells" type="LSString" value="Target_EilistraeanShadow_Ki_Cont;Shout_EilistraeanImage_Ki;"/>
             <attribute id="UUID" type="guid" value="e4309598-46db-4250-aad8-21d31dfd936d"/>
         </node>
         <node id="SpellList">
             <attribute id="Name" type="FixedString" value="SilverhairKnightSpells Level 2"/>
-            <attribute id="Spells" type="LSString" value="Shout_PatientDefense;Shout_Dash_StepOfTheWind;Shout_Disengage_StepOfTheWind"/>
+            <attribute id="Spells" type="LSString" value="Shout_PatientDefense;Shout_Dash_StepOfTheWind;Shout_Disengage_StepOfTheWind;Target_EilistraeanShadow_Ki_2"/>
             <attribute id="UUID" type="guid" value="61c423c4-34ec-42cd-8a32-376ffd0b66b9"/>
         </node>
         <node id="SpellList">
+            <attribute id="Name" type="FixedString" value="SilverhairKnightSpells Level 3"/>
+            <attribute id="Spells" type="LSString" value="Target_HandsOfHealing_Spell;Target_HandsOfHarming_Spell;"/>
+            <attribute id="UUID" type="guid" value="95017d8c-9a21-4406-8ab9-ba30f306b0e4"/>
+        </node>
+        <node id="SpellList">
             <attribute id="Name" type="FixedString" value="SilverhairKnightSpells Level 5"/>
-            <attribute id="Spells" type="LSString" value="Target_StunningStrike;Target_StunningStrike_Unarmed"/>
+            <attribute id="Spells" type="LSString" value="Target_StunningStrike;Target_StunningStrike_Unarmed;Target_EilistraeanShadow_Ki_3;"/>
             <attribute id="UUID" type="guid" value="daa1731b-5b66-42be-a771-b1d3b868ac85"/>
         </node>
         <node id="SpellList">
             <attribute id="Name" type="FixedString" value="SilverhairKnightSpells Level 7"/>
-            <attribute id="Spells" type="LSString" value="Shout_StillnessOfMind"/>
+            <attribute id="Spells" type="LSString" value="Shout_StillnessOfMind;Target_EilistraeanShadow_Ki_4"/>
             <attribute id="UUID" type="guid" value="38dc1ecc-6e52-46b7-89fa-d987cc41c640"/>
         </node>
         <node id="SpellList">
@@ -81,12 +86,12 @@
         </node>
         <node id="SpellList">
             <attribute id="Name" type="FixedString" value="SilverhairKnightSpells Level 12"/>
-            <attribute id="Spells" type="LSString" value=""/>
+            <attribute id="Spells" type="LSString" value="Target_FistOfTheFullMoon"/>
             <attribute id="UUID" type="guid" value="61f00a2f-b8ae-4278-aa3f-ca0d78ff1e5e"/>
         </node>
         <node id="SpellList">
             <attribute id="Name" type="FixedString" value="SilverhairKnightSpells Level 16"/>
-            <attribute id="Spells" type="LSString" value=""/>
+            <attribute id="Spells" type="LSString" value="Target_QuiveringPalm"/>
             <attribute id="UUID" type="guid" value="fb30e35c-3efa-46d7-b28b-28e2af99bd4f"/>
         </node>
         <node id="SpellList">
@@ -131,7 +136,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="ProtectorOfTheSongSpells Level 1"/>
-          <attribute id="Spells" type="LSString" value="Target_MoonFireBlade;Target_MoonFireBlade_Unlock;Target_MoonFireBlade_Critical_Unlock"/>
+          <attribute id="Spells" type="LSString" value="Passive_Oozebane;Target_MoonFireBlade;Target_MoonFireBlade_Unlock;Target_MoonFireBlade_Critical_Unlock"/>
           <attribute id="UUID" type="guid" value="9c57921c-0a34-408a-8b69-5c07b6f483a8"/>
         </node>
         <node id="SpellList">

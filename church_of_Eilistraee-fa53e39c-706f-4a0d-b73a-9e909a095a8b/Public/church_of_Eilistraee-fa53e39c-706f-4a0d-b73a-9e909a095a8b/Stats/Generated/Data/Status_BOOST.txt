@@ -810,3 +810,13 @@ data "StatusEffect" "b10b8029-ec10-4ca7-9483-5b27c9b6473a"
 data "ManagedStatusEffectGroup" "6435c10a-c67d-4f79-8813-b84b0762f92b"
 data "StatusPropertyFlags" "DisableOverhead;DisablePortraitIndicator;DisableCombatlog"
 
+new entry "QuiveringPalm"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "QuiveringPalm"
+
+new entry "QuiveringPalm_Self"
+type "StatusData"
+data "StatusType" "BOOST"
+data "StackId" "QuiveringPalm_Self"
+data "Boosts" "UnlockSpell(Shout_QuiveringPalm);UnlockSpell(Shout_QuiveringPalm_Dismiss);"

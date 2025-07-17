@@ -384,7 +384,7 @@
             <attribute id="V2" type="float" value="0.87402344"/>
         </node>
         <node id="IconUV">
-            <attribute id="MapKey" type="FixedString" value=""/>
+            <attribute id="MapKey" type="FixedString" value="EilistraeanSpellSongSlotOne"/>
             <attribute id="U1" type="float" value="0.37597656"/>
             <attribute id="U2" type="float" value="0.49902344"/>
             <attribute id="V1" type="float" value="0.75097656"/>

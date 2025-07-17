@@ -246,6 +246,7 @@
           <attribute id="Level" type="uint8" value="3"/>
           <attribute id="Name" type="LSString" value="SilverhairKnight"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(95017d8c-9a21-4406-8ab9-ba30f306b0e4);" />
           <attribute id="PassivesAdded" type="LSString" value="EilistraeanParry;"/>
 
           <attribute id="TableUUID" type="guid" value="3d4d52ad-65e5-4dc9-9ec7-a360092ab0dd"/>
@@ -326,6 +327,7 @@
           <attribute id="Level" type="uint8" value="11"/>
           <attribute id="Name" type="LSString" value="SilverhairKnight"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
+          <attribute id="PassivesAdded" type="LSString" value="Passive_FlurryOfHealingAndHarm"/>
           <attribute id="TableUUID" type="guid" value="3d4d52ad-65e5-4dc9-9ec7-a360092ab0dd"/>
           <attribute id="UUID" type="guid" value="7d4b55c6-c604-4956-865c-0172b29ea555"/>
         </node>
