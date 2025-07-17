@@ -39,7 +39,7 @@
           <attribute id="UUID" type="guid" value="d9ab231d-41ad-4baa-8f3b-6f65ad9db858"/>
         </node>
         <node id="Progression">
-          <attribute id="AllowImprovement" type="bool" value="false"/>
+          <attribute id="AllowImprovement" type="bool" value="true"/>
           <attribute id="Level" type="uint8" value="4"/>
           <attribute id="PassivesAdded" type="LSString" value="FightingStyle_BlindFighting"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
@@ -82,7 +82,7 @@
           <attribute id="UUID" type="guid" value="3f3be1c3-5968-47a3-a638-d6695e15b5d5"/>
         </node>
         <node id="Progression">
-          <attribute id="AllowImprovement" type="bool" value="false"/>
+          <attribute id="AllowImprovement" type="bool" value="true"/>
           <attribute id="PassivesAdded" type="LSString" value="Eilistraean_Trip,Eilistraean_Disarm"/>
           <attribute id="Level" type="uint8" value="8"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
@@ -124,7 +124,7 @@
           <attribute id="UUID" type="guid" value="8fa5294c-c2e2-4848-bb99-9bfad7f65726"/>
         </node>
         <node id="Progression">
-          <attribute id="AllowImprovement" type="bool" value="false"/>
+          <attribute id="AllowImprovement" type="bool" value="true"/>
           <attribute id="Boosts" type="LSString" value="ActionResource(Bladesong,1,0)"/>
           <attribute id="Level" type="uint8" value="12"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
@@ -167,7 +167,7 @@
           <attribute id="UUID" type="guid" value="0bc03ff2-847c-4720-9a07-0aca49ea87f9"/>
         </node>
         <node id="Progression">
-          <attribute id="AllowImprovement" type="bool" value="false"/>
+          <attribute id="AllowImprovement" type="bool" value="true"/>
           <attribute id="Level" type="uint8" value="16"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
@@ -198,7 +198,7 @@
           <attribute id="UUID" type="guid" value="406f1cf8-8346-486c-afda-c985af90ff91"/>
         </node>
         <node id="Progression">
-          <attribute id="AllowImprovement" type="bool" value="false"/>
+          <attribute id="AllowImprovement" type="bool" value="true"/>
           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="19"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
@@ -470,139 +470,141 @@
           <attribute id="UUID" type="guid" value="8ada9c2c-44d3-44b9-8eed-6495cc1e5223"/>
         </node>
         <node id="Progression">
-           <attribute id="Level" type="uint8" value="6"/>
-           <attribute id="Boosts" type="LSString" value="ActionResource(ChannelOath,1,0);"/>
-           <attribute id="Name" type="LSString" value="DarksongKnight"/>
-           <attribute id="ProgressionType" type="uint8" value="0"/>
-           <attribute id="Selectors" type="LSString" value="SelectPassives(677038ed-31ae-47e9-b8ea-a310d5eda0e0,1,EilistraeanManeuvers);" />
-           <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
-           <attribute id="UUID" type="guid" value="5c640fcc-5f7d-49f7-ae2b-f4b88b8c18ab"/>
+          <attribute id="Level" type="uint8" value="6"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(ChannelOath,1,0);"/>
+          <attribute id="Name" type="LSString" value="DarksongKnight"/>
+          <attribute id="ProgressionType" type="uint8" value="0"/>
+          <attribute id="Selectors" type="LSString" value="SelectPassives(677038ed-31ae-47e9-b8ea-a310d5eda0e0,1,EilistraeanManeuvers);" />
+          <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
+          <attribute id="UUID" type="guid" value="5c640fcc-5f7d-49f7-ae2b-f4b88b8c18ab"/>
         </node>
         <node id="Progression">
-           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2);ActionResource(SpellSongCharge,1,0);"/>
-           <attribute id="Level" type="uint8" value="7"/>
-           <attribute id="Name" type="LSString" value="DarksongKnight"/>
-           <attribute id="ProgressionType" type="uint8" value="0"/>
-           <attribute id="Selectors" type="LSString" value="AddSpells(162ccdf2-22e2-42fb-b708-f0184794200c,,,,AlwaysPrepared);AddSpells(84f212b3-72fb-4275-848c-cf7dca5e9178,,,,AlwaysPrepared);"/>
-           <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
-           <attribute id="UUID" type="guid" value="283b580d-db14-424f-a546-2a035bf2b1a3"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2);ActionResource(SpellSongCharge,1,0);"/>
+          <attribute id="Level" type="uint8" value="7"/>
+          <attribute id="Name" type="LSString" value="DarksongKnight"/>
+          <attribute id="ProgressionType" type="uint8" value="0"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(162ccdf2-22e2-42fb-b708-f0184794200c,,,,AlwaysPrepared);AddSpells(84f212b3-72fb-4275-848c-cf7dca5e9178,,,,AlwaysPrepared);"/>
+          <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
+          <attribute id="UUID" type="guid" value="283b580d-db14-424f-a546-2a035bf2b1a3"/>
         </node>
         <node id="Progression">
-           <attribute id="AllowImprovement" type="bool" value="true"/>
-           <attribute id="Boosts" type="LSString" value="ActionResource(ChannelOath,1,0)"/>
-           <attribute id="Level" type="uint8" value="8"/>
-           <attribute id="Name" type="LSString" value="DarksongKnight"/>
-           <attribute id="ProgressionType" type="uint8" value="0"/>
-           <attribute id="Selectors" type="LSString" value="SelectPassives(677038ed-31ae-47e9-b8ea-a310d5eda0e0,1,EilistraeanManeuvers);" />
-           <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
-           <attribute id="UUID" type="guid" value="fe0893a6-afb8-4d5b-a913-544bf8d94016"/>
+          <attribute id="AllowImprovement" type="bool" value="true"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(ChannelOath,1,0)"/>
+          <attribute id="Level" type="uint8" value="8"/>
+          <attribute id="Name" type="LSString" value="DarksongKnight"/>
+          <attribute id="ProgressionType" type="uint8" value="0"/>
+          <attribute id="Selectors" type="LSString" value="SelectPassives(677038ed-31ae-47e9-b8ea-a310d5eda0e0,1,EilistraeanManeuvers);" />
+          <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
+          <attribute id="UUID" type="guid" value="fe0893a6-afb8-4d5b-a913-544bf8d94016"/>
         </node>
         <node id="Progression">
-           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3);ActionResource(SpellSongCharge,1,0);"/>
-           <attribute id="Level" type="uint8" value="9"/>
-           <attribute id="Name" type="LSString" value="DarksongKnight"/>
-           <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel3;Passive_Lunar_Smite_3;EilistraeanAction;"/>
-           <attribute id="ProgressionType" type="uint8" value="0"/>
-           <attribute id="Selectors" type="LSString" value="AddSpells(309f5e62-3bb8-434c-914b-7ba105d23536);AddSpells(dc400971-f18b-4077-8af6-362976a5e18b,,,,AlwaysPrepared)"/>
-           <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
-           <attribute id="UUID" type="guid" value="7c7ef753-d7d7-4122-be17-d7854a30946d"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3);ActionResource(SpellSongCharge,1,0);"/>
+          <attribute id="Level" type="uint8" value="9"/>
+          <attribute id="Name" type="LSString" value="DarksongKnight"/>
+          <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel3;Passive_Lunar_Smite_3;EilistraeanAction;"/>
+          <attribute id="ProgressionType" type="uint8" value="0"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(309f5e62-3bb8-434c-914b-7ba105d23536);AddSpells(dc400971-f18b-4077-8af6-362976a5e18b,,,,AlwaysPrepared)"/>
+          <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
+          <attribute id="UUID" type="guid" value="7c7ef753-d7d7-4122-be17-d7854a30946d"/>
         </node>
         <node id="Progression">
-           <attribute id="Boosts" type="LSString" value="ActionResource(LayOnHandsCharge,1,0);"/>
-           <attribute id="Level" type="uint8" value="10"/>
-           <attribute id="Name" type="LSString" value="DarksongKnight"/>
-           <attribute id="ProgressionType" type="uint8" value="0"/>
-           <attribute id="Selectors" type="LSString" value="AddSpells(405bced9-ae7c-43cf-bd1d-7d132b74cd92,,,,AlwaysPrepared)"/>
-           <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
-           <attribute id="UUID" type="guid" value="bce3558f-a608-4a0a-bc5d-59e22dc6d1b5"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(LayOnHandsCharge,1,0);"/>
+          <attribute id="Level" type="uint8" value="10"/>
+          <attribute id="Name" type="LSString" value="DarksongKnight"/>
+          <attribute id="ProgressionType" type="uint8" value="0"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(405bced9-ae7c-43cf-bd1d-7d132b74cd92,,,,AlwaysPrepared)"/>
+          <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
+          <attribute id="UUID" type="guid" value="bce3558f-a608-4a0a-bc5d-59e22dc6d1b5"/>
         </node>
         <node id="Progression">
-           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3);ActionResource(SpellSongCharge,1,0);"/>
-           <attribute id="Level" type="uint8" value="11"/>
-           <attribute id="Name" type="LSString" value="DarksongKnight"/>
-           <attribute id="PassivesAdded" type="LSString" value="Passive_ImprovedLunarSmite"/>
-           <attribute id="ProgressionType" type="uint8" value="0"/>
-           <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
-           <attribute id="UUID" type="guid" value="29f5037b-e326-4836-a84a-76136a82a7ba"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,3);ActionResource(SpellSongCharge,1,0);"/>
+          <attribute id="Level" type="uint8" value="11"/>
+          <attribute id="Name" type="LSString" value="DarksongKnight"/>
+          <attribute id="PassivesAdded" type="LSString" value="Passive_ImprovedLunarSmite"/>
+          <attribute id="ProgressionType" type="uint8" value="0"/>
+          <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
+          <attribute id="UUID" type="guid" value="29f5037b-e326-4836-a84a-76136a82a7ba"/>
         </node>
         <node id="Progression">
-           <attribute id="AllowImprovement" type="bool" value="true"/>
-           <attribute id="Boosts" type="LSString" value="ActionResource(ChannelOath,1,0)"/>
-           <attribute id="Level" type="uint8" value="12"/>
-           <attribute id="Name" type="LSString" value="DarksongKnight"/>
-           <attribute id="ProgressionType" type="uint8" value="0"/>
-           <attribute id="Selectors" type="LSString" value="SelectPassives(677038ed-31ae-47e9-b8ea-a310d5eda0e0,1,EilistraeanManeuvers);AddSpells(212927e8-0a51-42f0-a019-3c2f681dafce,,,,AlwaysPrepared);" />
-           <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
-           <attribute id="UUID" type="guid" value="13360075-941d-45b6-bbe5-45bc0dbda7fb"/>
+          <attribute id="AllowImprovement" type="bool" value="true"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(ChannelOath,1,0)"/>
+          <attribute id="Level" type="uint8" value="12"/>
+          <attribute id="Name" type="LSString" value="DarksongKnight"/>
+          <attribute id="ProgressionType" type="uint8" value="0"/>
+          <attribute id="Selectors" type="LSString" value="SelectPassives(677038ed-31ae-47e9-b8ea-a310d5eda0e0,1,EilistraeanManeuvers);AddSpells(212927e8-0a51-42f0-a019-3c2f681dafce,,,,AlwaysPrepared);" />
+          <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
+          <attribute id="UUID" type="guid" value="13360075-941d-45b6-bbe5-45bc0dbda7fb"/>
         </node>
         <node id="Progression">
-           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSongCharge,1,0);"/>
-           <attribute id="Level" type="uint8" value="13"/>
-           <attribute id="Name" type="LSString" value="DarksongKnight"/>
-           <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel4;Passive_Lunar_Smite_4;EilistraeanHands_2;"/>
-           <attribute id="ProgressionType" type="uint8" value="0"/>
-           <attribute id="Selectors" type="LSString" value="AddSpells(a9422866-5b68-4208-9ced-ca117b403652);AddSpells(dd440fe7-c9f0-4ef0-b96c-bcd36514a643,,,,AlwaysPrepared)"/>
-           <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
-           <attribute id="UUID" type="guid" value="7347d37d-e134-4a50-ae01-ff880f8d9c2c"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSongCharge,1,0);"/>
+          <attribute id="Level" type="uint8" value="13"/>
+          <attribute id="Name" type="LSString" value="DarksongKnight"/>
+          <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel4;Passive_Lunar_Smite_4;EilistraeanHands_2;"/>
+          <attribute id="ProgressionType" type="uint8" value="0"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(a9422866-5b68-4208-9ced-ca117b403652);AddSpells(dd440fe7-c9f0-4ef0-b96c-bcd36514a643,,,,AlwaysPrepared)"/>
+          <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
+          <attribute id="UUID" type="guid" value="7347d37d-e134-4a50-ae01-ff880f8d9c2c"/>
         </node>
         <node id="Progression">
-           <attribute id="Boosts" type="LSString" value="ActionResource(LayOnHandsCharge,1,0);"/>
-           <attribute id="Level" type="uint8" value="14"/>
-           <attribute id="Name" type="LSString" value="DarksongKnight"/>
-           <attribute id="ProgressionType" type="uint8" value="0"/>
-           <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
-           <attribute id="UUID" type="guid" value="771c94c6-424a-472e-8052-f5ffe1aa59fc"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(LayOnHandsCharge,1,0);"/>
+          <attribute id="Level" type="uint8" value="14"/>
+          <attribute id="Name" type="LSString" value="DarksongKnight"/>
+          <attribute id="ProgressionType" type="uint8" value="0"/>
+          <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
+          <attribute id="UUID" type="guid" value="771c94c6-424a-472e-8052-f5ffe1aa59fc"/>
         </node>
         <node id="Progression">
-           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSongCharge,1,0);"/>
-           <attribute id="Level" type="uint8" value="15"/>
-           <attribute id="Name" type="LSString" value="DarksongKnight"/>
-           <attribute id="ProgressionType" type="uint8" value="0"/>
-           <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
-           <attribute id="UUID" type="guid" value="8413a6dd-1bbe-4205-b6c3-077e79de4016"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSongCharge,1,0);"/>
+          <attribute id="Level" type="uint8" value="15"/>
+          <attribute id="Name" type="LSString" value="DarksongKnight"/>
+          <attribute id="ProgressionType" type="uint8" value="0"/>
+          <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
+          <attribute id="UUID" type="guid" value="8413a6dd-1bbe-4205-b6c3-077e79de4016"/>
         </node>
         <node id="Progression">
-           <attribute id="Boosts" type="LSString" value="ActionResource(ChannelOath,1,0)"/>
-           <attribute id="Level" type="uint8" value="16"/>
-           <attribute id="Name" type="LSString" value="DarksongKnight"/>
-           <attribute id="ProgressionType" type="uint8" value="0"/>
-           <attribute id="Selectors" type="LSString" value="SelectPassives(677038ed-31ae-47e9-b8ea-a310d5eda0e0,1,EilistraeanManeuvers);" />
-           <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
-           <attribute id="UUID" type="guid" value="e2a2f419-d13a-468c-ab82-5ef98ac98ae3"/>
+          <attribute id="AllowImprovement" type="bool" value="true"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(ChannelOath,1,0)"/>
+          <attribute id="Level" type="uint8" value="16"/>
+          <attribute id="Name" type="LSString" value="DarksongKnight"/>
+          <attribute id="ProgressionType" type="uint8" value="0"/>
+          <attribute id="Selectors" type="LSString" value="SelectPassives(677038ed-31ae-47e9-b8ea-a310d5eda0e0,1,EilistraeanManeuvers);" />
+          <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
+          <attribute id="UUID" type="guid" value="e2a2f419-d13a-468c-ab82-5ef98ac98ae3"/>
         </node>
         <node id="Progression">
-           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(SpellSongCharge,1,0);"/>
-           <attribute id="Level" type="uint8" value="17"/>
-           <attribute id="Name" type="LSString" value="DarksongKnight"/>
-           <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel5;Passive_Lunar_Smite_5;EilistraeanAction_2;"/>
-           <attribute id="ProgressionType" type="uint8" value="0"/>
-           <attribute id="Selectors" type="LSString" value="AddSpells(c1b9eec0-cd36-4ee8-af23-64c89daaad27);AddSpells(7becd3db-0da7-437c-8428-e2c08be75e0b,,,,AlwaysPrepared)"/>
-           <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
-           <attribute id="UUID" type="guid" value="819a611a-7197-4b73-b528-95e90cf567c2"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(SpellSongCharge,1,0);"/>
+          <attribute id="Level" type="uint8" value="17"/>
+          <attribute id="Name" type="LSString" value="DarksongKnight"/>
+          <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel5;Passive_Lunar_Smite_5;EilistraeanAction_2;"/>
+          <attribute id="ProgressionType" type="uint8" value="0"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(c1b9eec0-cd36-4ee8-af23-64c89daaad27);AddSpells(7becd3db-0da7-437c-8428-e2c08be75e0b,,,,AlwaysPrepared)"/>
+          <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
+          <attribute id="UUID" type="guid" value="819a611a-7197-4b73-b528-95e90cf567c2"/>
         </node>
         <node id="Progression">
-           <attribute id="Boosts" type="LSString" value="ActionResource(LayOnHandsCharge,1,0);"/>
-           <attribute id="Level" type="uint8" value="18"/>
-           <attribute id="Name" type="LSString" value="DarksongKnight"/>
-           <attribute id="ProgressionType" type="uint8" value="0"/>
-           <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
-           <attribute id="UUID" type="guid" value="a346bffd-8f61-4c86-83ff-a36fa184cb06"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(LayOnHandsCharge,1,0);"/>
+          <attribute id="Level" type="uint8" value="18"/>
+          <attribute id="Name" type="LSString" value="DarksongKnight"/>
+          <attribute id="ProgressionType" type="uint8" value="0"/>
+          <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
+          <attribute id="UUID" type="guid" value="a346bffd-8f61-4c86-83ff-a36fa184cb06"/>
         </node>
         <node id="Progression">
-           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(SpellSongCharge,1,0);"/>
-           <attribute id="Level" type="uint8" value="19"/>
-           <attribute id="Name" type="LSString" value="DarksongKnight"/>
-           <attribute id="ProgressionType" type="uint8" value="0"/>
-           <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
-           <attribute id="UUID" type="guid" value="9917c991-7748-4bb3-91ab-6a05e39f1643"/>
+          <attribute id="AllowImprovement" type="bool" value="true"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,5);ActionResource(SpellSongCharge,1,0);"/>
+          <attribute id="Level" type="uint8" value="19"/>
+          <attribute id="Name" type="LSString" value="DarksongKnight"/>
+          <attribute id="ProgressionType" type="uint8" value="0"/>
+          <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
+          <attribute id="UUID" type="guid" value="9917c991-7748-4bb3-91ab-6a05e39f1643"/>
         </node>
         <node id="Progression">
-           <attribute id="Boosts" type="LSString" value="ActionResource(ChannelOath,1,0)"/>
-           <attribute id="Level" type="uint8" value="20"/>
-           <attribute id="Name" type="LSString" value="DarksongKnight"/>
-           <attribute id="ProgressionType" type="uint8" value="0"/>
-           <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
-           <attribute id="UUID" type="guid" value="ce7f82a6-2813-4c8a-a7cf-884208bb11a9"/>
+          <attribute id="Boosts" type="LSString" value="ActionResource(ChannelOath,1,0)"/>
+          <attribute id="Level" type="uint8" value="20"/>
+          <attribute id="Name" type="LSString" value="DarksongKnight"/>
+          <attribute id="ProgressionType" type="uint8" value="0"/>
+          <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
+          <attribute id="UUID" type="guid" value="ce7f82a6-2813-4c8a-a7cf-884208bb11a9"/>
         </node>
         <node id="Progression">
           <attribute id="AllowImprovement" type="bool" value="false"/>
@@ -639,6 +641,7 @@
           <attribute id="UUID" type="guid" value="d916f2c9-c32d-441e-94b9-cfafbb41de31"/>
         </node>
         <node id="Progression">
+          <attribute id="AllowImprovement" type="bool" value="true"/>
           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2);ActionResource(SpellSongCharge,1,0);" />
           <attribute id="Level" type="uint8" value="4" />
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong" />
@@ -677,6 +680,7 @@
           <attribute id="UUID" type="guid" value="2e3b7a4e-3cdd-4251-a44a-c0f4fb141494"/>
         </node>
         <node id="Progression">
+          <attribute id="AllowImprovement" type="bool" value="true"/>
           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,4);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="8"/>
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong"/>
@@ -713,6 +717,7 @@
           <attribute id="UUID" type="guid" value="f3658b21-b8d9-4e22-80e9-453194357ecf"/>
         </node>
         <node id="Progression">
+          <attribute id="AllowImprovement" type="bool" value="true"/>
           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="12"/>
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong"/>
@@ -749,6 +754,7 @@
           <attribute id="UUID" type="guid" value="8fcfb780-5705-407f-b655-23d4aebe3ba8"/>
         </node>
         <node id="Progression">
+          <attribute id="AllowImprovement" type="bool" value="true"/>
           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="16"/>
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong"/>
@@ -775,6 +781,7 @@
           <attribute id="UUID" type="guid" value="625332f6-8f18-423b-a9ef-815964044a40"/>
         </node>
         <node id="Progression">
+          <attribute id="AllowImprovement" type="bool" value="true"/>
           <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,6)"/>
           <attribute id="Level" type="uint8" value="19"/>
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong"/>

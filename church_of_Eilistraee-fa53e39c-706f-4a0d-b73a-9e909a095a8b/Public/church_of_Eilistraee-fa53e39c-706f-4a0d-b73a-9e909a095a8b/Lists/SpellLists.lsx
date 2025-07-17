@@ -136,7 +136,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="ProtectorOfTheSongSpells Level 1"/>
-          <attribute id="Spells" type="LSString" value="Passive_Oozebane;Target_MoonFireBlade;Target_MoonFireBlade_Normal;Target_MoonFireBlade_Unlock;Target_MoonFireBlade_Critical_Unlock"/>
+          <attribute id="Spells" type="LSString" value="Target_Oozebane;Target_MoonFireBlade;Target_MoonFireBlade_Normal;Target_MoonFireBlade_Unlock;Target_MoonFireBlade_Critical_Unlock"/>
           <attribute id="UUID" type="guid" value="9c57921c-0a34-408a-8b69-5c07b6f483a8"/>
         </node>
         <node id="SpellList">
