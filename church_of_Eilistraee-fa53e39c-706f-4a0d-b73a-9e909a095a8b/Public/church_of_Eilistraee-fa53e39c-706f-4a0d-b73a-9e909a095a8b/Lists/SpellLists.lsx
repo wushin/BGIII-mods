@@ -46,7 +46,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="SwordDancerSpells Level 1"/>
-          <attribute id="Spells" type="LSString" value="Target_EilistraeanMockery_Spell;Shout_EilistraeanImage_Spell;Target_MoonFireBlade;Target_MoonFireBlade_Unlock;Target_MoonFireBlade_Critical_Unlock;"/>
+          <attribute id="Spells" type="LSString" value="Target_EilistraeanMockery_Spell;Shout_EilistraeanImage_Spell;Target_MoonFireBlade;Target_MoonFireBlade_Normal;Target_MoonFireBlade_Unlock;Target_MoonFireBlade_Critical_Unlock;"/>
           <attribute id="UUID" type="guid" value="5167ef17-a077-435f-b6f5-bf6be2fb2b62"/>
         </node>
         <node id="SpellList">
@@ -56,7 +56,7 @@
         </node>
         <node id="SpellList">
             <attribute id="Name" type="FixedString" value="SilverhairKnightSpells Level 1"/>
-            <attribute id="Spells" type="LSString" value="Target_EilistraeanShadow_Ki_Cont;Shout_EilistraeanImage_Ki;"/>
+            <attribute id="Spells" type="LSString" value="Target_EilistraeanShadow_Ki_Cont;Shout_EilistraeanImage_Ki;Target_MoonFireBlade;Target_MoonFireBlade_Unarmed;Target_MoonFireBlade_Unlock;Target_MoonFireBlade_Critical_Unlock"/>
             <attribute id="UUID" type="guid" value="e4309598-46db-4250-aad8-21d31dfd936d"/>
         </node>
         <node id="SpellList">
@@ -96,7 +96,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="DarksongKnightSpells Level 1"/>
-          <attribute id="Spells" type="LSString" value="Target_EilistraeanDream;Shout_EilistraeanDivineSense;Target_MoonFireBlade;Target_MoonFireBlade_Unlock;Target_MoonFireBlade_Critical_Unlock"/>
+          <attribute id="Spells" type="LSString" value="Target_EilistraeanDream;Shout_EilistraeanDivineSense;Target_MoonFireBlade;Target_MoonFireBlade_Normal;Target_MoonFireBlade_Unlock;Target_MoonFireBlade_Critical_Unlock"/>
           <attribute id="UUID" type="guid" value="75ec5035-a771-451a-8b43-0d9aed4b5281"/>
         </node>
         <node id="SpellList">
@@ -136,7 +136,7 @@
         </node>
         <node id="SpellList">
           <attribute id="Name" type="FixedString" value="ProtectorOfTheSongSpells Level 1"/>
-          <attribute id="Spells" type="LSString" value="Passive_Oozebane;Target_MoonFireBlade;Target_MoonFireBlade_Unlock;Target_MoonFireBlade_Critical_Unlock"/>
+          <attribute id="Spells" type="LSString" value="Passive_Oozebane;Target_MoonFireBlade;Target_MoonFireBlade_Normal;Target_MoonFireBlade_Unlock;Target_MoonFireBlade_Critical_Unlock"/>
           <attribute id="UUID" type="guid" value="9c57921c-0a34-408a-8b69-5c07b6f483a8"/>
         </node>
         <node id="SpellList">
