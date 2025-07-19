@@ -88,7 +88,8 @@
                   <children>
                     <node id="Attributes">
                       <attribute id="Animation" type="FixedString" value="" />
-                      <attribute id="Conditions" type="LSString" value="" />
+                      <attribute id="ClassId" type="guid" value="b5ef7745-7682-449d-ad17-9e6e43ee1105" />
+                      <attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Shout_EilistraeanImage_Spell&quot;)" />
                       <attribute id="Consume" type="bool" value="True" />
                       <attribute id="SkillID" type="FixedString" value="Shout_EilistraeanImage_Spell" />
                     </node>

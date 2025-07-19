@@ -21,6 +21,7 @@
           <attribute id="ProgressionTableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
           <attribute id="SpellCastingAbility" type="uint8" value="4"/>
           <attribute id="SoundClassType" type="FixedString" value="BladeSinger"/>
+          <attribute id="SpellList" type="guid" value="c3b95095-39d8-43e2-96a3-26de5983d60f"/>
           <attribute id="ValidSomaticEquipmentList" type="LSString" value="Flute;Lute;Lyre" />
           <attribute id="UUID" type="guid" value="b5ef7745-7682-449d-ad17-9e6e43ee1105"/>
           <children>

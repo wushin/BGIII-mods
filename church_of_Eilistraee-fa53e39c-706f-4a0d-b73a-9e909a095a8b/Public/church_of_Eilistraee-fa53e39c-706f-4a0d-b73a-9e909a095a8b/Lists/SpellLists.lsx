@@ -194,6 +194,11 @@
           <attribute id="Spells" type="LSString" value="Shout_BladeOfEilistraee;Target_Invulnerability;Shout_MassEilistraeanDream;Target_MoonBurst;Target_MaddeningDarkness;Target_DominateMonster;Shout_HolyAura;Target_Regenerate;Zone_EilistraeanPrismSpray;Target_CrownOfStars;Shout_DivineWord;Teleportation_ArcaneGate;Projectile_ChainLightning;Target_GlobeOfInvulnerability;Target_IrresistibleDance;Wall_BladeBarrier;Target_Heal;Shout_HeroesFeast;Projectile_BladesongWaltz;Target_HoldMonster;Target_DominatePerson;Throw_Telekinesis;Target_FlameStrike;Target_GreaterRestoration;Target_CureWounds_Mass;Target_PlanarBinding;Shout_DestructiveWave;Target_FlameStrike;Target_EilistraeanBanish;Target_EilistraeanFreedom;Teleportation_DimensionDoor;Target_Invisibility_Greater;Target_Confusion;Target_Stoneskin;Shout_FireShield;Shout_Blink;Shout_EilistraeanHope;Target_CalmEmotions;Target_Fly;Target_Haste;Target_MoonlitSanctuary;Teleportation_Revivify;Zone_LightningBolt;Target_SpeakWithDead;Shout_DetectThoughts;Shout_PassWithoutTrace;Shout_PrayerOfHealing;Shout_SeeInvisibility;Target_ArcaneLock;Target_Darkvision;Shout_Blur;Target_CloudOfDaggers;Target_EilistraeanMoonbeam;Target_ElegyOfObedience;Target_EnhanceAbility;Target_EnlargeReduce;Target_FindFamiliar;Target_HoldPerson;Target_Invisibility;Target_Knock;Target_LesserRestoration;Target_LunarShift;Shout_MirrorImage;Projectile_MoonlightShards;Projectile_LunarBolt;Shout_MoonveilStrike;Target_SmileOfTheDarkLady;Zone_Thunderwave;Target_Goodberry;Target_HuntersMark;Target_CureWounds;Target_Sleep;Zone_EilistraeanColorSpray;Target_FaerieFire;Target_MageArmor;Target_Jump;Target_Longstrider;Shout_FeatherFall;Shout_SpeakWithAnimals"/>
           <attribute id="UUID" type="guid" value="0706c556-8eba-4f88-b32a-aa2c6fc68362"/>
         </node>
+        <node id="SpellList">
+          <attribute id="Name" type="FixedString" value="SwordDancer Darra spell list"/>
+          <attribute id="Spells" type="LSString" value="Shout_EilistraeanImage_Spell;Projectile_MoonlightShards"/>
+          <attribute id="UUID" type="guid" value="c3b95095-39d8-43e2-96a3-26de5983d60f"/>
+        </node>
       </children>
     </node>
   </region>
