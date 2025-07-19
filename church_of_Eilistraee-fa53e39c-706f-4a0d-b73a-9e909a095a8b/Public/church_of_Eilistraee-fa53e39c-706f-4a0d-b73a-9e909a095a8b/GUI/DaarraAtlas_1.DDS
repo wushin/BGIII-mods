@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328"/>
+  <region id="TextureAtlasInfo">
+    <node id="root">
+      <children>
+        <node id="TextureAtlasIconSize">
+          <attribute id="Height" type="int64" value="64"/>
+          <attribute id="Width" type="int64" value="64"/>
+        </node>
+        <node id="TextureAtlasPath">
+          <attribute id="Path" type="LSString" value="Assets/Textures/Icons/DaarraAtlas_1.DDS"/>
+          <attribute id="UUID" type="FixedString" value="860eea60-98b3-445f-83c2-e455f99e7c8b"/>
+        </node>
+        <node id="TextureAtlasTextureSize">
+          <attribute id="Height" type="int64" value="512"/>
+          <attribute id="Width" type="int64" value="512"/>
+        </node>
+      </children>
+    </node>
+  </region>
+  <region id="IconUVList">
+    <node id="root">
+      <children>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Aid"/>
+            <attribute id="U1" type="float" value="0.0009765625"/>
+            <attribute id="U2" type="float" value="0.12402344"/>
+            <attribute id="V1" type="float" value="0.0009765625"/>
+            <attribute id="V2" type="float" value="0.12402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_AnimalFriendship"/>
+            <attribute id="U1" type="float" value="0.12597656"/>
+            <attribute id="U2" type="float" value="0.24902344"/>
+            <attribute id="V1" type="float" value="0.0009765625"/>
+            <attribute id="V2" type="float" value="0.12402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_AnimateDead"/>
+            <attribute id="U1" type="float" value="0.25097656"/>
+            <attribute id="U2" type="float" value="0.37402344"/>
+            <attribute id="V1" type="float" value="0.0009765625"/>
+            <attribute id="V2" type="float" value="0.12402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_ArcaneEye"/>
+            <attribute id="U1" type="float" value="0.37597656"/>
+            <attribute id="U2" type="float" value="0.49902344"/>
+            <attribute id="V1" type="float" value="0.0009765625"/>
+            <attribute id="V2" type="float" value="0.12402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_ArcaneLock"/>
+            <attribute id="U1" type="float" value="0.50097656"/>
+            <attribute id="U2" type="float" value="0.62402344"/>
+            <attribute id="V1" type="float" value="0.0009765625"/>
+            <attribute id="V2" type="float" value="0.12402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Banishment"/>
+            <attribute id="U1" type="float" value="0.62597656"/>
+            <attribute id="U2" type="float" value="0.74902344"/>
+            <attribute id="V1" type="float" value="0.0009765625"/>
+            <attribute id="V2" type="float" value="0.12402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_BestowCurse"/>
+            <attribute id="U1" type="float" value="0.75097656"/>
+            <attribute id="U2" type="float" value="0.87402344"/>
+            <attribute id="V1" type="float" value="0.0009765625"/>
+            <attribute id="V2" type="float" value="0.12402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Blight"/>
+            <attribute id="U1" type="float" value="0.87597656"/>
+            <attribute id="U2" type="float" value="0.99902344"/>
+            <attribute id="V1" type="float" value="0.0009765625"/>
+            <attribute id="V2" type="float" value="0.12402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Blindness"/>
+            <attribute id="U1" type="float" value="0.0009765625"/>
+            <attribute id="U2" type="float" value="0.12402344"/>
+            <attribute id="V1" type="float" value="0.12597656"/>
+            <attribute id="V2" type="float" value="0.24902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Blink"/>
+            <attribute id="U1" type="float" value="0.12597656"/>
+            <attribute id="U2" type="float" value="0.24902344"/>
+            <attribute id="V1" type="float" value="0.12597656"/>
+            <attribute id="V2" type="float" value="0.24902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Blur"/>
+            <attribute id="U1" type="float" value="0.25097656"/>
+            <attribute id="U2" type="float" value="0.37402344"/>
+            <attribute id="V1" type="float" value="0.12597656"/>
+            <attribute id="V2" type="float" value="0.24902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_BurningHands"/>
+            <attribute id="U1" type="float" value="0.37597656"/>
+            <attribute id="U2" type="float" value="0.49902344"/>
+            <attribute id="V1" type="float" value="0.12597656"/>
+            <attribute id="V2" type="float" value="0.24902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_ChainLightning"/>
+            <attribute id="U1" type="float" value="0.50097656"/>
+            <attribute id="U2" type="float" value="0.62402344"/>
+            <attribute id="V1" type="float" value="0.12597656"/>
+            <attribute id="V2" type="float" value="0.24902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_CharmPerson"/>
+            <attribute id="U1" type="float" value="0.62597656"/>
+            <attribute id="U2" type="float" value="0.74902344"/>
+            <attribute id="V1" type="float" value="0.12597656"/>
+            <attribute id="V2" type="float" value="0.24902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_ChillTouch"/>
+            <attribute id="U1" type="float" value="0.75097656"/>
+            <attribute id="U2" type="float" value="0.87402344"/>
+            <attribute id="V1" type="float" value="0.12597656"/>
+            <attribute id="V2" type="float" value="0.24902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_ChromaticOrb"/>
+            <attribute id="U1" type="float" value="0.87597656"/>
+            <attribute id="U2" type="float" value="0.99902344"/>
+            <attribute id="V1" type="float" value="0.12597656"/>
+            <attribute id="V2" type="float" value="0.24902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Cloudkill"/>
+            <attribute id="U1" type="float" value="0.0009765625"/>
+            <attribute id="U2" type="float" value="0.12402344"/>
+            <attribute id="V1" type="float" value="0.25097656"/>
+            <attribute id="V2" type="float" value="0.37402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_CloudOfDaggers"/>
+            <attribute id="U1" type="float" value="0.12597656"/>
+            <attribute id="U2" type="float" value="0.24902344"/>
+            <attribute id="V1" type="float" value="0.25097656"/>
+            <attribute id="V2" type="float" value="0.37402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_ColorSpray"/>
+            <attribute id="U1" type="float" value="0.25097656"/>
+            <attribute id="U2" type="float" value="0.37402344"/>
+            <attribute id="V1" type="float" value="0.25097656"/>
+            <attribute id="V2" type="float" value="0.37402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_ConeOfCold"/>
+            <attribute id="U1" type="float" value="0.37597656"/>
+            <attribute id="U2" type="float" value="0.49902344"/>
+            <attribute id="V1" type="float" value="0.25097656"/>
+            <attribute id="V2" type="float" value="0.37402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Confusion"/>
+            <attribute id="U1" type="float" value="0.50097656"/>
+            <attribute id="U2" type="float" value="0.62402344"/>
+            <attribute id="V1" type="float" value="0.25097656"/>
+            <attribute id="V2" type="float" value="0.37402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_ConjureElemental"/>
+            <attribute id="U1" type="float" value="0.62597656"/>
+            <attribute id="U2" type="float" value="0.74902344"/>
+            <attribute id="V1" type="float" value="0.25097656"/>
+            <attribute id="V2" type="float" value="0.37402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_CrownOfMadness"/>
+            <attribute id="U1" type="float" value="0.75097656"/>
+            <attribute id="U2" type="float" value="0.87402344"/>
+            <attribute id="V1" type="float" value="0.25097656"/>
+            <attribute id="V2" type="float" value="0.37402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Darkness"/>
+            <attribute id="U1" type="float" value="0.87597656"/>
+            <attribute id="U2" type="float" value="0.99902344"/>
+            <attribute id="V1" type="float" value="0.25097656"/>
+            <attribute id="V2" type="float" value="0.37402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Darkvision"/>
+            <attribute id="U1" type="float" value="0.0009765625"/>
+            <attribute id="U2" type="float" value="0.12402344"/>
+            <attribute id="V1" type="float" value="0.37597656"/>
+            <attribute id="V2" type="float" value="0.49902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_DetectThoughts"/>
+            <attribute id="U1" type="float" value="0.12597656"/>
+            <attribute id="U2" type="float" value="0.24902344"/>
+            <attribute id="V1" type="float" value="0.37597656"/>
+            <attribute id="V2" type="float" value="0.49902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_DimensionDoor"/>
+            <attribute id="U1" type="float" value="0.25097656"/>
+            <attribute id="U2" type="float" value="0.37402344"/>
+            <attribute id="V1" type="float" value="0.37597656"/>
+            <attribute id="V2" type="float" value="0.49902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_DisguiseSelf"/>
+            <attribute id="U1" type="float" value="0.37597656"/>
+            <attribute id="U2" type="float" value="0.49902344"/>
+            <attribute id="V1" type="float" value="0.37597656"/>
+            <attribute id="V2" type="float" value="0.49902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Disintegrate"/>
+            <attribute id="U1" type="float" value="0.50097656"/>
+            <attribute id="U2" type="float" value="0.62402344"/>
+            <attribute id="V1" type="float" value="0.37597656"/>
+            <attribute id="V2" type="float" value="0.49902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_DispelMagic"/>
+            <attribute id="U1" type="float" value="0.62597656"/>
+            <attribute id="U2" type="float" value="0.74902344"/>
+            <attribute id="V1" type="float" value="0.37597656"/>
+            <attribute id="V2" type="float" value="0.49902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_DominatePerson"/>
+            <attribute id="U1" type="float" value="0.75097656"/>
+            <attribute id="U2" type="float" value="0.87402344"/>
+            <attribute id="V1" type="float" value="0.37597656"/>
+            <attribute id="V2" type="float" value="0.49902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Enlarge"/>
+            <attribute id="U1" type="float" value="0.87597656"/>
+            <attribute id="U2" type="float" value="0.99902344"/>
+            <attribute id="V1" type="float" value="0.37597656"/>
+            <attribute id="V2" type="float" value="0.49902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_ExpeditiousRetreat"/>
+            <attribute id="U1" type="float" value="0.0009765625"/>
+            <attribute id="U2" type="float" value="0.12402344"/>
+            <attribute id="V1" type="float" value="0.50097656"/>
+            <attribute id="V2" type="float" value="0.62402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_FalseLife"/>
+            <attribute id="U1" type="float" value="0.12597656"/>
+            <attribute id="U2" type="float" value="0.24902344"/>
+            <attribute id="V1" type="float" value="0.50097656"/>
+            <attribute id="V2" type="float" value="0.62402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Fear"/>
+            <attribute id="U1" type="float" value="0.25097656"/>
+            <attribute id="U2" type="float" value="0.37402344"/>
+            <attribute id="V1" type="float" value="0.50097656"/>
+            <attribute id="V2" type="float" value="0.62402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_FeatherFall"/>
+            <attribute id="U1" type="float" value="0.37597656"/>
+            <attribute id="U2" type="float" value="0.49902344"/>
+            <attribute id="V1" type="float" value="0.50097656"/>
+            <attribute id="V2" type="float" value="0.62402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_FeignDeath"/>
+            <attribute id="U1" type="float" value="0.50097656"/>
+            <attribute id="U2" type="float" value="0.62402344"/>
+            <attribute id="V1" type="float" value="0.50097656"/>
+            <attribute id="V2" type="float" value="0.62402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Fireball"/>
+            <attribute id="U1" type="float" value="0.62597656"/>
+            <attribute id="U2" type="float" value="0.74902344"/>
+            <attribute id="V1" type="float" value="0.50097656"/>
+            <attribute id="V2" type="float" value="0.62402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_FireBolt"/>
+            <attribute id="U1" type="float" value="0.75097656"/>
+            <attribute id="U2" type="float" value="0.87402344"/>
+            <attribute id="V1" type="float" value="0.50097656"/>
+            <attribute id="V2" type="float" value="0.62402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_FireShield_Chill"/>
+            <attribute id="U1" type="float" value="0.87597656"/>
+            <attribute id="U2" type="float" value="0.99902344"/>
+            <attribute id="V1" type="float" value="0.50097656"/>
+            <attribute id="V2" type="float" value="0.62402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_FireShield_Warm"/>
+            <attribute id="U1" type="float" value="0.0009765625"/>
+            <attribute id="U2" type="float" value="0.12402344"/>
+            <attribute id="V1" type="float" value="0.62597656"/>
+            <attribute id="V2" type="float" value="0.74902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_FlamingSphere"/>
+            <attribute id="U1" type="float" value="0.12597656"/>
+            <attribute id="U2" type="float" value="0.24902344"/>
+            <attribute id="V1" type="float" value="0.62597656"/>
+            <attribute id="V2" type="float" value="0.74902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_FleshToStone"/>
+            <attribute id="U1" type="float" value="0.25097656"/>
+            <attribute id="U2" type="float" value="0.37402344"/>
+            <attribute id="V1" type="float" value="0.62597656"/>
+            <attribute id="V2" type="float" value="0.74902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Fly"/>
+            <attribute id="U1" type="float" value="0.37597656"/>
+            <attribute id="U2" type="float" value="0.49902344"/>
+            <attribute id="V1" type="float" value="0.62597656"/>
+            <attribute id="V2" type="float" value="0.74902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_FogCloud"/>
+            <attribute id="U1" type="float" value="0.50097656"/>
+            <attribute id="U2" type="float" value="0.62402344"/>
+            <attribute id="V1" type="float" value="0.62597656"/>
+            <attribute id="V2" type="float" value="0.74902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_GaseousForm"/>
+            <attribute id="U1" type="float" value="0.62597656"/>
+            <attribute id="U2" type="float" value="0.74902344"/>
+            <attribute id="V1" type="float" value="0.62597656"/>
+            <attribute id="V2" type="float" value="0.74902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_GlobeOfInvulnerability"/>
+            <attribute id="U1" type="float" value="0.75097656"/>
+            <attribute id="U2" type="float" value="0.87402344"/>
+            <attribute id="V1" type="float" value="0.62597656"/>
+            <attribute id="V2" type="float" value="0.74902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Grease"/>
+            <attribute id="U1" type="float" value="0.87597656"/>
+            <attribute id="U2" type="float" value="0.99902344"/>
+            <attribute id="V1" type="float" value="0.62597656"/>
+            <attribute id="V2" type="float" value="0.74902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_GustOfWind"/>
+            <attribute id="U1" type="float" value="0.0009765625"/>
+            <attribute id="U2" type="float" value="0.12402344"/>
+            <attribute id="V1" type="float" value="0.75097656"/>
+            <attribute id="V2" type="float" value="0.87402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Haste"/>
+            <attribute id="U1" type="float" value="0.12597656"/>
+            <attribute id="U2" type="float" value="0.24902344"/>
+            <attribute id="V1" type="float" value="0.75097656"/>
+            <attribute id="V2" type="float" value="0.87402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_HoldMonster"/>
+            <attribute id="U1" type="float" value="0.25097656"/>
+            <attribute id="U2" type="float" value="0.37402344"/>
+            <attribute id="V1" type="float" value="0.75097656"/>
+            <attribute id="V2" type="float" value="0.87402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_HoldPerson"/>
+            <attribute id="U1" type="float" value="0.37597656"/>
+            <attribute id="U2" type="float" value="0.49902344"/>
+            <attribute id="V1" type="float" value="0.75097656"/>
+            <attribute id="V2" type="float" value="0.87402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_HypnoticPattern"/>
+            <attribute id="U1" type="float" value="0.50097656"/>
+            <attribute id="U2" type="float" value="0.62402344"/>
+            <attribute id="V1" type="float" value="0.75097656"/>
+            <attribute id="V2" type="float" value="0.87402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_IceKnife"/>
+            <attribute id="U1" type="float" value="0.62597656"/>
+            <attribute id="U2" type="float" value="0.74902344"/>
+            <attribute id="V1" type="float" value="0.75097656"/>
+            <attribute id="V2" type="float" value="0.87402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_IceStorm"/>
+            <attribute id="U1" type="float" value="0.75097656"/>
+            <attribute id="U2" type="float" value="0.87402344"/>
+            <attribute id="V1" type="float" value="0.75097656"/>
+            <attribute id="V2" type="float" value="0.87402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Invisibility"/>
+            <attribute id="U1" type="float" value="0.87597656"/>
+            <attribute id="U2" type="float" value="0.99902344"/>
+            <attribute id="V1" type="float" value="0.75097656"/>
+            <attribute id="V2" type="float" value="0.87402344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Knock"/>
+            <attribute id="U1" type="float" value="0.0009765625"/>
+            <attribute id="U2" type="float" value="0.12402344"/>
+            <attribute id="V1" type="float" value="0.87597656"/>
+            <attribute id="V2" type="float" value="0.99902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_LightningBolt"/>
+            <attribute id="U1" type="float" value="0.12597656"/>
+            <attribute id="U2" type="float" value="0.24902344"/>
+            <attribute id="V1" type="float" value="0.87597656"/>
+            <attribute id="V2" type="float" value="0.99902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_Longstrider"/>
+            <attribute id="U1" type="float" value="0.25097656"/>
+            <attribute id="U2" type="float" value="0.37402344"/>
+            <attribute id="V1" type="float" value="0.87597656"/>
+            <attribute id="V2" type="float" value="0.99902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_MageArmor"/>
+            <attribute id="U1" type="float" value="0.37597656"/>
+            <attribute id="U2" type="float" value="0.49902344"/>
+            <attribute id="V1" type="float" value="0.87597656"/>
+            <attribute id="V2" type="float" value="0.99902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_MagicMissile"/>
+            <attribute id="U1" type="float" value="0.50097656"/>
+            <attribute id="U2" type="float" value="0.62402344"/>
+            <attribute id="V1" type="float" value="0.87597656"/>
+            <attribute id="V2" type="float" value="0.99902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_MagicWeapon"/>
+            <attribute id="U1" type="float" value="0.62597656"/>
+            <attribute id="U2" type="float" value="0.74902344"/>
+            <attribute id="V1" type="float" value="0.87597656"/>
+            <attribute id="V2" type="float" value="0.99902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_MirrorImage"/>
+            <attribute id="U1" type="float" value="0.75097656"/>
+            <attribute id="U2" type="float" value="0.87402344"/>
+            <attribute id="V1" type="float" value="0.87597656"/>
+            <attribute id="V2" type="float" value="0.99902344"/>
+        </node>
+        <node id="IconUV">
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_MistyStep"/>
+            <attribute id="U1" type="float" value="0.87597656"/>
+            <attribute id="U2" type="float" value="0.99902344"/>
+            <attribute id="V1" type="float" value="0.87597656"/>
+            <attribute id="V2" type="float" value="0.99902344"/>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

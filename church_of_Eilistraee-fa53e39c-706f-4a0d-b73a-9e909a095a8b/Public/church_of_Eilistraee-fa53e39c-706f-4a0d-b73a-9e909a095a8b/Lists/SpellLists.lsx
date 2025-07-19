@@ -195,7 +195,7 @@
           <attribute id="UUID" type="guid" value="0706c556-8eba-4f88-b32a-aa2c6fc68362"/>
         </node>
         <node id="SpellList">
-          <attribute id="Name" type="FixedString" value="SwordDancer Darra spell list"/>
+          <attribute id="Name" type="FixedString" value="SwordDancer Daarra spell list"/>
           <attribute id="Spells" type="LSString" value="Shout_EilistraeanImage_Spell;Projectile_MoonlightShards"/>
           <attribute id="UUID" type="guid" value="c3b95095-39d8-43e2-96a3-26de5983d60f"/>
         </node>

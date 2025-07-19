@@ -25,9 +25,9 @@
                     <attribute id="SkeletonSlot" type="FixedString" value="" />
                     <attribute id="Slot" type="FixedString" value="Unassigned" />
                     <attribute id="SoftbodyResourceID" type="FixedString" value="" />
-                    <attribute id="SourceFile" type="LSString" value="Public/Game/GUI/Assets/Items/Item_LOOT_Darra_Base.GR2" />
+                    <attribute id="SourceFile" type="LSString" value="Public/Game/GUI/Assets/Items/Item_LOOT_Daarra_Base.GR2" />
                     <attribute id="SupportsVertexColorMask" type="bool" value="False" />
-                    <attribute id="Template" type="FixedString" value="Public/Game/GUI/Assets/Items/Item_LOOT_Darra_Base.Dummy_Item_LOOT_Darra_Model.0" />
+                    <attribute id="Template" type="FixedString" value="Public/Game/GUI/Assets/Items/Item_LOOT_Daarra_Base.Dummy_Item_LOOT_Daarra_Model.0" />
                     <attribute id="_OriginalFileVersion_" type="int64" value="144115196665790666" />
                     <children>
                         <node id="AnimationWaterfall">
@@ -37,7 +37,7 @@
                         <node id="Objects">
                             <attribute id="LOD" type="uint8" value="0" />
                             <attribute id="MaterialID" type="FixedString" value="81f0fb14-9048-469b-9293-ad188c2a0311" />
-                            <attribute id="ObjectID" type="FixedString" value="Item_LOOT_Darra_Base.Item_LOOT_Darra_Base_Mesh.0" />
+                            <attribute id="ObjectID" type="FixedString" value="Item_LOOT_Daarra_Base.Item_LOOT_Daarra_Base_Mesh.0" />
                             <attribute id="Physics" type="FixedString" value="" />
                             <attribute id="Slot" type="FixedString" value="" />
                         </node>

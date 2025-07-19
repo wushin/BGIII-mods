@@ -8,15 +8,15 @@
           <attribute id="Description" type="TranslatedString" handle="hbg0bd50rj236o9urafptbkbxwcnttr0tbfjr" version="1" />
           <attribute id="DisplayName" type="TranslatedString" handle="hds32h7tk0awxpfpq2dmbleptbv7bmrimb41f" version="1" />
           <attribute id="Flag" type="int32" value="0" />
-          <attribute id="Icon" type="FixedString" value="Item_LOOT_Darra_EilistraeanImage" />
+          <attribute id="Icon" type="FixedString" value="Item_LOOT_Daarra_EilistraeanImage" />
           <attribute id="LevelName" type="FixedString" value="" />
           <attribute id="MapKey" type="FixedString" value="4b5312c0-4ee6-4a86-97dc-c547d1a4015a" />
-          <attribute id="Name" type="LSString" value="LOOT_Darra_EilistraeanImage" />
+          <attribute id="Name" type="LSString" value="LOOT_Daarra_EilistraeanImage" />
           <attribute id="OnUseDescription" type="TranslatedString" handle="" version="1" />
           <attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
           <attribute id="PhysicsTemplate" type="FixedString" value="94a7c400-b2df-c54c-1675-1937920b7714" />
           <attribute id="ReadinessFlags" type="uint32" value="8" />
-          <attribute id="Stats" type="FixedString" value="OBJ_Darra_EilistraeanImage" />
+          <attribute id="Stats" type="FixedString" value="OBJ_Daarra_EilistraeanImage" />
           <attribute id="TreasureOnDestroy" type="bool" value="True" />
           <attribute id="Type" type="FixedString" value="item" />
           <attribute id="VisualTemplate" type="FixedString" value="d8d012e0-9a28-4436-bc4c-e3b8ba751383" />
@@ -128,7 +128,7 @@
                         <node id="Parameter">
                           <attribute id="MapKey" type="FixedString" value="ProjectileSpell" />
                           <attribute id="Type" type="int32" value="9" />
-                          <attribute id="Value" type="LSString" value="Projectile_Darra_EilistraeanImage_Destroy" />
+                          <attribute id="Value" type="LSString" value="Projectile_Daarra_EilistraeanImage_Destroy" />
                         </node>
                       </children>
                     </node>
