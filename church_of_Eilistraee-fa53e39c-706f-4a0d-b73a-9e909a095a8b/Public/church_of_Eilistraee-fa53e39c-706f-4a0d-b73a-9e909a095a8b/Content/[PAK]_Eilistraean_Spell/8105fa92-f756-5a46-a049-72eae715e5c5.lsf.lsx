@@ -7,7 +7,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="8105fa92-f756-5a46-a049-72eae715e5c5" />
 					<attribute id="Name" type="LSString" value="VFX_Spells_Prepare_Arcane_Damage_Force_Red_R_HandFX_Textkey_01_SDOE" />
-					<attribute id="SourceFile" type="LSString" value="Public/sde_06e7001e-c3ef-228a-1e9f-424cdf7e7ffb/Assets/Effects/Effects_Banks/Spells/Prepare/Arcane/Damage/Force/VFX_Spells_Prepare_Arcane_Damage_Force_Red_R_HandFX_Textkey_01_SDOE.lsfx" />
+					<attribute id="SourceFile" type="LSString" value="Public/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Assets/Effects/Effects_Banks/Spells/Prepare/Arcane/Damage/Force/VFX_Spells_Prepare_Arcane_Damage_Force_Red_R_HandFX_Textkey_01_SDOE.lsfx" />
 					<attribute id="EffectName" type="FixedString" value="VFX_Spells_Prepare_Arcane_Damage_Force_Red_R_HandFX_Textkey_01_SDOE" />
 					<attribute id="BoundsMin" type="fvec3" value="-3 -3 -3" />
 					<attribute id="BoundsMax" type="fvec3" value="3 3 3" />

@@ -1,6 +1,10 @@
 new equipment "EQP_CC_SWORDDANCER"
 add initialweaponset "Melee"
 add equipmentgroup
+add equipment entry "OBJ_Darra_MoonlightShards"
+add equipmentgroup
+add equipment entry "OBJ_Darra_EilistraeanImage"
+add equipmentgroup
 add equipment entry "OBJ_Kit_TrapDisarm"
 add equipmentgroup
 add equipment entry "OBJ_Kit_ThievesTools"

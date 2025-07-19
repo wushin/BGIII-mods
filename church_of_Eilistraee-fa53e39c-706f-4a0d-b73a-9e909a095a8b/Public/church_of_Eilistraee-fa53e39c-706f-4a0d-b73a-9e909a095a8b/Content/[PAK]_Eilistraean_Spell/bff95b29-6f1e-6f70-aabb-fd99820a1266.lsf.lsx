@@ -7,7 +7,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="bff95b29-6f1e-6f70-aabb-fd99820a1266" />
 					<attribute id="Name" type="LSString" value="VFX_BladesongWaltz_Impact_Texkey_01_SDOE_000" />
-					<attribute id="SourceFile" type="LSString" value="Public/sde_06e7001e-c3ef-228a-1e9f-424cdf7e7ffb/Assets/Effects/Effects_Banks/Spells/Cast/Paladin/VFX_BladesongWaltz_Impact_Texkey_01_SDOE_000.lsfx" />
+					<attribute id="SourceFile" type="LSString" value="Public/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Assets/Effects/Effects_Banks/Spells/Cast/Paladin/VFX_BladesongWaltz_Impact_Texkey_01_SDOE_000.lsfx" />
 					<attribute id="EffectName" type="FixedString" value="VFX_BladesongWaltz_Impact_Texkey_01_SDOE_000" />
 					<attribute id="BoundsMin" type="fvec3" value="-7 -7 -7" />
 					<attribute id="BoundsMax" type="fvec3" value="7 7 7" />

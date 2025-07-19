@@ -7,7 +7,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="e703ff4d-b317-2855-83a8-236b291bcece" />
 					<attribute id="Name" type="LSString" value="VFX_Spells_Cast_Intent_Utility_ShoutSelf_ProduceFlame_HandFX_01_SD" />
-					<attribute id="SourceFile" type="LSString" value="Public/sde_06e7001e-c3ef-228a-1e9f-424cdf7e7ffb/Assets/Effects/Effects_Banks/Spells/Cast/Intent/Utility/VFX_Spells_Cast_Intent_Utility_ShoutSelf_ProduceFlame_HandFX_01_SD.lsfx" />
+					<attribute id="SourceFile" type="LSString" value="Public/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Assets/Effects/Effects_Banks/Spells/Cast/Intent/Utility/VFX_Spells_Cast_Intent_Utility_ShoutSelf_ProduceFlame_HandFX_01_SD.lsfx" />
 					<attribute id="EffectName" type="FixedString" value="VFX_Spells_Cast_Intent_Utility_ShoutSelf_ProduceFlame_HandFX_01_SD" />
 					<attribute id="BoundsMin" type="fvec3" value="-4 -4 -4" />
 					<attribute id="BoundsMax" type="fvec3" value="4 4 4" />

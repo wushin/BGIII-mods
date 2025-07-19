@@ -7,7 +7,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="31b83692-6b35-674d-bc1a-c50757be74cd" />
 					<attribute id="Name" type="LSString" value="VFX_Enemies_Nightsong_LunarBolt_TargetAOE_01_SDOE" />
-					<attribute id="SourceFile" type="LSString" value="Public/sde_06e7001e-c3ef-228a-1e9f-424cdf7e7ffb/Assets/Effects/Effects_Banks/Enemies/VFX_Enemies_Nightsong_LunarBolt_TargetAOE_01_SDOE.lsfx" />
+					<attribute id="SourceFile" type="LSString" value="Public/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Assets/Effects/Effects_Banks/Enemies/VFX_Enemies_Nightsong_LunarBolt_TargetAOE_01_SDOE.lsfx" />
 					<attribute id="EffectName" type="FixedString" value="VFX_Enemies_Nightsong_LunarBolt_TargetAOE_01_SDOE" />
 					<attribute id="BoundsMin" type="fvec3" value="-5 -5 -5" />
 					<attribute id="BoundsMax" type="fvec3" value="5 5 5" />

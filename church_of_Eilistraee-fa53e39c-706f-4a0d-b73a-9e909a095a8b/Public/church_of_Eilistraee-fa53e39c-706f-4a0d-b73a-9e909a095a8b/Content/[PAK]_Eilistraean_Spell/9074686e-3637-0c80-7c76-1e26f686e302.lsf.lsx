@@ -7,7 +7,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="9074686e-3637-0c80-7c76-1e26f686e302" />
 					<attribute id="Name" type="LSString" value="VFX_Spells_Cast_Damage_Fire_ProjectileSingle_ProduceFlame_Hurl_HandFX_01_SD" />
-					<attribute id="SourceFile" type="LSString" value="Public/sde_06e7001e-c3ef-228a-1e9f-424cdf7e7ffb/Assets/Effects/Effects_Banks/Spells/Cast/Damage/Fire/VFX_Spells_Cast_Damage_Fire_ProjectileSingle_ProduceFlame_Hurl_HandFX_01_SD.lsfx" />
+					<attribute id="SourceFile" type="LSString" value="Public/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Assets/Effects/Effects_Banks/Spells/Cast/Damage/Fire/VFX_Spells_Cast_Damage_Fire_ProjectileSingle_ProduceFlame_Hurl_HandFX_01_SD.lsfx" />
 					<attribute id="EffectName" type="FixedString" value="VFX_Spells_Cast_Damage_Fire_ProjectileSingle_ProduceFlame_Hurl_HandFX_01_SD" />
 					<attribute id="BoundsMin" type="fvec3" value="-2 -2 -2" />
 					<attribute id="BoundsMax" type="fvec3" value="2 2 2" />

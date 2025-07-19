@@ -7,7 +7,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="f04da2d8-b8e2-a5de-0957-38eb75770747" />
 					<attribute id="Name" type="LSString" value="newAtlas" />
-					<attribute id="SourceFile" type="LSString" value="Public/sde_06e7001e-c3ef-228a-1e9f-424cdf7e7ffb/Assets/Textures/Icons/newAtlas.dds" />
+					<attribute id="SourceFile" type="LSString" value="Public/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Assets/Textures/Icons/newAtlas.dds" />
 					<attribute id="Template" type="FixedString" value="newAtlas" />
 					<attribute id="Streaming" type="bool" value="True" />
 					<attribute id="Type" type="int32" value="1" />

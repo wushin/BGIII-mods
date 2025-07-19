@@ -7,7 +7,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="ac213db3-f1a1-60c9-de70-774eed7e408a" />
 					<attribute id="Name" type="LSString" value="VFX_Spells_Prepare_Bard_Generic_HandFX_Overlay_01_SDOE" />
-					<attribute id="SourceFile" type="LSString" value="Public/sde_06e7001e-c3ef-228a-1e9f-424cdf7e7ffb/Assets/Effects/Effects_Banks/Spells/Prepare/Bard/VFX_Spells_Prepare_Bard_Generic_HandFX_Overlay_01_SDOE.lsfx" />
+					<attribute id="SourceFile" type="LSString" value="Public/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Assets/Effects/Effects_Banks/Spells/Prepare/Bard/VFX_Spells_Prepare_Bard_Generic_HandFX_Overlay_01_SDOE.lsfx" />
 					<attribute id="EffectName" type="FixedString" value="VFX_Spells_Prepare_Bard_Generic_HandFX_Overlay_01_SDOE" />
 					<attribute id="BoundsMin" type="fvec3" value="-2 -2 -2" />
 					<attribute id="BoundsMax" type="fvec3" value="2 2 2" />

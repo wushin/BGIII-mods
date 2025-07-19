@@ -7,7 +7,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="391ebb41-5584-c092-a169-b6544d73ca4a" />
 					<attribute id="Name" type="LSString" value="VFX_Spells_Cast_Intent_Utility_TargetAoe_EyeFX_Overlay_02_SDOE" />
-					<attribute id="SourceFile" type="LSString" value="Public/sde_06e7001e-c3ef-228a-1e9f-424cdf7e7ffb/Assets/Effects/Effects_Banks/Spells/Cast/Intent/Utility/VFX_Spells_Cast_Intent_Utility_TargetAoe_EyeFX_Overlay_02_SDOE.lsfx" />
+					<attribute id="SourceFile" type="LSString" value="Public/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Assets/Effects/Effects_Banks/Spells/Cast/Intent/Utility/VFX_Spells_Cast_Intent_Utility_TargetAoe_EyeFX_Overlay_02_SDOE.lsfx" />
 					<attribute id="EffectName" type="FixedString" value="VFX_Spells_Cast_Intent_Utility_TargetAoe_EyeFX_Overlay_02_SDOE" />
 					<attribute id="BoundsMin" type="fvec3" value="-1 -1 -1" />
 					<attribute id="BoundsMax" type="fvec3" value="1 1 1" />

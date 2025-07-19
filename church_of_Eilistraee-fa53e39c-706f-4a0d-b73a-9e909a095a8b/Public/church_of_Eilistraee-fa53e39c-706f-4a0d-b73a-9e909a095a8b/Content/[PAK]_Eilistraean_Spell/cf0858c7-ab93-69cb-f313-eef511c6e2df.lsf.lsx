@@ -7,7 +7,7 @@
 				<node id="Resource">
 					<attribute id="ID" type="FixedString" value="cf0858c7-ab93-69cb-f313-eef511c6e2df" />
 					<attribute id="Name" type="LSString" value="VFX_Spells_Prepare_Arcane_Intent_Control_Charm_ShellKidStone_01_SDOE" />
-					<attribute id="SourceFile" type="LSString" value="Public/sde_06e7001e-c3ef-228a-1e9f-424cdf7e7ffb/Assets/Effects/Effects_Banks/Spells/Prepare/Arcane/Intent/Control/VFX_Spells_Prepare_Arcane_Intent_Control_Charm_ShellKidStone_01_SDOE.lsfx" />
+					<attribute id="SourceFile" type="LSString" value="Public/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Assets/Effects/Effects_Banks/Spells/Prepare/Arcane/Intent/Control/VFX_Spells_Prepare_Arcane_Intent_Control_Charm_ShellKidStone_01_SDOE.lsfx" />
 					<attribute id="EffectName" type="FixedString" value="VFX_Spells_Prepare_Arcane_Intent_Control_Charm_ShellKidStone_01_SDOE" />
 					<attribute id="BoundsMin" type="fvec3" value="-3 -2 -3" />
 					<attribute id="BoundsMax" type="fvec3" value="3 4 3" />
