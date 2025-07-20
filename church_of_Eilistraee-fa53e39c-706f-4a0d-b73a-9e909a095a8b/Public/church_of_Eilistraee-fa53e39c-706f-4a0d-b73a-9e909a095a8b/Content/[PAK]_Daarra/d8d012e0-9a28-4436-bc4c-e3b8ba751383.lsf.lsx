@@ -18,7 +18,7 @@
                     <attribute id="Initialized" type="bool" value="True" />
                     <attribute id="Localized" type="bool" value="False" />
                     <attribute id="MaterialType" type="uint8" value="0" />
-                    <attribute id="Name" type="LSString" value="BOOK_GEN_Scroll_Parchment_A_Close" />
+                    <attribute id="Name" type="LSString" value="Item_LOOT_Daarra_Base" />
                     <attribute id="NeedsSkeletonRemap" type="bool" value="False" />
                     <attribute id="Radius" type="float" value="0.30848476" />
                     <attribute id="SkeletonResource" type="FixedString" value="" />

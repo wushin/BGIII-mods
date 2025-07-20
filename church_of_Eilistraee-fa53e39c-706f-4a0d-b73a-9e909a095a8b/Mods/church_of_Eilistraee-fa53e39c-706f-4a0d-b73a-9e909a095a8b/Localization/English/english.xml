@@ -90,7 +90,7 @@
   <content contentuid="h8ec328aagf460g45f8g93ddgd3bb43102b0b" version="1">Also works if you have an ally within [1] of the target or there is no one but you and the target within [1] but for both you can&apos;t have &lt;LSTag Tooltip="Disadvantage"&gt;Disadvantage&lt;/LSTag&gt;.</content>
   <content contentuid="hbf30c62cg082cg4263g89c8g83bcb67e6900" version="1">Reaction</content>
   <content contentuid="h7947189agd31ag488egb2eag41249c52f2a5" version="1">This reaction will trigger on a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;.&lt;br&gt;&lt;br&gt;.</content>
-  <content contentuid="h4d5b4c09g28f3g4c2bgbf9cg0d7819d81851" version="1">Sneak Attack (Melee) : Sword Dancer </content>
+  <content contentuid="h4d5b4c09g28f3g4c2bgbf9cg0d7819d81851" version="1">Sneak Attack (Melee) : Sword Dancer</content>
   <content contentuid="h4ec5ac65g324cg4065g86a8g7837c21272d8" version="1">Attack an enemy moving out of your reach.</content>
   <content contentuid="h54329a4ag8521g469bgb66ag00db03c2dd1c" version="1">Eilistraean Song impeded by a weapon. Until the ranged weapon is removed and/or one of the required melee weapons equipped, your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG"&gt;Eilistraean Song&lt;/LSTag&gt; won&apos;t grant any benefits or let you generate &lt;LSTag Type="Status" Tooltip="SONG_TECHINCAL"&gt;Eilistraean Song Charges&lt;/LSTag&gt;.</content>
   <content contentuid="hieepmifd124pa1fjv3el7c5j1r2fnkh2ks0n" version="1">Eilistraean Song is impeded.</content>
@@ -99,7 +99,7 @@
   <content contentuid="h57e194fdg3959g43e8gb994g7ffa82590ea7" version="1">Whenever you successfully evade an attack, one of the duplicates disappears. Doesn&apos;t affect creatures that don&apos;t rely on sight or that can see through illusions.</content>
   <content contentuid="h586db789gf3e0g4260gb1ecg93974571793c" version="1">Eilistraean Song Climax</content>
   <content contentuid="h4aa671b5gc52eg4de9gafe6gb08bd3b97f6e" version="1">Unleash the full damaging and healing effects of your Eilistraean Song at once. Your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_CHARGE"&gt;Eilistraean Song Charges&lt;/LSTag&gt; will harm enemies an additional [1], and will heal you and your allies an additional [2].</content>
-  <content contentuid="h59afe09dg6994g45a9g8aa9gac4f62379339" version="1">If it is higher level than [1], you must make a &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;check&lt;/LSTag&gt; to prevent it. The check&apos;s difficulty is equal to [2] plus the level of the spell you are trying to counter. </content>
+  <content contentuid="h59afe09dg6994g45a9g8aa9gac4f62379339" version="1">If it is higher level than [1], you must make a &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityCheck"&gt;check&lt;/LSTag&gt; to prevent it. The check&apos;s difficulty is equal to [2] plus the level of the spell you are trying to counter.</content>
   <content contentuid="h8848976bgdb18g4e36gac35g687209f28cad" version="1">Spread Moon Fire Blade</content>
   <content contentuid="h7414e810g42b6g4a29gbd5cg62fbd64b0649" version="1">Moon Fire Blade: Reaction</content>
   <content contentuid="h5fdf6f37g677dg4ac4gb400g7b004b9d4232" version="1">Eilistraean Feinting Attack</content>
@@ -115,13 +115,13 @@
   <content contentuid="h4caboy1d2t1czhd77y7ttzaqwgbdd1vqaht5" version="1">Eilistraean Moon Dance</content>
   <content contentuid="hlien0yzid48co420ij7wc2nz4vldlvw1nkqi" version="1">Invoke the Eilistraean Moon Song. You gain a +[1] bonus to &lt;LSTag Tooltip="ArmourClass"&gt;Armour Class&lt;/LSTag&gt; and your &lt;LSTag Type="Spell" Tooltip="Target_UnarmedAttack"&gt;Unarmed Attack&lt;/LSTag&gt; increases by [2]. You also gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; in Acrobatics and a +[1] bonus to Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
   <content contentuid="havmnsfvv36serizcktxffxgfsjxyg1yxr2zr" version="1">Eilistraean War Rhythm</content>
-  <content contentuid="hjgqt318l32bt80v6umy3y2jrlrf2izpubarr" version="1">Invoke the Eilistraean War Rhythm. You gain a +[1] bonus to your &lt;LSTag Type="Spell" Tooltip="Target_MainHandAttack"&gt;MainHand Attack&lt;/LSTag&gt;. You also gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; in Athletics and a +[2] bonus to Strength &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. You are immune to &lt;LSTag Type="Status" Tooltip="PARALYSED"&gt;Paralysed&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Restrained&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;. </content>
+  <content contentuid="hjgqt318l32bt80v6umy3y2jrlrf2izpubarr" version="1">Invoke the Eilistraean War Rhythm. You gain a +[1] bonus to your &lt;LSTag Type="Spell" Tooltip="Target_MainHandAttack"&gt;MainHand Attack&lt;/LSTag&gt;. You also gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; in Athletics and a +[2] bonus to Strength &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. You are immune to &lt;LSTag Type="Status" Tooltip="PARALYSED"&gt;Paralysed&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Restrained&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;.</content>
   <content contentuid="hsggyulz0wpqk7329tj2anw7xg8ll2u4oudjl" version="1">Eilistraean Spell Song</content>
   <content contentuid="hiesv5059zl5qliyxiumr5f90gg3li90gxe2j" version="1">Invoke the Eilistraean Spell Song. You gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; in Performance and a +[1] bonus to Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. You also gain a +[1] bonus to Wisdom and Charisma. You are immune to &lt;LSTag Type="Status" Tooltip="PARALYSED"&gt;Paralysed&lt;/LSTag&gt;, &lt;LSTag Type="Status" Tooltip="RESTRAINED"&gt;Restrained&lt;/LSTag&gt; and &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;</content>
   <content contentuid="ha46f6404g3f08g4f18ga1f7gccbf691e2138" version="1">Moon Fire Blade Critical: Reaction</content>
   <content contentuid="h71a6820egd3e3g4a31g9383g41bc377d9b55" version="1">Spell Song Charge</content>
   <content contentuid="h72564112g891bg4d1ag8abcg4ed41c3ab6df" version="1">Eilistraean Action: Hide</content>
-  <content contentuid="h75d5a90bg99b8g4ef1g9c7ag75e79729df99" version="1">When a creature misses you with a melee attack, you can retaliate with a powerful strike that deals an additional [1] damage if you are wielding a melee weapon. </content>
+  <content contentuid="h75d5a90bg99b8g4ef1g9c7ag75e79729df99" version="1">When a creature misses you with a melee attack, you can retaliate with a powerful strike that deals an additional [1] damage if you are wielding a melee weapon.</content>
   <content contentuid="h7da8fab0g4dbbg4888gb7d9g61c798217f57" version="1">You learn Eilistraean Actions &lt;LSTag Type="Spell" Tooltip="Shout_EilistraeanHide"&gt;Eilistraean Hide&lt;/LSTag&gt; and &lt;LSTag Type="Spell" Tooltip="Shout_EilistraeanDash"&gt;Eilistraean Dash&lt;/LSTag&gt;.</content>
   <content contentuid="h7df25f89g62a0g44b2g98a8g223e05178eef" version="1">This will end your &lt;LSTag Type="Status" Tooltip="EILISTRAEAN_SONG"&gt;Eilistraean Song&lt;/LSTag&gt;.</content>
   <content contentuid="h7eb5ccd1g99d1g4aa1gad7bg0608091830e1" version="1">Eilistraean Trip Attack</content>
@@ -194,7 +194,7 @@
   <content contentuid="h3522f4b1gfd3fg4708g84a9g68e7133d34a0" version="1">Can burn a nearby enemy with &lt;LSTag Type="Spell" Tooltip="Target_MoonFireBladeExtra"&gt;Spread Moon Fire Blade&lt;/LSTag&gt;. Removed if you move.</content>
   <content contentuid="hb83ff5a2g23a5g4f1cga48bg09a70ba7d131" version="1">You gain an additional way to use your Sneak Attack; You can now also perform sneak attacks if there are no other enemies within [1] of the target (the enemy is isolated).</content>
   <content contentuid="h8b98823aga3c7g474egbc0egcfd0d066c47d" version="1">Reactions, such as &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;, are responses you can have to events. Reactions can trigger both during and outside of your turn.</content>
-  <content contentuid="hbdfb1160g8a27g4a6dg8416gd750cd35c098" version="1">Your confidence propels you into battle. You can give yourself a bonus to your initiative rolls equal to your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt; </content>
+  <content contentuid="hbdfb1160g8a27g4a6dg8416gd750cd35c098" version="1">Your confidence propels you into battle. You can give yourself a bonus to your initiative rolls equal to your &lt;LSTag Tooltip="Charisma"&gt;Charisma&lt;/LSTag&gt; &lt;LSTag Tooltip="AbilityModifier"&gt;Modifier&lt;/LSTag&gt;</content>
   <content contentuid="h327d9b8aga2e5g4e4aga72fg3b33b05aa88c" version="1">Attack Cantrip Helper</content>
   <content contentuid="hsymvl59s23yqtov8cpm81lymnzngco5z6778" version="1">Summon blades to sweep at creatures within [1] of you.</content>
   <content contentuid="hc4f6b056g12c1g46acgae36g347d8ca09498" version="1">Hide from enemies by succeeding &lt;LSTag Tooltip="Stealth"&gt;Stealth checks&lt;/LSTag&gt;. Stick to the dark and avoid enemy sightlines. Attacking or casting a spell will reveal your location.</content>
@@ -236,8 +236,8 @@
 	<content contentuid="h9slefdxxrmfy1avxqxfsr49woff3g8x6khx7" version="1">Improved Lunar Smite</content>
 	<content contentuid="hm9qdb5v1o2e8wfrms9cjxtk9o2ifm6q83lmk" version="1">You touch a creature and stimulate its natural healing ability. The target regains [1] + [3]. For the duration of the spell, the target regains [2] at the start of each of its turns.</content>
 	<content contentuid="hw5d3sjtquuglscyrgzyngs4eyxriynj4rotx" version="1">Spellsong: Song of Renewal</content>
-	<content contentuid="h8ox3cqytp6xjo79mcm10sw3erzh7ay6fkzu7" version="1">You channel the fury of Eilistraee on Fiends, weakening their very essence. Magic that would normally bounce off its form now burns its flesh. All Darksong spells and attacks will ignore any &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; the target has to all damage types. </content>
-  <content contentuid="hxrknn393kzvmr3a7vbe56mh3z4ymk4xj5fr7" version="1">You channel the fury of Eilistraee on Oozes, weakening their very essence. Magic that would normally bounce off its form now burns its flesh. All Darksong spells and attacks will ignore any &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; the target has to all damage types. </content>
+	<content contentuid="h8ox3cqytp6xjo79mcm10sw3erzh7ay6fkzu7" version="1">You channel the fury of Eilistraee on Fiends, weakening their very essence. Magic that would normally bounce off its form now burns its flesh. All Darksong spells and attacks will ignore any &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; the target has to all damage types.</content>
+  <content contentuid="hxrknn393kzvmr3a7vbe56mh3z4ymk4xj5fr7" version="1">You channel the fury of Eilistraee on Oozes, weakening their very essence. Magic that would normally bounce off its form now burns its flesh. All Darksong spells and attacks will ignore any &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; and &lt;LSTag Tooltip="Immune"&gt;Immunity&lt;/LSTag&gt; the target has to all damage types.</content>
 	<content contentuid="hqhhxjw3dqystakft1w4hzoqf9ssq5qbnsk8p" version="1">Wrap yourself in silvery moonlight and vanish, reappearing in an unoccupied space within 18m.</content>
 	<content contentuid="homsqiar4lst2xsox7l91iepkjp1i5ztzww73" version="1">Remove Curses and Hexes on up to [1] Creatures or Objects afflicted by them within 6m.</content>
 	<content contentuid="h4tlvbh357njnsk2fa14qt7ikh8vuaqd33qin" version="1">Creature is engulfed by Eilistraee&apos;s Moonlight that deal [1] and [2] per turn. On a successful save, the creature still takes half damage.</content>
@@ -249,7 +249,7 @@
 	<content contentuid="hg54aplcgr3yipsnllaqssif09y6ct9f38hb5" version="1">Move Eilistraee&apos;s Moonlight up to [1]. The Moonlight damages any creature [2] and [3] that enters it or starts its turn inside.</content>
 	<content contentuid="hef5noh6gl2o5nppdlas7zloxwisqajelznrx" version="1">Aura of Purity</content>
 	<content contentuid="hfnak5hdaejs81o08d4cy1d8a85emm0il4mgt" version="1">Protect up to [1] targets, they cannot be targeted until attacking or harming another creature but can still take damage from area spells.</content>
-	<content contentuid="hoy23r3so7wmnd501zq7vktmj28h0lu3f34oh" version="1">Fire a bolt of concentrated moonlight at a target, dealing [1] and [2] and leaving a frozen surface at the point of impact. </content>
+	<content contentuid="hoy23r3so7wmnd501zq7vktmj28h0lu3f34oh" version="1">Fire a bolt of concentrated moonlight at a target, dealing [1] and [2] and leaving a frozen surface at the point of impact.</content>
 	<content contentuid="hm3a7omebfgxdpxetjnty9qnmospvcjjxsv62" version="1">Lunar Shift</content>
 	<content contentuid="hbyh4m31ipmqzkklic7ziqxxkhyd349ys6l8y" version="1">Prismatic Spray</content>
 	<content contentuid="hgw92kbd9spcl3tdo98d58k3lzlu19868i1n2" version="1">Protect up to [1] creatures from death. The next time damage would reduce them to 0 &lt;LSTag Tooltip="HitPoints"&gt;hit points&lt;/LSTag&gt;, they remain conscious with 1 hit point left.</content>
@@ -262,7 +262,7 @@
 	<content contentuid="hhaimzl4g0iau79av0cj6pshmdb2sm684heyq" version="1">Lunar Bolt</content>
 	<content contentuid="hsmciijnwnlrx9agwjtloscm9wrkqh9kftpux" version="1">Eternal Dance</content>
 	<content contentuid="h49q0vkidzitw5u7ljj3za6247wur9yilogdx" version="1">Bladesong Waltz</content>
-	<content contentuid="h62mcetyqngheuz7t0sh4hyxri6dynt7bvfkm" version="1">You perform a haunting melody that &lt;LSTag Type="Status" Tooltip="CHARMED "&gt;Charms&lt;/LSTag&gt; nearby foes and &lt;LSTag Type="Status" Tooltip="INCAPACITATED "&gt;Incapacitates&lt;/LSTag&gt; all creatures within 10m who fail a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, including those who enter the area later. Affected targets cannot be charmed again by this spell more than once, you cannot take actions while performing and moving will break concentration. </content>
+	<content contentuid="h62mcetyqngheuz7t0sh4hyxri6dynt7bvfkm" version="1">You perform a haunting melody that &lt;LSTag Type="Status" Tooltip="CHARMED "&gt;Charms&lt;/LSTag&gt; nearby foes and &lt;LSTag Type="Status" Tooltip="INCAPACITATED "&gt;Incapacitates&lt;/LSTag&gt; all creatures within 10m who fail a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;, including those who enter the area later. Affected targets cannot be charmed again by this spell more than once, you cannot take actions while performing and moving will break concentration.</content>
 	<content contentuid="hscc7ph0u87g3axqi0botbfsawwty957nb6ai" version="1">Empower yourself with the grace of the Dark Maiden, you gain &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next weapon attack, it deals an additional [1] and [2] on a hit and you do not provoke &lt;LSTag Tooltip="OpportunityAttack"&gt;Opportunity Attacks&lt;/LSTag&gt;. Whether you hit or miss, your walking speed increases by 9m until the end of that turn.</content>
 	<content contentuid="hvp9y3nw2myvxzl0sscdtybc18k2jt63h0f2a" version="1">Moonlit Sanctuary</content>
 	<content contentuid="hgq1ab76anvbdhzzvx7b469s4p2x2qzbhgy1c" version="1">Cure up to [1] creatures from disease, poison, paralysis or blindness within 9m.</content>
@@ -271,7 +271,7 @@
 	<content contentuid="hjsswxavo1leqwd7thrgb3fxecz5s9j3xjwju" version="1">Aura of Truth</content>
   <content contentuid="hne8llzr6uikrhrolm7tcetv411lht6gkm2xi" version="1">Oozebane</content>
 	<content contentuid="hvxs5yiu64v48g2m7bijjadkwhsdvxtp7b0gr" version="1">Demonbane</content>
-	<content contentuid="htr15lj3vb5n5wepbj6teackshri8bvox5b1g" version="1">You teleport between up to 5 enemies within range, dancing through them in a flurry of strikes. Each hit channels Eilistraee&apos;s will, dealing [1] and [2] and you reappear beside the final target, your form trailing glimmers of moonlight. </content>
+	<content contentuid="htr15lj3vb5n5wepbj6teackshri8bvox5b1g" version="1">You teleport between up to 5 enemies within range, dancing through them in a flurry of strikes. Each hit channels Eilistraee&apos;s will, dealing [1] and [2] and you reappear beside the final target, your form trailing glimmers of moonlight.</content>
 	<content contentuid="hrzrwwu6f6oqp2octuw5694ltiv1rrpe6100n" version="1">Six multicolored rays of light flash from your hand. Each creature in a 18m cone must make a Dexterity saving throw. For each target, roll a d6 to determine the effect. &lt;br&gt;&lt;br&gt;On roll of 1: [1], on 2: [2], on 3: [3], on 4: [4], on 5: [5] and half as much on a failed save. On a 6 and a failed save, the target is &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;. It must then make a Wisdom saving throw at the start of your next turn. A successful save ends the blindness. If it fails that save, the creature is &lt;LSTag Type="Status" Tooltip="BANISHED"&gt;Banished&lt;/LSTag&gt; for 4 turns.</content>
 	<content contentuid="hql8d09y95st1fmx6g53cbspyqoak9f7fa386" version="1">Conjure a 4m radius circle of silvery moonlight that lasts for 3 turns. Allies inside restore [1] each turn, gain &lt;LSTag Tooltip="Resistant"&gt;Resistance&lt;/LSTag&gt; to Necrotic and Psychic damage. Targets cannot become &lt;LSTag Type="Status" Tooltip="INVISIBLE"&gt;Invisible&lt;/LSTag&gt; and Invisibility is removed while inside.</content>
 	<content contentuid="hcfsbq8va5ra6a8n220jarxa9nlxgmywpa0lm" version="1">Your attacks are suffused with Eilistraee&apos;s Divine Moonlight dealing an additional [1] and [2].</content>
@@ -286,7 +286,7 @@
 	<content contentuid="h00129aecg465dg40afgb002gbddc01ec7e8d" version="1">You conjure [2] shards of concentrated moonlight and send them streaking toward targets within range. Each shard always hits and deals [1].</content>
 	<content contentuid="h30914ddbg67dag4d04gbf56g5bd6f655c1eb" version="1">Wrap yourself in silvery moonlight and vanish, reappearing in an unoccupied space within 18m.</content>
 	<content contentuid="h4d9a5099g6f1fg450fg9369g7e28636c0169" version="1">Move Eilistraee&apos;s Moonlight up to [1]. The Moonlight damages any creature [2] and [3] that enters it or starts its turn inside.</content>
-	<content contentuid="h576157e4gd088g4380gb2e1g13683c705523" version="1">Fire a bolt of concentrated moonlight at a target, dealing [1] and [2] and leaving a frozen surface at the point of impact. </content>
+	<content contentuid="h576157e4gd088g4380gb2e1g13683c705523" version="1">Fire a bolt of concentrated moonlight at a target, dealing [1] and [2] and leaving a frozen surface at the point of impact.</content>
 	<content contentuid="h599d19a1ge3c4g4ad8g9ba4g3940645b6a62" version="1">Lunar Shift</content>
 	<content contentuid="h59c676d3gf9c5g4c7dg9a5eg24e87f41e221" version="1">Prismatic Spray</content>
 	<content contentuid="h7a09991eg5ea4g4094g9c9eg45424523c9a9" version="1">Moonveil Strike</content>
@@ -335,14 +335,14 @@
   <content contentuid="hf0kmuldt3mb2z2vyty31jxf84cirachac4sm" version="1">You can now mete out a flurry of comfort and hurt. When you use Flurry of Blows, you can spend 1 Ki to an additional [1] + [2] of damage.</content>
   <content contentuid="h3rri2t2yhikjpf2vokgezyf143267vbah3le" version="1">Quivering Palm</content>
   <content contentuid="h695kh3zvu2a6l45euuftw58f0zn8so1xguhz" version="1">You gain the ability to set up lethal vibrations in someone's body. When you hit a creature with an unarmed strike, you can spend 3 ki points to start these imperceptible vibrations. The vibrations are harmless unless you use your action to end them. When you use this action, the creature must make a Constitution saving throw. If it fails, it is reduced to 0 hit points. If it succeeds, it takes 10d10 necrotic damage. You can have only one creature under the effect of this feature at a time. You can choose to end the vibrations harmlessly without using an action.</content>
-  <content contentuid="h6toieibhjig1l0zsdxglkkn3w3jxgoxru5s3" version="1">Quivering Palm Activation </content>
+  <content contentuid="h6toieibhjig1l0zsdxglkkn3w3jxgoxru5s3" version="1">Quivering Palm Activation</content>
   <content contentuid="hjtjv8cniyhk6qun0hszu3ltw5a9mq6aa69a2" version="1">Active Quivering Palm on target making them make a Constitution saving throw or die, on a save target takes 10d10 necrotic damage.</content>
   <content contentuid="hhbwk63gmpue61dz5qacc440xjbhzj74c0spr" version="1">Quivering Palm Dismiss</content>
   <content contentuid="h5xxkhbvensx5xvlcx66bnkxkpdufronunm3f" version="1">Dismiss Quivering Palm without any adverse effect on target.</content>
   <content contentuid="h380q3hfkhewx7mnspwld3lqkehkyvtloxevc" version="1">Fist Of The Full Moon</content>
   <content contentuid="hjy1ck4aybxhc38ldh3oymg1n0ru6eybuc6py" version="1">As long as you don't miss, you can continue to make unarmed attacks this turn.</content>
   <content contentuid="hsrrgvhjcxjoumcuhrnm1b9cunobajgnho3wo" version="1">Silverhair Kight: Deft Strikes</content>
-  <content contentuid="hnnzuay44020gy865g7cdq183be7cinhk0ajd" version="1">Attacks with &lt;LSTag Tooltip="MonkWeapon"&gt;Monk Weapons&lt;/LSTag&gt; and unarmed attacks deal [1], unless their normal damage is higher. </content>
+  <content contentuid="hnnzuay44020gy865g7cdq183be7cinhk0ajd" version="1">Attacks with &lt;LSTag Tooltip="MonkWeapon"&gt;Monk Weapons&lt;/LSTag&gt; and unarmed attacks deal [1], unless their normal damage is higher.</content>
 
   <content contentuid="ha42521ceg59ecg430bg9fcfg93ba99bedb6b" version="1">Mystra&apos;s Blade Song</content>
   <content contentuid="h2f36599dg9e95g4b7agb0d1g155af8ee664d" version="1">Born from Mystra&apos;s lament over her Mothers constantly fighting.</content>
@@ -354,4 +354,114 @@
   <content contentuid="hbg0bd50rj236o9urafptbkbxwcnttr0tbfjr" version="1">The Daarra, more commonly known as spellbones, are a trademark magic item crafted in the Eilistraean city of Imberlur. Daarra are 5-6 inches long batons of grey-white porcelain and imbued with the power of a single spell. Breaking a spellbone releases the imbued spell under the control of the breaker, regardless to their skill in, or aptitude for, magic.</content>
   <content contentuid="hds32h7tk0awxpfpq2dmbleptbv7bmrimb41f" version="1">Daarra of Eilistraean Image</content>
   <content contentuid="hyebh4ue8i2asnkb6zuyi2ahv7rmnr3uyvjsm" version="1">Daarra of Moonlight Shards</content>
+  <content contentuid="hygfdqft92cw4ub12xsjoz9om2kw6ol4lmywd" version="1">Daarra of Dispel Magic</content>
+  <content contentuid="hzqlmii4wtmuq9pksjwmh1sayxrwl4522gh4p" version="1">Daarra of Arcane Eye</content>
+  <content contentuid="hp9ir0o2aaxjpyxzy6scmcvutj5t1kfrvs5w3" version="1">Daarra of Arcane Lock</content>
+  <content contentuid="hkkxepaqwcp32q8unkvdesqra73k0jq0q1wch" version="1">Daarra of Evard&apos;s Black Tentacles</content>
+  <content contentuid="hy0q0oeo8qnms54ax8wltbr1x0mwet1q209yq" version="1">Daarra of Banishment</content>
+  <content contentuid="h1cfmu9nbjgoukf5kcu4f2i6e0erbsytthmkc" version="1">Daarra of Blight</content>
+  <content contentuid="haqixddgr6slbactnyy3ma4aq7tszruzv7k6v" version="1">Daarra of Blink</content>
+  <content contentuid="hkjchubh4mrzqbc6xb5r71q5bkfboimue04dq" version="1">Daarra of Chain Lightning</content>
+  <content contentuid="hv4js4pkanrtw7s0vilgm9b5y13ws4w2hc2nm" version="1">Daarra of Circle of Death</content>
+  <content contentuid="hm320q7msaj1mp34k7h7y2ulazs6tnx54ie6i" version="1">Daarra of Cloudkill</content>
+  <content contentuid="h3azvi4xtc3f0fx9ezbeui955mdzuoern9eoj" version="1">Daarra of Cone of Cold</content>
+  <content contentuid="h4ygxkzjwdler0k3gw0g8dhg1hqgazkpi99ud" version="1">Daarra of Confusion</content>
+  <content contentuid="hv3615ml2g2axq90vhnypz3srlp6yc8xfe3h3" version="1">Daarra of Conjure Elemental</content>
+  <content contentuid="h3ks6jyzv3ko2prtvre8is8b9n298uj7bbvkg" version="1">Daarra of Conjure Minor Elemental</content>
+  <content contentuid="hqk52z8yt5pxiz75g6y9nvg646t70mp8w31i8" version="1">Daarra of Dimension Door</content>
+  <content contentuid="h9zytwfithrldz7nvks3jp14yeakue96nqjz5" version="1">Daarra of Disintegrate</content>
+  <content contentuid="hjicivrhdiwyype2d2gpjk439579ootsju7qb" version="1">Daarra of Acid Arrow</content>
+  <content contentuid="hbsvtqffm79833m4b33h20y9mroj1l6jbw082" version="1">Daarra of Aid</content>
+  <content contentuid="h1u8wtav3d6jikwtawg97ibk2k80qcoq1d5g4" version="1">Daarra of Animal Friendship</content>
+  <content contentuid="hs3o9kc38txojjoybqv3cwgbl1qsv5encpz3m" version="1">Daarra of Animate Dead</content>
+  <content contentuid="hb6ahartc40vl2bseyvv3dmsg16b70kwqp1io" version="1">Daarra of Bestow Curse</content>
+  <content contentuid="hz55wv9mpv59h7ad1xk0lgeiswsad7vo73itg" version="1">Daarra of Blindness</content>
+  <content contentuid="hytoxl7ppfx3zj8lopjtgp3qm59k6bmb4bl0k" version="1">Daarra of Blur</content>
+  <content contentuid="hdfdto548gdfu7gi9a3mwxtjzi1usmwbi4z08" version="1">Daarra of Burning Hands</content>
+  <content contentuid="h631w481xb7it4cm85ymg7clqbmgim688ye3c" version="1">Daarra of Charm Person</content>
+  <content contentuid="htzhigsajfzvlluyl1wtut238mii5grwu9f0y" version="1">Daarra of Chill Touch</content>
+  <content contentuid="hw2pfqljteudr9eq8aeptl9b858ui8j96o2oa" version="1">Daarra of Chromatic Orb</content>
+  <content contentuid="hdy389p99btfxt43gxig4jfptps6j9cqzars3" version="1">Daarra of Cloud Of Daggers</content>
+  <content contentuid="h134rcnk5ie8tojn7t4ipakshzpyiy30dktqt" version="1">Daarra of Color Spray</content>
+  <content contentuid="htos73tpja6wwcdk1m6hpci9vlxccqkzbq0ek" version="1">Daarra of Crown Of Madness</content>
+  <content contentuid="hwp53wnlbriebz9edjop5m67x2gh8mytep7ur" version="1">Daarra of Darkness</content>
+  <content contentuid="h0hopiimkpqfgt7j0gxy7eu3llb4h0yhx1e39" version="1">Daarra of Darkvision</content>
+  <content contentuid="hrtmgcb3agpg41zp5fn337hgsu55mi54an80b" version="1">Daarra of Detect Thoughts</content>
+  <content contentuid="h69op2zcunkaxl02v7xr3t9cetuo66yqehsn6" version="1">Daarra of Disguise Self</content>
+  <content contentuid="hvtdqe5hcbcdayx81r8cbrz9lpaox1bgm3dtq" version="1">Daarra of Dominate Person</content>
+  <content contentuid="h2yfbkbhg2wrat0io90q5p7ql9kkvgavrrv9c" version="1">Daarra of Enlarge</content>
+  <content contentuid="hp1m0118t6u3a4n9dmgzr8cc8txb1qk548zk6" version="1">Daarra of Expeditious Retreat</content>
+  <content contentuid="hokhx31yb1vpjg2qna4jyix9f4w67wbdulrfl" version="1">Daarra of Eyebite</content>
+  <content contentuid="hzga8qq5f5g8y9hd5ptuyat3bh3hire1mls6v" version="1">Daarra of False Life</content>
+  <content contentuid="hg4p1twhc0womai6al7sxagny1scom6quswwf" version="1">Daarra of Fear</content>
+  <content contentuid="hpovui9tpkw5pgqqtc3da09cv97n4f4nt5i7k" version="1">Daarra of Feather Fall</content>
+  <content contentuid="h5rbcpb32zvmwgsaqyfwnoyavtxz4dnt9a2bq" version="1">Daarra of Feign Death</content>
+  <content contentuid="hsotu342ex9u7fcscdmmcgfhdw0y87qnyuygm" version="1">Daarra of Find Familiar</content>
+  <content contentuid="hvcvxwjjgcvg8dn5cbx47tf6lmhkas3ny37ee" version="1">Daarra of Fireball</content>
+  <content contentuid="hmnyxbl45lqfncez8wjjaildiesmm7b2jw6pp" version="1">Daarra of Fire Bolt</content>
+  <content contentuid="hdh8u4jryt31w613qrz5de4ha4twh3y91cmpx" version="1">Daarra of Fire Shield_ Chill</content>
+  <content contentuid="h67pr52ez459dkrj5g2xb5qy84wefgojq6vsm" version="1">Daarra of Fire Shield_ Warm</content>
+  <content contentuid="hoht2e06a6uxcau3wqb9q4ne1y2yns21v8pkn" version="1">Daarra of Flaming Sphere</content>
+  <content contentuid="hfhzg4sk0nkquvj2ek0o68l1eq4dddladqh63" version="1">Daarra of Flesh To Stone</content>
+  <content contentuid="hz28zczc0l63xiivf29ma3g1newvpzbd456ja" version="1">Daarra of Fly</content>
+  <content contentuid="h59lz31kpx6d1l30uqfum9e3szx4ou8fwiyad" version="1">Daarra of Fog Cloud</content>
+  <content contentuid="h1shjug2modi1a5mhhde5kyg44ejnjgeo3tbb" version="1">Daarra of Freezing Sphere</content>
+  <content contentuid="hkn91yhb1yzn7vwy958qiyorozofnnomlun0g" version="1">Daarra of Gaseous Form</content>
+  <content contentuid="hjqpnje35eudpoiigxg9bzqi5cvrr7g31f24r" version="1">Daarra of Globe Of Invulnerability</content>
+  <content contentuid="hp7mi4y1w0m5r1ju4te60k2nd2mqtzyr5ug9j" version="1">Daarra of Glyph Of Warding</content>
+  <content contentuid="h6y0hv3aqpxfuyc2camj7fg0gm0mxrr9y9xw5" version="1">Daarra of Grease</content>
+  <content contentuid="h34els046cn54o09u0l7rvuny1h1req5y2icp" version="1">Daarra of Gust Of Wind</content>
+  <content contentuid="h8il3l69da8d8egm9o8imgdo4kkv5rb8kiun6" version="1">Daarra of Haste</content>
+  <content contentuid="hglprrzag9p8pemkfltvszet5jx4v7vhrw8mk" version="1">Daarra of Hideous Laughter</content>
+  <content contentuid="htdca8y2ud2sdnjqfesh6n29mqxy3rknkq952" version="1">Daarra of Hold Monster</content>
+  <content contentuid="h06mt6ylr6eimq2intqpq8uo52edwlm9pjf76" version="1">Daarra of Hold Person</content>
+  <content contentuid="hm03qsvx07k5rwctok44ov3wzvtgcaw7ngk6x" version="1">Daarra of Hypnotic Pattern</content>
+  <content contentuid="hwzia9gyd1sxnh5j540ry6j5vp9kssnv2uy44" version="1">Daarra of Ice Knife</content>
+  <content contentuid="hih0idrxrxk4vanu4z1bgub58qqcz0knc5uj6" version="1">Daarra of Ice Storm</content>
+  <content contentuid="he7fghzehm0s633wm1nxx3sr22fbq8jvjokte" version="1">Daarra of Invisibility</content>
+  <content contentuid="hzm7jj54nkq9plyj5m2js4871gdfu70po93uo" version="1">Daarra of Invisibility_ Greater</content>
+  <content contentuid="hw6sclnvl8lp80x4movhqzhwzowr7y90hzs58" version="1">Daarra of Irresistible Dance</content>
+  <content contentuid="hwghauxb9sy3oivb71lmv06d40sfvlas0dh65" version="1">Daarra of Jump</content>
+  <content contentuid="hpamd6y7udrrfdvc99ide1zhyfqm6p0kk7lse" version="1">Daarra of Knock</content>
+  <content contentuid="hxwe06xi09vzdtwhwni7oq8wndd60pqfs20xk" version="1">Daarra of Lightning Bolt</content>
+  <content contentuid="hcdh9p9mxsd5r4cnitxzewqqtbov1rf9tuydg" version="1">Daarra of Longstrider</content>
+  <content contentuid="he5h86kq5fkcpry4er1jjwy03bvrcvtj4qve5" version="1">Daarra of Mage Armor</content>
+  <content contentuid="h85gxghpaywa08f0fiuy8wqitjluwwshwiwvw" version="1">Daarra of Magic Missile</content>
+  <content contentuid="husemb5ndtvo96f7ykets5nlxoqwp1ae6l4n2" version="1">Daarra of Magic Weapon</content>
+  <content contentuid="hsibkferj8fl9bsowpml2er18r14pd4gm2owx" version="1">Daarra of Mirror Image</content>
+  <content contentuid="hy76018n3656z5h6h1lm151cpdgjwfe68wn3j" version="1">Daarra of Misty Step</content>
+  <content contentuid="had50qskdulydbqc9e3zaw2j8f9rebav3363k" version="1">Daarra of Phantasmal Force</content>
+  <content contentuid="hi57kbc1e4jr27x7udv3gdyb1l46fh8c4m4t6" version="1">Daarra of Phantasmal Killer</content>
+  <content contentuid="h9ojxudsnxr13lfjcq2y4rlhtoa2s43fonj61" version="1">Daarra of Planar Binding</content>
+  <content contentuid="hyf3b2rmnm2mbam1uertgxd782osa3z80yr6u" version="1">Daarra of Polymorph</content>
+  <content contentuid="h9to53b33jsk34pyahvylhdtpy2dgi35g8eyu" version="1">Daarra of Protection From Energy</content>
+  <content contentuid="hxh7q60dxv13nlom55sad316db5flkv3lpsuj" version="1">Daarra of Protection From Evil And Good</content>
+  <content contentuid="hipil5310nf77sbbjl58kp1kocf8gma611kmn" version="1">Daarra of Ray Of Enfeeblement</content>
+  <content contentuid="hlc5sdvnfj8jdalopatqb80jfm6w4kisfhqgu" version="1">Daarra of Ray Of Frost</content>
+  <content contentuid="h62584pltrkfb1cpxb04bywv048ropa2vj8pu" version="1">Daarra of Ray Of Sickness</content>
+  <content contentuid="hq9ntpjn0ijvcz3mbk980g8tmd94b9a20wezt" version="1">Daarra of Remove Curse</content>
+  <content contentuid="h1y01pttp5cly0ojzpg733kbnllrllefj7ssp" version="1">Daarra of Resilient Sphere</content>
+  <content contentuid="hertmba8aps6dpim89c24fwxzis9ox5d1rg3k" version="1">Daarra of Revivify</content>
+  <content contentuid="h9836tknyhv9edlq5fqbu7kg2xrzn7vzll4yx" version="1">Daarra of True Resurrection</content>
+  <content contentuid="hdk5ft8ihxd4caice456vafcu0q7icmfchsq9" version="1">Daarra of Scorching Ray</content>
+  <content contentuid="h3jyotk0cy8rpjj84xb73qx9obqomv2as3e9a" version="1">Daarra of See Invisibility</content>
+  <content contentuid="hgyc9c086rdrw7rmbkluk151n8f80m0g7hrr9" version="1">Daarra of Seeming</content>
+  <content contentuid="hk44wk2uegdzea4wglh5wb4g1lpm403dm65f1" version="1">Daarra of Shatter</content>
+  <content contentuid="hhscpz0ga2739lsug4nzz80o07siupd5v4ufq" version="1">Daarra of Shocking Grasp</content>
+  <content contentuid="h3j74bho9ovtqd7k1tnabgtun1yge93ou4ik9" version="1">Daarra of Sleep</content>
+  <content contentuid="hkebd6w1afesle6g351vm0glj1fw3y2ysptdz" version="1">Daarra of Sleet Storm</content>
+  <content contentuid="h8yfgfzv9br6cxgtbmim62attdkt6zlepubqi" version="1">Daarra of Slow</content>
+  <content contentuid="hi0gembm985cabc5k7je64rrensbr4a6rb5y0" version="1">Daarra of Speak With Dead</content>
+  <content contentuid="h822utulp5h64hjctqm9rqunqyqem2z2eqmoi" version="1">Daarra of Stinking Cloud</content>
+  <content contentuid="h5hb8qb9a6fysjqtg35y0pc5jmoq3bfr6vloi" version="1">Daarra of Stoneskin</content>
+  <content contentuid="hps3rsev46rmrft0bcjyo1t5cndum389yoyk6" version="1">Daarra of Summon Quasit</content>
+  <content contentuid="hpkqm1ggn5thueyp0ckb5d70f9oo0gr5pieo5" version="1">Daarra of Sunbeam</content>
+  <content contentuid="hcaf0u4sf6r00i4hbwme53dz7in06ckx2rnw9" version="1">Daarra of Telekinesis</content>
+  <content contentuid="huqzpmvobm2qiohk0h22chpd7tktliz8q9y8h" version="1">Daarra of Thunderwave</content>
+  <content contentuid="htm8aq8qb6sa1ctys09eizkr7sjd19l1l526j" version="1">Daarra of Vampiric Touch</content>
+  <content contentuid="h97dzcoli2rwzqenpckq6jkk16qqw1g0g8c9e" version="1">Daarra of Wall Of Fire</content>
+  <content contentuid="hyput0fw6b98quxesp3ey1faeo90xfsgswlhm" version="1">Daarra of Wall Of Ice</content>
+  <content contentuid="hl8vgxrlx4vtaqx07ougn23g6yxv3pcgjelun" version="1">Daarra of Wall Of Stone</content>
+  <content contentuid="hmh8x8potpmzv5mcq5cpleqy7wjk3obb97lo9" version="1">Daarra of Web</content>
+  <content contentuid="haac2gsjcvkfbvf8zdkang0uu6m3e13bb3li1" version="1">Daarra of Witch Bolt</content>
 </contentList>

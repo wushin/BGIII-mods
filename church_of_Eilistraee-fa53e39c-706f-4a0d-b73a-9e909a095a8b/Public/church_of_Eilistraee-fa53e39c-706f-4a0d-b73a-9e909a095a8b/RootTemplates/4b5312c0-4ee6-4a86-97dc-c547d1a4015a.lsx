@@ -108,34 +108,6 @@
                 </node>
               </children>
             </node>
-            <node id="Scripts">
-              <children>
-                <node id="Script">
-                  <attribute id="UUID" type="FixedString" value="a557ab71-77f3-4b0c-8174-f605e51c90c7" />
-                  <children>
-                    <node id="Parameters">
-                      <children>
-                        <node id="Parameter">
-                          <attribute id="MapKey" type="FixedString" value="HardcoreOnly" />
-                          <attribute id="Type" type="int32" value="1" />
-                          <attribute id="Value" type="LSString" value="0" />
-                        </node>
-                        <node id="Parameter">
-                          <attribute id="MapKey" type="FixedString" value="LifeTime" />
-                          <attribute id="Type" type="int32" value="2" />
-                          <attribute id="Value" type="LSString" value="0" />
-                        </node>
-                        <node id="Parameter">
-                          <attribute id="MapKey" type="FixedString" value="ProjectileSpell" />
-                          <attribute id="Type" type="int32" value="9" />
-                          <attribute id="Value" type="LSString" value="Projectile_Daarra_EilistraeanImage_Destroy" />
-                        </node>
-                      </children>
-                    </node>
-                  </children>
-                </node>
-              </children>
-            </node>
           </children>
         </node>
       </children>
