@@ -177,14 +177,14 @@
             <attribute id="V2" type="float" value="0.37402344"/>
         </node>
         <node id="IconUV">
-            <attribute id="MapKey" type="FixedString" value=""/>
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Darra_Healing"/>
             <attribute id="U1" type="float" value="0.75097656"/>
             <attribute id="U2" type="float" value="0.87402344"/>
             <attribute id="V1" type="float" value="0.25097656"/>
             <attribute id="V2" type="float" value="0.37402344"/>
         </node>
         <node id="IconUV">
-            <attribute id="MapKey" type="FixedString" value=""/>
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Darra_GreaterHealing"/>
             <attribute id="U1" type="float" value="0.87597656"/>
             <attribute id="U2" type="float" value="0.99902344"/>
             <attribute id="V1" type="float" value="0.25097656"/>
@@ -192,14 +192,14 @@
         </node>
 
         <node id="IconUV">
-            <attribute id="MapKey" type="FixedString" value=""/>
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Darra_SuperiorHealing"/>
             <attribute id="U1" type="float" value="0.0009765625"/>
             <attribute id="U2" type="float" value="0.12402344"/>
             <attribute id="V1" type="float" value="0.37597656"/>
             <attribute id="V2" type="float" value="0.49902344"/>
         </node>
         <node id="IconUV">
-            <attribute id="MapKey" type="FixedString" value=""/>
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Darra_SupremeHealing"/>
             <attribute id="U1" type="float" value="0.12597656"/>
             <attribute id="U2" type="float" value="0.24902344"/>
             <attribute id="V1" type="float" value="0.37597656"/>

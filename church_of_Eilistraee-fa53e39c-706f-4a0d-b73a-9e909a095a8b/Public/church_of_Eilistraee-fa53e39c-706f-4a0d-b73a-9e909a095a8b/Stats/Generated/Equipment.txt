@@ -1,23 +1,19 @@
 new equipment "EQP_CC_SWORDDANCER"
 add initialweaponset "Melee"
 add equipmentgroup
-add equipment entry "OBJ_Daarra_MoonlightShards"
-add equipmentgroup
-add equipment entry "OBJ_Daarra_EilistraeanImage"
-add equipmentgroup
 add equipment entry "OBJ_Kit_TrapDisarm"
 add equipmentgroup
 add equipment entry "OBJ_Kit_ThievesTools"
 add equipmentgroup
-add equipment entry "OBJ_Potion_Healing"
+add equipment entry "OBJ_Daarra_Healing"
 add equipmentgroup
-add equipment entry "OBJ_Potion_Healing"
+add equipment entry "OBJ_Daarra_Healing"
 add equipmentgroup
 add equipment entry "ARM_Shoes"
 add equipmentgroup
 add equipment entry "ARM_Robe_Body"
 add equipmentgroup
-add equipment entry "OBJ_Scroll_Revivify"
+add equipment entry "OBJ_Daarra_Revivify"
 add equipmentgroup
 add equipment entry "ARM_Camp_Body"
 add equipmentgroup
@@ -32,15 +28,15 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 new equipment "EQP_CC_SILVERHAIRKNIGHT"
 add initialweaponset "Melee"
 add equipmentgroup
-add equipment entry "OBJ_Potion_Healing"
+add equipment entry "OBJ_Daarra_Healing"
 add equipmentgroup
-add equipment entry "OBJ_Potion_Healing"
+add equipment entry "OBJ_Daarra_Healing"
 add equipmentgroup
 add equipment entry "ARM_Shoes_Monk"
 add equipmentgroup
 add equipment entry "ARM_Robe_Body"
 add equipmentgroup
-add equipment entry "OBJ_Scroll_Revivify"
+add equipment entry "OBJ_Daarra_Revivify"
 add equipmentgroup
 add equipment entry "ARM_Camp_Body"
 add equipmentgroup
@@ -55,15 +51,15 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 new equipment "EQP_CC_DARKSONGKNIGHT"
 add initialweaponset "Melee"
 add equipmentgroup
-add equipment entry "OBJ_Potion_Healing"
+add equipment entry "OBJ_Daarra_Healing"
 add equipmentgroup
-add equipment entry "OBJ_Potion_Healing"
+add equipment entry "OBJ_Daarra_Healing"
 add equipmentgroup
 add equipment entry "ARM_Boots_Leather"
 add equipmentgroup
 add equipment entry "ARM_Leather_Body"
 add equipmentgroup
-add equipment entry "OBJ_Scroll_Revivify"
+add equipment entry "OBJ_Daarra_Revivify"
 add equipmentgroup
 add equipment entry "ARM_Camp_Body"
 add equipmentgroup
@@ -80,15 +76,15 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 new equipment "EQP_CC_PROTECTOROFTHESONG"
 add initialweaponset "Melee"
 add equipmentgroup
-add equipment entry "OBJ_Potion_Healing"
+add equipment entry "OBJ_Daarra_Healing"
 add equipmentgroup
-add equipment entry "OBJ_Potion_Healing"
+add equipment entry "OBJ_Daarra_Healing"
 add equipmentgroup
 add equipment entry "ARM_Boots_Leather"
 add equipmentgroup
 add equipment entry "ARM_Leather_Body"
 add equipmentgroup
-add equipment entry "OBJ_Scroll_Revivify"
+add equipment entry "OBJ_Daarra_Revivify"
 add equipmentgroup
 add equipment entry "ARM_Camp_Body"
 add equipmentgroup
