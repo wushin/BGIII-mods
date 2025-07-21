@@ -346,7 +346,7 @@
             <attribute id="V2" type="float" value="0.74902344"/>
         </node>
         <node id="IconUV">
-            <attribute id="MapKey" type="FixedString" value=""/>
+            <attribute id="MapKey" type="FixedString" value="Item_LOOT_Daarra_BladeOfEilistraee"/>
             <attribute id="U1" type="float" value="0.75097656"/>
             <attribute id="U2" type="float" value="0.87402344"/>
             <attribute id="V1" type="float" value="0.62597656"/>
