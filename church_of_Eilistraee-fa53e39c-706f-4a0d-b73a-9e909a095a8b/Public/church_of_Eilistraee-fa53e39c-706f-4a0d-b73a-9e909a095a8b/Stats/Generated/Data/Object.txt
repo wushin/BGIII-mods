@@ -1150,7 +1150,7 @@ data "Priority" "1"
 new entry "OBJ_Daarra_Revivify"
 type "Object"
 using "OBJ_Daarra_Base"
-data "RootTemplate" "2c0af376-e872-4c3e-9447-53b410df0fe6"
+data "RootTemplate" "c973bdb8-71f5-4f45-8b3a-83af364ba8fa"
 data "ValueUUID" "124a46ba-3465-4a69-8b82-108d643c1e09"
 
 new entry "OBJ_Daarra_Revivify_TrueResurrection"
