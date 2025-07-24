@@ -348,6 +348,38 @@
   <content contentuid="h18d3f947g6551g4484gbd81g543e39b20826" version="1">&lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silences&lt;/LSTag&gt; targets on hit.</content>
   <content contentuid="h6de5d25bgbc1eg4c37g9584g60a0e6a458bf" version="1">Mystical Studded Leather</content>
   <content contentuid="hb1b7c89cge3d2g4949gb580g04843fff02a3" version="1">Every fine stich in these leathers is enchanted. Tailored and designed for speed and movement, prefect for those that are dextrous.</content>
+  <content contentuid="h1kteb5vtu4b4x6irsklz0g8k521dzlosz7pe" version="1">Eilistraee&apos;s Blessing</content>
+  <content contentuid="haksqjrsre8w8v1brj3pues7nnqt3ksyvqgay" version="1">While equipped this weapon gives the status &lt;LSTag Type="Status" Tooltip="BLESS"&gt;Bless&lt;/LSTag&gt; </content>
+  <content contentuid="hkyn4q8fldnzb6zqmek7m84ot3hdzxppj9nx0" version="1">Eilistraee&apos;s Alacrity</content>
+  <content contentuid="hw9sn6apod7t6o0rpy9jfl8c6i7q865myfmam" version="1">While equipped this weapon gives the status &lt;LSTag Type="Status" Tooltip="HASTE"&gt;Haste&lt;/LSTag&gt; </content>
+  <content contentuid="hal039j9z8f26okg0a00ktf71ppi74b2316od" version="1">Eilistraee&apos;s Freedom</content>
+  <content contentuid="houqxw8cfv1xw5ez6hcugh2ask9x4o2v9kaat" version="1">While equipped this weapon gives the status &lt;LSTag Type="Status" Tooltip="FREEDOM_OF_MOVEMENT"&gt;Freedom of Movement&lt;/LSTag&gt; </content>
+  <content contentuid="hktydscvhf6shnnqukyrmhytlk09ib6wkigi1" version="1">Eilistraee&apos;s Guidance</content>
+  <content contentuid="h0flvnwuppsvp2w1b7uszhejmrrpfneofw5ph" version="1">While equipped this weapon gives the status &lt;LSTag Type="Status" Tooltip="GUIDANCE"&gt;Guidance&lt;/LSTag&gt; </content>
+  <content contentuid="hjecg08vt3vziyj79sccfaukvoxj7jk1guzeb" version="1">Deconstructinator</content>
+  <content contentuid="hpfgje1ezp4duubn6hq2ov0h7feye78mgbfry" version="1">This weapon does [1] to items.</content>
+  <content contentuid="h8uhixlslgummgc8b1ow66qbh30r2hhe7pyeo" version="1">Moonlight Tag</content>
+  <content contentuid="hkz0uig8ks19031h6orx9v9pj5r5219zwj1wk" version="1">On a successful hit, enemy must make a Constitution save vs. [1] or gain the status &lt;LSTag Type="Status" Tooltip="LIGHT"&gt;Light&lt;/LSTag&gt;.</content>
+  <content contentuid="howchoc4n86wtqiy4atht9ltd13skkpv5ktx0" version="1">Quiet of Night</content>
+  <content contentuid="hveblhefj4uwp08xv9bvqsxnzvk8fstfpswnz" version="1">On a successful hit, enemy must make a Constitution save vs. [1] or gain the status &lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silenced&lt;/LSTag&gt;.</content>
+  <content contentuid="hn6b0dxunnq17waysq4kl787hs3acjuykziwq" version="1">Moon Rocked</content>
+  <content contentuid="hot2uh54hrxmvgqgqfzuk20jt8rqmgvu7aygx" version="1">On a successful hit, enemy must make a Constitution save vs. [1] or be pushed backed 8m.</content>
+  <content contentuid="hq19byu3rguid9ci7a9thmov1e1efuf6z2yvq" version="1">Veil of Night</content>
+  <content contentuid="h9ieak55awhgf6fn3krd7up6mev9da6zl3bxy" version="1">On a successful hit, enemy must make a Constitution save vs. [1] or gain the status &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;.</content>
+  <content contentuid="hw27qbserkur34n93wcn6qhm6lec4es8s7s6c" version="1">Silken Stasis</content>
+  <content contentuid="h17bkeoa7p9uxxceajrv3w1rf6agyvijjran4" version="1">On a successful hit, enemy must make a Constitution save vs. [1] or gain the status &lt;LSTag Type="Status" Tooltip="PARALYZED"&gt;Paralyzed&lt;/LSTag&gt;.</content>
+  <content contentuid="h2yrambv8fmwu9lphsxhxyd9kgl7nvmwkdktv" version="1">Velvet Chains</content>
+  <content contentuid="h3l72f2qn3wjijw777k2jjoqan0ei2xaq7tq6" version="1">On a successful hit, enemy must make a Dexterity save vs. [1] or gain the status &lt;LSTag Type="Status" Tooltip="ENSNARED"&gt;Ensnared&lt;/LSTag&gt;.</content>
+  <content contentuid="hhhfds55qbtval4f8ggaedoytmckowfgbsn5s" version="1">Final Requiem</content>
+  <content contentuid="hahmcaducp3h1qvgc0heoiqxt99xkf5fo89u9" version="1">On a successful hit, enemy must make a Dexterity save vs. [1] or die.</content>
+  <content contentuid="hsspy2tuafjryjtmygg6iw8cne1argqtsest8" version="1">Eilistraee's Grasp</content>
+  <content contentuid="h3q3ke6zfs7cexr2cs1oa5z4wr39ljaual1el" version="1">On a successful hit, enemy must make a Strength save vs. [1] or gain the status &lt;LSTag Type="Status" Tooltip="ENSNARED_VINES"&gt;Ensnared in vines&lt;/LSTag&gt;.</content>
+  <content contentuid="hq78vj4kj8vx9cjkev8hs75rxxe1tsxa66mja" version="1">Haunting Visage</content>
+  <content contentuid="htr53v9ao1irsmokscgp2my8n6zgr5wx8ddj9" version="1">On a successful hit, enemy must make a Wisdom save vs. [1] or gain the status &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;.</content>
+  <content contentuid="h4508hwlfyx0p23glj330fmngb9vk5036s9wy" version="1">Full Moon Madness</content>
+  <content contentuid="htwlbw7nvw1q6tp91y0uuq40rw96nqligt1ev" version="1">On a successful hit, enemy must make a Wisdom save vs. [1] or gain the status &lt;LSTag Type="Status" Tooltip="MADNESS"&gt;Madness&lt;/LSTag&gt;.</content>
+  <content contentuid="hmmol4begjyedfwhcwj1aig8z7a5p3tb3owqk" version="1">Enthralling Aria</content>
+  <content contentuid="hzwixhbzijq2h89ip91tkyat70qtu9dwn3o5f" version="1">On a successful hit, enemy must make a Wisdom save vs. [1] or gain the status &lt;LSTag Type="Status" Tooltip="CHARMED"&gt;Charmed&lt;/LSTag&gt;.</content>
   <content contentuid="hkm2g2tal22yap9s724d94yxqkpcshsskcdwl" version="1">Eilistraee&apos;s Light</content>
   <content contentuid="hpzs21lni44m1tn1yeey7u8x5t6zs22yi595o" version="1">Sheds holy light in a [1] radius. In combat, enemies standing in the light are &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;, unless they succeed a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
   <content contentuid="hc92gpokfeh61wfgoxacl5fm4bm2uqszxsuvx" version="1">%%% Eilistraee&apos;s Light Technical</content>
