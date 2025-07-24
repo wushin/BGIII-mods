@@ -343,13 +343,38 @@
   <content contentuid="hjy1ck4aybxhc38ldh3oymg1n0ru6eybuc6py" version="1">As long as you don't miss, you can continue to make unarmed attacks this turn.</content>
   <content contentuid="hsrrgvhjcxjoumcuhrnm1b9cunobajgnho3wo" version="1">Silverhair Kight: Deft Strikes</content>
   <content contentuid="hnnzuay44020gy865g7cdq183be7cinhk0ajd" version="1">Attacks with &lt;LSTag Tooltip="MonkWeapon"&gt;Monk Weapons&lt;/LSTag&gt; and unarmed attacks deal [1], unless their normal damage is higher.</content>
-
   <content contentuid="ha42521ceg59ecg430bg9fcfg93ba99bedb6b" version="1">Mystra&apos;s Blade Song</content>
   <content contentuid="h2f36599dg9e95g4b7agb0d1g155af8ee664d" version="1">Born from Mystra&apos;s lament over her Mothers constantly fighting.</content>
   <content contentuid="h18d3f947g6551g4484gbd81g543e39b20826" version="1">&lt;LSTag Type="Status" Tooltip="SILENCED"&gt;Silences&lt;/LSTag&gt; targets on hit.</content>
   <content contentuid="h6de5d25bgbc1eg4c37g9584g60a0e6a458bf" version="1">Mystical Studded Leather</content>
   <content contentuid="hb1b7c89cge3d2g4949gb580g04843fff02a3" version="1">Every fine stich in these leathers is enchanted. Tailored and designed for speed and movement, prefect for those that are dextrous.</content>
-  
+  <content contentuid="hkm2g2tal22yap9s724d94yxqkpcshsskcdwl" version="1">Eilistraee&apos;s Light</content>
+  <content contentuid="hpzs21lni44m1tn1yeey7u8x5t6zs22yi595o" version="1">Sheds holy light in a [1] radius. In combat, enemies standing in the light are &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt;, unless they succeed a Constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+  <content contentuid="hc92gpokfeh61wfgoxacl5fm4bm2uqszxsuvx" version="1">%%% Eilistraee&apos;s Light Technical</content>
+  <content contentuid="h8d0532fdg7e57g41ffg9da7g47a755576618" version="1">%%% BLINDED RESISTED</content>
+  <content contentuid="h9ey31tkbl43qgdgdi6l2ur8s8denh3ifhivz" version="1">Eilistraee&apos;s Dance</content>
+  <content contentuid="hbilyqe2rugmr1dz0xm180d7zzud5xg7rjae3" version="1">Sheds holy light in a [1] radius. In combat, enemies standing in the light are &lt;LSTag Type="Status" Tooltip="IRRESISTIBLE_DANCE"&gt;Irresistible Dance&lt;/LSTag&gt;, unless they succeed a Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+  <content contentuid="hucinvp5giot57a4q2d43wn54g5f3j29axi01" version="1">%%% Eilistraee&apos;s Dance Technical</content>
+  <content contentuid="hqrpb071k1mn79ovao1x00be7gp3tu6xlgfoy" version="1">%%% IRRESISTIBLE_DANCE RESISTED</content>
+  <content contentuid="heykeaz98uajqadwd01cvswb6brvfr9f73czg" version="1">Moon-touched Cold</content>
+  <content contentuid="hx2jxajhurhke9fnozff8gqu35x46pyc6zs73" version="1">The Moon&apos;s Radiance.</content>
+  <content contentuid="hdix9l85qpn8vqioo54ej3ejqedz3hh7dr50p" version="1">Adds [1] to weapon damage.</content>
+  <content contentuid="hm75skqn636c5eiomkv94hbq00eu98y2ojsph" version="1">Energy Theft</content>
+  <content contentuid="hep3ncber746f8m6fjr0rhsjmsdoew908sg0k" version="1">On a &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hit&lt;/LSTag&gt;, the target takes an extra [1]. You also regain [2].</content>
+  <content contentuid="hwlwwea9asl4tp4lgahdmuwosmudgkkcd9s6n" version="1">Eilistraee&apos;s Song</content>
+  <content contentuid="hv7e2124xj09z7h7k944qn2c8opg4d428wmzu" version="1">When ever you make a kill with this blade regain one Song Charge.</content>
+  <content contentuid="hhw33vthl0jhgfjb6w62qw6dvp5iclxkr7beh" version="1">Sight without Sight</content>
+  <content contentuid="hkhz6vd2df39ep83lhnzapdi2hhckgvsom3hi" version="1">You are immune to &lt;LSTag Type="Status" Tooltip="BLINDED"&gt;Blinded&lt;/LSTag&gt; and game &lt;LSTag Type="Status" Tooltip="BLINDSIGHT"&gt;Blind sight&lt;/LSTag&gt;.</content>
+  <content contentuid="hyjofoxqh8d0b82ovqws74mnur6umldfo1uo6" version="1">Shed some light</content>
+  <content contentuid="hs9drq4jxh0uk2rg0aosup3qgmetndkc2nhxz" version="1">You gain Darkvision up to 12m.</content>
+  <content contentuid="hpz8ltwvumnakg4jj9elk02dj1k76yr8qttgi" version="1">Darklight Twins</content>
+  <content contentuid="hcmowkhe5w95qcwmyv2w6585h3d3ovzkohej3" version="1">When you have both Darklight blades equipped, successful attacks surround the target in Darkness and you gain advantage on attack rolls.</content>
+  <content contentuid="h7kh5g1pghxjlepc74b9vsfg9jdwmjl1jydrs" version="1">Just and Strong</content>
+  <content contentuid="hwmq7k5w4841203kwj461g7z2v426f35fwkqg" version="1">You gain advantage on attack rolls and your weapon does [1] extra damage.</content>
+  <content contentuid="h7k5ob28hoj7jh7ko1seqis1ozb7789o20wzo" version="1">Night&apos;s retribution.</content>
+  <content contentuid="h2hup1yrlfof6d8nnomzyx4ltc98bo01nqgeb" version="1">You gain advantage on stealth checks and your weapon does [1] extra damage.</content>
+  <content contentuid="hg3due095rd4zl8frlvim0kwrsx4ho53i9b3m" version="1">Justice of the Night</content>
+  <content contentuid="hkz7tmi0i4dnygmz38da0esk9hscryntq4wel" version="1">When you have Z&apos;resslin "Strengthling" and Veldrineth "Little Shadow" both equipped, you gain 3 bonus movement and if you hit an enemy they becoem &lt;LSTag Type="Status" Tooltip="FRIGHTENED"&gt;Frightened&lt;/LSTag&gt;</content>
   <content contentuid="hb9vgeslbjbpcildzdmxzqk7o10livuoow98q" version="1">Break</content>
   <content contentuid="hbg0bd50rj236o9urafptbkbxwcnttr0tbfjr" version="1">The Daarra, more commonly known as spellbones, are a trademark magic item crafted in the Eilistraean city of Imberlur. Daarra are 5-6 inches long batons of grey-white porcelain and imbued with the power of a single spell. Breaking a spellbone releases the imbued spell under the control of the breaker, regardless to their skill in, or aptitude for, magic.</content>
   <content contentuid="hrr4wjwq7d4vt8g34l40ad9k8mw48bq25yom2" version="1">Daarra of Healing</content>
