@@ -11,7 +11,7 @@ data "SoundStart" "Misc_Status_BladeSong_Start,mainhand;Misc_Status_BladeSong_St
 data "SoundLoop" "Misc_Status_BladeSong_Loop,mainhand;Misc_Status_BladeSong_Loop,offhand;"
 data "SoundStop" "Misc_Status_BladeSong_Stop,mainhand;Misc_Status_BladeSong_Stop,offhand;"
 data "StackId" "EILISTRAEAN_BLADE"
-data "Passives" "EilistraeanSong_BladeDance;EilistraeanSong_BladeUnlock;EilistraeanSong_Charge;EilistraeanSong_Charge_1;Eilistraean_Trip_Boost;Eilistraean_Disarm_Boost;Eilistraean_Distract_Boost;Eilistraean_Feint_Boost;Eilistraean_Cleave_Boost;Eilistraean_Charge_Boost;"
+data "Passives" "EilistraeanSong_BladeDance;EilistraeanSong_BladeUnlock;EilistraeanSong_Charge;EilistraeanSong_Charge_1;"
 data "StatusEffect" "846d57f8-13e7-48dc-a243-f811d9b6780b"
 data "DynamicAnimationTag" "b40466dd-a62d-455b-b4ba-dd0d86e61cd4"
 
@@ -28,7 +28,7 @@ data "SoundStart" "Misc_Status_BladeSong_Start,mainhand;Misc_Status_BladeSong_St
 data "SoundLoop" "Misc_Status_BladeSong_Loop,mainhand;Misc_Status_BladeSong_Loop,offhand;"
 data "SoundStop" "Misc_Status_BladeSong_Stop,mainhand;Misc_Status_BladeSong_Stop,offhand;"
 data "StackId" "EILISTRAEAN_DANCE"
-data "Passives" "EilistraeanSong_MoonDance;EilistraeanSong_DanceUnlock;EilistraeanSong_Charge;EilistraeanSong_Charge_1;Eilistraean_Trip_Boost;Eilistraean_Disarm_Boost;Eilistraean_Distract_Boost;Eilistraean_Feint_Boost;Eilistraean_Cleave_Boost;Eilistraean_Charge_Boost;"
+data "Passives" "EilistraeanSong_MoonDance;EilistraeanSong_DanceUnlock;EilistraeanSong_Charge;EilistraeanSong_Charge_1;"
 data "StatusEffect" "846d57f8-13e7-48dc-a243-f811d9b6780b"
 data "DynamicAnimationTag" "b40466dd-a62d-455b-b4ba-dd0d86e61cd4"
 
@@ -45,7 +45,7 @@ data "SoundStart" "Misc_Status_BladeSong_Start,mainhand;Misc_Status_BladeSong_St
 data "SoundLoop" "Misc_Status_BladeSong_Loop,mainhand;Misc_Status_BladeSong_Loop,offhand;"
 data "SoundStop" "Misc_Status_BladeSong_Stop,mainhand;Misc_Status_BladeSong_Stop,offhand;"
 data "StackId" "EILISTRAEAN_RHYTHM"
-data "Passives" "EilistraeanSong_WarRhythm;EilistraeanSong_RhythmUnlock;EilistraeanSong_Charge;EilistraeanSong_Charge_1;Eilistraean_Trip_Boost;Eilistraean_Disarm_Boost;Eilistraean_Distract_Boost;Eilistraean_Feint_Boost;Eilistraean_Cleave_Boost;Eilistraean_Charge_Boost;"
+data "Passives" "EilistraeanSong_WarRhythm;EilistraeanSong_RhythmUnlock;EilistraeanSong_Charge;EilistraeanSong_Charge_1;"
 data "StatusEffect" "846d57f8-13e7-48dc-a243-f811d9b6780b"
 data "DynamicAnimationTag" "b40466dd-a62d-455b-b4ba-dd0d86e61cd4"
 
@@ -62,7 +62,7 @@ data "SoundStart" "Misc_Status_BladeSong_Start,mainhand;Misc_Status_BladeSong_St
 data "SoundLoop" "Misc_Status_BladeSong_Loop,mainhand;Misc_Status_BladeSong_Loop,offhand;"
 data "SoundStop" "Misc_Status_BladeSong_Stop,mainhand;Misc_Status_BladeSong_Stop,offhand;"
 data "StackId" "EILISTRAEAN_SONG"
-data "Passives" "EilistraeanSong_SpellSong;EilistraeanSong_SongUnlock;EilistraeanSong_Charge;EilistraeanSong_Charge_1;Eilistraean_Trip_Boost;Eilistraean_Disarm_Boost;Eilistraean_Distract_Boost;Eilistraean_Feint_Boost;Eilistraean_Cleave_Boost;Eilistraean_Charge_Boost;"
+data "Passives" "EilistraeanSong_SpellSong;EilistraeanSong_SongUnlock;EilistraeanSong_Charge;EilistraeanSong_Charge_1;"
 data "StatusEffect" "846d57f8-13e7-48dc-a243-f811d9b6780b"
 data "DynamicAnimationTag" "b40466dd-a62d-455b-b4ba-dd0d86e61cd4"
 

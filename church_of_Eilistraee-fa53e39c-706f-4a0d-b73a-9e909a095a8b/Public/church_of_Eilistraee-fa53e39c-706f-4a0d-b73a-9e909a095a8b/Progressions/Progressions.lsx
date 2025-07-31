@@ -82,7 +82,7 @@
           <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Dexterity);ProficiencyBonus(SavingThrow,Charisma);Proficiency(MusicalInstrument);Proficiency(Daggers);Proficiency(Shortswords);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Longswords);ActionResource(Bladesong,4,0);"/>
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
-          <attribute id="PassivesAdded" type="LSString" value="EilistraeanDexterity;TraininginEilistraeanandSong;EilistraeanSong_Armor_Message;EilistraeanSong_Weapon_Message;EilistraeanSong_Shield_Message;EilistraeanSong_Weapon;EilistraeanSong_Shield;EilistraeanSong_Unarmed;EilistraeanSpellSongSlotOne;"/>
+          <attribute id="PassivesAdded" type="LSString" value="EilistraeanDexterity;TraininginEilistraeanandSong;EilistraeanSong_Armor_Message;EilistraeanSong_Weapon_Message;EilistraeanSong_Shield_Message;EilistraeanSong_Weapon;EilistraeanSong_Shield;EilistraeanSong_Unarmed;EilistraeanSpellSongSlotOne;MoonFireBladeArmed_Passive"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
           <attribute id="Selectors" type="LSString" value="SelectSkills(23c1343d-83cf-4a44-a3c3-1897c058d517,5);SelectSkillsExpertise(23c1343d-83cf-4a44-a3c3-1897c058d517,2);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectEquipment(a7cfcf8f-21da-4edd-9a12-b02df197df45,1,EilistraeanInstrument);SelectEquipment(f372063f-130d-49cc-9311-220c0906cd79,1,WarAndSong);AddSpells(f0f16b73-6f4a-40a8-800d-6164c7a30d89,,,,AlwaysPrepared);AddSpells(5025ae16-243d-4bf2-8211-2b6fb3206250,,,,AlwaysPrepared);"/>
           <attribute id="TableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
@@ -104,7 +104,7 @@
           <attribute id="Boosts" type="LSString" value="ActionResource(SneakAttack_Charge,1,0);ActionResource(SpellSlot,1,1);ActionResource(SpellSongCharge,1,0);"/>
           <attribute id="Level" type="uint8" value="3"/>
           <attribute id="Name" type="LSString" value="SwordDancer"/>
-          <attribute id="PassivesAdded" type="LSString" value="SwordDancerSneakAttack;SwordDancerSneakAttackSwitch;"/>
+          <attribute id="PassivesAdded" type="LSString" value="SwordDancerSneakAttack;SwordDancerSneakAttackSwitch;MoonFireBladeSneakAttack_Passive;"/>
           <attribute id="Selectors" type="LSString" value="AddSpells(db021c8d-2080-4049-8d79-6fc163df914e);SelectSpells(4a6c13fe-e3f3-4447-82b6-39b13db9eb42,2,1)"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
           <attribute id="TableUUID" type="guid" value="4469f52e-2d02-4ab9-bdc9-9c264f109026"/>
@@ -295,7 +295,7 @@
           <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Constitution);ProficiencyBonus(SavingThrow,Charisma);Proficiency(MusicalInstrument);Proficiency(Daggers);Proficiency(Shortswords);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Longswords);ActionResource(KiPoint,2,0);"/>
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="SilverhairKnight"/>
-          <attribute id="PassivesAdded" type="LSString" value="UnarmoredDefense_Monk;MartialArts_DextrousUnarmedAttacks;Silverhairknight_UnarmedDamage;MartialArts_BonusUnarmedStrike;Monk_SoundSwitch;FlurryOfBlowsUnlock;"/>
+          <attribute id="PassivesAdded" type="LSString" value="UnarmoredDefense_Monk;MartialArts_DextrousUnarmedAttacks;Silverhairknight_UnarmedDamage;MartialArts_BonusUnarmedStrike;Monk_SoundSwitch;FlurryOfBlowsUnlock;MoonFireBladeUnarmed_Passive"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
           <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectEquipment(a7cfcf8f-21da-4edd-9a12-b02df197df45,1,EilistraeanInstrument);SelectSkills(92330862-e3b7-43dd-87b7-963733c91da7,5);AddSpells(e4309598-46db-4250-aad8-21d31dfd936d,,,,AlwaysPrepared);"/>
           <attribute id="TableUUID" type="guid" value="3d4d52ad-65e5-4dc9-9ec7-a360092ab0dd"/>
@@ -494,7 +494,7 @@
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="DarksongKnight"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
-          <attribute id="PassivesAdded" type="LSString" value="Oath_Devotion_Tenents;"/>
+          <attribute id="PassivesAdded" type="LSString" value="Oath_Devotion_Tenents;MoonFireBladeArmed_Passive"/>
           <attribute id="Selectors" type="LSString" value="SelectEquipment(074f2089-3887-427d-9f3a-cde1033c0385,1,WarAndSong);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectEquipment(a7cfcf8f-21da-4edd-9a12-b02df197df45,1,EilistraeanInstrument);SelectSkills(1fa3bf2e-484b-4300-9028-e08b26601516,5);AddSpells(75ec5035-a771-451a-8b43-0d9aed4b5281,,,,AlwaysPrepared);"/>
           <attribute id="TableUUID" type="guid" value="7aa13aef-9cf6-4662-ad39-bc038753ea4c"/>
           <attribute id="UUID" type="guid" value="bbac38f2-0057-433f-a108-bd5659b06469"/>
@@ -684,7 +684,7 @@
           <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Wisdom);ProficiencyBonus(SavingThrow,Charisma);Proficiency(MusicalInstrument);Attribute(UseMusicalInstrumentForCasting);Proficiency(LightArmor);Proficiency(Daggers);Proficiency(Shortswords);Proficiency(Rapiers);Proficiency(Scimitars);Proficiency(Longswords)"/>
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="ProtectorOfTheSong"/>
-          <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;BardSpellcasting"/>
+          <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel1;BardSpellcasting;MoonFireBladeArmed_Passive"/>
           <attribute id="ProgressionType" type="uint8" value="0"/>
           <attribute id="Selectors" type="LSString" value="SelectEquipment(f372063f-130d-49cc-9311-220c0906cd79,1,WarAndSong);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectEquipment(a7cfcf8f-21da-4edd-9a12-b02df197df45,1,EilistraeanInstrument);SelectSkills(5b22e7f2-068e-44f5-b768-82ea65eb2436,5);AddSpells(4a6c13fe-e3f3-4447-82b6-39b13db9eb42);SelectSpells(a6a35d8c-7cb6-4db5-baa7-e380e7f991b1,3,0,Eilistraean_ClericCantrip,,,AlwaysPrepared);AddSpells(9c57921c-0a34-408a-8b69-5c07b6f483a8,,,,AlwaysPrepared);"/>
           <attribute id="TableUUID" type="guid" value="ee3f894e-fa8b-46d9-89bd-e34a1572b209"/>
