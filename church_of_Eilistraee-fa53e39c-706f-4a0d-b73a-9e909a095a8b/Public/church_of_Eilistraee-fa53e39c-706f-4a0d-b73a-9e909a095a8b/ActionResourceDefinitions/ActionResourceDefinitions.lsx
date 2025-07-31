@@ -9,7 +9,7 @@
           <attribute id="DisplayName" type="TranslatedString" handle="h71a6820egd3e3g4a31g9383g41bc377d9b55" version="1"/>
           <attribute id="MaxLevel" type="uint32" value="0"/>
           <attribute id="Name" type="FixedString" value="SpellSongCharge"/>
-          <attribute id="ReplenishType" type="FixedString" value="Never"/>
+          <attribute id="ReplenishType" type="FixedString" value="FullRest"/>
           <attribute id="IsHidden" type="bool" value="false"/>
           <attribute id="ShowOnActionResourcePanel" type="bool" value="true"/>
           <attribute id="UUID" type="guid" value="ead4918d-523d-464e-8f2f-045dcf989906"/>
