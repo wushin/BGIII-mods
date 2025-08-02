@@ -86,7 +86,7 @@
           <attribute id="V2" type="float" value="0.75"/>
         </node>
         <node id="IconUV">
-          <attribute id="MapKey" type="FixedString" value="empty_6"/>
+          <attribute id="MapKey" type="FixedString" value="Eilistraean_DanceInTheMoonLight"/>
           <attribute id="U1" type="float" value="0.25"/>
           <attribute id="U2" type="float" value="0.5"/>
           <attribute id="V1" type="float" value="0.5"/>

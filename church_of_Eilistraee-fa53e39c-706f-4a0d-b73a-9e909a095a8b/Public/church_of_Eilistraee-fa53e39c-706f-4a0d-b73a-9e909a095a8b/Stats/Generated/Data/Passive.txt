@@ -128,3 +128,12 @@ data "DescriptionParams" "DealDamage(LevelMapValue(EilistraeanSongDmg), Bludgeon
 data "Icon" "PassiveFeature_MartialArts_UnarmedDamage"
 data "Properties" "Highlighted"
 data "Boosts" "MonkWeaponDamageDiceOverride(LevelMapValue(EilistraeanSongDmg))"
+
+new entry "DanceInTheMoonLight"
+type "PassiveData"
+data "DisplayName" "hne8llzr6uikrhrolm7tcetv411lht6gkm2xi;1"
+data "Description" "hbf4511wxtxj3pkqbxy5qiq23ckjtnv8chorj;1"
+data "TooltipStatusApply" "ApplyStatus(MoonLightDance,100,10)"
+data "Properties" "Highlighted"
+data "Icon" "Eilistraean_DanceInTheMoonLight"
+data "Boosts" "UnlockSpell(Target_DanceInTheMoonLight);"

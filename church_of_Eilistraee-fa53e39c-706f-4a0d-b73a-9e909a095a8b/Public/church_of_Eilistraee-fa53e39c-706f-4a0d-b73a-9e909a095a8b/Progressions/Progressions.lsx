@@ -8,7 +8,7 @@
           <attribute id="Boosts" type="LSString" value="ActionResource(Movement,12,0);ProficiencyBonus(Skill,Perception);"/>
           <attribute id="Level" type="uint8" value="1"/>
           <attribute id="Name" type="LSString" value="Elf_Eilistraean"/>
-          <attribute id="PassivesAdded" type="LSString" value="Darkvision;FeyAncestry"/>
+          <attribute id="PassivesAdded" type="LSString" value="Darkvision;FeyAncestry;DanceInTheMoonLight"/>
           <attribute id="Selectors" type="LSString" value="AddSpells(bb74945e-10cb-49a7-a2de-ccf2057f981e,,Charisma,,AlwaysPrepared)"/>
           <attribute id="ProgressionType" type="uint8" value="2"/>
           <attribute id="TableUUID" type="guid" value="d3a83912-f814-4ea6-8a40-bb016b80fe98"/>
