@@ -19,6 +19,12 @@
   <content contentuid="hs7a02occ7w1blkje8o3v2xiprfn6o9av3vo0" version="1">You are a loyal protector of your Kith and Kin. You will go to great lengths to see they are unharmed, even if they are the ones trying to harm you.</content>
   <content contentuid="hgqzzqv39md06ft3krvuqe4d19qmo21vds1y4" version="1">Examiner</content>
   <content contentuid="hk4dze1l220d7z82juwya8z0v1bb51pzt0p37" version="1">You love a good puzzle. Constantly looking for and into the various machinations the world has to offer to see how they work.</content>
+  <content contentuid="hwsbb4q0ihtajyetifnx0sxg3flr6fe256zod" version="1">Seeker Background</content>
+  <content contentuid="hu2ilqmvrbyxpydna3nbbhwsw4yoxwxpyd1h2" version="1">You enjoy a good adventure. Always ready to set foot out the door and investigate what that day will bring and where it will take you. You are &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; in &lt;LSTag Tooltip="Investigation"&gt;Investigation&lt;/LSTag&gt; and &lt;LSTag Tooltip="Survival"&gt;Survival&lt;/LSTag&gt;.</content>
+  <content contentuid="h7q292bwmscd4wb6hh4f4jn3egbvhyomgbefm" version="1">Keeper Background</content>
+  <content contentuid="h9xz6uf6ww24m3idm72kiv35caaay0pvky3uu" version="1">You are a loyal protector of your Kith and Kin. You will go to great lengths to see they are unharmed, even if they are the ones trying to harm you. You are &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; in &lt;LSTag Tooltip="History"&gt;History&lt;/LSTag&gt; and &lt;LSTag Tooltip="Religion"&gt;Religion&lt;/LSTag&gt;.</content>
+  <content contentuid="h7i93mmhjwtdjia3dp4wdhm438o2hd7t5w0b1" version="1">Examiner Background</content>
+  <content contentuid="h1w77k2bvysak2ulqw9i82imnsv4yimzlo9ft" version="1">You love a good puzzle. Constantly looking for and into the various machinations the world has to offer to see how they work. You are &lt;LSTag Tooltip="Proficiency"&gt;Proficient&lt;/LSTag&gt; in &lt;LSTag Tooltip="Insight"&gt;Insight&lt;/LSTag&gt; and &lt;LSTag Tooltip="Arcana"&gt;Arcana&lt;/LSTag&gt;.</content>
   <content contentuid="hzqmame6lo9oee19ucwe4htx57yplvga6tc2d" version="1">Poison Resistance</content>
   <content contentuid="h6zpcj9fc980obo9tuylegz92dgsnjotjjr17" version="1">Your time spent in the underdark and dealing with their machinations has made you reistant to poison.</content>
   <content contentuid="hah6xt26sdx6b10bchu0d6b9f4qlzd4bkyt6b" version="1">Improved Stealth</content>
@@ -554,7 +560,7 @@
   <content contentuid="hyz2wuyr6h673rfpx3iws4awz25ftscltzuaa" version="1">Daarra of Respec</content>
   <content contentuid="hmuuvaoarno6x7xza74v09cmb6dduh989xxbp" version="1">Daarra of LevelUp</content>
   <content contentuid="hpt1tgkbeoogbcwwy5u7nl72efz4e3cporpag" version="1">Respec</content>
-  <content contentuid="huwg0tumumz30ysmpxbos1g9li41xo86hbuqz" version="1">Respec any character using this potion as if they paid Withers.</content>
+  <content contentuid="huwg0tumumz30ysmpxbos1g9li41xo86hbuqz" version="1">Respec any character using this potion.</content>
   <content contentuid="hvn816el69605lcqay3ah1atec5rn7ggf2s77" version="1">LevelUp</content>
   <content contentuid="hzdapkf5yl48zt7x05y1ez9pkb7bksq0kp5nj" version="1">Give party a level.</content>
 </contentList>
