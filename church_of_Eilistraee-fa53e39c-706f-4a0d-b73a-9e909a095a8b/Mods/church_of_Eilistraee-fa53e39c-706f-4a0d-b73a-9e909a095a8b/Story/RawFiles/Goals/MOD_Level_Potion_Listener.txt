@@ -1,0 +1,31 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+DB_OneTimeRewards_LevelMod(1,(ITEMROOT)MOD_Level_Daarra_d3a5139c-c19b-42c0-9a57-c363421e2f7f);
+KBSECTION
+IF
+TemplateUseFinished(_Player, MOD_Level_Daarra_d3a5139c-c19b-42c0-9a57-c363421e2f7f, _, 1)
+THEN
+PROC_LevelUp(_Player);
+
+IF
+LevelGameplayStarted(_,_)
+AND
+DB_Avatars(_Player)
+THEN
+PROC_OneTimeReward_GiveReward_LevelMod(1,20,1,_Player);
+
+
+PROC
+PROC_OneTimeReward_GiveReward_LevelMod((INTEGER)_RewardNo,(INTEGER)_Amount,(INTEGER)_Notification,(GUIDSTRING)_Player)
+AND
+NOT DB_OneTimeRewards_RewardGiven_LevelMod(_RewardNo)
+AND
+DB_OneTimeRewards_LevelMod(_RewardNo,_Reward)
+THEN
+DB_OneTimeRewards_RewardGiven_LevelMod(_RewardNo);
+TemplateAddTo(_Reward,_Player,_Amount,_Notification);
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "__Start"

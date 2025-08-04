@@ -1,0 +1,31 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+DB_OneTimeRewards_RespecMod(1,(ITEMROOT)MOD_Respec_Daarra_0ee57094-3036-48b8-bc9e-fd3c7118900c);
+KBSECTION
+IF
+TemplateUseFinished(_Player, MOD_Respec_Daarra_0ee57094-3036-48b8-bc9e-fd3c7118900c, _, 1)
+THEN
+StartRespec(_Player);
+
+IF
+LevelGameplayStarted(_,_)
+AND
+DB_Avatars(_Player)
+THEN
+PROC_OneTimeReward_GiveReward_RespecMod(1,10,1,_Player);
+
+
+PROC
+PROC_OneTimeReward_GiveReward_RespecMod((INTEGER)_RewardNo,(INTEGER)_Amount,(INTEGER)_Notification,(GUIDSTRING)_Player)
+AND
+NOT DB_OneTimeRewards_RewardGiven_RespecMod(_RewardNo)
+AND
+DB_OneTimeRewards_RespecMod(_RewardNo,_Reward)
+THEN
+DB_OneTimeRewards_RewardGiven_RespecMod(_RewardNo);
+TemplateAddTo(_Reward,_Player,_Amount,_Notification);
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "__Start"
