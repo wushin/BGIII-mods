@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="400" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="59b4606a-aaf4-4085-adf2-6b082b71e8b9" />
+					<attribute id="Name" type="LSString" value="BASE_Elves_Female_Wood_Eilistraean_Civilian" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="46d48c68-6260-453f-ab7f-16d72d5085cb" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="32a4531e-916f-a5e9-9065-bb80e946f6a1" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

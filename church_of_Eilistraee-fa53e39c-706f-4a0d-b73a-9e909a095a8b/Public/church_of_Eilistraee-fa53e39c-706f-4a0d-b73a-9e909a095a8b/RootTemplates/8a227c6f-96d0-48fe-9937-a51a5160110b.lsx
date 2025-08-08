@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="400" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="8a227c6f-96d0-48fe-9937-a51a5160110b" />
+					<attribute id="Name" type="LSString" value="Elves_Male_Wood_Eilistraean_Guard_Light" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="f515493d-ee51-4cc4-9431-3b676df4cef0" />
+					<attribute id="Stats" type="FixedString" value="Elf_Ranger" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="c1b351bf-d6c5-ce05-d154-85b7694be1cf" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

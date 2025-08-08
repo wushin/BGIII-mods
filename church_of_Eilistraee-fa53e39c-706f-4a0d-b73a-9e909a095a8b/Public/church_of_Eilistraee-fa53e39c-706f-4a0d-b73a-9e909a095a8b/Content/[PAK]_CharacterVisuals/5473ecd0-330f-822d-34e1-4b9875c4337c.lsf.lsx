@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="400" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="CharacterVisualBank">
+		<node id="CharacterVisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="5473ecd0-330f-822d-34e1-4b9875c4337c" />
+					<attribute id="Name" type="LSString" value="Elves_Male_Drow_Eilistraean_Strong_Player_3562d670-009d-4928-9c1f-f9bf6dd548ed" />
+					<attribute id="BodySetVisual" type="FixedString" value="d394254b-ef37-3314-4bab-556b07e6de0d" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="True" />
+					<attribute id="BaseVisual" type="FixedString" value="a75fb725-497c-bc68-2b61-95922e747cf6" />
+					<children>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="30b164c7-d30f-b7e9-6b89-c2a1d169c1dd" />
+							<attribute id="Bone" type="FixedString" value="" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="ModestyLeaf" />
+							<attribute id="VisualResource" type="FixedString" value="75f84bfa-4fd5-2c3f-9489-48103bc29d10" />
+							<attribute id="Bone" type="FixedString" value="" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="449eba68-442d-a684-c843-c32961002dc1" />
+							<attribute id="Bone" type="FixedString" value="" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Private Parts" />
+							<attribute id="VisualResource" type="FixedString" value="d633e71b-781c-a913-81ac-562d959a4097" />
+							<attribute id="Bone" type="FixedString" value="" />
+						</node>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="SSS_Radius" />
+									<attribute id="Value" type="float" value="0.03" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="Roughness" />
+									<attribute id="Value" type="float" value="0.9" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="IrisMetallness" />
+									<attribute id="Value" type="float" value="0" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="ShadowAlphaIntensity" />
+									<attribute id="Value" type="float" value="0.8" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="Reflectance" />
+									<attribute id="Value" type="float" value="0.5" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="DetailNormalStrength" />
+									<attribute id="Value" type="float" value="0" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="Anisotropy" />
+									<attribute id="Value" type="float" value="0.8" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="Opacity" />
+									<attribute id="Value" type="float" value="2" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="UseOcclusion" />
+									<attribute id="Value" type="float" value="0.7" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="PixelDepthOffsetRoot" />
+									<attribute id="Value" type="float" value="0.001" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="PixelDepthOffset" />
+									<attribute id="Value" type="float" value="0.006" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="DepthTransitionMidPoint" />
+									<attribute id="Value" type="float" value="0.35" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="DepthTransitionSoftness" />
+									<attribute id="Value" type="float" value="0.4" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="ColorTransitionMidPoint" />
+									<attribute id="Value" type="float" value="0.35" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="ColorTransitionSoftness" />
+									<attribute id="Value" type="float" value="0.5" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="IDContrast" />
+									<attribute id="Value" type="float" value="0.9" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="ColorDepthContrast" />
+									<attribute id="Value" type="float" value="0.6" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="Scalp_MinValue" />
+									<attribute id="Value" type="float" value="0.05" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="Scalp_ColorTransitionMidPoint" />
+									<attribute id="Value" type="float" value="0.1" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="Scalp_ColorTransitionSoftness" />
+									<attribute id="Value" type="float" value="0.5" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="Scalp_DepthColorExponent" />
+									<attribute id="Value" type="float" value="0" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="Scalp_DepthColorIntensity" />
+									<attribute id="Value" type="float" value="0" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="Scalp_IDContrast" />
+									<attribute id="Value" type="float" value="1" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="Scalp_ColorDepthContrast" />
+									<attribute id="Value" type="float" value="0.8" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="Scalp_Roughness" />
+									<attribute id="Value" type="float" value="0.5" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="Scalp_RoughnessContrast" />
+									<attribute id="Value" type="float" value="0.56" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="Scalp_Scatter" />
+									<attribute id="Value" type="float" value="0.45" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="BlendDistance" />
+									<attribute id="Value" type="float" value="0.00025" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="Refraction" />
+									<attribute id="Value" type="float" value="0.001" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="LipsMakeupIntensity" />
+									<attribute id="Value" type="float" value="0" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="doDrawMakeup" />
+									<attribute id="Value" type="float" value="0" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="ScalarParameters">
+									<attribute id="Parameter" type="FixedString" value="doBodyHide" />
+									<attribute id="Value" type="float" value="1" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Parameter" type="FixedString" value="AddedColor" />
+									<attribute id="Value" type="fvec3" value="0.025700033 0 0" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Parameter" type="FixedString" value="Color_01" />
+									<attribute id="Value" type="fvec3" value="0.15586303 0.15786518 0.42296386" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Parameter" type="FixedString" value="Color_02" />
+									<attribute id="Value" type="fvec3" value="0.8640106 0.739998 0.6504024" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Parameter" type="FixedString" value="Color_03" />
+									<attribute id="Value" type="fvec3" value="1 1 1" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Parameter" type="FixedString" value="Eye_Makeup" />
+									<attribute id="Value" type="fvec3" value="0 0 0" />
+									<attribute id="Enabled" type="bool" value="True" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="Vector3Parameters">
+									<attribute id="Parameter" type="FixedString" value="BaseColor" />
+									<attribute id="Value" type="fvec3" value="0.5295232 0.29765263 0.30663475" />
+									<attribute id="Enabled" type="bool" value="False" />
+									<attribute id="Color" type="bool" value="False" />
+									<attribute id="Custom" type="bool" value="True" />
+								</node>
+								<node id="MaterialPresets">
+									<children>
+										<node id="Object" key="MapKey">
+											<attribute id="MapKey" type="FixedString" value="02Skin Properties" />
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="848a0fa6-82a3-a57d-95f7-d802fb259160" />
+											<attribute id="GroupName" type="FixedString" value="02Skin Properties" />
+										</node>
+										<node id="Object" key="MapKey">
+											<attribute id="MapKey" type="FixedString" value="06Eyes" />
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="555b3791-6204-8b36-b6cc-2cd47a9dfd82" />
+											<attribute id="GroupName" type="FixedString" value="06Eyes" />
+										</node>
+										<node id="Object" key="MapKey">
+											<attribute id="MapKey" type="FixedString" value="05Makeup" />
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="04f2e492-facf-7f25-fcaa-f80184542f06" />
+											<attribute id="GroupName" type="FixedString" value="05Makeup" />
+										</node>
+										<node id="Object" key="MapKey">
+											<attribute id="MapKey" type="FixedString" value="03Hair" />
+											<attribute id="ForcePresetValues" type="bool" value="True" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="2e64851e-71c3-93c4-4cab-5ba9dd411984" />
+											<attribute id="GroupName" type="FixedString" value="03Hair" />
+										</node>
+										<node id="Object" key="MapKey">
+											<attribute id="MapKey" type="FixedString" value="02 Colour" />
+											<attribute id="ForcePresetValues" type="bool" value="False" />
+											<attribute id="MaterialPresetResource" type="FixedString" value="00000000-0000-0000-0000-000000000000" />
+											<attribute id="GroupName" type="FixedString" value="02 Colour" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+						<node id="RealMaterialOverrides" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

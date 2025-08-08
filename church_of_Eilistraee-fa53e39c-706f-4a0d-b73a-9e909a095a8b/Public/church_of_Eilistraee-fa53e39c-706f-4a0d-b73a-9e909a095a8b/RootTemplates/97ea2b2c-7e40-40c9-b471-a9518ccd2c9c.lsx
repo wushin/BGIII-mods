@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  	<region id="Templates">
+    	<node id="Templates">
+      		<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="97ea2b2c-7e40-40c9-b471-a9518ccd2c9c" />
+					<attribute id="Name" type="LSString" value="VFX_Projectile_Spell_ProduceFlame_Hurl_02_SDOE" />
+					<attribute id="OffsetMin_Bezier3" type="fvec2" value="0 1.5" />
+					<attribute id="ParentTemplateId" type="FixedString" value="64635eb6-789b-45d5-8022-416af9b8e431" />
+					<attribute id="Type" type="FixedString" value="projectile" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115200960758167" />
+				</node>
+	  		</children>
+		</node>
+  	</region>
+</save>

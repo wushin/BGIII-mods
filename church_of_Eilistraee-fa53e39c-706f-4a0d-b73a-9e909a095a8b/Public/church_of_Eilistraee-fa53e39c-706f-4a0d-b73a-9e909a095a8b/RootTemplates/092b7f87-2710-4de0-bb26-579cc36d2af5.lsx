@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="400" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="092b7f87-2710-4de0-bb26-579cc36d2af5" />
+					<attribute id="Name" type="LSString" value="Elves_Female_Wood_Eilistraean_Strong_Player" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="Stats" type="FixedString" value="HeroElfFemale" />
+					<attribute id="ReadinessFlags" type="uint32" value="8" />
+          			<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
+					<attribute id="ParentTemplateId" type="FixedString" value="46d48c68-6260-453f-ab7f-16d72d5085cb" />
+					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
+					<attribute id="Race" type="guid" value="dcfb049e-e252-4739-ae20-ae5eee061156" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="2c2201ae-8a7a-eb6a-6316-9457f0cd4043" />
+					<attribute id="VisualTemplate" type="FixedString" value="" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

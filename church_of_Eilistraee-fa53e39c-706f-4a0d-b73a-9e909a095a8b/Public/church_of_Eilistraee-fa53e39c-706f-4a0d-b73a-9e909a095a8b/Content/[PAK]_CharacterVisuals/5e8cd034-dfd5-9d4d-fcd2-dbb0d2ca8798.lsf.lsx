@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="400" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="CharacterVisualBank">
+		<node id="CharacterVisualBank">
+			<children>
+				<node id="Resource">
+					<attribute id="ID" type="FixedString" value="5e8cd034-dfd5-9d4d-fcd2-dbb0d2ca8798" />
+					<attribute id="Name" type="LSString" value="BASE_Elves_Female_Wood_Eilistraean_46d48c68-6260-453f-ab7f-16d72d5085cb" />
+					<attribute id="BodySetVisual" type="FixedString" value="db6e5918-8514-4dcc-8363-e8fd3c50cce5" />
+					<attribute id="ShowEquipmentVisuals" type="bool" value="False" />
+					<attribute id="BaseVisual" type="FixedString" value="c05cb1dc-81eb-647b-3e03-e9bf4301fcc4" />
+					<children>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Head" />
+							<attribute id="VisualResource" type="FixedString" value="555b1e26-9a79-c11b-134d-a557b317bd93" />
+							<attribute id="Bone" type="FixedString" value="" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Footwear" />
+							<attribute id="VisualResource" type="FixedString" value="40ce2f73-4850-4f66-9778-21b402f7ba19" />
+							<attribute id="Bone" type="FixedString" value="" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Hair" />
+							<attribute id="VisualResource" type="FixedString" value="4ba9f25a-0270-1b1b-89da-bca465851b17" />
+							<attribute id="Bone" type="FixedString" value="" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Body" />
+							<attribute id="VisualResource" type="FixedString" value="2d0f8f38-2383-125f-eb37-02d0916958d1" />
+							<attribute id="Bone" type="FixedString" value="" />
+						</node>
+						<node id="Slots">
+							<attribute id="Slot" type="FixedString" value="Body" />
+							<attribute id="VisualResource" type="FixedString" value="fb2968d6-a8a5-571a-f803-8b91a2cd5346" />
+							<attribute id="Bone" type="FixedString" value="" />
+						</node>
+						<node id="MaterialOverrides">
+							<attribute id="MaterialResource" type="FixedString" value="" />
+							<children>
+								<node id="MaterialPresets" />
+							</children>
+						</node>
+						<node id="RealMaterialOverrides" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

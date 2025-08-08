@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="400" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="240c6b40-9b0e-403f-ac3c-a7194aea8d92" />
+					<attribute id="Name" type="LSString" value="BASE_Elves_Male_Drow_Eilistraean" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="b5a9a24a-9f3d-4341-aa68-8b38adf42706" />
+					<attribute id="Race" type="guid" value="814a554a-bf74-4deb-ad43-969753dc932f" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="0f54ca06-abfa-2b82-5982-58edae2f68e2" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>
