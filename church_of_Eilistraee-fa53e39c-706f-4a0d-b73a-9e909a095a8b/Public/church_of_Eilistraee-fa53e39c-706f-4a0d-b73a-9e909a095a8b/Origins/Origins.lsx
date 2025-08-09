@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328"/>
+    <region id="Origins">
+        <node id="root">
+            <children>
+                <node id="Origin">
+                    <attribute id="AppearanceLocked" type="bool" value="true"/>
+                    <attribute id="AvailableInCharacterCreation" type="uint8" value="1"/>
+                    <attribute id="BackgroundUUID" type="guid" value="00fe0145-2c18-47dd-b969-6223e8c12f8f"/>
+                    <attribute id="BodyShape" type="uint8" value="1"/>
+                    <attribute id="BodyType" type="uint8" value="1"/>
+                    <attribute id="ClassUUID" type="guid" value="71e39703-444b-4ab6-955f-f2d6f346f56b"/>
+                    <attribute id="Description" type="TranslatedString" handle="hw7m2p5m0m4f2zyp0a1a22pq8xtqtjgq3c8w4" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="h59mxt1in12mdf363i3xhj7btioyw1eq9gptt" version="1"/>
+                    <attribute id="DefaultsTemplate" type="guid" value="b143dbd5-428f-46a3-8ce4-259d9ae2cb96"/>
+                    <attribute id="IntroDialogUUID" type="guid" value="0985c3fd-2506-7d59-1146-bff949492a88"/>
+                    <attribute id="LockBody" type="bool" value="true"/>
+                    <attribute id="LockClass" type="bool" value="true"/>
+                    <attribute id="LockRace" type="bool" value="true"/>
+                    <attribute id="Name" type="FixedString" value="Vel"/>
+                    <attribute id="Passives" type="LSString" value="DeathSavingThrows"/>
+                    <attribute id="RaceUUID" type="guid" value="814a554a-bf74-4deb-ad43-969753dc932f"/>
+                    <attribute id="SubRaceUUID" type="guid" value="91618490-5e7e-429b-9d12-5db9bf23802b"/>
+                    <attribute id="UUID" type="guid" value="c9466f86-0f8c-430f-baba-274d3ed5d1b0"/>
+                    <attribute id="Unique" type="bool" value="true"/>
+                    <attribute id="VoiceTableUUID" type="guid" value="d7f1f43f-840f-44ca-90f4-ba80c0f31d19"/>
+                    <children>
+                        <node id="ReallyTags">
+                            <attribute id="Object" type="guid" value="5e7eb639-42e2-4a56-8ebb-35655cd722c7"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

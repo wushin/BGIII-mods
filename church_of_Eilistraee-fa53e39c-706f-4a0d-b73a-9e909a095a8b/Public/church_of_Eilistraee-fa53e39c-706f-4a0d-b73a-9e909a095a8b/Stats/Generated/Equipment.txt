@@ -105,3 +105,118 @@ new equipment "EQP_Greatsword_2"
 add initialweaponset "Melee"
 add equipmentgroup
 add equipment entry "WPN_Greatsword_2"
+
+new_equipment "EQP_Eli_Camp_Guard_Outlook"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Greatsword"
+add equipmentgroup
+add equipment entry "OBJ_Daarra_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Daarra_Healing"
+add equipmentgroup
+add equipment entry "ARM_Boots_Leather"
+add equipmentgroup
+add equipment entry "ARM_Leather_Body"
+add equipmentgroup
+add equipment entry "OBJ_Daarra_Revivify"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Book_Paladin"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+
+new_equipment "EQP_Eli_Camp_Guard_Ladder"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Shortsword"
+add equipmentgroup
+add equipment entry "WPN_Shortsword"
+add equipmentgroup
+add equipment entry "OBJ_Kit_TrapDisarm"
+add equipmentgroup
+add equipment entry "OBJ_Kit_ThievesTools"
+add equipmentgroup
+add equipment entry "OBJ_Daarra_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Daarra_Healing"
+add equipmentgroup
+add equipment entry "ARM_Shoes"
+add equipmentgroup
+add equipment entry "ARM_Robe_Body"
+add equipmentgroup
+add equipment entry "OBJ_Daarra_Revivify"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+
+new_equipment "EQP_Eli_Camp_Guard_Platform"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "OBJ_Daarra_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Daarra_Healing"
+add equipmentgroup
+add equipment entry "ARM_Shoes_Monk"
+add equipmentgroup
+add equipment entry "ARM_Robe_Body"
+add equipmentgroup
+add equipment entry "OBJ_Daarra_Revivify"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+
+new_equipment "EQP_Eli_Camp_Leader"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "WPN_Rapier"
+add equipmentgroup
+add equipment entry "OBJ_Kit_TrapDisarm"
+add equipmentgroup
+add equipment entry "OBJ_Kit_ThievesTools"
+add equipmentgroup
+add equipment entry "OBJ_Daarra_Healing"
+add equipmentgroup
+add equipment entry "OBJ_Daarra_Healing"
+add equipmentgroup
+add equipment entry "ARM_Shoes"
+add equipmentgroup
+add equipment entry "ARM_Robe_Body"
+add equipmentgroup
+add equipment entry "OBJ_Daarra_Revivify"
+add equipmentgroup
+add equipment entry "ARM_Camp_Body"
+add equipmentgroup
+add equipment entry "ARM_Camp_Shoes"
+add equipmentgroup
+add equipment entry "OBJ_Keychain"
+add equipmentgroup
+add equipment entry "OBJ_Bag_AlchemyPouch"
+add equipmentgroup
+add equipment entry "OBJ_Backpack_CampSupplies"
+
+new equipment "EQP_Eli_Rags"
+add initialweaponset "Melee"
+add equipmentgroup
+add equipment entry "EQP_Vel_Rags"

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="5" build="1" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Tags">
+		<node id="Tags">
+			<attribute id="Description" type="LSString" value="| Really Vel, A Strong Drow Elf |" />
+			<attribute id="DisplayDescription" type="TranslatedString" handle="hw7m2p5m0m4f2zyp0a1a22pq8xtqtjgq3c8w4" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hogkb19gn24el5fdv0n8es32pz3fpxparqwa0" version="1" />
+			<attribute id="Icon" type="FixedString" value="" />
+			<attribute id="Name" type="FixedString" value="REALLY_VEL" />
+			<attribute id="UUID" type="guid" value="5e7eb639-42e2-4a56-8ebb-35655cd722c7" />
+			<children>
+				<node id="Categories">
+					<children>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Code" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="Dialog" />
+						</node>
+						<node id="Category">
+							<attribute id="Name" type="LSString" value="DialogHidden" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

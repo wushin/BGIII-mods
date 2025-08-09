@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="MapKey" type="FixedString" value="88b538e7-6053-40f2-a79c-9d47ef8a8c7d" />
+          <attribute id="Name" type="LSString" value="ELI_CAMP_Gaurd_Outlook" />
+          <attribute id="Stats" type="FixedString" value="Elf_Drow_Cleric" />
+          <attribute id="Equipment" type="FixedString" value="EQP_Eli_Camp_Guard_Outlook" />
+          <attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
+          <attribute id="Type" type="FixedString" value="character" />
+          <attribute id="TemplateName" type="FixedString" value="ffd78fce-ce69-4ded-9d16-e4066c30cce9" />
+          <attribute id="Flag" type="uint8" value="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hj37m0z8d9nhmlxy23iufxp92macuwioqufg7" version="1" />
+          <attribute id="Icon" type="FixedString" value="59d2e5d5-f789-38de-9fc8-0dc69ee31b47-EQP_Daisy_(Icon_Drow_Female)" />
+          <attribute id="LevelOverride" type="int32" value="-1" />
+          <attribute id="CanBeTeleported" type="bool" value="False" />
+          <attribute id="AnubisConfigName" type="FixedString" value="DefaultCombat" />
+          <attribute id="Archetype" type="FixedString" value="melee" />
+          <attribute id="AiHint" type="guid" value="3cae4ff5-e9c0-485b-b695-f8830961a781" />
+          <children>
+            <node id="Transform">
+              <attribute id="Scale" type="float" value="1" />
+              <attribute id="Position" type="fvec3" value="136.705 29.321 383.375" />
+              <attribute id="RotationQuat" type="fvec4" value="0 1 0 0" />
+            </node>
+            <node id="LayerList">
+              <children>
+                <node id="Layers">
+                  <children>
+                    <node id="Object" key="MapKey">
+                      <attribute id="MapKey" type="FixedString" value="WLD_Main_A" />
+                    </node>
+                  </children>
+                </node>
+              </children>
+            </node>
+            <node id="LocomotionParams" />
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

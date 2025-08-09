@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="MapKey" type="FixedString" value="be663adc-fb81-465a-9591-96d544c53c3f" />
+          <attribute id="Name" type="LSString" value="ELI_CAMP_Leader" />
+          <attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
+          <attribute id="Type" type="FixedString" value="character" />
+          <attribute id="TemplateName" type="FixedString" value="911a321d-d8d4-403b-80b1-7901a9713118" />
+          <attribute id="Flag" type="uint8" value="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hlnzpwnarczfy5s2kk2bvmizfy394bg1q5lcg" version="1" />
+          <attribute id="Icon" type="FixedString" value="59d2e5d5-f789-38de-9fc8-0dc69ee31b47-EQP_Daisy_(Icon_Drow_Female)" />
+          <attribute id="LevelOverride" type="int32" value="-1" />
+          <attribute id="CanBeTeleported" type="bool" value="False" />
+          <attribute id="AnubisConfigName" type="FixedString" value="DefaultCombat" />
+          <attribute id="Archetype" type="FixedString" value="melee" />
+          <attribute id="AiHint" type="guid" value="3cae4ff5-e9c0-485b-b695-f8830961a781" />
+          <children>
+            <node id="Transform">
+              <attribute id="Scale" type="float" value="1" />
+              <attribute id="Position" type="fvec3" value="149.764 38.713 367.048" />
+              <attribute id="RotationQuat" type="fvec4" value="0 0.037258208 0 0.99930567" />
+            </node>
+            <node id="LayerList">
+              <children>
+                <node id="Layers">
+                  <children>
+                    <node id="Object" key="MapKey">
+                      <attribute id="MapKey" type="FixedString" value="WLD_Main_A" />
+                    </node>
+                  </children>
+                </node>
+              </children>
+            </node>
+            <node id="LocomotionParams" />
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -1,0 +1,17 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+PROC_TriggerRegisterForPlayers(S_Test_For_Trigger_c4ad410a-f6fa-4c16-9fbf-8916b7e45dae);
+KBSECTION
+IF
+EnteredTrigger(_Player,S_Test_For_Trigger_c4ad410a-f6fa-4c16-9fbf-8916b7e45dae)
+AND
+DB_Players(_Player)
+THEN
+PROC_LevelUp(_Player);
+
+
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "Tutorial"

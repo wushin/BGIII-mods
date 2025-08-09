@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h7blshmpkxaetlkxm23tfzzy3eo4i1k4u555z" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hcw1e8j8t4pebyhstckbeyy0ac797tx177hbl" version="1" />
+          <attribute id="Stats" type="FixedString" value="EQP_Vel_Rags" />
+          <attribute id="MapKey" type="FixedString" value="ffe38f71-6a49-430b-8525-17ccee6afb99" />
+          <attribute id="Name" type="LSString" value="ARM_Prison_Rags" />
+          <attribute id="Icon" type="FixedString" value="Generated_ARM_Vanity_Prison" />
+          <attribute id="ParentTemplateId" type="FixedString" value="bdc2247f-32a3-4ded-bffc-8aeb770f23d4" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="9749f0b0-b9be-183d-0948-764b1a81c1f6" />
+          <attribute id="VisualTemplate" type="FixedString" value="024b3256-9edc-1729-59a7-989891ea6acb" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

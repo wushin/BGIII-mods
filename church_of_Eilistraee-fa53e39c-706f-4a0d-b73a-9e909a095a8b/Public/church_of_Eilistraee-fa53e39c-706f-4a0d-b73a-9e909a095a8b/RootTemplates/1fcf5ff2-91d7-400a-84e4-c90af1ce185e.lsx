@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="8" revision="0" build="400" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>
+				<node id="GameObjects">
+					<attribute id="MapKey" type="FixedString" value="1fcf5ff2-91d7-400a-84e4-c90af1ce185e" />
+					<attribute id="Icon" type="FixedString" value="1349d18e-3022-4be3-ac25-a123e7dba3c7_(ICON_ORI_VEL)" />
+					<attribute id="Name" type="LSString" value="Elves_Female_Drow_Eilistraean_Strong_Player_Vel" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="ParentTemplateId" type="FixedString" value="2eb66f5d-24c8-499e-8aa0-58e0b9746403" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="bed799e8-cfad-1126-5e69-3fb8ad3621c1" />
+					<children>
+						<node id="LocomotionParams" />
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

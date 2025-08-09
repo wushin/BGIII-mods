@@ -1,0 +1,17 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+PROC_TriggerRegisterForPlayers(S_DEN_Eli_Com_Approaching_902e8b5c-9bd9-4122-a2bd-dcc01fe26e25);
+KBSECTION
+IF
+EnteredTrigger(_Player,S_DEN_Eli_Com_Approaching_902e8b5c-9bd9-4122-a2bd-dcc01fe26e25)
+AND
+DB_Players(_Player)
+THEN
+PROC_LevelUp(_Player);
+
+
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "Act1"
