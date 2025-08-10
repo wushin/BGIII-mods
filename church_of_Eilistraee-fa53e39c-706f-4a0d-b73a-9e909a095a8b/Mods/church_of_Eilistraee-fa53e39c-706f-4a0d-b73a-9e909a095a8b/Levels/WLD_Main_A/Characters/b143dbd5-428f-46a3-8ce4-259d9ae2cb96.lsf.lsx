@@ -13,7 +13,7 @@
           <attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
           <attribute id="Type" type="FixedString" value="character" />
           <attribute id="Faction" type="guid" value="ca9de2d9-9022-9215-6d9b-676d916dcb5a" />
-          <attribute id="DefaultDialog" type="FixedString" value="c37c312f-f63e-488c-bdd8-541355984132" />
+          <attribute id="DefaultDialog" type="FixedString" value="ac1ff3d3-fb2c-5983-d021-ced2aac07a6c" />
           <attribute id="GeneratePortrait" type="LSString" value="ICON_ORI_VEL" />
           <attribute id="Icon" type="FixedString" value="1349d18e-3022-4be3-ac25-a123e7dba3c7_(ICON_ORI_VEL)" />
           <attribute id="TemplateName" type="FixedString" value="1fcf5ff2-91d7-400a-84e4-c90af1ce185e" />
@@ -264,6 +264,9 @@
 							<children>
 								<node id="Tag">
 									<attribute id="Object" type="guid" value="1fcf5ff2-91d7-400a-84e4-c90af1ce185e" />
+								</node>
+                <node id="Tag">
+									<attribute id="Object" type="guid" value="5e7eb639-42e2-4a56-8ebb-35655cd722c7" />
 								</node>
 							</children>
 						</node>
