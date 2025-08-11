@@ -6,16 +6,70 @@
 			<children>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="46d48c68-6260-453f-ab7f-16d72d5085cb" />
+					<attribute id="EquipmentRace" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
 					<attribute id="Name" type="LSString" value="BASE_Elves_Female_Wood_Eilistraean" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="7e0ffe5c-8eb2-4ed1-926a-a6326c45cffd" />
+					<attribute id="ReadinessFlags" type="uint32" value="8" />
 					<attribute id="Race" type="guid" value="dcfb049e-e252-4739-ae20-ae5eee061156" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="46d48c68-6260-453f-ab7f-16d72d5085cb" />
-					<children>
-						<node id="LocomotionParams" />
-					</children>
-				</node>
+					<attribute id="Stats" type="FixedString" value="Elf_Commoner" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0bbd332f-747c-406c-b397-d2f607a49900" />
+					<attribute id="VisualTemplate" type="FixedString" value="c05cb1dc-81eb-647b-3e03-e9bf4301fcc4" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="5e8cd034-dfd5-9d4d-fcd2-dbb0d2ca8798" />
+          			<children>
+            			<node id="Bounds">
+              				<children>
+                				<node id="Bound">
+                  					<attribute id="Height" type="float" value="2" />
+                  					<attribute id="Max" type="fvec3" value="0.81502 1.93354 0.126017" />
+                  					<attribute id="Min" type="fvec3" value="-0.81502 -0.00135875 -0.211717" />
+                  					<attribute id="Radius" type="float" value="0.2" />
+                  					<attribute id="Shape" type="uint8" value="2" />
+                  					<attribute id="Type" type="uint8" value="1" />
+                				</node>
+                				<node id="Bound">
+                  					<attribute id="Height" type="float" value="2" />
+                  					<attribute id="Max" type="fvec3" value="0.81502 1.93354 0.126017" />
+                  					<attribute id="Min" type="fvec3" value="-0.81502 -0.00135875 -0.211717" />
+                  					<attribute id="Radius" type="float" value="0.249" />
+                  					<attribute id="Shape" type="uint8" value="2" />
+                  					<attribute id="Type" type="uint8" value="0" />
+                				</node>
+                				<node id="Bound">
+                  					<attribute id="Height" type="float" value="2" />
+                  					<attribute id="Max" type="fvec3" value="0.81502 1.93354 0.126017" />
+                  					<attribute id="Min" type="fvec3" value="-0.81502 -0.00135875 -0.211717" />
+                  					<attribute id="Radius" type="float" value="0.499" />
+                  					<attribute id="Shape" type="uint8" value="2" />
+                  					<attribute id="Type" type="uint8" value="2" />
+                				</node>
+              				</children>
+            			</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+								</node>
+							</children>
+						</node>
+            			<node id="GameMaster" />
+            			<node id="LocomotionParams" />
+            			<node id="TradeTreasures">
+              				<children>
+                				<node id="TreasureItem">
+                  					<attribute id="Object" type="FixedString" value="Empty" />
+                				</node>
+              				</children>
+            			</node>
+            			<node id="Treasures">
+              				<children>
+                				<node id="TreasureItem">
+	                  				<attribute id="Object" type="FixedString" value="Empty" />
+                				</node>
+              				</children>
+            			</node>
+          			</children>
+        		</node>
 			</children>
 		</node>
 	</region>

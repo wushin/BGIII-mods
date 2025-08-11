@@ -5,15 +5,59 @@
 		<node id="Templates">
 			<children>
 				<node id="GameObjects">
+					<attribute id="ActiveCharacterLightID" type="FixedString" value="e278f6a0-26d7-49be-b11a-9b84bc313c3c" />
+					<attribute id="EquipmentRace" type="guid" value="ad21d837-2db5-4e46-8393-7d875dd71287" />
+					<attribute id="AiHint" type="guid" value="c1b1489e-ffc5-447f-9866-53cd808e2e18" />
 					<attribute id="MapKey" type="FixedString" value="e6e14f4e-9ed3-4e4b-87a8-58a4d6ce5f2a" />
 					<attribute id="Name" type="LSString" value="BASE_Elves_Female_Drow_Eilistraean" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Type" type="FixedString" value="character" />
-					<attribute id="ParentTemplateId" type="FixedString" value="0bd09fae-e858-4a6e-8d1a-72dd0eb4cb60" />
+					<attribute id="ParentTemplateId" type="FixedString" value="0bbd332f-747c-406c-b397-d2f607a49900" />
 					<attribute id="Race" type="guid" value="814a554a-bf74-4deb-ad43-969753dc932f" />
-					<attribute id="CharacterVisualResourceID" type="FixedString" value="e6e14f4e-9ed3-4e4b-87a8-58a4d6ce5f2a" />
+					<attribute id="ReadinessFlags" type="uint32" value="8" />
+          			<attribute id="Stats" type="FixedString" value="Elf_Drow_Commoner" />
+					<attribute id="VisualTemplate" type="FixedString" value="c05cb1dc-81eb-647b-3e03-e9bf4301fcc4" />
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="578f5719-5a58-0454-085e-9bbd20a47905" />
 					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="2" />
+									<attribute id="Max" type="fvec3" value="0.40751 1.93354 0.0630085" />
+									<attribute id="Min" type="fvec3" value="-0.40751 -0.00135875 -0.1058585" />
+									<attribute id="Radius" type="float" value="0.249" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="2" />
+									<attribute id="Max" type="fvec3" value="0.81502 1.93354 0.126017" />
+									<attribute id="Min" type="fvec3" value="-0.81502 -0.00135875 -0.211717" />
+									<attribute id="Radius" type="float" value="0.2" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="2" />
+									<attribute id="Max" type="fvec3" value="0.81502 1.93354 0.126017" />
+									<attribute id="Min" type="fvec3" value="-0.81502 -0.00135875 -0.211717" />
+									<attribute id="Radius" type="float" value="0.499" />
+									<attribute id="Shape" type="uint8" value="2" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
 						<node id="LocomotionParams" />
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="eae44d86-3321-4a0a-811d-4fd8e48b5723" />
+								</node>
+								<node id="Tag">
+                  					<attribute id="Object" type="guid" value="3806477c-65a7-4100-9f92-be4c12c4fa4f" />
+                				</node>
+							</children>
+						</node>
 					</children>
 				</node>
 			</children>

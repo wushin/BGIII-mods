@@ -24,10 +24,10 @@
                     <attribute id="SubRaceUUID" type="guid" value="91618490-5e7e-429b-9d12-5db9bf23802b"/>
                     <attribute id="UUID" type="guid" value="c9466f86-0f8c-430f-baba-274d3ed5d1b0"/>
                     <attribute id="Unique" type="bool" value="true"/>
-                    <attribute id="VoiceTableUUID" type="guid" value="d7f1f43f-840f-44ca-90f4-ba80c0f31d19"/>
+                    <attribute id="VoiceTableUUID" type="guid" value="d9e940a0-c25b-4e14-b20d-e9d96935c300"/>
                     <children>
                         <node id="ReallyTags">
-                            <attribute id="Object" type="guid" value="5e7eb639-42e2-4a56-8ebb-35655cd722c7"/>
+                            <attribute id="Object" type="guid" value="8ca3a377-d9fe-434c-ad38-8a8db3b67970"/>
                         </node>
                     </children>
                 </node>
