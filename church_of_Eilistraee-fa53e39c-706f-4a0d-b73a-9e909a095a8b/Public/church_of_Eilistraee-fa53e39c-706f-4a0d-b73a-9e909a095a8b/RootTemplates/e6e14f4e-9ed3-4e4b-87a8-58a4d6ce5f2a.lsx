@@ -16,6 +16,7 @@
 					<attribute id="Race" type="guid" value="814a554a-bf74-4deb-ad43-969753dc932f" />
 					<attribute id="ReadinessFlags" type="uint32" value="8" />
           			<attribute id="Stats" type="FixedString" value="Elf_Drow_Commoner" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Drow_Female" />
 					<attribute id="VisualTemplate" type="FixedString" value="c05cb1dc-81eb-647b-3e03-e9bf4301fcc4" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="578f5719-5a58-0454-085e-9bbd20a47905" />
 					<children>

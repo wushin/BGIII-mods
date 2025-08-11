@@ -12,6 +12,7 @@
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="Race" type="guid" value="dcfb049e-e252-4739-ae20-ae5eee061156" />
 					<attribute id="Stats" type="FixedString" value="Elf_Commoner" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Elf_Male" />
 					<attribute id="ParentTemplateId" type="FixedString" value="0bbd332f-747c-406c-b397-d2f607a49900" />
 					<attribute id="VisualTemplate" type="FixedString" value="4deb74a3-fe9a-723f-89b5-799a97335cc4" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="b1afb317-ab05-9ea5-e2e1-9515387c9266" />

@@ -15,6 +15,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="e6e14f4e-9ed3-4e4b-87a8-58a4d6ce5f2a" />
 					<attribute id="EquipmentRace" type="guid" value="47c0315c-7dc6-4862-b39b-8bf3a10f8b54" />
 					<attribute id="Race" type="guid" value="91618490-5e7e-429b-9d12-5db9bf23802b" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Drow_Female_Strong" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="173d8271-f383-b30b-ba1c-5268a7fa3ce2" />
 					<attribute id="VisualTemplate" type="FixedString" value="" />
 					<children>

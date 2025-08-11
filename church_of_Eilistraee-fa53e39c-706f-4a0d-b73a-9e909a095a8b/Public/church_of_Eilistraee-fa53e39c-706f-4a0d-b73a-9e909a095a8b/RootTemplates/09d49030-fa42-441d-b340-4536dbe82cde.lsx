@@ -15,6 +15,7 @@
 					<attribute id="ParentTemplateId" type="FixedString" value="79d01f76-9b07-446d-bda6-5b3ffc407894" />
 					<attribute id="EquipmentRace" type="guid" value="e39505f7-f576-4e70-a99e-8e29cd381a11" />
 					<attribute id="Race" type="guid" value="dcfb049e-e252-4739-ae20-ae5eee061156" />
+					<attribute id="GeneratePortrait" type="LSString" value="Icon_Human_Male_Strong" />
 					<attribute id="CharacterVisualResourceID" type="FixedString" value="bf5f5192-b0f8-4e0d-8135-c1f9e289932c" />
 					<attribute id="VisualTemplate" type="FixedString" value="" />
 					<children>
