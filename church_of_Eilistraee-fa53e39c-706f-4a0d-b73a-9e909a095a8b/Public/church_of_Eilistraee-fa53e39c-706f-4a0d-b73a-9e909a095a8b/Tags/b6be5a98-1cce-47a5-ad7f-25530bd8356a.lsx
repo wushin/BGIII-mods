@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+  <region id="Tags">
+    <node id="Tags">
+      <attribute id="Description" type="LSString" value="|Underdark Born|" />
+      <attribute id="DisplayDescription" type="TranslatedString" handle="h2juhm4atro6h1jey7j7196nxu5aszdxnovvx" version="1" />
+      <attribute id="DisplayName" type="TranslatedString" handle="hw77c2eqv8651qn82niixd1eeshbtkwluqzze" version="1" />
+      <attribute id="Icon" type="FixedString" value="" />
+      <attribute id="Name" type="FixedString" value="UNDERDARKBORN" />
+      <attribute id="UUID" type="guid" value="b6be5a98-1cce-47a5-ad7f-25530bd8356a" />
+      <children>
+        <node id="Categories">
+          <children>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Code" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Dialog" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Race" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="PlayerRace" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="CharacterSheet" />
+            </node>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

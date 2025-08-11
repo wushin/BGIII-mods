@@ -26,6 +26,9 @@
           <attribute id="UUID" type="guid" value="b5ef7745-7682-449d-ad17-9e6e43ee1105"/>
           <children>
             <node id="Tags">
+              <attribute id="Object" type="guid" value="1a799a01-c7a2-40f8-8c15-b70766d0b2df"/>
+            </node>
+            <node id="Tags">
               <attribute id="Object" type="guid" value="c4749983-8bb9-4aa5-bf18-afd9cb1ce915"/>
             </node>
             <node id="Tags">
@@ -60,6 +63,9 @@
           <attribute id="UUID" type="guid" value="71e39703-444b-4ab6-955f-f2d6f346f56b"/>
           <children>
             <node id="Tags">
+              <attribute id="Object" type="guid" value="10ae5c41-cabd-404e-80ff-127ca909c210"/>
+            </node>
+            <node id="Tags">
               <attribute id="Object" type="guid" value="b438b4e8-fb16-4202-b338-17d2d874c2c1"/>
             </node>
             <node id="Tags">
@@ -87,6 +93,9 @@
           <attribute id="ValidSomaticEquipmentList" type="LSString" value="Flute;Lute;Lyre" />
           <attribute id="UUID" type="guid" value="3bdbed67-1eb5-456b-b313-9d8a1ce4b65e"/>
           <children>
+            <node id="Tags">
+              <attribute id="Object" type="guid" value="76b819dc-095e-4058-aab7-150b262ec3ca"/>
+            </node>
             <node id="Tags">
               <attribute id="Object" type="guid" value="b438b4e8-fb16-4202-b338-17d2d874c2c1"/>
             </node>
@@ -118,6 +127,9 @@
           <attribute id="ValidSomaticEquipmentList" type="LSString" value="Flute;Lute;Lyre" />
           <attribute id="UUID" type="guid" value="cd95081f-788e-4fb5-9d51-493640783d04"/>
           <children>
+            <node id="Tags">
+              <attribute id="Object" type="guid" value="1f984e76-70e2-4e35-b5d7-a604df550ac0"/>
+            </node>
             <node id="Tags">
               <attribute id="Object" type="guid" value="c4749983-8bb9-4aa5-bf18-afd9cb1ce915"/>
             </node>

@@ -3,12 +3,12 @@
 	<version major="4" minor="0" revision="5" build="1" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
 	<region id="Tags">
 		<node id="Tags">
-			<attribute id="Description" type="LSString" value="| Really Vel, A Strong Drow Elf |" />
+			<attribute id="Description" type="LSString" value="| Vel, A Strong Drow Elf |" />
 			<attribute id="DisplayDescription" type="TranslatedString" handle="hw7m2p5m0m4f2zyp0a1a22pq8xtqtjgq3c8w4" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="hogkb19gn24el5fdv0n8es32pz3fpxparqwa0" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="h59mxt1in12mdf363i3xhj7btioyw1eq9gptt" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
 			<attribute id="Name" type="FixedString" value="REALLY_VEL" />
-			<attribute id="UUID" type="guid" value="5e7eb639-42e2-4a56-8ebb-35655cd722c7" />
+			<attribute id="UUID" type="guid" value="8ca3a377-d9fe-434c-ad38-8a8db3b67970" />
 			<children>
 				<node id="Categories">
 					<children>

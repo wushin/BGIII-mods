@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+  <region id="Tags">
+    <node id="Tags">
+      <attribute id="Description" type="TranslatedString" handle="h826a670eg6980g4df8g8320g2f1cd9b2652c"  version="1" />
+      <attribute id="DisplayDescription" type="TranslatedString" handle="h826a670eg6980g4df8g8320g2f1cd9b2652c" version="1" />
+      <attribute id="DisplayName" type="TranslatedString" handle="h8fc45cdbg1e6fg4aaeg8b14g7b0c79193026" version="1" />
+      <attribute id="Icon" type="FixedString" value="" />
+      <attribute id="Name" type="FixedString" value="SWORDDANCER" />
+      <attribute id="UUID" type="guid" value="1a799a01-c7a2-40f8-8c15-b70766d0b2df" />
+      <children>
+        <node id="Categories">
+          <children>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Code" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Dialog" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Class" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="CharacterSheet" />
+            </node>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

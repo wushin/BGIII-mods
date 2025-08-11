@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="58" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+  <region id="Tags">
+    <node id="Tags">
+      <attribute id="Description" type="LSString" value="|Eilistraean, shapeshifted or not|" />
+      <attribute id="DisplayDescription" type="TranslatedString" handle="hapt7jmjga5bapspsj2wbg68ce4u699o184p5" version="1" />
+      <attribute id="DisplayName" type="TranslatedString" handle="hk2ff387lnmw9p6q67wsvig09tt5c5cvadm6e" version="1" />
+      <attribute id="Icon" type="FixedString" value="" />
+      <attribute id="Name" type="FixedString" value="REALLY_EILISTRAEANELF" />
+      <attribute id="UUID" type="guid" value="0ab284ef-3668-4832-a230-fccc498f4ee8" />
+      <children>
+        <node id="Categories">
+          <children>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Code" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Dialog" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="Race" />
+            </node>
+            <node id="Category">
+              <attribute id="Name" type="LSString" value="PlayerRace" />
+            </node>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

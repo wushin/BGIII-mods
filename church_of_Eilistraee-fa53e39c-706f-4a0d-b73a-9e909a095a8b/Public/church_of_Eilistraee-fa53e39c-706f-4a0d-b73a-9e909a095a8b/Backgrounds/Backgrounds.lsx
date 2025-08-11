@@ -11,6 +11,9 @@
           <attribute id="UUID" type="guid" value="00fe0145-2c18-47dd-b969-6223e8c12f8f"/>
           <children>
             <node id="Tags">
+              <attribute id="Object" type="guid" value="99234a2f-83d9-48cd-a549-5723243ba30b"/>
+            </node>
+            <node id="Tags">
               <attribute id="Object" type="guid" value="d81df6f9-9f6e-4146-841a-9f285e6ee879"/>
             </node>
             <node id="Tags">
@@ -25,6 +28,9 @@
           <attribute id="UUID" type="guid" value="05002aae-5340-402a-aec9-ff9220c5460b"/>
           <children>
             <node id="Tags">
+              <attribute id="Object" type="guid" value="bea4660e-c330-4068-aa84-74c9314afe4a"/>
+            </node>
+            <node id="Tags">
               <attribute id="Object" type="guid" value="d135f265-c2e1-4077-a836-b548ee871681"/>
             </node>
             <node id="Tags">
@@ -38,6 +44,9 @@
           <attribute id="Passives" type="LSString" value="Background_Examiner"/>
           <attribute id="UUID" type="guid" value="79453e62-75a6-48d2-bd2a-6ea87f5ad240"/>
           <children>
+            <node id="Tags">
+              <attribute id="Object" type="guid" value="65b16c39-47d0-4d29-b897-0d4d084e38ce"/>
+            </node>
             <node id="Tags">
               <attribute id="Object" type="guid" value="dad18490-c61d-4958-805c-f017eb68f8a0"/>
             </node>

@@ -30,10 +30,10 @@
                             <attribute id="Object" type="guid" value="f7c7d010-40c4-4f32-baa0-433f8b0eb6e1"/>
                         </node>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="60f6b464-752f-4970-a855-f729565b5e07"/>
+                            <attribute id="Object" type="guid" value="18525c5d-f949-4c54-995c-55c69a1d122e"/>
                         </node>
                         <node id="Tags">
-                            <attribute id="Object" type="guid" value="6e913b6e-58b1-41bf-8751-89250dd17bff"/>
+                            <attribute id="Object" type="guid" value="60f6b464-752f-4970-a855-f729565b5e07"/>
                         </node>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="eae44d86-3321-4a0a-811d-4fd8e48b5723"/>
@@ -1826,6 +1826,9 @@
                     <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Drow"/>
                     <attribute id="UUID" type="guid" value="91618490-5e7e-429b-9d12-5db9bf23802b"/>
                     <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="b6be5a98-1cce-47a5-ad7f-25530bd8356a"/>
+                        </node>
                         <node id="EyeColors">
                             <attribute id="Object" type="guid" value="89983ad8-9350-45a5-bbf0-0266f3f00a74"/>
                         </node>
@@ -2333,6 +2336,9 @@
                     <attribute id="RaceEquipment" type="FixedString" value="EQ_Underwear_Elves"/>
                     <attribute id="UUID" type="guid" value="dcfb049e-e252-4739-ae20-ae5eee061156"/>
                     <children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="a1024101-8b70-4b26-bb33-999b87cf00d2"/>
+                        </node>
                         <node id="MakeupColors">
                             <attribute id="Object" type="guid" value="2d0b5625-5820-4e1e-a239-7c1ccfc2e1a0"/>
                         </node>
