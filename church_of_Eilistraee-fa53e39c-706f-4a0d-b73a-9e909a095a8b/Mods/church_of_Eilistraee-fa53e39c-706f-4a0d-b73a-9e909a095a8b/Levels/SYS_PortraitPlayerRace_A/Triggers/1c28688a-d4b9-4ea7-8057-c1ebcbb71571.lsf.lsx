@@ -8,7 +8,7 @@
                     <attribute id="Flag" type="int32" value="1" />
                     <attribute id="LevelName" type="FixedString" value="SYS_PortraitPlayerRace_A" />
                     <attribute id="MapKey" type="FixedString" value="1c28688a-d4b9-4ea7-8057-c1ebcbb71571" />
-                    <attribute id="Name" type="LSString" value="Icon_Ori_Vel" />
+                    <attribute id="Name" type="LSString" value="Icon_Origin_Vel" />
                     <attribute id="OnlyOsirisEvents" type="bool" value="False" />
                     <attribute id="TemplateName" type="FixedString" value="15111ce4-12fc-4757-bb81-7c2c212e141a" />
                     <attribute id="Type" type="FixedString" value="trigger" />
@@ -37,6 +37,50 @@
                             <attribute id="Scale" type="float" value="1" />
                         </node>
                     </children>
+                </node>
+                <node id="GameObjects">
+                    <attribute id="DOFAperature" type="float" value="21" />
+                    <attribute id="DOFFarOnly" type="float" value="0" />
+                    <attribute id="DOFFarSharpDistance" type="float" value="0" />
+                    <attribute id="DOFFocalDistance" type="float" value="1" />
+                    <attribute id="DOFNearOnly" type="float" value="0" />
+                    <attribute id="DOFNearSharpDistance" type="float" value="0" />
+                    <attribute id="FOV" type="float" value="20" />
+                    <attribute id="Flag" type="int32" value="1" />
+                    <attribute id="Lerp" type="bool" value="True" />
+                    <attribute id="LevelName" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+                    <attribute id="MapKey" type="FixedString" value="b1c83df9-de32-4d85-afe4-ae1ec7c9b58c" />
+                    <attribute id="Name" type="LSString" value="Camera_Icon_Origin_Vel" />
+                    <attribute id="OnlyOsirisEvents" type="bool" value="False" />
+                    <attribute id="Speed" type="float" value="5" />
+                    <attribute id="TemplateName" type="FixedString" value="7f4a742a-b1ab-4195-b04b-9320244592ca" />
+                    <attribute id="Type" type="FixedString" value="trigger" />
+                    <attribute id="UseDOF" type="bool" value="False" />
+                    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209021" />
+                    <children>
+                        <node id="FadeChildren" />
+                        <node id="LayerList">
+                            <children>
+                                <node id="Layers">
+                                    <children>
+                                        <node id="Object">
+                                            <attribute id="MapKey" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+                                            <children>
+                                                <node id="Layer">
+                                                    <attribute id="Object" type="guid" value="660f2fc8-bacd-4b4d-af9d-925e53b25fd7" />
+                                                </node>
+                                            </children>
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
+                        <node id="Transform">
+                            <attribute id="Position" type="fvec3" value="22 1.75 26.75" />
+                            <attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
+                            <attribute id="Scale" type="float" value="1" />
+                        </node>   
+                    </children> 
                 </node>
             </children>
 		</node>

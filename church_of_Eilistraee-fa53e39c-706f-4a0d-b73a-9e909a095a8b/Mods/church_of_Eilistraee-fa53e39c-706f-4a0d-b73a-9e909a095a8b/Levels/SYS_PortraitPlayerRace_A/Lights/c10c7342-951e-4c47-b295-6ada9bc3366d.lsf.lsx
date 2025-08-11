@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+        <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+        <region id="Templates">
+                <node id="Templates">
+                        <children>
+                            <node id="GameObjects">
+                                        <attribute id="Angle" type="fvec2" value="20 40" />
+                                        <attribute id="DirectionLightAttenuationEnd" type="float" value="0.2" />
+                                        <attribute id="DirectionLightAttenuationSide" type="float" value="0.2" />
+                                        <attribute id="DirectionLightAttenuationStart" type="float" value="0.5" />
+                                        <attribute id="Flag" type="int32" value="1" />
+                                        <attribute id="Gain" type="float" value="1" />
+                                        <attribute id="Intensity" type="float" value="15000" />
+                                        <attribute id="LevelName" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+                                        <attribute id="LightType" type="uint8" value="0" />
+                                        <attribute id="MapKey" type="FixedString" value="98f7ee76-b9fa-4654-aea7-8e586ab835b3" />
+                                        <attribute id="Name" type="LSString" value="Light_Icon_Origin_Vel_Background" />
+                                        <attribute id="Radius" type="float" value="1" />
+                                        <attribute id="ScatteringScale" type="float" value="0" />
+                                        <attribute id="Shadow" type="bool" value="False" />
+                                        <attribute id="TemplateName" type="FixedString" value="eee833f5-09f1-490f-b85f-3361a16ad2c5" />
+                                        <attribute id="Type" type="FixedString" value="light" />
+                                        <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209020" />
+                                        <children>
+                                                <node id="LayerList">
+                                                        <children>
+                                                                <node id="Layers">
+                                                                        <children>
+                                                                                <node id="Object">
+                                                                                        <attribute id="MapKey" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+                                                                                        <children>
+                                                                                                <node id="Layer">
+                                                                                                        <attribute id="Object" type="guid" value="660f2fc8-bacd-4b4d-af9d-925e53b25fd7" />
+                                                                                                </node>
+                                                                                        </children>
+                                                                                </node>
+                                                                        </children>
+                                                                </node>
+                                                        </children>
+                                                </node>
+                                                <node id="Transform">
+                                                        <attribute id="Position" type="fvec3" value="57.98824 1.725966 32.96054" />
+                                                        <attribute id="RotationQuat" type="fvec4" value="-0.038323306 0.9541208 -0.22006513 -0.19938964" />
+                                                        <attribute id="Scale" type="float" value="1" />
+                                                </node>
+                                        </children>
+                                </node>
+                                <node id="GameObjects">
+                                        <attribute id="Angle" type="fvec2" value="20 45" />
+                                        <attribute id="Color" type="fvec3" value="0.7058824 0.76862746 0.7882353" />
+                                        <attribute id="DirectionLightAttenuationSide" type="float" value="0.2" />
+                                        <attribute id="DirectionLightDimensions" type="fvec3" value="1 0.6 1" />
+                                        <attribute id="Enabled" type="bool" value="True" />
+                                        <attribute id="Flag" type="int32" value="1" />
+                                        <attribute id="Gain" type="float" value="3" />
+                                        <attribute id="Intensity" type="float" value="20000" />
+                                        <attribute id="LevelName" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+                                        <attribute id="LightType" type="uint8" value="2" />
+                                        <attribute id="MapKey" type="FixedString" value="d033e4b9-7a98-4538-987c-ae2f8a67d87c" />
+                                        <attribute id="Name" type="LSString" value="Light_Icon_Origin_Vel_Rim_01" />
+                                        <attribute id="Radius" type="float" value="2" />
+                                        <attribute id="ScatteringScale" type="float" value="0" />
+                                        <attribute id="Shadow" type="bool" value="True" />
+                                        <attribute id="TemplateName" type="FixedString" value="eee833f5-09f1-490f-b85f-3361a16ad2c5" />
+                                        <attribute id="Type" type="FixedString" value="light" />
+                                        <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209020" />
+                                        <children>
+                                                <node id="LayerList">
+                                                        <children>
+                                                                <node id="Layers">
+                                                                        <children>
+                                                                                <node id="Object">
+                                                                                        <attribute id="MapKey" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+                                                                                        <children>
+                                                                                                <node id="Layer">
+                                                                                                        <attribute id="Object" type="guid" value="660f2fc8-bacd-4b4d-af9d-925e53b25fd7" />
+                                                                                                </node>
+                                                                                        </children>
+                                                                                </node>
+                                                                        </children>
+                                                                </node>
+                                                        </children>
+                                                </node>
+                                                <node id="Transform">
+                                                        <attribute id="Position" type="fvec3" value="58.440975 2.0430808 32.323467" />
+                                                        <attribute id="RotationQuat" type="fvec4" value="-0.04525231 0.9719791 -0.074018866 -0.21847206" />
+                                                        <attribute id="Scale" type="float" value="1" />
+                                                </node>
+                                        </children>
+                                </node>
+                                <node id="GameObjects">
+                                        <attribute id="Angle" type="fvec2" value="20 40" />
+                                        <attribute id="Color" type="fvec3" value="0.78431374 0.9607843 1" />
+                                        <attribute id="Enabled" type="bool" value="True" />
+                                        <attribute id="Flag" type="int32" value="1" />
+                                        <attribute id="Intensity" type="float" value="6000" />
+                                        <attribute id="LevelName" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+                                        <attribute id="LightType" type="uint8" value="2" />
+                                        <attribute id="MapKey" type="FixedString" value="3e0dcca5-f4f9-4d76-bace-1f62a9f6024a" />
+                                        <attribute id="Name" type="LSString" value="Light_Icon_Origin_Vel_Fill" />
+                                        <attribute id="Radius" type="float" value="2" />
+                                        <attribute id="ScatteringScale" type="float" value="0" />
+                                        <attribute id="TemplateName" type="FixedString" value="eee833f5-09f1-490f-b85f-3361a16ad2c5" />
+                                        <attribute id="Type" type="FixedString" value="light" />
+                                        <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209020" />
+                                        <children>
+                                                <node id="LayerList">
+                                                        <children>
+                                                                <node id="Layers">
+                                                                        <children>
+                                                                                <node id="Object">
+                                                                                        <attribute id="MapKey" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+                                                                                        <children>
+                                                                                                <node id="Layer">
+                                                                                                        <attribute id="Object" type="guid" value="660f2fc8-bacd-4b4d-af9d-925e53b25fd7" />
+                                                                                                </node>
+                                                                                        </children>
+                                                                                </node>
+                                                                        </children>
+                                                                </node>
+                                                        </children>
+                                                </node>
+                                                <node id="Transform">
+                                                        <attribute id="Position" type="fvec3" value="58.25278 1.8026109 31.516724" />
+                                                        <attribute id="RotationQuat" type="fvec4" value="0.32413054 -0.2618708 0.019701311 0.90883166" />
+                                                        <attribute id="Scale" type="float" value="1" />
+                                                </node>
+                                        </children>
+                                </node>
+                                <node id="GameObjects">
+                                        <attribute id="Angle" type="fvec2" value="20 45" />
+                                        <attribute id="Color" type="fvec3" value="0.7058824 0.76862746 0.7882353" />
+                                        <attribute id="DirectionLightAttenuationSide" type="float" value="0.1" />
+                                        <attribute id="DirectionLightDimensions" type="fvec3" value="1 0.2 1" />
+                                        <attribute id="Enabled" type="bool" value="True" />
+                                        <attribute id="Flag" type="int32" value="1" />
+                                        <attribute id="Gain" type="float" value="3" />
+                                        <attribute id="Intensity" type="float" value="30000" />
+                                        <attribute id="LevelName" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+                                        <attribute id="LightType" type="uint8" value="2" />
+                                        <attribute id="MapKey" type="FixedString" value="c1ef9b8d-ac47-439e-ab5e-a14f59b72971" />
+                                        <attribute id="Name" type="LSString" value="Light_Icon_Origin_Vel_Rim_02" />
+                                        <attribute id="Radius" type="float" value="2" />
+                                        <attribute id="ScatteringScale" type="float" value="0" />
+                                        <attribute id="Shadow" type="bool" value="True" />
+                                        <attribute id="TemplateName" type="FixedString" value="eee833f5-09f1-490f-b85f-3361a16ad2c5" />
+                                        <attribute id="Type" type="FixedString" value="light" />
+                                        <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209020" />
+                                        <children>
+                                                <node id="LayerList">
+                                                        <children>
+                                                                <node id="Layers">
+                                                                        <children>
+                                                                                <node id="Object">
+                                                                                        <attribute id="MapKey" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+                                                                                        <children>
+                                                                                                <node id="Layer">
+                                                                                                        <attribute id="Object" type="guid" value="660f2fc8-bacd-4b4d-af9d-925e53b25fd7" />
+                                                                                                </node>
+                                                                                        </children>
+                                                                                </node>
+                                                                        </children>
+                                                                </node>
+                                                        </children>
+                                                </node>
+                                                <node id="Transform">
+                                                        <attribute id="Position" type="fvec3" value="58.647316 1.8016232 32.166607" />
+                                                        <attribute id="RotationQuat" type="fvec4" value="-0.04930241 0.9583109 -0.07138516 -0.27223852" />
+                                                        <attribute id="Scale" type="float" value="1" />
+                                                </node>
+                                        </children>
+                                </node>
+                                <node id="GameObjects">
+                                        <attribute id="Angle" type="fvec2" value="20 45" />
+                                        <attribute id="Color" type="fvec3" value="0.76862746 0.8352941 0.87058824" />
+                                        <attribute id="DirectionLightAttenuationSide" type="float" value="0.8" />
+                                        <attribute id="DirectionLightDimensions" type="fvec3" value="0.7 0.7 1" />
+                                        <attribute id="Enabled" type="bool" value="True" />
+                                        <attribute id="Flag" type="int32" value="1" />
+                                        <attribute id="Intensity" type="float" value="150000" />
+                                        <attribute id="LevelName" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+                                        <attribute id="LightType" type="uint8" value="2" />
+                                        <attribute id="MapKey" type="FixedString" value="d6b31cd5-8080-4d35-8fd6-95994a41bdb4" />
+                                        <attribute id="Name" type="LSString" value="Light_Icon_Origin_Vel_Key" />
+                                        <attribute id="Radius" type="float" value="2" />
+                                        <attribute id="ScatteringScale" type="float" value="0" />
+                                        <attribute id="Shadow" type="bool" value="True" />
+                                        <attribute id="TemplateName" type="FixedString" value="eee833f5-09f1-490f-b85f-3361a16ad2c5" />
+                                        <attribute id="Type" type="FixedString" value="light" />
+                                        <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209020" />
+                                        <children>
+                                                <node id="LayerList">
+                                                        <children>
+                                                                <node id="Layers">
+                                                                        <children>
+                                                                                <node id="Object">
+                                                                                        <attribute id="MapKey" type="FixedString" value="SYS_PortraitPlayerRace_A" />
+                                                                                        <children>
+                                                                                                <node id="Layer">
+                                                                                                        <attribute id="Object" type="guid" value="660f2fc8-bacd-4b4d-af9d-925e53b25fd7" />
+                                                                                                </node>
+                                                                                        </children>
+                                                                                </node>
+                                                                        </children>
+                                                                </node>
+                                                        </children>
+                                                </node>
+                                                <node id="Transform">
+                                                        <attribute id="Position" type="fvec3" value="57.470245 2.1988668 31.461452" />
+                                                        <attribute id="RotationQuat" type="fvec4" value="0.52418315 0.21880446 0.42717177 0.70347774" />
+                                                        <attribute id="Scale" type="float" value="1" />
+                                                </node>
+                                        </children>
+                                </node>
+                        </children>
+		</node>
+	</region>
+</save>
+                        

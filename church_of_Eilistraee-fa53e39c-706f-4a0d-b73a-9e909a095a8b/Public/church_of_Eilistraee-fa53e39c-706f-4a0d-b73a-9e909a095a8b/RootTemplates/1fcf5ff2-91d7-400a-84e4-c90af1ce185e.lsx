@@ -6,15 +6,14 @@
 			<children>
 				<node id="GameObjects">
 					<attribute id="MapKey" type="FixedString" value="1fcf5ff2-91d7-400a-84e4-c90af1ce185e" />
-					<attribute id="Name" type="LSString" value="Elves_Female_Drow_Eilistraean_Strong_Player_Vel" />
+					<attribute id="Name" type="LSString" value="Origin_Vel" />
 					<attribute id="Flag" type="int32" value="0" />
 					<attribute id="GeneratePortrait" type="LSString" value="Icon_Origin_Vel" />
-					<attribute id="DisablePortraitRendering" type="bool" value="False" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Stats" type="FixedString" value="Elf_Vel_Monk" />
           			<attribute id="Equipment" type="FixedString" value="EQP_Eli_Rags" />
 					<attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
-					<attribute id="PortraitVisualResourceID" type="FixedString" value="bed799e8-cfad-1126-5e69-3fb8ad3621c1" />
+					<attribute id="PortraitVisualResourceID" type="FixedString" value="06bc048a-2d5a-9943-b202-9d9261e9cde2" />
 					<attribute id="Type" type="FixedString" value="character" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h59mxt1in12mdf363i3xhj7btioyw1eq9gptt" version="1" />
 					<attribute id="ParentTemplateId" type="FixedString" value="2eb66f5d-24c8-499e-8aa0-58e0b9746403" />
