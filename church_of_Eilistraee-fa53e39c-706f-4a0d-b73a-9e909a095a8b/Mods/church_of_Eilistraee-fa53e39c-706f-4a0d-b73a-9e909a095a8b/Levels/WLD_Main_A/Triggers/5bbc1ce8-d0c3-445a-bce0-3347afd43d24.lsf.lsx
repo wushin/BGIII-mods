@@ -5,14 +5,15 @@
     <node id="Templates">
       <children>
         <node id="GameObjects">
-          <attribute id="Extents" type="fvec3" value="8 5 10" />
-          <attribute id="Flag" type="int32" value="1"/>
-          <attribute id="LevelName" type="FixedString" value="WLD_Main_A"/>
-          <attribute id="MapKey" type="FixedString" value="6f05b45b-7174-4670-96e0-afe1b794aa5c"/>
-          <attribute id="Name" type="LSString" value="S_Eli_Ori_VelPos"/>
-          <attribute id="TemplateName" type="FixedString" value="987b8a4d-2208-4bae-a92d-706db0e593e8"/>
-          <attribute id="Type" type="FixedString" value="trigger"/>
-          <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855895"/>
+          <attribute id="Flag" type="int32" value="1" />
+          <attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
+          <attribute id="MapKey" type="FixedString" value="5bbc1ce8-d0c3-445a-bce0-3347afd43d24" />
+          <attribute id="Name" type="LSString" value="S_DEN_Vel_FallbackPleaSphere" />
+          <attribute id="OnlyOsirisEvents" type="bool" value="False" />
+          <attribute id="Radius" type="float" value="46.799984" />
+          <attribute id="TemplateName" type="FixedString" value="5e41a73b-05ce-4011-b188-d313c15760ee" />
+          <attribute id="Type" type="FixedString" value="trigger" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209022" />
           <children>
             <node id="FadeChildren" />
             <node id="LayerList">

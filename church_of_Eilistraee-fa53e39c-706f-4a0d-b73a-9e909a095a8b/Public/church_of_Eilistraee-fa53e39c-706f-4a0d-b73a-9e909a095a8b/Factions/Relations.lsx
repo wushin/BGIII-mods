@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3"/>
+    <region id="FactionManager">
+        <node id="root">
+            <children>
+                <node id="Relations">
+                    <children>
+                        <node id="Relation">
+                            <attribute id="Source" type="guid" value="a7c0758b-c5f2-420f-97ad-ae881467f405"/>
+                            <attribute id="Target" type="guid" value="b9df037b-40c9-4fe5-b9fe-b5ceff63dd61"/>
+                            <attribute id="Value" type="int32" value="0"/>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

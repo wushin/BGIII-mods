@@ -1,0 +1,330 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+//REGION Default Dialog 
+
+//END_REGION
+
+//REGION Goblin Fight 
+DB_DoNotFaceDialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab);
+DB_Crime_DoNotStopDialog(Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab);
+
+DB_OneShotPartyTrigger(S_Eli_Ori_VelPos_6f05b45b-7174-4670-96e0-afe1b794aa5c);
+DB_AddCharactersInTriggerToDialog(Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab, S_DEN_Vel_FallbackPleaSphere_5bbc1ce8-d0c3-445a-bce0-3347afd43d24, 1, 1, 1);
+DB_IgnoreMutingStatussesDialog((DIALOGRESOURCE)Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab);
+PROC_TriggerRegisterForPlayers(S_DEN_Vel_FallbackPleaSphere_5bbc1ce8-d0c3-445a-bce0-3347afd43d24);
+
+DB_DEN_Vel_RaidingParty_Participants((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
+DB_DEN_Vel_RaidingParty_Participants(S_DEN_Vel_Melee_99dbcf67-426b-46f5-99ce-b7dc6a902e09);
+DB_DEN_Vel_RaidingParty_Participants(S_DEN_Vel_Goblin_Ranger_9349d7a3-b0b7-494c-8479-3b099d6ba55e);
+
+PROC_DEN_VEL_RaidingParty_SetupPleaExtras();
+
+DB_DEN_VEL_RaidingParty_Goblins((CHARACTER)S_DEN_Vel_Goblin_Ranger_9349d7a3-b0b7-494c-8479-3b099d6ba55e, (TRIGGER)S_DEN_Vel_Goblin_Pos_001_9b671b38-8a83-4694-b7c2-3cc6502c743d, (TRIGGER)S_DEN_Vel_Goblin_AppearPos_001_059b3d15-bc86-435b-a8ab-255538900e2c);
+DB_DEN_VEL_RaidingParty_Goblins(S_DEN_Vel_Melee_99dbcf67-426b-46f5-99ce-b7dc6a902e09, S_DEN_Vel_Goblin_Pos_002_6756c9a3-2372-411d-9c06-d5724f2d897d, S_DEN_Vel_Goblin_AppearPos_002_90604789-9d6d-41de-aee5-c16ddc35e797);
+
+DB_GLO_DefeatCounter((CHARACTER)S_DEN_Vel_Goblin_Ranger_9349d7a3-b0b7-494c-8479-3b099d6ba55e, "DEN_RaidingParty_Vel");
+
+PROC_DeclareCounter("DEN_RaidingParty_Vel");
+//END_REGION
+
+//REGION Confrontation 
+PROC_TriggerRegisterForPlayers(S_DEN_ConfrontationArea_59d80e7d-78b5-41b2-8b8a-6aa0abcc5982); // Post
+
+DB_DEN_RaidingParty_Adventurers((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
+
+DB_DEN_RaidingParty_AdventurersLeaveDialogs((DIALOGRESOURCE)DEN_RaidingParty_AdventurerAfterKO_ed1090f6-6c29-0823-196b-d2e798ccf2ca);
+
+DB_DEN_RaidingParty_WakeUpADs(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, DEN_RaidingParty_AD_AdventurerWakesUp_33b04f26-cb83-7cc1-abde-9ed9f562797c);
+
+DB_DialogBlockAttackButton((DIALOGRESOURCE)Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab);
+//END_REGION
+
+SetCanTrade(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 0);
+
+KBSECTION
+//REGION Setup
+
+IF
+DB_DEN_VEL_RaidingParty_Goblins(_Raider, _, _)
+THEN
+ApplyStatus(_Raider, "AI_NO_LOOK_AT_BATTLE", -1.0, 1, _Raider);
+
+IF
+DB_DEN_VEL_RaidingParty_Goblins(_Raider, _, _)
+AND
+_Raider !=  S_DEN_Vel_Goblin_Ranger_9349d7a3-b0b7-494c-8479-3b099d6ba55e
+THEN
+DB_GLO_DefeatCounter(_Raider, "DEN_RaidingParty_Vel");
+
+//Custom Music
+IF
+DB_DEN_VEL_RaidingParty_Goblins(_Raider, _, _)
+THEN
+DB_Sound_ScriptedCombatMusic(_Raider,"DEN_PleaAtTheGates");
+
+QRY
+QRY_CorpseLooting_BlockMakeOwned((CHARACTER)_Raider)
+AND
+DB_DEN_VEL_RaidingParty_Goblins(_Raider, _, _)
+THEN
+DB_NOOP(1);
+
+//END_REGION
+
+
+//REGION Scene Manager and edge case fallbacks
+
+IF
+DB_DEN_Vel_RaidingParty_Participants(_Character)
+THEN
+DB_SceneManager(_Character, "DEN_Vel_Plea");
+SetImmortal(_Character, 1);
+PROC_SetInvulnerable(_Character, 1);
+DB_DEN_Vel_SceneCharacters(_Character);
+
+PROC
+PROC_DEN_VEL_RaidingParty_SetupPleaExtras()
+THEN
+DB_SceneManager(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "DEN_Vel_Plea");
+SetImmortal(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 1);
+PROC_SetInvulnerable(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 1);
+DB_DEN_Vel_SceneCharacters(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
+
+PROC
+PROC_SceneInterrupted(_NPC, _Character, "DEN_Vel_Plea", _)
+AND
+DB_PartyMembers(_Character)
+THEN
+PROC_DEN_RaidingParty_StartVelPlea(_Character);
+
+
+PROC
+PROC_DEN_RaidingParty_StartVelPlea((CHARACTER)_Player)
+AND
+DB_Players(_Player)
+AND
+QRY_StartDialogCustom(Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab, S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, _Player, S_DEN_Vel_Melee_99dbcf67-426b-46f5-99ce-b7dc6a902e09,
+				S_DEN_Vel_Goblin_Ranger_9349d7a3-b0b7-494c-8479-3b099d6ba55e, 0, 0, 0, 0)
+THEN
+PROC_TriggerUnregisterForPlayers(S_Eli_Ori_VelPos_6f05b45b-7174-4670-96e0-afe1b794aa5c);
+
+PROC
+PROC_DEN_RaidingParty_StartVelPlea((CHARACTER)_Character)
+AND
+NOT DB_Players(_Character)
+AND
+CharacterGetOwner(_Character, _Player)
+AND
+QRY_StartDialogCustom(Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab, S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, _Player, S_DEN_Vel_Melee_99dbcf67-426b-46f5-99ce-b7dc6a902e09,
+				S_DEN_Vel_Goblin_Ranger_9349d7a3-b0b7-494c-8479-3b099d6ba55e, 0, 0, 0, 0)
+THEN
+PROC_TriggerUnregisterForPlayers(S_Eli_Ori_VelPos_6f05b45b-7174-4670-96e0-afe1b794aa5c);
+
+IF
+DialogStarted(Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab, _)
+THEN
+PROC_SceneOver("DEN_Vel_Plea");
+
+IF
+DialogEnded(Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab, _ID)
+THEN
+PROC_AddCharactersInTriggerToDialog_Clear(Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab, S_DEN_Vel_FallbackPleaSphere_5bbc1ce8-d0c3-445a-bce0-3347afd43d24);
+
+PROC
+PROC_SceneOver("DEN_Vel_Plea")
+AND
+DB_DEN_Vel_SceneCharacters(_Character)
+THEN
+SetImmortal(_Character, 0);
+PROC_SetInvulnerable(_Character, 0);
+
+//END_REGION
+
+//REGION
+
+IF
+DialogStarted(Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab, _)
+THEN
+SetCanTrade(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 0);
+
+IF
+DialogEnded(Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab, _)
+THEN
+SetCanTrade(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 1);
+
+//END_REGION
+
+//REGION Plea at Gates
+//Start the event at the Gate when the player enters the goblin raid area.
+PROC
+PROC_OneShotTriggerEntered(_Character, S_Eli_Ori_VelPos_6f05b45b-7174-4670-96e0-afe1b794aa5c)
+THEN
+PROC_DEN_RaidingParty_StartVelPlea(_Character);
+
+IF
+FlagSet(DEN_Vel_Event_UnsheatheForFight_2cb247bb-b7d6-4684-9959-91c47d1c6769, _, _)
+AND
+DB_DEN_Vel_RaidingParty_Participants(_Character)
+AND
+NOT DB_DEN_VEL_RaidingParty_Goblins(_Character, _, _)
+THEN
+LookAtEntity(_Character, S_DEN_Vel_Goblin_Ranger_9349d7a3-b0b7-494c-8479-3b099d6ba55e);
+SetWeaponUnsheathed(_Character,1,0);
+
+IF
+FlagSet(DEN_Vel_Event_UnsheatheForFight_2cb247bb-b7d6-4684-9959-91c47d1c6769, _, _)
+THEN
+LookFromTrigger(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, S_DEN_Vel_Goblin_Pos_001_9b671b38-8a83-4694-b7c2-3cc6502c743d, 1);
+
+//REGION Add other characters to Plea at Gates
+
+IF
+DialogEnded(Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab, _)
+THEN
+PROC_TriggerUnregisterForPlayers(S_DEN_Vel_FallbackPleaSphere_5bbc1ce8-d0c3-445a-bce0-3347afd43d24);
+
+//END_REGION
+
+//Logic of the fight with the goblins and its setup.
+//REGION Goblin Raid Fight
+
+//Set Surprised on non-goblins when event ends
+IF
+DialogEnded(DIALOGRESOURCEGUID_Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab, _)
+THEN
+PROC_DEN_RaidingParty_VelFightSetup();
+
+PROC
+PROC_DEN_RaidingParty_VelFightSetup()
+AND
+DB_GlobalFlag((FLAG)DEN_Vel_Event_GoblinRaidFight_ff091a73-06c3-4756-9a95-456c126277f1) // flagType: Global
+AND
+DB_DEN_VEL_RaidingParty_Goblins(_Goblin, _, _)
+THEN
+FlushOsirisQueue(_Goblin);	//TODO: Remove when code feature is in.
+SetFaction(_Goblin, (FACTION)Origin_Vel_Goblins_b9df037b-40c9-4fe5-b9fe-b5ceff63dd61);
+SetCombatGroupID(_Goblin, "7becebad-636b-422d-b6ce-0fe2f82de2fe");
+PROC_EnterCombat(_Goblin, S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
+
+PROC
+PROC_DEN_RaidingParty_VelFightSetup()
+THEN
+SetFaction(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, Origin_Vel_c91013d9-9539-43e0-813a-39c135efad56);
+PROC_SetRelationToPlayers(Origin_Vel_c91013d9-9539-43e0-813a-39c135efad56, 55);
+PROC_SetRelationToPlayers(Origin_Vel_Goblins_b9df037b-40c9-4fe5-b9fe-b5ceff63dd61, 0);
+
+//Throw all party members into combat.
+IF
+RelationChanged(Origin_Vel_Goblins_b9df037b-40c9-4fe5-b9fe-b5ceff63dd61, Hero_a1542c81-6895-929e-4522-10ce218bb360, 0, _)
+THEN
+PROC_DEN_Vel_ForceAllIntoCombat();
+
+PROC
+PROC_DEN_Vel_ForceAllIntoCombat()
+AND
+DB_PartyMembers(_Character)
+AND
+IsInTrigger(_Character, S_DEN_Vel_FallbackPleaSphere_5bbc1ce8-d0c3-445a-bce0-3347afd43d24, 1)
+THEN
+PROC_EnterCombat(_Character, S_DEN_Vel_Goblin_Ranger_9349d7a3-b0b7-494c-8479-3b099d6ba55e);
+
+IF
+FlagSet(DEN_Vel_Event_GoblinRaidFight_ff091a73-06c3-4756-9a95-456c126277f1, _, _)
+AND
+DB_DEN_Adventurers(_Adventurer)
+THEN
+FlushOsirisQueue(_Adventurer);
+
+//Save the ID of the goblin raid combat. Used to restrict following events.
+IF
+EnteredCombat(_Object, _ID)
+AND
+DB_DEN_VEL_RaidingParty_Goblins((CHARACTER)_Object, _, _)
+AND
+NOT DB_DEN_Vel_GoblinRaidCombatID(_ID)
+THEN
+DB_DEN_Vel_GoblinRaidCombatID(_ID);
+
+IF
+SwitchedCombat(_Object, _OldID, _NewID)
+AND
+DB_DEN_Vel_GoblinRaidCombatID(_OldID)
+AND
+DB_DEN_Vel_RaidingParty_Participants((CHARACTER)_Object)
+AND
+NOT DB_DEN_Vel_GoblinRaidCombatID(_NewID)
+THEN
+NOT DB_DEN_Vel_GoblinRaidCombatID(_OldID);
+DB_DEN_Vel_GoblinRaidCombatID(_NewID);
+
+IF
+CombatEnded(_ID)
+AND
+DB_DEN_Vel_GoblinRaidCombatID(_ID)
+THEN
+NOT DB_DEN_Vel_GoblinRaidCombatID(_ID);
+
+PROC
+PROC_GLO_DefeatCounter_AllDefeated("DEN_RaidingParty_Vel")
+THEN
+PROC_DEN_RaidingParty_AssignInspiration();
+SetFlag((FLAG)DEN_RaidingParty_Quest_GoblinRaidOver_98712d90-c46b-20c4-c4df-02c0117e85a5, NULL_00000000-0000-0000-0000-000000000000, 0); // flagType: Global
+PROC_DEN_Vel_GoblinRaidEnded();
+
+PROC
+PROC_DEN_Vel_GoblinRaidEnded()
+AND
+QRY_OnlyOnce("DEN_RaidingParty_VelCleanup")
+THEN
+SysClear("DB_DEN_VEL_RaidingParty_Goblins", 3);
+SysClear("DB_DEN_Vel_RaidingParty_Participants", 1);
+SetCombatGroupID(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "");
+PROC_DEN_Vel_SetupAlignmentsAfterGoblinFight();
+
+PROC
+PROC_DEN_Vel_SetupAlignmentsAfterGoblinFight()
+THEN
+PROC_SetRelationToPlayers(Origin_Vel_c91013d9-9539-43e0-813a-39c135efad56, 55);
+
+IF
+FlagSet(DEN_Vel_Event_GoblinsAppear_adf2469d-7934-4ff0-8c55-044a2abaa0c9, _, _) // flagType: Global
+AND
+DB_DEN_VEL_RaidingParty_Goblins(_Goblin, _MovePos, _AppearPos)
+THEN
+PROC_AppearOutOfSightTo(_Goblin, _AppearPos, S_DEN_Vel_GoblinAppearDirection_0da3d81d-cf92-4860-b971-2498bed8ad50, "");
+SetForceUpdate(_Goblin, 1);
+PROC_CharacterMoveTo(_Goblin, _MovePos, "Run", "DEN_Vel_RaidingParty_GoblinArrived");
+
+IF
+EntityEvent((CHARACTER)_Goblin,"DEN_Vel_RaidingParty_GoblinArrived")
+AND
+DB_DEN_VEL_RaidingParty_Goblins(_Goblin, _MovePos, _AppearPos)
+THEN
+LookFromTrigger(_Goblin, _MovePos, 0);
+SetForceUpdate(_Goblin, 0);
+
+//END_REGION
+
+//REGION Generic 
+
+//Used to check if any available player is in an area.
+QRY
+QRY_DEN_AnyAvailablePlayerInTrigger((TRIGGER)_Region)
+AND
+DB_Players(_Player)
+AND
+NOT DB_Defeated(_Player)
+AND
+DB_InRegion(_Player, _Region)
+AND
+QRY_SpeakerIsAvailable(_Player)
+THEN
+DB_NOOP(1);
+
+//END_REGION
+
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "Act1"

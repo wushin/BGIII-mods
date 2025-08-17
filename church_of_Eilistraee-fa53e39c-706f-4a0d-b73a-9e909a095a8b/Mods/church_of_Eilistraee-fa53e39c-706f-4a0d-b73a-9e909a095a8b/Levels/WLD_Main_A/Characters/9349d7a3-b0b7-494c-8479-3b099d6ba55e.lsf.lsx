@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+    <region id="Templates">
+        <node id="Templates">
+            <children>
+                <node id="GameObjects">
+                    <attribute id="AiHint" type="guid" value="3cae4ff5-e9c0-485b-b695-f8830961a781" />
+                    <attribute id="CharacterVisualResourceID" type="FixedString" value="d7c281e8-81b9-634c-e943-37dc9d8d3bb6" />
+                    <attribute id="CombatName" type="LSString" value="S_DEN_Vel_Goblin_Ranger_01" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hac4053cbge6e8g4d2fg8b66gd6e38c663af5" version="1" />
+                    <attribute id="Equipment" type="FixedString" value="EQP_Goblin_Shortbow" />
+                    <attribute id="Faction" type="guid" value="d4e8ae97-8752-1068-fad5-46ef8717b1d0" />
+                    <attribute id="Flag" type="int32" value="1" />
+                    <attribute id="Icon" type="FixedString" value="d7c281e8-81b9-634c-e943-37dc9d8d3bb6-EQP_Goblin_Shortbow_(Icon_Goblin_Male)" />
+                    <attribute id="IsLootable" type="bool" value="True" />
+                    <attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
+                    <attribute id="LevelOverride" type="int32" value="1" />
+                    <attribute id="MapKey" type="FixedString" value="9349d7a3-b0b7-494c-8479-3b099d6ba55e" />
+                    <attribute id="Name" type="LSString" value="S_DEN_Vel_Goblin_Ranger" />
+                    <attribute id="Stats" type="FixedString" value="DEN_Goblin_Archer" />
+                    <attribute id="TemplateName" type="FixedString" value="bdf828ab-4335-4626-b159-312b67397011" />
+                    <attribute id="Type" type="FixedString" value="character" />
+                    <attribute id="_OriginalFileVersion_" type="int64" value="144115200960757765" />
+                    <children>
+                        <node id="LayerList">
+                            <children>
+                                <node id="Layers">
+                                    <children>
+                                        <node id="Object">
+                                            <attribute id="MapKey" type="FixedString" value="WLD_Main_A" />
+                                            <children>
+                                                <node id="Layer">
+                                                    <attribute id="Object" type="guid" value="46bf2460-7de1-6bba-140d-dd1238dbe671" />
+                                                </node>
+                                                <node id="Layer">
+                                                    <attribute id="Object" type="guid" value="a44bb736-b656-2464-4d6a-7ba5108574d1" />
+                                                </node>
+                                            </children>
+                                        </node>
+                                    </children>
+                                </node>
+                            </children>
+                        </node>
+                        <node id="LocomotionParams" />
+                        <node id="Transform">
+                            <attribute id="Position" type="fvec3" value="188.102 19.931 366.178" />
+                            <attribute id="RotationQuat" type="fvec4" value="0 0.11634182 0 0.9932093" />
+                            <attribute id="Scale" type="float" value="1" />
+                        </node>
+                        <node id="Treasures">
+                            <children>
+                                <node id="TreasureItem">
+                                    <attribute id="Object" type="FixedString" value="GOB_Goblin_Generic" />
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>      
+            </children>
+        </node>
+    </region>
+</save>

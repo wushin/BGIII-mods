@@ -5,9 +5,19 @@
         <node id="root">
             <children>
                 <node id="Faction">
-                    <attribute id="Faction" type="FixedString" value="Origin_Vel"/>
+                    <attribute id="Faction" type="FixedString" value="Eilistraeans"/>
                     <attribute id="ParentGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
-                    <attribute id="UUID" type="guid" value="cd3dc9a0-bdb0-4634-82f7-818e4333f534"/>
+                    <attribute id="UUID" type="guid" value="a7c0758b-c5f2-420f-97ad-ae881467f405"/>
+                </node>
+                <node id="Faction">
+                    <attribute id="Faction" type="FixedString" value="Origin_Vel"/>
+                    <attribute id="ParentGuid" type="guid" value="a7c0758b-c5f2-420f-97ad-ae881467f405"/>
+                    <attribute id="UUID" type="guid" value="c91013d9-9539-43e0-813a-39c135efad56"/>
+                </node>
+                <node id="Faction">
+                    <attribute id="Faction" type="FixedString" value="Origin_Vel_Goblins"/>
+                    <attribute id="ParentGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
+                    <attribute id="UUID" type="guid" value="b9df037b-40c9-4fe5-b9fe-b5ceff63dd61"/>
                 </node>
             </children>
         </node>

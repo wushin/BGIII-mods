@@ -313,7 +313,7 @@
   <content contentuid="h7kqvrniquel5nxjuicp3jhmy9orv2jff3a95" version="1">Invulnerability</content>
   <content contentuid="hx5akzzzfe3hcl0zyq0ggcpgyfuon4kmsiaat" version="1">You become immune to all damage and all status effects.</content>
   <content contentuid="hw8eirmfwpy3rhzl529ae2ue9hl2gb3wtw8q9" version="1">Moon Burst</content>
-  <content contentuid="ho8m0v7xnaq95obbbsu38s20zmgh417o5v5v1" version="1">Brilliant Moonlight flashes in a 20m radius centered on a point you choose within range. Each creature in that light must make a Constitution saving throw. On a failed save, a creature takes [1] radiant and [1] cold damage and is blinded for 10 turns. On a successful save, it takes half as much damage and isn’t blinded by this spell. Undead and oozes have disadvantage on this saving throw.</content>
+  <content contentuid="ho8m0v7xnaq95obbbsu38s20zmgh417o5v5v1" version="1">Brilliant Moonlight flashes in a 20m radius centered on a point you choose within range. Each creature in that light must make a Constitution saving throw. On a failed save, a creature takes [1] radiant and [1] cold damage and is blinded for 10 turns. On a successful save, it takes half as much damage and isn&apos;st blinded by this spell. Undead and oozes have disadvantage on this saving throw.</content>
   <content contentuid="h3yewsit0vhsafxbv99znyepuszlglnmb61bu" version="1">Holy Aura</content>
   <content contentuid="h7mrn0p2djsjb67pat4y83aamqepfyz8k2l2r" version="1">Allies in the Aura receive advantage on al ability checks. Enemies in the Aura recieve Disadvantage on Attack Rolls and take [1] damage.</content>
   <content contentuid="hm8xd5f62ukq9wdo5vvmd971x2zoiy8m9gbtm" version="1">Dominate Monster</content>
@@ -565,12 +565,26 @@
   <content contentuid="hvn816el69605lcqay3ah1atec5rn7ggf2s77" version="1">Level Up</content>
   <content contentuid="hzdapkf5yl48zt7x05y1ez9pkb7bksq0kp5nj" version="1">Give party a level.</content>
   <content contentuid="hlnzpwnarczfy5s2kk2bvmizfy394bg1q5lcg" version="1">Qilue Veladorn</content>
-  <content contentuid="hj37m0z8d9nhmlxy23iufxp92macuwioqufg7" version="1">Sae’vyrra Sussunlara</content>
+  <content contentuid="hj37m0z8d9nhmlxy23iufxp92macuwioqufg7" version="1">Sae&apos;svyrra Sussunlara</content>
   <content contentuid="h8h5od9xe64cc7bb2d542e2l2w6t7z2vtnyo1" version="1">Velatha Duskwhisper</content>
   <content contentuid="hbp0z8ywwzu6w36ro8uz7n3v05qoggflulo2w" version="1">Faeryl Starweaver</content>
-  <content contentuid="h59mxt1in12mdf363i3xhj7btioyw1eq9gptt" version="1">Vel’uss Iltaress Xal Zhal</content>
+  <content contentuid="h59mxt1in12mdf363i3xhj7btioyw1eq9gptt" version="1">Vel&apos;suss Iltaress Xal Zhal</content>
   <content contentuid="hogkb19gn24el5fdv0n8es32pz3fpxparqwa0" version="1">Vel</content>
-  <content contentuid="hw7m2p5m0m4f2zyp0a1a22pq8xtqtjgq3c8w4" version="1">A strong Drow Elf Female.</content>
+  <content contentuid="hw7m2p5m0m4f2zyp0a1a22pq8xtqtjgq3c8w4" version="1">A distressed Drow Elf Female.</content>
   <content contentuid="hcw1e8j8t4pebyhstckbeyy0ac797tx177hbl" version="1">Prison Rags</content>
   <content contentuid="h7blshmpkxaetlkxm23tfzzy3eo4i1k4u555z" version="1">Worthless Prison Rags</content>
+  <content contentuid="hik89l7cj45ign6df8or9u9v089pwczvzcwpg" version="1">Ssussun&apos;sabel dosst, abbil; mzild vel&apos;sklar kyorl wun belbau.</content>
+  <content contentuid="hqnh224g2z3yf127aclewks3xhfhzbr510l7w" version="1">I am Vel&apos;suss Iltaress Xal Zhal, a low-born of no house, born of no one. </content>
+  <content contentuid="hx4mah32bgcjebpiuhbfo6lxcvwib02bu6hrz" version="1">When I was young, a man took me away to work for him. Always hiding, always sneaking and always killing.</content>
+  <content contentuid="htuun2nxnt6dr14tziz7xzpkj6z6apjnqc6q5" version="1">I was finally ready to leave that entire life behind and make my way back to the surface when the Illithid came.</content>
+  <content contentuid="hcba9fu9on255q39r338xzmpo6hcyfyws4fjk" version="1">I want to walk on the Surface and find my place among them.</content>
+  <content contentuid="hasvzqswcdx0x2yr5arlysxegvghxirlbokmm" version="1">*You see a distressed Drow Elf Female.*</content>
+  <content contentuid="hi1407lsb5uxreeo7tjxkhsvypht75g1002ho" version="1">Come here traitor, Minthara wants a word with you.</content>
+  <content contentuid="h4cidbzrdysqgoiyayw9tppcnsiv5hdwz35q6" version="1">NO! I won't go back.</content>
+  <content contentuid="hitnxrho7c26sps49r3lurzu0oiig5g0yy3qn" version="1">Fine then, The hard way it is!</content>
+  <content contentuid="hlp53447t4rb9r6vtymm0mq8ss4zr32shults" version="1">Do you help the Elf?</content>
+  <content contentuid="hwaeodob3hnkxjwmlgqpwxf3nb4qvvkn6bgoy" version="1">Give her Aid.</content>
+  <content contentuid="hqnxujr6hz8bsm460ht642qewc8vnqm9d9y0b" version="1">Ignore her pleas.</content>
+  <content contentuid="hoj2szlli1r8qtznv37c83r9on0n5exykbqon" version="1">Do you need help?</content>
+  <content contentuid="hmt8r9jja1uf0k0kuhqj45ckhl6axe6b8y73l" version="1">Yes, I'm being persued.</content>
 </contentList>

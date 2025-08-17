@@ -5,15 +5,16 @@
     <node id="Templates">
       <children>
         <node id="GameObjects">
-          <attribute id="MapKey" type="FixedString" value="b143dbd5-428f-46a3-8ce4-259d9ae2cb96" />
+		  <attribute id="DisplayName" type="TranslatedString" handle="hogkb19gn24el5fdv0n8es32pz3fpxparqwa0" version="1" />
+		  <attribute id="Title" type="TranslatedString" handle="hw7m2p5m0m4f2zyp0a1a22pq8xtqtjgq3c8w4" version="1" />
+          <attribute id="MapKey" type="FixedString" value="f83fe475-863b-4325-acf0-106d7bbccb5f" />
           <attribute id="Name" type="LSString" value="S_Player_Vel" />
           <attribute id="HasPlayerApprovalRating" type="bool" value="True" />
           <attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
           <attribute id="Type" type="FixedString" value="character" />
 		  <attribute id="Icon" type="FixedString" value="1349d18e-3022-4be3-ac25-a123e7dba3c7_(Icon_Origin_Vel)" />
-          <attribute id="Faction" type="guid" value="cd3dc9a0-bdb0-4634-82f7-818e4333f534" />
-          <attribute id="DefaultDialog" type="FixedString" value="ac1ff3d3-fb2c-5983-d021-ced2aac07a6c" />
-          <attribute id="GeneratePortrait" type="LSString" value="Icon_Origin_Vel" />
+          <attribute id="Faction" type="guid" value="a7c0758b-c5f2-420f-97ad-ae881467f405" />
+          <attribute id="DefaultDialog" type="FixedString" value="c8ebee48-0dad-45fc-98f1-b3c151cdbe10" />
           <attribute id="TemplateName" type="FixedString" value="1fcf5ff2-91d7-400a-84e4-c90af1ce185e" />
           <attribute id="Flag" type="uint8" value="1" />
           <attribute id="IsGlobal" type="bool" value="True" />
@@ -21,10 +22,11 @@
           <attribute id="LevelOverride" type="int32" value="-1" />
           <attribute id="CanBeTeleported" type="bool" value="False" />
           <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
-          <attribute id="AnubisConfigName" type="FixedString" value="Eli_Ori_Vel" />
-          <attribute id="Archetype" type="FixedString" value="melee_smart" />
-          <attribute id="AiHint" type="guid" value="3cae4ff5-e9c0-485b-b695-f8830961a781" />
-		  <attribute id="PortraitVisualResourceID" type="FixedString" value="06bc048a-2d5a-9943-b202-9d9261e9cde2" />
+          <attribute id="AnubisConfigName" type="FixedString" value="DefaultCharacter" />
+          <attribute id="Archetype" type="FixedString" value="monk_melee" />
+          <attribute id="AiHint" type="guid" value="1902723d-dd16-4e7a-87d6-7b07f63add79" />
+		  <attribute id="RagdollTemplate" type="FixedString" value="abec7ca9-aa91-4a72-bee6-40a9474fa390" />
+		  <attribute id="SoftBodyCollisionTemplate" type="FixedString" value="e96eed75-850b-4497-b077-a8f62f731bf3" />
           <attribute id="CharacterVisualResourceID" type="FixedString" value="bed799e8-cfad-1126-5e69-3fb8ad3621c1" />
           <children>
 			<node id="FootStepInfos">
@@ -150,10 +152,10 @@
 						<attribute id="FallbackStartRound" type="int32" value="-1" />
 						<attribute id="LearningStrategy" type="uint8" value="0" />
 						<attribute id="MinimumImpact" type="int32" value="0" />
-						<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+						<attribute id="OnlyCastOnSelf" type="bool" value="true" />
 						<attribute id="ScoreModifier" type="float" value="1" />
 						<attribute id="Skill" type="FixedString" value="Target_EilistraeanShadow_Ki_Cont" />
-						<attribute id="SpellCastingAbility" type="uint8" value="0" />
+						<attribute id="SpellCastingAbility" type="uint8" value="5" />
 						<attribute id="StartRound" type="int32" value="0" />
 						<children>
 							<node id="SourceConditions">
@@ -180,10 +182,10 @@
 						<attribute id="HonorHardcore" type="bool" value="True" />
 						<attribute id="LearningStrategy" type="uint8" value="0" />
 						<attribute id="MinimumImpact" type="int32" value="0" />
-						<attribute id="OnlyCastOnSelf" type="bool" value="False" />
+						<attribute id="OnlyCastOnSelf" type="bool" value="true" />
 						<attribute id="ScoreModifier" type="float" value="1" />
 						<attribute id="Skill" type="FixedString" value="Shout_EilistraeanImage_Ki" />
-						<attribute id="SpellCastingAbility" type="uint8" value="0" />
+						<attribute id="SpellCastingAbility" type="uint8" value="5" />
 						<attribute id="StartRound" type="int32" value="0" />
 						<attribute id="TacticianHardcore" type="bool" value="True" />
 						<children>
@@ -266,16 +268,13 @@
 					</node>
 				</children>
 			</node>
-			<node id="TradeTreasures">
-				<children>
-					<node id="TreasureItem">
-						<attribute id="Object" type="FixedString" value="Eli_Ori_Vel" />
-					</node>                            
-					<node id="TreasureItem">
-						<attribute id="Object" type="FixedString" value="Supplies_Camp_Pack" />
-					</node>
-				</children>
-			</node>
+			<node id="SpeakerGroupList">
+              <children>
+                <node id="SpeakerGroup">
+                  <attribute id="Object" type="guid" value="c27cf770-ee6a-4206-a97f-62c9d16f6239" />
+                </node>
+              </children>
+            </node>
             <node id="Transform">
               <attribute id="Scale" type="float" value="1" />
               <attribute id="Position" type="fvec3" value="188.017 19.516 363.549" />

@@ -8,7 +8,6 @@
 					<attribute id="MapKey" type="FixedString" value="1fcf5ff2-91d7-400a-84e4-c90af1ce185e" />
 					<attribute id="Name" type="LSString" value="Origin_Vel" />
 					<attribute id="Flag" type="int32" value="0" />
-					<attribute id="GeneratePortrait" type="LSString" value="Icon_Origin_Vel" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="Stats" type="FixedString" value="Elf_Vel_Monk" />
           			<attribute id="Equipment" type="FixedString" value="EQP_Eli_Rags" />
@@ -27,6 +26,9 @@
                 				</node>
 								<node id="Tag">
                   					<attribute id="Object" type="guid" value="1eec74e8-3673-4500-abec-57b7ed8469ed" />
+                				</node>
+								<node id="Tag">
+                  					<attribute id="Object" type="guid" value="91f4b379-63a2-40e9-a509-7b9b2f90e4c8" />
                 				</node>
 								<node id="Tag">
                   					<attribute id="Object" type="guid" value="2a4f9fcc-5891-4150-bf3f-a219e69a7f33" />
