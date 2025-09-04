@@ -7,8 +7,8 @@
                 <node id="GameObjects">
                     <attribute id="Flag" type="int32" value="1" />
                     <attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
-                    <attribute id="MapKey" type="FixedString" value="6756c9a3-2372-411d-9c06-d5724f2d897d" />
-                    <attribute id="Name" type="LSString" value="S_DEN_Vel_Goblin_Pos_002" />
+                    <attribute id="MapKey" type="FixedString" value="9b671b38-8a83-4694-b7c2-3cc6502c743d" />
+                    <attribute id="Name" type="LSString" value="S_DEN_Vel_Goblin_Pos_001" />
                     <attribute id="TemplateName" type="FixedString" value="15111ce4-12fc-4757-bb81-7c2c212e141a" />
                     <attribute id="Type" type="FixedString" value="trigger" />
                     <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725257" />
@@ -34,8 +34,8 @@
                         </children>
                         </node>
                         <node id="Transform">
-                            <attribute id="Position" type="fvec3" value="186.379 20.111 362.719" />
-                            <attribute id="RotationQuat" type="fvec4" value="0 0.9993486 0 0.036091845" />
+                            <attribute id="Position" type="fvec3" value="186.964 19.899 362.108" />
+                            <attribute id="RotationQuat" type="fvec4" value="0 0.9659258 0 0.258819" />
                             <attribute id="Scale" type="float" value="1" />
                         </node>
                     </children>

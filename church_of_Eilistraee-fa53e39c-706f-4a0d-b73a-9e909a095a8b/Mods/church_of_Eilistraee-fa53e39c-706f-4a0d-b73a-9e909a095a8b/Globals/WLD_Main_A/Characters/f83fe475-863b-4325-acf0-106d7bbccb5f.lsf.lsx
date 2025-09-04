@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <save>
   <version major="4" minor="7" revision="1" build="3" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
   <region id="Templates">
@@ -14,7 +14,6 @@
           <attribute id="Type" type="FixedString" value="character" />
 		  <attribute id="Icon" type="FixedString" value="1349d18e-3022-4be3-ac25-a123e7dba3c7_(Icon_Origin_Vel)" />
           <attribute id="Faction" type="guid" value="a7c0758b-c5f2-420f-97ad-ae881467f405" />
-          <attribute id="DefaultDialog" type="FixedString" value="c8ebee48-0dad-45fc-98f1-b3c151cdbe10" />
           <attribute id="TemplateName" type="FixedString" value="1fcf5ff2-91d7-400a-84e4-c90af1ce185e" />
           <attribute id="Flag" type="uint8" value="1" />
           <attribute id="IsGlobal" type="bool" value="True" />
@@ -277,8 +276,8 @@
             </node>
             <node id="Transform">
               <attribute id="Scale" type="float" value="1" />
-              <attribute id="Position" type="fvec3" value="188.017 19.516 363.549" />
-              <attribute id="RotationQuat" type="fvec4" value="0 1 0 0" />
+              <attribute id="Position" type="fvec3" value="185.75 20.412 364.25" />
+              <attribute id="RotationQuat" type="fvec4" value="0 0.8660254 0 -0.5" />
             </node>
             <node id="LayerList">
               <children>

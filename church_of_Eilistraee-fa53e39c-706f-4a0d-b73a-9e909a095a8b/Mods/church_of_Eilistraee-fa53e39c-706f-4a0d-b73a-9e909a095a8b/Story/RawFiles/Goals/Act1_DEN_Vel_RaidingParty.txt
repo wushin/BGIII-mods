@@ -18,6 +18,11 @@ DB_DEN_Vel_RaidingParty_Participants((CHARACTER)S_Player_Vel_f83fe475-863b-4325-
 DB_DEN_Vel_RaidingParty_Participants(S_DEN_Vel_Melee_99dbcf67-426b-46f5-99ce-b7dc6a902e09);
 DB_DEN_Vel_RaidingParty_Participants(S_DEN_Vel_Goblin_Ranger_9349d7a3-b0b7-494c-8479-3b099d6ba55e);
 
+//position flags
+DB_GLO_Cinematic_PositionedDialog((DIALOGRESOURCE)Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab,"DEN_Vel_Plea_Pos");
+DB_GLO_Cinematic_PositionFlags("DEN_Vel_Plea_Pos",(TRIGGER)S_DEN_Vel_FromDen_dd5fc8aa-d22d-4c9d-8277-71b597b32559,(FLAG)Vel_Start_Event_DenPosition_a1a895fa-083a-4222-aa6f-b352c4c335bf);
+DB_GLO_Cinematic_PositionFlags("DEN_Vel_Plea_Pos",(TRIGGER)S_DEN_Vel_FromShip_0e35369d-2d22-4008-b9a7-a19625bf81f4,(FLAG)Vel_Start_Event_ShipPosition_25990d33-8a0f-4cd4-ae73-b9cd9a49ab20);
+
 PROC_DEN_VEL_RaidingParty_SetupPleaExtras();
 
 DB_DEN_VEL_RaidingParty_Goblins((CHARACTER)S_DEN_Vel_Goblin_Ranger_9349d7a3-b0b7-494c-8479-3b099d6ba55e, (TRIGGER)S_DEN_Vel_Goblin_Pos_001_9b671b38-8a83-4694-b7c2-3cc6502c743d, (TRIGGER)S_DEN_Vel_Goblin_AppearPos_001_059b3d15-bc86-435b-a8ab-255538900e2c);
@@ -89,7 +94,6 @@ THEN
 DB_SceneManager(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "DEN_Vel_Plea");
 SetImmortal(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 1);
 PROC_SetInvulnerable(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 1);
-DB_DEN_Vel_SceneCharacters(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
 
 PROC
 PROC_SceneInterrupted(_NPC, _Character, "DEN_Vel_Plea", _)
@@ -104,7 +108,7 @@ PROC_DEN_RaidingParty_StartVelPlea((CHARACTER)_Player)
 AND
 DB_Players(_Player)
 AND
-QRY_StartDialogCustom(Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab, S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, _Player, S_DEN_Vel_Melee_99dbcf67-426b-46f5-99ce-b7dc6a902e09,
+QRY_StartDialogCustom(Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab, _Player, S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, S_DEN_Vel_Melee_99dbcf67-426b-46f5-99ce-b7dc6a902e09,
 				S_DEN_Vel_Goblin_Ranger_9349d7a3-b0b7-494c-8479-3b099d6ba55e, 0, 0, 0, 0)
 THEN
 PROC_TriggerUnregisterForPlayers(S_Eli_Ori_VelPos_6f05b45b-7174-4670-96e0-afe1b794aa5c);
@@ -116,13 +120,13 @@ NOT DB_Players(_Character)
 AND
 CharacterGetOwner(_Character, _Player)
 AND
-QRY_StartDialogCustom(Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab, S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, _Player, S_DEN_Vel_Melee_99dbcf67-426b-46f5-99ce-b7dc6a902e09,
+QRY_StartDialogCustom(Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab, _Player, S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, S_DEN_Vel_Melee_99dbcf67-426b-46f5-99ce-b7dc6a902e09,
 				S_DEN_Vel_Goblin_Ranger_9349d7a3-b0b7-494c-8479-3b099d6ba55e, 0, 0, 0, 0)
 THEN
 PROC_TriggerUnregisterForPlayers(S_Eli_Ori_VelPos_6f05b45b-7174-4670-96e0-afe1b794aa5c);
 
 IF
-DialogStarted(Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab, _)
+DialogEnded(Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab, _)
 THEN
 PROC_SceneOver("DEN_Vel_Plea");
 
@@ -175,7 +179,8 @@ SetWeaponUnsheathed(_Character,1,0);
 IF
 FlagSet(DEN_Vel_Event_UnsheatheForFight_2cb247bb-b7d6-4684-9959-91c47d1c6769, _, _)
 THEN
-LookFromTrigger(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, S_DEN_Vel_Goblin_Pos_001_9b671b38-8a83-4694-b7c2-3cc6502c743d, 1);
+LookAtEntity(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, S_DEN_Vel_Goblin_Ranger_9349d7a3-b0b7-494c-8479-3b099d6ba55e);
+SetWeaponUnsheathed(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,1,0);
 
 //REGION Add other characters to Plea at Gates
 
@@ -286,23 +291,6 @@ PROC
 PROC_DEN_Vel_SetupAlignmentsAfterGoblinFight()
 THEN
 PROC_SetRelationToPlayers(Origin_Vel_c91013d9-9539-43e0-813a-39c135efad56, 55);
-
-IF
-FlagSet(DEN_Vel_Event_GoblinsAppear_adf2469d-7934-4ff0-8c55-044a2abaa0c9, _, _) // flagType: Global
-AND
-DB_DEN_VEL_RaidingParty_Goblins(_Goblin, _MovePos, _AppearPos)
-THEN
-PROC_AppearOutOfSightTo(_Goblin, _AppearPos, S_DEN_Vel_GoblinAppearDirection_0da3d81d-cf92-4860-b971-2498bed8ad50, "");
-SetForceUpdate(_Goblin, 1);
-PROC_CharacterMoveTo(_Goblin, _MovePos, "Run", "DEN_Vel_RaidingParty_GoblinArrived");
-
-IF
-EntityEvent((CHARACTER)_Goblin,"DEN_Vel_RaidingParty_GoblinArrived")
-AND
-DB_DEN_VEL_RaidingParty_Goblins(_Goblin, _MovePos, _AppearPos)
-THEN
-LookFromTrigger(_Goblin, _MovePos, 0);
-SetForceUpdate(_Goblin, 0);
 
 //END_REGION
 

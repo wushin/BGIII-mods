@@ -5,23 +5,20 @@
         <node id="Templates">
             <children>
                 <node id="GameObjects">
-                    <attribute id="AiHint" type="guid" value="3cae4ff5-e9c0-485b-b695-f8830961a781" />
-                    <attribute id="CharacterVisualResourceID" type="FixedString" value="d7c281e8-81b9-634c-e943-37dc9d8d3bb6" />
-                    <attribute id="CombatName" type="LSString" value="S_DEN_Vel_Goblin_Ranger_01" />
-                    <attribute id="DisplayName" type="TranslatedString" handle="hac4053cbge6e8g4d2fg8b66gd6e38c663af5" version="1" />
-                    <attribute id="Equipment" type="FixedString" value="EQP_Goblin_Shortbow" />
+                    <attribute id="CharacterVisualResourceID" type="FixedString" value="aaa752b8-a731-c8af-a358-4dcadc94ec74" />
+                    <attribute id="CombatName" type="LSString" value="S_DEN_Vel_Goblin_Melee_01" />
                     <attribute id="Faction" type="guid" value="d4e8ae97-8752-1068-fad5-46ef8717b1d0" />
                     <attribute id="Flag" type="int32" value="1" />
-                    <attribute id="Icon" type="FixedString" value="d7c281e8-81b9-634c-e943-37dc9d8d3bb6-EQP_Goblin_Shortbow_(Icon_Goblin_Male)" />
+                    <attribute id="Icon" type="FixedString" value="aaa752b8-a731-c8af-a358-4dcadc94ec74-EQP_Goblin_Scimitar_(Icon_Goblin_Male)" />
                     <attribute id="IsLootable" type="bool" value="True" />
                     <attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
                     <attribute id="LevelOverride" type="int32" value="1" />
-                    <attribute id="MapKey" type="FixedString" value="9349d7a3-b0b7-494c-8479-3b099d6ba55e" />
-                    <attribute id="Name" type="LSString" value="S_DEN_Vel_Goblin_Ranger" />
-                    <attribute id="Stats" type="FixedString" value="DEN_Goblin_Archer" />
-                    <attribute id="TemplateName" type="FixedString" value="bdf828ab-4335-4626-b159-312b67397011" />
+                    <attribute id="MapKey" type="FixedString" value="99dbcf67-426b-46f5-99ce-b7dc6a902e09" />
+                    <attribute id="Name" type="LSString" value="S_DEN_Vel_Melee" />
+                    <attribute id="Stats" type="FixedString" value="DEN_Goblin_Melee" />
+                    <attribute id="TemplateName" type="FixedString" value="2db928f2-f1c5-4b5a-8751-168f9f292249" />
                     <attribute id="Type" type="FixedString" value="character" />
-                    <attribute id="_OriginalFileVersion_" type="int64" value="144115200960757765" />
+                    <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209034" />
                     <children>
                         <node id="LayerList">
                             <children>
@@ -44,8 +41,8 @@
                         </node>
                         <node id="LocomotionParams" />
                         <node id="Transform">
-                            <attribute id="Position" type="fvec3" value="188.102 19.931 366.178" />
-                            <attribute id="RotationQuat" type="fvec4" value="0 0.11634182 0 0.9932093" />
+                            <attribute id="Position" type="fvec3" value="188.919 20.020 366.641" />
+                            <attribute id="RotationQuat" type="fvec4" value="0 0.5 0 0.8660254" />
                             <attribute id="Scale" type="float" value="1" />
                         </node>
                         <node id="Treasures">

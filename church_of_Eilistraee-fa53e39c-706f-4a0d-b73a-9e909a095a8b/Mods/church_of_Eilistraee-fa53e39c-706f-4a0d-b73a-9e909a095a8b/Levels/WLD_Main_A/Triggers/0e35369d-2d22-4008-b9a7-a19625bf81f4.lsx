@@ -5,11 +5,11 @@
     <node id="Templates">
       <children>
         <node id="GameObjects">
-          <attribute id="Extents" type="fvec3" value="8 5 10" />
+          <attribute id="Extents" type="fvec3" value="5 5 5" />
           <attribute id="Flag" type="int32" value="1"/>
           <attribute id="LevelName" type="FixedString" value="WLD_Main_A"/>
-          <attribute id="MapKey" type="FixedString" value="6f05b45b-7174-4670-96e0-afe1b794aa5c"/>
-          <attribute id="Name" type="LSString" value="S_Eli_Ori_VelPos"/>
+          <attribute id="MapKey" type="FixedString" value="0e35369d-2d22-4008-b9a7-a19625bf81f4"/>
+          <attribute id="Name" type="LSString" value="S_DEN_Vel_FromShip"/>
           <attribute id="TemplateName" type="FixedString" value="987b8a4d-2208-4bae-a92d-706db0e593e8"/>
           <attribute id="Type" type="FixedString" value="trigger"/>
           <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855895"/>
@@ -27,8 +27,8 @@
               </children>
             </node>
             <node id="Transform">
-              <attribute id="Position" type="fvec3" value="188.017 19.516 363.549"/>
-              <attribute id="RotationQuat" type="fvec4" value="0 1 0 0" />
+              <attribute id="Position" type="fvec3" value="188.053 19.045 357.679"/>
+              <attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
               <attribute id="Scale" type="float" value="1"/>
             </node>
           </children>

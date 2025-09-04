@@ -14,7 +14,6 @@
           <attribute id="Type" type="FixedString" value="character" />
 		  <attribute id="Icon" type="FixedString" value="1349d18e-3022-4be3-ac25-a123e7dba3c7_(Icon_Origin_Vel)" />
           <attribute id="Faction" type="guid" value="a7c0758b-c5f2-420f-97ad-ae881467f405" />
-          <attribute id="DefaultDialog" type="FixedString" value="13bc5624-fd9e-4787-8084-fe5d07f1e4ab" />
           <attribute id="TemplateName" type="FixedString" value="1fcf5ff2-91d7-400a-84e4-c90af1ce185e" />
           <attribute id="Flag" type="uint8" value="1" />
           <attribute id="IsGlobal" type="bool" value="True" />
