@@ -113,7 +113,7 @@ DB_PredefinedOriginOptions("Wyll",(CHARACTER)S_Player_Wyll_c774d764-4a17-48dc-b4
 DB_PredefinedOriginOptions("Shadowheart",(CHARACTER)S_Player_ShadowHeart_3ed74f06-3c60-42dc-83f6-f034cb47c679);
 DB_PredefinedOriginOptions("Karlach",(CHARACTER)S_Player_Karlach_2c76687d-93a2-477b-8b18-8a14b549304c);
 DB_PredefinedOriginOptions("DarkUrge",(CHARACTER)S_Player_DarkUrge_c66bc36f-7cb0-41fa-92f0-6d81d7d17ba3);
-DB_PredefinedOriginOptions("Vel",(CHARACTER)S_Player_Vel_b143dbd5-428f-46a3-8ce4-259d9ae2cb96);
+DB_PredefinedOriginOptions("Vel",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
 
 // Track all status that can cause character to be in DB_Defeated
 // DB_DefeatedCauses((GUIDSTRING)_Entity, (STRING)_Cause, (INTEGER)_IsCustom);

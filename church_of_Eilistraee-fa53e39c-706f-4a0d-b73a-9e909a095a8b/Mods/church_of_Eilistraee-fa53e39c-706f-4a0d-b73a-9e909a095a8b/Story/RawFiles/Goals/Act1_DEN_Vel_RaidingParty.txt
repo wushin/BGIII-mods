@@ -31,21 +31,10 @@ DB_DEN_VEL_RaidingParty_Goblins(S_DEN_Vel_Melee_99dbcf67-426b-46f5-99ce-b7dc6a90
 DB_GLO_DefeatCounter((CHARACTER)S_DEN_Vel_Goblin_Ranger_9349d7a3-b0b7-494c-8479-3b099d6ba55e, "DEN_RaidingParty_Vel");
 
 PROC_DeclareCounter("DEN_RaidingParty_Vel");
-//END_REGION
-
-//REGION Confrontation 
-PROC_TriggerRegisterForPlayers(S_DEN_ConfrontationArea_59d80e7d-78b5-41b2-8b8a-6aa0abcc5982); // Post
-
-DB_DEN_RaidingParty_Adventurers((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
-
-DB_DEN_RaidingParty_AdventurersLeaveDialogs((DIALOGRESOURCE)DEN_RaidingParty_AdventurerAfterKO_ed1090f6-6c29-0823-196b-d2e798ccf2ca);
-
-DB_DEN_RaidingParty_WakeUpADs(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, DEN_RaidingParty_AD_AdventurerWakesUp_33b04f26-cb83-7cc1-abde-9ed9f562797c);
-
-DB_DialogBlockAttackButton((DIALOGRESOURCE)Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab);
-//END_REGION
 
 SetCanTrade(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 0);
+DB_DialogBlockAttackButton((DIALOGRESOURCE)Vel_Start_13bc5624-fd9e-4787-8084-fe5d07f1e4ab);
+//END_REGION
 
 KBSECTION
 //REGION Setup
@@ -75,8 +64,11 @@ DB_DEN_VEL_RaidingParty_Goblins(_Raider, _, _)
 THEN
 DB_NOOP(1);
 
+IF
+FlagSet((FLAG)DEN_RaidingParty_Quest_VelRaidOver_0e2cdcb0-91f9-496b-8bd5-349910da7275,_,_)
+THEN
+DB_Dialogs(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, Vel_Main_49fbe3e3-5535-4458-be49-d5490576cdea);
 //END_REGION
-
 
 //REGION Scene Manager and edge case fallbacks
 
@@ -214,10 +206,42 @@ PROC_EnterCombat(_Goblin, S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
 
 PROC
 PROC_DEN_RaidingParty_VelFightSetup()
+AND
+DB_GlobalFlag((FLAG)DEN_Vel_Event_GoblinRaidFight_ff091a73-06c3-4756-9a95-456c126277f1) // flagType: Global
 THEN
 SetFaction(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, Origin_Vel_c91013d9-9539-43e0-813a-39c135efad56);
+SetRelation(Origin_Vel_c91013d9-9539-43e0-813a-39c135efad56, Origin_Vel_Goblins_b9df037b-40c9-4fe5-b9fe-b5ceff63dd61, 0);
+SetRelation(Origin_Vel_Goblins_b9df037b-40c9-4fe5-b9fe-b5ceff63dd61, Origin_Vel_c91013d9-9539-43e0-813a-39c135efad56, 0);
 PROC_SetRelationToPlayers(Origin_Vel_c91013d9-9539-43e0-813a-39c135efad56, 55);
 PROC_SetRelationToPlayers(Origin_Vel_Goblins_b9df037b-40c9-4fe5-b9fe-b5ceff63dd61, 0);
+
+PROC
+PROC_DEN_RaidingParty_VelFightSetup()
+AND
+NOT DB_GlobalFlag((FLAG)DEN_Vel_Event_GoblinRaidFight_ff091a73-06c3-4756-9a95-456c126277f1) // flagType: Global
+THEN
+SetFaction(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, Origin_Vel_c91013d9-9539-43e0-813a-39c135efad56);
+SetFlag(Vel_Start_Captured_6f878dc2-3e72-45a1-9ed5-0152e0e0c6b4);
+PROC_SetRelationToPlayers(Origin_Vel_c91013d9-9539-43e0-813a-39c135efad56, 50);
+PROC_DisappearOutOfSightTo(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,S_DEN_Vel_DisappearDirection_0da3d81d-cf92-4860-b971-2498bed8ad50,"Walk",0,"");
+PROC_Goblins_Follow_Vel();
+
+PROC
+PROC_Goblins_Follow_Vel()
+AND
+DB_DEN_VEL_RaidingParty_Goblins(_Goblin, _, _)
+THEN
+PROC_Follow(_Goblin,S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
+
+IF
+WentOnStage(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 0)
+AND
+DB_DEN_VEL_RaidingParty_Goblins(_Goblin, _, _)
+THEN
+PROC_StopFollow(_Goblin);
+PROC_DisappearOutOfSightTo(_Goblin, S_DEN_Vel_DisappearDirection_0da3d81d-cf92-4860-b971-2498bed8ad50, "Run", 1, "");
+TeleportTo(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,S_Vel_Goblin_Prison_29edb39f-f3a9-4076-ba6d-28b5a4cdc03d);
+SetOnStage(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,1);
 
 //Throw all party members into combat.
 IF
@@ -274,7 +298,7 @@ PROC
 PROC_GLO_DefeatCounter_AllDefeated("DEN_RaidingParty_Vel")
 THEN
 PROC_DEN_RaidingParty_AssignInspiration();
-SetFlag((FLAG)DEN_RaidingParty_Quest_GoblinRaidOver_98712d90-c46b-20c4-c4df-02c0117e85a5, NULL_00000000-0000-0000-0000-000000000000, 0); // flagType: Global
+SetFlag((FLAG)DEN_RaidingParty_Quest_VelRaidOver_0e2cdcb0-91f9-496b-8bd5-349910da7275, NULL_00000000-0000-0000-0000-000000000000, 0); // flagType: Global
 PROC_DEN_Vel_GoblinRaidEnded();
 
 PROC
@@ -291,6 +315,74 @@ PROC
 PROC_DEN_Vel_SetupAlignmentsAfterGoblinFight()
 THEN
 PROC_SetRelationToPlayers(Origin_Vel_c91013d9-9539-43e0-813a-39c135efad56, 55);
+DB_Dialogs(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, Vel_Main_49fbe3e3-5535-4458-be49-d5490576cdea);
+PROC_Start_Next();
+
+PROC
+PROC_Start_Next()
+AND
+GetClosestPlayer(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, _Player, _Distance)
+AND
+_Distance < 30.0 
+THEN
+PROC_CharacterMoveToAndTalk(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, _Player, Vel_Main_49fbe3e3-5535-4458-be49-d5490576cdea, "Vel_Thanks", "Walk", 20.0);
+
+PROC
+PROC_Start_Next()
+AND
+GetClosestPlayer(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, _Player, _Distance)
+AND
+_Distance > 30.0 
+THEN
+CharacterMoveTo(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, S_Eli_Ori_VelPos_6f05b45b-7174-4670-96e0-afe1b794aa5c, "Walk", "");
+
+IF
+CharacterMoveToAndTalkFailed(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,_,"Vel_Thanks",_)
+THEN
+CharacterMoveTo(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, S_Eli_Ori_VelPos_6f05b45b-7174-4670-96e0-afe1b794aa5c, "Walk", "");
+
+IF
+DialogEnded(DIALOGRESOURCEGUID_Vel_Main_49fbe3e3-5535-4458-be49-d5490576cdea, _)
+AND
+DB_GlobalFlag((FLAG)Vel_Eli_Camp_3f247c16-6ae1-4fc3-bd80-44b6fb723edb)
+THEN
+PROC_DisappearOutOfSightTo(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,S_DEN_Vel_DisappearDirection_0da3d81d-cf92-4860-b971-2498bed8ad50,"Walk",1,"");
+TeleportTo(S_Vel_Eli_Camp_3ccd1b95-5195-4e2f-b66f-3554639c6365,S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
+SetOnStage(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,1);
+
+IF
+DialogEnded(DIALOGRESOURCEGUID_Vel_Main_49fbe3e3-5535-4458-be49-d5490576cdea, _)
+AND
+DB_GlobalFlag((FLAG)Vel_Druid_Den_38c30936-128f-4e83-8b9e-1c1e6bcf5df3)
+THEN
+PROC_DisappearOutOfSightTo(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,S_DEN_Vel_DisappearDirection_0da3d81d-cf92-4860-b971-2498bed8ad50,"Walk",1,"");
+TeleportTo(S_Vel_Druid_Den_64fd7e01-5e06-415d-b162-6573e9da0196,S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
+SetOnStage(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,1);
+
+IF
+DialogEnded(DIALOGRESOURCEGUID_Vel_Main_49fbe3e3-5535-4458-be49-d5490576cdea, _)
+AND
+DB_GlobalFlag((FLAG)Vel_Recruited_050e6361-7e34-4d25-b138-b99363b14036)
+AND
+QRY_OnlyOnce("RecruitedFirstTime_Vel")
+AND
+GetHostCharacter(_Character)
+THEN
+PROC_GLO_PartyMembers_Add(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, _Character);
+SetFlag((FLAG)SetPreset_Default_7eabc516-c15c-46ff-a99d-60d4a9f7037e, S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 0);
+PROC_ORI_SetupCamp((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 0);
+
+IF
+DialogEnded(DIALOGRESOURCEGUID_Vel_Main_49fbe3e3-5535-4458-be49-d5490576cdea, _)
+AND
+DB_GlobalFlag((FLAG)ORI_VelRecruitment_Event_InvitedToCamp_a075f931-34f8-4fcb-8d79-dddbe9ac153e)
+AND
+QRY_OnlyOnce("RecruitedFirstTime_Vel")
+AND
+GetHostCharacter(_Player)
+THEN
+PROC_CheckFirstTimeRecruited((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
+PROC_ORI_SetupCamp((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 1);
 
 //END_REGION
 

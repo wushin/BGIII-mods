@@ -21,9 +21,9 @@
           <attribute id="LevelOverride" type="int32" value="-1" />
           <attribute id="CanBeTeleported" type="bool" value="False" />
           <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
-          <attribute id="AnubisConfigName" type="FixedString" value="Eli_Ori_Vel" />
-          <attribute id="Archetype" type="FixedString" value="melee_smart" />
-          <attribute id="AiHint" type="guid" value="3cae4ff5-e9c0-485b-b695-f8830961a781" />
+          <attribute id="AnubisConfigName" type="FixedString" value="DefaultCharacter" />
+          <attribute id="Archetype" type="FixedString" value="monk_melee" />
+          <attribute id="AiHint" type="guid" value="1902723d-dd16-4e7a-87d6-7b07f63add79" />
 		  <attribute id="RagdollTemplate" type="FixedString" value="abec7ca9-aa91-4a72-bee6-40a9474fa390" />
 		  <attribute id="SoftBodyCollisionTemplate" type="FixedString" value="e96eed75-850b-4497-b077-a8f62f731bf3" />
           <attribute id="CharacterVisualResourceID" type="FixedString" value="bed799e8-cfad-1126-5e69-3fb8ad3621c1" />

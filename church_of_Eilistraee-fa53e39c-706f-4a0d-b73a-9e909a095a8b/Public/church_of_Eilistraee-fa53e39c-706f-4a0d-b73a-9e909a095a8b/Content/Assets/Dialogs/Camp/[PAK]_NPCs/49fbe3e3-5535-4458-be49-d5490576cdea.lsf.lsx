@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save> 
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="DialogBank">
+    <node id="DialogBank">
+      <children>        
+        <node id="Resource">
+          <attribute id="AllowDeadSpeakers" type="bool" value="False" />
+					<attribute id="BlockFTB" type="bool" value="False" />
+					<attribute id="EnableTimeline" type="bool" value="True" />
+          <attribute id="ID" type="FixedString" value="49fbe3e3-5535-4458-be49-d5490576cdea" />
+          <attribute id="Localized" type="bool" value="False" />
+					<attribute id="IsAllowingJoinCombat" type="bool" value="False" />
+					<attribute id="automated" type="bool" value="False" />
+					<attribute id="isBehaviour" type="bool" value="False" />
+					<attribute id="isSubbedDialog" type="bool" value="False" />
+					<attribute id="isWorld" type="bool" value="False" />
+          <attribute id="Name" type="LSString" value="Vel_Main" />
+          <attribute id="SourceFile" type="LSString" value="Mods/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Story/Dialogs/Camp/NPCs/Vel_Main.lsj" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855930" />
+          <children>
+            <node id="SpeakerSlotsWithLines">
+              <attribute id="HasLines" type="bool" value="True" />
+            </node>
+            <node id="SpeakerSlotsWithLines">
+              <attribute id="HasLines" type="bool" value="False" />
+            </node>
+          </children>
+        </node>
+      </children>
+    </node> 
+  </region>   
+</save>        

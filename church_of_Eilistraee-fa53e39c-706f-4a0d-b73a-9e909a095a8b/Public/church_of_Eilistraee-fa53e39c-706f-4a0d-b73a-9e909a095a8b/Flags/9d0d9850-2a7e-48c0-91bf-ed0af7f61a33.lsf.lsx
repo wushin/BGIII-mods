@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="8" build="612" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Flags">
+		<node id="Flags">
+                        <attribute id="UUID" type="guid" value="9d0d9850-2a7e-48c0-91bf-ed0af7f61a33" /> 
+			<attribute id="Name" type="FixedString" value="GLO_Vel_State_PermaDefeated" />
+			<attribute id="Description" type="LSString" value="Set when Vel is Perma Defeated." />
+			<attribute id="Usage" type="uint8" value="5" />
+		</node>
+	</region>
+</save>

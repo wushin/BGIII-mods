@@ -7,8 +7,8 @@
                 <node id="GameObjects">
                     <attribute id="Color4" type="fvec4" value="0.49803922 0 1 1" />
                     <attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
-                    <attribute id="MapKey" type="FixedString" value="0da3d81d-cf92-4860-b971-2498bed8ad50" />
-                    <attribute id="Name" type="LSString" value="S_DEN_Vel_DisappearDirection" />
+                    <attribute id="MapKey" type="FixedString" value="3ccd1b95-5195-4e2f-b66f-3554639c6365" />
+                    <attribute id="Name" type="LSString" value="S_Vel_Eli_Camp" />
                     <attribute id="TemplateName" type="FixedString" value="15111ce4-12fc-4757-bb81-7c2c212e141a" />
                     <attribute id="TriggerType" type="FixedString" value="TriggerPoint" />
                     <attribute id="Type" type="FixedString" value="trigger" />
@@ -21,21 +21,13 @@
                                 <children>
                                     <node id="Object">
                                         <attribute id="MapKey" type="FixedString" value="WLD_Main_A" />
-                                        <children>
-                                            <node id="Layer">
-                                                <attribute id="Object" type="guid" value="46bf2460-7de1-6bba-140d-dd1238dbe671" />
-                                            </node>
-                                            <node id="Layer">
-                                                <attribute id="Object" type="guid" value="a44bb736-b656-2464-4d6a-7ba5108574d1" />
-                                            </node>
-                                        </children>
                                     </node>
                                 </children>
                             </node>
                         </children>
                         </node>
                         <node id="Transform">
-                            <attribute id="Position" type="fvec3" value="209.665 26.542 401.643" />
+                            <attribute id="Position" type="fvec3" value="148.976 38.653 365.821" />
                             <attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
                             <attribute id="Scale" type="float" value="1" />
                         </node>

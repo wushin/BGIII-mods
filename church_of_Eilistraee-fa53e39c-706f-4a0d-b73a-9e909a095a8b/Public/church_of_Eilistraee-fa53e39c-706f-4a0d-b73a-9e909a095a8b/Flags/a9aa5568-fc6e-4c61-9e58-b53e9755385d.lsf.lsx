@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="0" build="16" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Flags">
+		<node id="Flags">
+			<attribute id="Description" type="LSString" value="VELCAMPdescription" />
+			<attribute id="Name" type="FixedString" value="VELCAMP" />
+                        <attribute id="UUID" type="guid" value="a9aa5568-fc6e-4c61-9e58-b53e9755385d" /> 
+			<attribute id="Usage" type="uint8" value="5" />
+		</node>
+	</region>
+</save>

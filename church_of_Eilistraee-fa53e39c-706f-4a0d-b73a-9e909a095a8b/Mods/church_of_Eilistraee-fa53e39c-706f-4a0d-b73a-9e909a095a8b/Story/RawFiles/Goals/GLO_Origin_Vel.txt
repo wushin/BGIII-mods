@@ -1,0 +1,69 @@
+Version 1
+SubGoalCombiner SGC_AND
+INITSECTION
+//REGION Player Init Block
+DB_OriginNPCAlignment((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, (FACTION)Origin_Vel_c91013d9-9539-43e0-813a-39c135efad56);
+DB_OriginCampFlags(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FLAG)VEL_42371a87-cb37-45c1-bda8-307e723cb6d1,(FLAG)VELAVATAR_8cd01ade-131d-4b2e-92d3-941714bac835,(FLAG)VELCOMPANION_362168b0-019a-474b-a202-25f4dcc5871a,(FLAG)VELPARTY_86c8439c-f674-4120-add5-6c45fe0405e4,(FLAG)VELCAMP_a9aa5568-fc6e-4c61-9e58-b53e9755385d);
+DB_OriginInPartyGlobal((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FLAG)ORI_Vel_State_IsInParty_a7f74861-7c55-4ffd-9fc2-364cc5cac637);
+DB_OriginPartOfTheTeamFlag((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, (FLAG)GLO_Origin_PartOfTheTeam_Vel_d9621904-c5a6-4e06-a060-f96b56e977aa,(FLAG)GLO_Origin_Avatar_Vel_9f0e391c-e018-43fa-af29-df5e883cb80e, (FLAG)ORI_Vel_ControlledByUser_c92ebcc5-8f20-4d56-a8bb-0f2abf2ef20a);
+DB_OriginKickFromPartyFlags((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, (FLAG)ORI_Vel_Event_KickCompanion_037679ab-5a93-439b-b22d-a4859d065680, (FLAG)ORI_Vel_State_CanBeKicked_08992733-c39f-451e-b97b-a4bab9bb0228);
+
+DB_OriginRecruitmentDialog((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(DIALOGRESOURCE)Laezel_Recruitment_InCage_131cf573-180d-5307-6d6e-6a369319e161); //Laezel_Recruitment_a914c64a-30d8-0428-683a-99dd7879fc83
+
+DB_OriginInPartyDialog((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, TUT_Start_Laezel_c62d7e26-beb5-0afe-becd-68a25c7f4314);
+DB_OriginWarning1Dialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,Laezel_Warning1_2cc7736e-4af6-4235-870f-6b53cf04ae8e);
+DB_OriginWarning2Dialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,Laezel_Warning2_78bc67a3-2fa8-a019-eb08-50c56a8f7757);
+DB_OriginLeavingDialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,Laezel_Leaving_70e20de2-7314-a9ae-e5a2-be50225f97b1);
+
+DB_Inclusion_Object((GUIDSTRING)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FLAG)ORI_Inclusion_Laezel_49c3c048-b5f7-466c-a996-d87cef44dde9,(FLAG)ORI_Inclusion_End_Laezel_dcf82fba-01b2-44f1-acf6-64254ad40007);
+
+DB_Debug_CharacterAddFlags((FLAG)Debug_AddGith_39ecbda9-cb44-becf-57b9-c3b631a5517b, (CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FLAG)Debug_GithIsPlayer_35795c8f-0daa-5972-e4a0-85f35af25026);
+DB_Debug_CharacterRemoveHideFlags((FLAG)Debug_RemoveHideGith_7953fece-dcf5-658b-38b5-58d5d2900824, (CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
+
+DB_CompanionCanPartner((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FLAG)ORI_State_DatingVel_dd67e08b-475d-460a-8788-d17c7eebeba7, (FLAG)ORI_State_PartneredWithVel_b94243f6-5c86-45bc-8bca-2747cca2fdb1, (FLAG)ORI_State_WasPartneredWithVel_c142d1b5-7769-46b3-8349-325ef14f6ce7, (FLAG)ORI_State_HandledBreakupWithVel_01115e08-f64d-4109-8cbd-fb2d60204cf7, ORI_State_ChosePartnerOverVel_d1fd4941-653a-45d2-8489-8e8d5eddfc43, "datelaezel");
+DB_CompanionIsDating((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, (FLAG)ORI_State_VelIsDating_fd3c7004-3cb5-4b7a-87d4-bd19b6521e60);
+//END_REGION
+ 
+//REGION Laezel Specific
+DB_PermaDefeatedFlag(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FLAG)GLO_Vel_State_PermaDefeated_9d0d9850-2a7e-48c0-91bf-ed0af7f61a33);
+//END_REGION
+
+//REGION Camp Setup
+DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDMAIN", (TRIGGER)S_CAMP_Laezel_A_8d410b28-5270-80e3-1cb8-c9036fc8383b);
+DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDCAVGRN", (TRIGGER)S_CAMP_Laezel_A_d2e138b5-935e-8b25-060a-9797da87754b);
+DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDCAVSND", (TRIGGER)S_CAMP_Laezel_A_349fdec8-b9c4-8f22-34dd-522f050a0bfb);
+DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDDUNABB", (TRIGGER)S_CAMP_Laezel_A_aff47ac4-9013-8a57-1348-9d840d699685);
+DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDDUNSHA", (TRIGGER)S_CAMP_Laezel_A_e67329ac-dac5-896b-0704-ac15d952e24c);
+DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDBAS", (TRIGGER)S_CAMP_Laezel_A_155372b6-4adf-8c59-025a-6aeebb22b76f);
+DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDUND", (TRIGGER)S_CAMP_Laezel_A_175b52c4-efc4-879a-0e96-7d0d1f250fa2);
+//END_REGION
+
+//PROC_ORI_COM_Vel_InitJournal();
+KBSECTION
+
+//REGION Queries
+
+QRY
+QRY_ORI_Vel_COM_InCampOrParty()
+AND
+DB_InCamp(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f)
+AND
+NOT DB_PermaDefeated(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f)
+THEN
+DB_NOOP(1);
+
+QRY
+QRY_ORI_Vel_COM_InCampOrParty()
+AND
+DB_Players(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f)
+AND
+NOT DB_Avatars(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f)
+THEN
+DB_NOOP(1);
+
+//END_REGION
+
+EXITSECTION
+
+ENDEXITSECTION
+ParentTargetEdge "ModWrapper_Gustav"
