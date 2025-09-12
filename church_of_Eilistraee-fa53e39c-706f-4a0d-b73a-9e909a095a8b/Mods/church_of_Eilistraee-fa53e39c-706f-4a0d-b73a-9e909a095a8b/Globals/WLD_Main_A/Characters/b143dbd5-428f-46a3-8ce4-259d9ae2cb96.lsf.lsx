@@ -21,7 +21,7 @@
           <attribute id="LevelOverride" type="int32" value="-1" />
           <attribute id="CanBeTeleported" type="bool" value="False" />
           <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
-          <attribute id="AnubisConfigName" type="FixedString" value="DefaultCharacter" />
+          <attribute id="AnubisConfigName" type="FixedString" value="ORI_Vel" />
           <attribute id="Archetype" type="FixedString" value="monk_melee" />
           <attribute id="AiHint" type="guid" value="1902723d-dd16-4e7a-87d6-7b07f63add79" />
 		  <attribute id="RagdollTemplate" type="FixedString" value="abec7ca9-aa91-4a72-bee6-40a9474fa390" />

@@ -1,0 +1,11 @@
+game.configs.ORI_Vel = Config{
+    root=StateRef{game.roots.DefaultCharacter,
+        combat = StateRef{game.states.DefaultCombat},
+        genericBehaviours = StateRef{game.states.CrimesHumanoid},
+        idle = StateRef{game.states.GLO_RegionProxies_Act1,
+            CAMP = StateRef{game.states.CAMP_Companion,
+                defaultBehaviour = StateRef{game.states.CAMP_Vel},
+            },
+        },
+    }
+}

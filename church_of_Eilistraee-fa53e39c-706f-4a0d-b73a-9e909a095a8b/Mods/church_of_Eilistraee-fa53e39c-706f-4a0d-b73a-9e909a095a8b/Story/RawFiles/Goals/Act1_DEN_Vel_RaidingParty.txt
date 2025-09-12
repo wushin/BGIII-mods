@@ -379,7 +379,7 @@ DB_GlobalFlag((FLAG)ORI_VelRecruitment_Event_InvitedToCamp_a075f931-34f8-4fcb-8d
 AND
 QRY_OnlyOnce("RecruitedFirstTime_Vel")
 AND
-GetHostCharacter(_Player)
+GetHostCharacter(_Character)
 THEN
 PROC_CheckFirstTimeRecruited((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
 PROC_ORI_SetupCamp((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 1);

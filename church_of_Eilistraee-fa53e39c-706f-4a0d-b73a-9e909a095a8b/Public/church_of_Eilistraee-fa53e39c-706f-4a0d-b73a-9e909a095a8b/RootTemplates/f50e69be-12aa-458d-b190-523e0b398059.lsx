@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="CameraOffset" type="fvec3" value="0 0 0" />
+          <attribute id="Flag" type="int32" value="0" />
+          <attribute id="GroupID" type="uint32" value="0" />
+          <attribute id="HasGameplayValue" type="bool" value="False" />
+          <attribute id="IsDynamicLayer" type="bool" value="False" />
+          <attribute id="IsMoving" type="bool" value="False" />
+          <attribute id="IsScrollingObject" type="bool" value="False" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="LevelTemplateType" type="uint8" value="0" />
+          <attribute id="MapKey" type="FixedString" value="f50e69be-12aa-458d-b190-523e0b398059" />
+          <attribute id="MovablePlatformStartSound" type="FixedString" value="" />
+          <attribute id="MovablePlatformStopSound" type="FixedString" value="" />
+          <attribute id="Name" type="LSString" value="LT_CMP_Vel" />
+          <attribute id="ParentTemplateId" type="FixedString" value="" />
+          <attribute id="PhysicsOpenTemplate" type="FixedString" value="" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="" />
+          <attribute id="ScrollingDirection" type="fvec3" value="1 0 0" />
+          <attribute id="ScrollingDistance" type="float" value="0" />
+          <attribute id="ScrollingOffset" type="float" value="0" />
+          <attribute id="ScrollingOrigin" type="fvec3" value="0 0 0" />
+          <attribute id="ScrollingSpeed" type="float" value="0" />
+          <attribute id="SoundActivationRange" type="float" value="-1" />
+          <attribute id="StartingActive" type="bool" value="False" />
+          <attribute id="StartingLoaded" type="bool" value="True" />
+          <attribute id="SubLevelName" type="FixedString" value="CMP_Vel" />
+          <attribute id="TemplateAfterDestruction" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="LevelTemplate" />
+          <attribute id="UseSoundOcclusion" type="bool" value="True" />
+          <attribute id="VisualTemplate" type="FixedString" value="" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209006" />
+          <children>
+            <node id="ConstellationConfigGlobalParameters" />
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>  
