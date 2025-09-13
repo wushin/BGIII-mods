@@ -18,7 +18,7 @@
           <attribute id="Flag" type="uint8" value="1" />
           <attribute id="IsGlobal" type="bool" value="True" />
           <attribute id="IsLootable" type="bool" value="True" />
-          <attribute id="LevelOverride" type="int32" value="-1" />
+		  <attribute id="LevelOverride" type="int32" value="1" />
           <attribute id="CanBeTeleported" type="bool" value="False" />
           <attribute id="SpellSet" type="FixedString" value="CommonPlayerActions" />
           <attribute id="AnubisConfigName" type="FixedString" value="ORI_Vel" />

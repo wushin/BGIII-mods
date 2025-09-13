@@ -13,13 +13,14 @@
                     <attribute id="ClassUUID" type="guid" value="71e39703-444b-4ab6-955f-f2d6f346f56b"/>
                     <attribute id="Description" type="TranslatedString" handle="hw7m2p5m0m4f2zyp0a1a22pq8xtqtjgq3c8w4" version="1"/>
                     <attribute id="DisplayName" type="TranslatedString" handle="h59mxt1in12mdf363i3xhj7btioyw1eq9gptt" version="1"/>
-                    <attribute id="DefaultsTemplate" type="guid" value="f83fe475-863b-4325-acf0-106d7bbccb5f"/>
+                    <attribute id="GlobalTemplate" type="guid" value="f83fe475-863b-4325-acf0-106d7bbccb5f"/>
                     <attribute id="LockBody" type="bool" value="true"/>
                     <attribute id="LockClass" type="bool" value="true"/>
                     <attribute id="LockRace" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="Vel"/>
                     <attribute id="Passives" type="LSString" value="DeathSavingThrows"/>
                     <attribute id="RaceUUID" type="guid" value="814a554a-bf74-4deb-ad43-969753dc932f"/>
+                    <attribute id="SubClassUUID" type="guid" value="71e39703-444b-4ab6-955f-f2d6f346f56b"/>
                     <attribute id="SubRaceUUID" type="guid" value="91618490-5e7e-429b-9d12-5db9bf23802b"/>
                     <attribute id="UUID" type="guid" value="c9466f86-0f8c-430f-baba-274d3ed5d1b0"/>
                     <attribute id="Unique" type="bool" value="true"/>

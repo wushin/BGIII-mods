@@ -369,6 +369,7 @@ AND
 GetHostCharacter(_Character)
 THEN
 PROC_GLO_PartyMembers_Add(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, _Character);
+RegisterAsCompanion(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(CHARACTER)_Character);
 SetFlag((FLAG)SetPreset_Default_7eabc516-c15c-46ff-a99d-60d4a9f7037e, S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 0);
 PROC_ORI_SetupCamp((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 0);
 
@@ -382,6 +383,7 @@ AND
 GetHostCharacter(_Character)
 THEN
 PROC_CheckFirstTimeRecruited((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
+RegisterAsCompanion(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(CHARACTER)_Character);
 PROC_ORI_SetupCamp((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 1);
 
 //END_REGION
