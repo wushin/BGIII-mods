@@ -9,6 +9,7 @@
           <attribute id="Name" type="LSString" value="ELI_CAMP_Leader" />
           <attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
           <attribute id="Type" type="FixedString" value="character" />
+          <attribute id="Faction" type="guid" value="a7c0758b-c5f2-420f-97ad-ae881467f405" />
           <attribute id="TemplateName" type="FixedString" value="911a321d-d8d4-403b-80b1-7901a9713118" />
           <attribute id="Flag" type="uint8" value="1" />
           <attribute id="DisplayName" type="TranslatedString" handle="hlnzpwnarczfy5s2kk2bvmizfy394bg1q5lcg" version="1" />

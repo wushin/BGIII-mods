@@ -2,18 +2,35 @@ Version 1
 SubGoalCombiner SGC_AND
 INITSECTION
 //REGION Player Init Block
+
+DB_GLO_Jergal_CompanionResurrectionFlags((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, (FLAG)CAMP_Jergal_State_CanResurrectJasonMGNTN_6d81760c-9042-4560-bc6a-110d770036be, (FLAG)CAMP_Jergal_State_WillResurrectJasonMGNTN_74f66dc4-5363-4e21-8464-aabe8baaeb95);
+
+DB_PredefinedOriginOptions("Vel",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
+
+// Remove this when shes got durge-related dialogue
+DB_ORI_DarkUrge_FavouriteExcluded((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
+
+DB_Origins(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
+
 DB_OriginNPCAlignment((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, (FACTION)Origin_Vel_c91013d9-9539-43e0-813a-39c135efad56);
+DB_CompanionFactions((FACTION)CompanionVel_53ed546e-a717-456f-b511-71ce74b3b926);
+DB_CompanionCaredFaction((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FACTION)Eilistraeans_a7c0758b-c5f2-420f-97ad-ae881467f405,-10,1,0);
+
 DB_OriginCampFlags(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FLAG)VEL_42371a87-cb37-45c1-bda8-307e723cb6d1,(FLAG)VELAVATAR_8cd01ade-131d-4b2e-92d3-941714bac835,(FLAG)VELCOMPANION_362168b0-019a-474b-a202-25f4dcc5871a,(FLAG)VELPARTY_86c8439c-f674-4120-add5-6c45fe0405e4,(FLAG)VELCAMP_a9aa5568-fc6e-4c61-9e58-b53e9755385d);
+
 DB_OriginInPartyGlobal((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FLAG)ORI_Vel_State_IsInParty_a7f74861-7c55-4ffd-9fc2-364cc5cac637);
+
 DB_OriginPartOfTheTeamFlag((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, (FLAG)GLO_Origin_PartOfTheTeam_Vel_d9621904-c5a6-4e06-a060-f96b56e977aa,(FLAG)GLO_Origin_Avatar_Vel_9f0e391c-e018-43fa-af29-df5e883cb80e, (FLAG)ORI_Vel_ControlledByUser_c92ebcc5-8f20-4d56-a8bb-0f2abf2ef20a);
+
 DB_OriginKickFromPartyFlags((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, (FLAG)ORI_Vel_Event_KickCompanion_037679ab-5a93-439b-b22d-a4859d065680, (FLAG)ORI_Vel_State_CanBeKicked_08992733-c39f-451e-b97b-a4bab9bb0228);
 
-DB_OriginRecruitmentDialog((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(DIALOGRESOURCE)Laezel_Recruitment_InCage_131cf573-180d-5307-6d6e-6a369319e161); //Laezel_Recruitment_a914c64a-30d8-0428-683a-99dd7879fc83
-
+DB_OriginRecruitmentDialog((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(DIALOGRESOURCE)Vel_Main_49fbe3e3-5535-4458-be49-d5490576cdea);
 DB_OriginInPartyDialog((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, TUT_Start_Laezel_c62d7e26-beb5-0afe-becd-68a25c7f4314);
 DB_OriginWarning1Dialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,Laezel_Warning1_2cc7736e-4af6-4235-870f-6b53cf04ae8e);
 DB_OriginWarning2Dialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,Laezel_Warning2_78bc67a3-2fa8-a019-eb08-50c56a8f7757);
 DB_OriginLeavingDialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,Laezel_Leaving_70e20de2-7314-a9ae-e5a2-be50225f97b1);
+
+// DB_OriginMayLeaveDialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,Laezel_InParty2_2e9a0be7-2255-463e-83e3-b76904d6dff2); this seems to only be for dialogue where the character might leave the party permanently, so, should only have this when i have dialogue where he can do that (outside of the regular leaving dialogue)
 
 DB_Inclusion_Object((GUIDSTRING)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FLAG)ORI_Inclusion_Laezel_49c3c048-b5f7-466c-a996-d87cef44dde9,(FLAG)ORI_Inclusion_End_Laezel_dcf82fba-01b2-44f1-acf6-64254ad40007);
 
@@ -29,17 +46,97 @@ DB_PermaDefeatedFlag(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FLAG)GLO
 //END_REGION
 
 //REGION Camp Setup
+DB_Camp_PersonalCornerLevelTemplate("WLDMAIN",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_6fe171d3-5b5b-4831-8161-16906d3ea69e); //Good
 DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDMAIN", (TRIGGER)S_CAMP_Vel_POS_66f0e3d4-e1f7-4507-b012-a47ba6bc87bf);
-DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDCAVGRN", (TRIGGER)S_CAMP_Vel_A_1eee719c-6e7b-455f-b389-008b625b3202);
-DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDCAVSND", (TRIGGER)S_CAMP_Vel_A_1eee719c-6e7b-455f-b389-008b625b3202);
-DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDDUNABB", (TRIGGER)S_CAMP_Vel_A_1eee719c-6e7b-455f-b389-008b625b3202);
-DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDDUNSHA", (TRIGGER)S_CAMP_Vel_A_1eee719c-6e7b-455f-b389-008b625b3202);
-DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDBAS", (TRIGGER)S_CAMP_Vel_A_1eee719c-6e7b-455f-b389-008b625b3202);
-DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDUND", (TRIGGER)S_CAMP_Vel_A_1eee719c-6e7b-455f-b389-008b625b3202);
+
+DB_Camp_PersonalCornerLevelTemplate("WLDCAVSND",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_20898a48-8681-453d-95d8-53f054ce7653); //Good
+DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDCAVSND", (TRIGGER)S_CAMP_Vel_POS_246cde6b-880a-463d-908e-9ce97835d467);
+
+DB_Camp_PersonalCornerLevelTemplate("WLDCAVGRN",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_23098eb2-1fe2-43bd-af6b-fa319f1ca043); //Cleanup
+DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDCAVGRN", (TRIGGER)S_CAMP_Vel_POS_a5cd8caa-7153-45d7-acc2-a70fa298743a);
+
+DB_Camp_PersonalCornerLevelTemplate("WLDBAS",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_c8692cce-a11a-429c-9edf-9e807091160c); //Cleanup
+DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDBAS", (TRIGGER)S_CAMP_Vel_POS_3097953a-a77d-4aa7-b3ec-6367af4c7ce6);
+
+DB_Camp_PersonalCornerLevelTemplate("WLDDUNABB",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_3fee5631-322b-40f6-a639-1dbf45309913); //Cleanup
+DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDDUNABB", (TRIGGER)S_CAMP_Vel_POS_cb9122ee-8435-4463-8c05-6be4e7123375);
+
+DB_Camp_PersonalCornerLevelTemplate("WLDUND",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_9cf5227a-939b-4c08-9217-9e7ea2a0dee8); //Lower
+DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDUND", (TRIGGER)S_CAMP_Vel_POS_ad7f13b7-d570-4b08-99e2-0f717f6ec49f);
+
+DB_Camp_PersonalCornerLevelTemplate("WLDDUNSHA",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_b85ebe52-5f52-4550-ac0e-5156ef418247);
+DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDDUNSHA", (TRIGGER)S_CAMP_Vel_POS_9ae658ee-33fe-4da5-a3c0-35c0d38ab058);
+
 //END_REGION
 
 //PROC_ORI_COM_Vel_InitJournal();
+//REGION Leave Party Journal Entries
+//DB_QuestDef_State_CompanionLeft((TAG)REALLY_JASON_MGNTN_66c8b49a-a649-46d1-9aca-099107df7c09, "ORI_COM_JasonMGNTN", "CompanionHostile");
+//DB_QuestDef_State_CompanionLeft((TAG)REALLY_JASON_MGNTN_66c8b49a-a649-46d1-9aca-099107df7c09, "ORI_COM_JasonMGNTN", "CompanionLowRelation");
+//END_REGION
+//DB_QuestDef_State((FLAG)ORI_MGNTN_Jason_State_WasRecruited_c297ed94-0bde-4e7f-98e0-5054f783a304, "ORI_COM_JasonMGNTN", "RecruitedJasonMGNTN");
+//DB_QuestDef_LevelLoaded("ORI_COM_JasonMGNTN","ReachedEND","END_Main");
+
 KBSECTION
+
+IF
+TextEvent("detachVel")
+THEN
+DetachFromPartyGroup(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
+
+//Debug
+IF
+TextEvent("Vel2camp")
+AND
+GetHostCharacter(_Player)
+THEN
+SetFlag(ORI_VelRecruitment_Event_InvitedToCamp_a075f931-34f8-4fcb-8d79-dddbe9ac153e, NULL_00000000-0000-0000-0000-000000000000, 0);
+SetOnStage(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 1);
+PROC_CheckFirstTimeRecruited((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
+RegisterAsCompanion(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(CHARACTER)_Player);
+PROC_ORI_SetupCamp((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 1);
+
+IF
+EntityEvent((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,"DebugTeleportedToCamp")
+AND
+GetHostCharacter(_Player)
+THEN
+SetFlag(ORI_VelRecruitment_Event_InvitedToCamp_a075f931-34f8-4fcb-8d79-dddbe9ac153e, NULL_00000000-0000-0000-0000-000000000000, 0);
+PROC_CheckFirstTimeRecruited((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
+RegisterAsCompanion(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(CHARACTER)_Player);
+PROC_ORI_SetupCamp((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 1);
+
+
+//Invited to camp
+IF
+FlagSet(ORI_VelRecruitment_Event_InvitedToCamp_a075f931-34f8-4fcb-8d79-dddbe9ac153e, NULL_00000000-0000-0000-0000-000000000000, _ID)
+AND
+_ID != 0
+THEN
+DB_ORI_ToCampAfterDialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, _ID, "Run");
+
+PROC
+PROC_ORI_SendToCampAfterDialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, _, _, _)
+THEN
+SetCanJoinCombat(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 0);
+
+IF
+EntityEvent(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "ORI_ToCamp")
+THEN
+SetCanJoinCombat(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 1);
+
+IF
+EntityEvent((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,"ORI_ToCamp")
+THEN
+PROC_ORI_SetupCamp((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 1);
+
+PROC
+PROC_GLO_PartyMembers_AddHook((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(CHARACTER)_Player)
+AND
+QRY_OnlyOnce("RecruitedFirstTime_Vel")
+THEN
+PROC_ORI_SetupCamp((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 0);
+SetFlag((FLAG)ORI_MGNTN_Jason_HasMet_fa2287ae-0e8b-4984-a211-757735ecb115, NULL_00000000-0000-0000-0000-000000000000, 0);
 
 //REGION Queries
 

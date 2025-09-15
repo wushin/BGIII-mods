@@ -9,6 +9,7 @@
           <attribute id="Name" type="LSString" value="ELI_CAMP_Gaurd_Platform" />
           <attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
           <attribute id="Type" type="FixedString" value="character" />
+          <attribute id="Faction" type="guid" value="a7c0758b-c5f2-420f-97ad-ae881467f405" />
           <attribute id="TemplateName" type="FixedString" value="8a227c6f-96d0-48fe-9937-a51a5160110b" />
           <attribute id="Flag" type="uint8" value="1" />
           <attribute id="DisplayName" type="TranslatedString" handle="hbp0z8ywwzu6w36ro8uz7n3v05qoggflulo2w" version="1" />

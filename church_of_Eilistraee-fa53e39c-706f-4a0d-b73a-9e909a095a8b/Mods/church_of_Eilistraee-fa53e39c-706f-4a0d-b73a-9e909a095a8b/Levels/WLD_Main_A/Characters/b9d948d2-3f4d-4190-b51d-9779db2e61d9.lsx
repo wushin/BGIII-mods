@@ -9,6 +9,7 @@
           <attribute id="Name" type="LSString" value="ELI_CAMP_Gaurd_Ladder" />
           <attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
           <attribute id="Type" type="FixedString" value="character" />
+          <attribute id="Faction" type="guid" value="a7c0758b-c5f2-420f-97ad-ae881467f405" />
           <attribute id="TemplateName" type="FixedString" value="257af911-8a74-4b96-aa9c-43353a10d471" />
           <attribute id="Flag" type="uint8" value="1" />
           <attribute id="DisplayName" type="TranslatedString" handle="h8h5od9xe64cc7bb2d542e2l2w6t7z2vtnyo1" version="1" />

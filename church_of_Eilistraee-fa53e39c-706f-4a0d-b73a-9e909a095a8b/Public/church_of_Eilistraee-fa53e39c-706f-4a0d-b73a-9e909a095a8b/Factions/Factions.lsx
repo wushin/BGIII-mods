@@ -15,6 +15,11 @@
                     <attribute id="UUID" type="guid" value="c91013d9-9539-43e0-813a-39c135efad56"/>
                 </node>
                 <node id="Faction">
+                    <attribute id="Faction" type="FixedString" value="CompanionVel"/>
+                    <attribute id="ParentGuid" type="guid" value="a1542c81-6895-929e-4522-10ce218bb360"/>
+                    <attribute id="UUID" type="guid" value="53ed546e-a717-456f-b511-71ce74b3b926"/>
+                </node>
+                <node id="Faction">
                     <attribute id="Faction" type="FixedString" value="Origin_Vel_Goblins"/>
                     <attribute id="ParentGuid" type="guid" value="00000000-0000-0000-0000-000000000000"/>
                     <attribute id="UUID" type="guid" value="b9df037b-40c9-4fe5-b9fe-b5ceff63dd61"/>

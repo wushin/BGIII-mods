@@ -9,6 +9,7 @@
           <attribute id="Name" type="LSString" value="ELI_CAMP_Gaurd_Outlook" />
           <attribute id="Stats" type="FixedString" value="Elf_Drow_Cleric" />
           <attribute id="Equipment" type="FixedString" value="EQP_Eli_Camp_Guard_Outlook" />
+          <attribute id="Faction" type="guid" value="a7c0758b-c5f2-420f-97ad-ae881467f405" />
           <attribute id="LevelName" type="FixedString" value="WLD_Main_A" />
           <attribute id="Type" type="FixedString" value="character" />
           <attribute id="TemplateName" type="FixedString" value="ffd78fce-ce69-4ded-9d16-e4066c30cce9" />

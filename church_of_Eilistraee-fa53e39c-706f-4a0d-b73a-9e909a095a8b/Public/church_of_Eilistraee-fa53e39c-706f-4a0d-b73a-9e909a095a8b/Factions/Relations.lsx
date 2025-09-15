@@ -11,6 +11,26 @@
                             <attribute id="Target" type="guid" value="b9df037b-40c9-4fe5-b9fe-b5ceff63dd61"/>
                             <attribute id="Value" type="int32" value="0"/>
                         </node>
+                        <node id="Relation">
+                            <attribute id="Source" type="guid" value="6f5d49b5-1dc8-6226-e625-f0267cdbbbff"/>
+                            <attribute id="Target" type="guid" value="a7c0758b-c5f2-420f-97ad-ae881467f405"/>
+                            <attribute id="Value" type="int32" value="0"/>
+                        </node>
+                        <node id="Relation">
+                            <attribute id="Source" type="guid" value="a7c0758b-c5f2-420f-97ad-ae881467f405"/>
+                            <attribute id="Target" type="guid" value="6f5d49b5-1dc8-6226-e625-f0267cdbbbff"/>
+                            <attribute id="Value" type="int32" value="0"/>
+                        </node>
+                        <node id="Relation">
+                            <attribute id="Source" type="guid" value="ca9de2d9-9022-9215-6d9b-676d916dcb5a"/>
+                            <attribute id="Target" type="guid" value="a7c0758b-c5f2-420f-97ad-ae881467f405"/>
+                            <attribute id="Value" type="int32" value="100"/>
+                        </node>
+                        <node id="Relation">
+                            <attribute id="Source" type="guid" value="a7c0758b-c5f2-420f-97ad-ae881467f405"/>
+                            <attribute id="Target" type="guid" value="ca9de2d9-9022-9215-6d9b-676d916dcb5a"/>
+                            <attribute id="Value" type="int32" value="100"/>
+                        </node>
                     </children>
                 </node>
             </children>
