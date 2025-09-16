@@ -35,7 +35,7 @@
                         </children>
                         </node>
                         <node id="Transform">
-                            <attribute id="Position" type="fvec3" value="209.665 26.542 401.643" />
+                            <attribute id="Position" type="fvec3" value="193.299 21.625 375.284" />
                             <attribute id="RotationQuat" type="fvec4" value="0 0 0 1" />
                             <attribute id="Scale" type="float" value="1" />
                         </node>
