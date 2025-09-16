@@ -46,22 +46,22 @@ DB_PermaDefeatedFlag(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FLAG)GLO
 //END_REGION
 
 //REGION Camp Setup
-DB_Camp_PersonalCornerLevelTemplate("WLDMAIN",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_6fe171d3-5b5b-4831-8161-16906d3ea69e); //Good
+DB_Camp_PersonalCornerLevelTemplate("WLDMAIN",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_6fe171d3-5b5b-4831-8161-16906d3ea69e);
 DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDMAIN", (TRIGGER)S_CAMP_Vel_POS_66f0e3d4-e1f7-4507-b012-a47ba6bc87bf);
 
-DB_Camp_PersonalCornerLevelTemplate("WLDCAVSND",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_20898a48-8681-453d-95d8-53f054ce7653); //Good
+DB_Camp_PersonalCornerLevelTemplate("WLDCAVSND",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_20898a48-8681-453d-95d8-53f054ce7653);
 DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDCAVSND", (TRIGGER)S_CAMP_Vel_POS_246cde6b-880a-463d-908e-9ce97835d467);
 
-DB_Camp_PersonalCornerLevelTemplate("WLDCAVGRN",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_23098eb2-1fe2-43bd-af6b-fa319f1ca043); //Cleanup
+DB_Camp_PersonalCornerLevelTemplate("WLDCAVGRN",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_23098eb2-1fe2-43bd-af6b-fa319f1ca043);
 DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDCAVGRN", (TRIGGER)S_CAMP_Vel_POS_a5cd8caa-7153-45d7-acc2-a70fa298743a);
 
-DB_Camp_PersonalCornerLevelTemplate("WLDBAS",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_c8692cce-a11a-429c-9edf-9e807091160c); //Cleanup
+DB_Camp_PersonalCornerLevelTemplate("WLDBAS",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_c8692cce-a11a-429c-9edf-9e807091160c);
 DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDBAS", (TRIGGER)S_CAMP_Vel_POS_3097953a-a77d-4aa7-b3ec-6367af4c7ce6);
 
-DB_Camp_PersonalCornerLevelTemplate("WLDDUNABB",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_3fee5631-322b-40f6-a639-1dbf45309913); //Cleanup
+DB_Camp_PersonalCornerLevelTemplate("WLDDUNABB",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_3fee5631-322b-40f6-a639-1dbf45309913);
 DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDDUNABB", (TRIGGER)S_CAMP_Vel_POS_cb9122ee-8435-4463-8c05-6be4e7123375);
 
-DB_Camp_PersonalCornerLevelTemplate("WLDUND",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_9cf5227a-939b-4c08-9217-9e7ea2a0dee8); //Lower
+DB_Camp_PersonalCornerLevelTemplate("WLDUND",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_9cf5227a-939b-4c08-9217-9e7ea2a0dee8);
 DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, "WLDUND", (TRIGGER)S_CAMP_Vel_POS_ad7f13b7-d570-4b08-99e2-0f717f6ec49f);
 
 DB_Camp_PersonalCornerLevelTemplate("WLDDUNSHA",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(LEVELTEMPLATE)LT_CMP_Vel_b85ebe52-5f52-4550-ac0e-5156ef418247);
