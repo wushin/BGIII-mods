@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="16" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+  <region id="Flags">
+    <node id="Flags">
+      <attribute id="Description" type="LSString" value="ORI_Inclusion_Veldescription" />
+      <attribute id="Name" type="FixedString" value="ORI_Inclusion_Vel" />
+      <attribute id="UUID" type="guid" value="835bc914-a1a6-48a6-a64d-0a49a8d63ca2" />
+      <attribute id="Usage" type="uint8" value="4" />
+    </node>
+  </region>
+</save>

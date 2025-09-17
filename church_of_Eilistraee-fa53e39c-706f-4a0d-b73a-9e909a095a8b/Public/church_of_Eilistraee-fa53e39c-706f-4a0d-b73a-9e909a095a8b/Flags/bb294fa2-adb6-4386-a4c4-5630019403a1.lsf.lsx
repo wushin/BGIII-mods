@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="320" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+  <region id="Flags">
+    <node id="Flags">
+      <attribute id="UUID" type="guid" value="bb294fa2-adb6-4386-a4c4-5630019403a1" />
+      <attribute id="Name" type="FixedString" value="CAMP_Jergal_State_CanResurrectVel" />
+      <attribute id="Description" type="LSString" value="Vel is not part of the active party but can be resurrected by Jergal." />
+      <attribute id="Usage" type="uint8" value="5" />
+    </node>
+  </region>
+</save>

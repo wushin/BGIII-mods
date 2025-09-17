@@ -3,7 +3,7 @@ SubGoalCombiner SGC_AND
 INITSECTION
 //REGION Player Init Block
 
-DB_GLO_Jergal_CompanionResurrectionFlags((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, (FLAG)CAMP_Jergal_State_CanResurrectJasonMGNTN_6d81760c-9042-4560-bc6a-110d770036be, (FLAG)CAMP_Jergal_State_WillResurrectJasonMGNTN_74f66dc4-5363-4e21-8464-aabe8baaeb95);
+DB_GLO_Jergal_CompanionResurrectionFlags((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, (FLAG)CAMP_Jergal_State_CanResurrectVel_bb294fa2-adb6-4386-a4c4-5630019403a1, (FLAG)CAMP_Jergal_State_WillResurrectVel_2f74bb95-da47-44a4-ac6e-7b67138e3293);
 
 DB_PredefinedOriginOptions("Vel",(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
 
@@ -32,13 +32,13 @@ DB_OriginLeavingDialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,Laezel_
 
 // DB_OriginMayLeaveDialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,Laezel_InParty2_2e9a0be7-2255-463e-83e3-b76904d6dff2); this seems to only be for dialogue where the character might leave the party permanently, so, should only have this when i have dialogue where he can do that (outside of the regular leaving dialogue)
 
-DB_Inclusion_Object((GUIDSTRING)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FLAG)ORI_Inclusion_Laezel_49c3c048-b5f7-466c-a996-d87cef44dde9,(FLAG)ORI_Inclusion_End_Laezel_dcf82fba-01b2-44f1-acf6-64254ad40007);
+DB_Inclusion_Object((GUIDSTRING)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FLAG)ORI_Inclusion_Vel_835bc914-a1a6-48a6-a64d-0a49a8d63ca2,(FLAG)ORI_Inclusion_End_Vel_2ea2af81-9f66-44d1-a49e-a162d06e660a);
 
-DB_CompanionCanPartner((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FLAG)ORI_State_DatingVel_dd67e08b-475d-460a-8788-d17c7eebeba7, (FLAG)ORI_State_PartneredWithVel_b94243f6-5c86-45bc-8bca-2747cca2fdb1, (FLAG)ORI_State_WasPartneredWithVel_c142d1b5-7769-46b3-8349-325ef14f6ce7, (FLAG)ORI_State_HandledBreakupWithVel_01115e08-f64d-4109-8cbd-fb2d60204cf7, ORI_State_ChosePartnerOverVel_d1fd4941-653a-45d2-8489-8e8d5eddfc43, "datelaezel");
+DB_CompanionCanPartner((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FLAG)ORI_State_DatingVel_dd67e08b-475d-460a-8788-d17c7eebeba7, (FLAG)ORI_State_PartneredWithVel_b94243f6-5c86-45bc-8bca-2747cca2fdb1, (FLAG)ORI_State_WasPartneredWithVel_c142d1b5-7769-46b3-8349-325ef14f6ce7, (FLAG)ORI_State_HandledBreakupWithVel_01115e08-f64d-4109-8cbd-fb2d60204cf7, ORI_State_ChosePartnerOverVel_d1fd4941-653a-45d2-8489-8e8d5eddfc43, "datevel");
 DB_CompanionIsDating((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, (FLAG)ORI_State_VelIsDating_fd3c7004-3cb5-4b7a-87d4-bd19b6521e60);
 //END_REGION
  
-//REGION Laezel Specific
+//REGION Vel Specific
 DB_PermaDefeatedFlag(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FLAG)GLO_Vel_State_PermaDefeated_9d0d9850-2a7e-48c0-91bf-ed0af7f61a33);
 //END_REGION
 
@@ -68,11 +68,11 @@ DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb
 
 //PROC_ORI_COM_Vel_InitJournal();
 //REGION Leave Party Journal Entries
-//DB_QuestDef_State_CompanionLeft((TAG)REALLY_JASON_MGNTN_66c8b49a-a649-46d1-9aca-099107df7c09, "ORI_COM_JasonMGNTN", "CompanionHostile");
-//DB_QuestDef_State_CompanionLeft((TAG)REALLY_JASON_MGNTN_66c8b49a-a649-46d1-9aca-099107df7c09, "ORI_COM_JasonMGNTN", "CompanionLowRelation");
+//DB_QuestDef_State_CompanionLeft((TAG)REALLY_VEL_8ca3a377-d9fe-434c-ad38-8a8db3b67970, "ORI_COM_Vel", "CompanionHostile");
+//DB_QuestDef_State_CompanionLeft((TAG)REALLY_VEL_8ca3a377-d9fe-434c-ad38-8a8db3b67970, "ORI_COM_Vel", "CompanionLowRelation");
 //END_REGION
-//DB_QuestDef_State((FLAG)ORI_MGNTN_Jason_State_WasRecruited_c297ed94-0bde-4e7f-98e0-5054f783a304, "ORI_COM_JasonMGNTN", "RecruitedJasonMGNTN");
-//DB_QuestDef_LevelLoaded("ORI_COM_JasonMGNTN","ReachedEND","END_Main");
+//DB_QuestDef_State((FLAG)ORI_Vel_State_WasRecruited_c9c6ff0b-229f-4920-ac72-6e1a9c93868f, "ORI_COM_Vel", "RecruitedVel");
+//DB_QuestDef_LevelLoaded("ORI_COM_Vel","ReachedEND","END_Main");
 
 KBSECTION
 
@@ -105,7 +105,7 @@ AND
 QRY_OnlyOnce("RecruitedFirstTime_Vel")
 THEN
 PROC_ORI_SetupCamp((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 0);
-SetFlag((FLAG)ORI_MGNTN_Jason_HasMet_fa2287ae-0e8b-4984-a211-757735ecb115, NULL_00000000-0000-0000-0000-000000000000, 0);
+SetFlag((FLAG)ORI_Vel_HasMet_b7067fd2-ce64-43ea-8900-7ebeb2e7c2b9, NULL_00000000-0000-0000-0000-000000000000, 0);
 
 //REGION Queries
 

@@ -136,6 +136,15 @@
                                                 </node>
                                             </children>
                                         </node>
+                                        <node id="flaggroup" key="type">
+                                            <attribute id="type" type="FixedString" value="Global" />
+                                            <children>
+                                                <node id="flag">
+                                                    <attribute id="UUID" type="FixedString" value="b7067fd2-ce64-43ea-8900-7ebeb2e7c2b9" />
+                                                    <attribute id="value" type="bool" value="true" />
+                                                </node>
+                                            </children>
+                                        </node>
                                     </children>
                                 </node>
                                 <node id="checkflags" />
