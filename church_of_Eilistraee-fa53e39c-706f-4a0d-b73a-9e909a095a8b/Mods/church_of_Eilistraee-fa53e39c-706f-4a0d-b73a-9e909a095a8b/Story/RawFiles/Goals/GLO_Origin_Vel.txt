@@ -34,11 +34,6 @@ DB_OriginLeavingDialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,Laezel_
 
 DB_Inclusion_Object((GUIDSTRING)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FLAG)ORI_Inclusion_Laezel_49c3c048-b5f7-466c-a996-d87cef44dde9,(FLAG)ORI_Inclusion_End_Laezel_dcf82fba-01b2-44f1-acf6-64254ad40007);
 
-PROC_DebugBook_SetupPartyMemberEntries((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,"Vel",1,1);
-
-DB_Debug_CharacterAddFlags((FLAG)Debug_AddGith_39ecbda9-cb44-becf-57b9-c3b631a5517b, (CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FLAG)Debug_GithIsPlayer_35795c8f-0daa-5972-e4a0-85f35af25026);
-DB_Debug_CharacterRemoveHideFlags((FLAG)Debug_RemoveHideGith_7953fece-dcf5-658b-38b5-58d5d2900824, (CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
-
 DB_CompanionCanPartner((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(FLAG)ORI_State_DatingVel_dd67e08b-475d-460a-8788-d17c7eebeba7, (FLAG)ORI_State_PartneredWithVel_b94243f6-5c86-45bc-8bca-2747cca2fdb1, (FLAG)ORI_State_WasPartneredWithVel_c142d1b5-7769-46b3-8349-325ef14f6ce7, (FLAG)ORI_State_HandledBreakupWithVel_01115e08-f64d-4109-8cbd-fb2d60204cf7, ORI_State_ChosePartnerOverVel_d1fd4941-653a-45d2-8489-8e8d5eddfc43, "datelaezel");
 DB_CompanionIsDating((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, (FLAG)ORI_State_VelIsDating_fd3c7004-3cb5-4b7a-87d4-bd19b6521e60);
 //END_REGION
@@ -80,65 +75,6 @@ DB_ORI_OriginCampData((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb
 //DB_QuestDef_LevelLoaded("ORI_COM_JasonMGNTN","ReachedEND","END_Main");
 
 KBSECTION
-
-//Debug
-IF
-TextEvent("detachVel")
-THEN
-DetachFromPartyGroup(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
-
-IF
-TextEvent("Vel2camp")
-AND
-GetHostCharacter(_Player)
-THEN
-SetFlag(ORI_VelRecruitment_Event_InvitedToCamp_a075f931-34f8-4fcb-8d79-dddbe9ac153e, NULL_00000000-0000-0000-0000-000000000000, 0);
-SetOnStage(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 1);
-PROC_CheckFirstTimeRecruited((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
-RegisterAsCompanion(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(CHARACTER)_Player);
-PROC_ORI_SetupCamp((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 1);
-
-IF
-EntityEvent((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,"DebugTeleportedToCamp")
-AND
-GetHostCharacter(_Player)
-THEN
-SetFlag(ORI_VelRecruitment_Event_InvitedToCamp_a075f931-34f8-4fcb-8d79-dddbe9ac153e, NULL_00000000-0000-0000-0000-000000000000, 0);
-PROC_CheckFirstTimeRecruited((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f);
-RegisterAsCompanion(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(CHARACTER)_Player);
-PROC_ORI_SetupCamp((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, 1);
-
-PROC
-PROC_DebugBook_Event("VelRecruitAvatar",(CHARACTER)_Player)
-THEN
-//Needed for queuing Avatar/Companion specific nights from the Debug Book if the user has never been to camp with Laezel before
-//TODO: Investigate if the AVATAR and COMPANION flags can be set on recruitment, instead of on going to camp for the first time
-SetFlag((FLAG)VELAVATAR_8cd01ade-131d-4b2e-92d3-941714bac835);
-ClearFlag((FLAG)VELCOMPANION_362168b0-019a-474b-a202-25f4dcc5871a);
-
-PROC
-PROC_DebugBook_Event("VelRecruitCompanion",(CHARACTER)_Player)
-THEN
-//Needed for queuing Avatar/Companion specific nights from the Debug Book if the user has never been to camp with Laezel before
-//TODO: Investigate if the AVATAR and COMPANION flags can be set on recruitment, instead of on going to camp for the first time
-SetFlag((FLAG)VELCOMPANION_362168b0-019a-474b-a202-25f4dcc5871a);
-ClearFlag((FLAG)VELAVATAR_8cd01ade-131d-4b2e-92d3-941714bac835);
-
-//REGION Laezel Events
-
-//REGION Conditional Entries
-PROC
-PROC_DebugBook_AddConditionalEntries((CHARACTER)_Player)
-AND
-GetFlag((FLAG)GLO_Origin_PartOfTheTeam_Vel_d9621904-c5a6-4e06-a060-f96b56e977aa, NULL_00000000-0000-0000-0000-000000000000, 0)
-THEN
-DB_DebugBookEntry_Temp("Vel", "Recruit", "Play recruitment situation at the spike trap", "Teleport to the goblins at the spikecage", "Vel_Recruit_RecruitmentTrap", 1);
-
-//Act1
-PROC
-PROC_DebugBook_Event("Vel_Recruit_RecruitmentTrap", (CHARACTER)_Player)
-THEN
-PROC_TeleportPartiesTo((TRIGGER)S_Debug_Teleport_Vel_RecruitmentTrap_075ba55e-9328-44b8-8cb0-f487b3e1acc8, "");
 
 //Invited to camp
 IF
