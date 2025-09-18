@@ -15,8 +15,8 @@
 					<attribute id="isBehaviour" type="bool" value="False" />
 					<attribute id="isSubbedDialog" type="bool" value="False" />
 					<attribute id="isWorld" type="bool" value="False" />
-          <attribute id="Name" type="LSString" value="Vel_Main" />
-          <attribute id="SourceFile" type="LSString" value="Mods/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Story/Dialogs/Camp/NPCs/Vel_Main.lsj" />
+          <attribute id="Name" type="LSString" value="Vel_Recruit" />
+          <attribute id="SourceFile" type="LSString" value="Mods/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Story/Dialogs/Camp/NPCs/Vel_Recruit.lsj" />
           <attribute id="_OriginalFileVersion_" type="int64" value="144115188075855930" />
           <children>
             <node id="SpeakerSlotsWithLines">

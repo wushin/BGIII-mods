@@ -24,7 +24,7 @@ DB_OriginPartOfTheTeamFlag((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7
 
 DB_OriginKickFromPartyFlags((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, (FLAG)ORI_Vel_Event_KickCompanion_037679ab-5a93-439b-b22d-a4859d065680, (FLAG)ORI_Vel_State_CanBeKicked_08992733-c39f-451e-b97b-a4bab9bb0228);
 
-DB_OriginRecruitmentDialog((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(DIALOGRESOURCE)Vel_Main_49fbe3e3-5535-4458-be49-d5490576cdea);
+DB_OriginRecruitmentDialog((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(DIALOGRESOURCE)Vel_Recruit_49fbe3e3-5535-4458-be49-d5490576cdea);
 DB_OriginInPartyDialog((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, TUT_Start_Laezel_c62d7e26-beb5-0afe-becd-68a25c7f4314);
 DB_OriginWarning1Dialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,Vel_Warning1_13f527fb-5f03-4b39-b2db-598f262aa099);
 DB_OriginWarning2Dialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,Vel_Warning2_91fe85e6-f3f7-4090-b3e0-4f02046f0899);

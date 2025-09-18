@@ -67,7 +67,7 @@ DB_NOOP(1);
 IF
 FlagSet((FLAG)DEN_RaidingParty_Quest_VelRaidOver_0e2cdcb0-91f9-496b-8bd5-349910da7275,_,_)
 THEN
-DB_Dialogs(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, Vel_Main_49fbe3e3-5535-4458-be49-d5490576cdea);
+DB_Dialogs(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, Vel_Recruit_49fbe3e3-5535-4458-be49-d5490576cdea);
 //END_REGION
 
 //REGION Scene Manager and edge case fallbacks
@@ -314,7 +314,7 @@ PROC_DEN_Vel_SetupAlignmentsAfterGoblinFight();
 PROC
 PROC_DEN_Vel_SetupAlignmentsAfterGoblinFight()
 THEN
-PROC_GLO_Origins_SetRecruitmentDialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, Vel_Main_49fbe3e3-5535-4458-be49-d5490576cdea);
+PROC_GLO_Origins_SetRecruitmentDialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, Vel_Recruit_49fbe3e3-5535-4458-be49-d5490576cdea);
 PROC_Start_Next();
 
 PROC
@@ -324,7 +324,7 @@ GetClosestPlayer(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, _Player, _Di
 AND
 _Distance < 30.0 
 THEN
-PROC_CharacterMoveToAndTalk(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, _Player, Vel_Main_49fbe3e3-5535-4458-be49-d5490576cdea, "Vel_Thanks", "Walk", 20.0);
+PROC_CharacterMoveToAndTalk(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, _Player, Vel_Recruit_49fbe3e3-5535-4458-be49-d5490576cdea, "Vel_Thanks", "Walk", 20.0);
 
 PROC
 PROC_Start_Next()
@@ -341,7 +341,7 @@ THEN
 CharacterMoveTo(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, S_Eli_Ori_VelPos_6f05b45b-7174-4670-96e0-afe1b794aa5c, "Walk", "");
 
 IF
-DialogEnded(DIALOGRESOURCEGUID_Vel_Main_49fbe3e3-5535-4458-be49-d5490576cdea, _)
+DialogEnded(DIALOGRESOURCEGUID_Vel_Recruit_49fbe3e3-5535-4458-be49-d5490576cdea, _)
 AND
 DB_GlobalFlag((FLAG)Vel_Eli_Camp_3f247c16-6ae1-4fc3-bd80-44b6fb723edb)
 THEN
@@ -350,7 +350,7 @@ TeleportTo(S_Vel_Eli_Camp_3ccd1b95-5195-4e2f-b66f-3554639c6365,S_Player_Vel_f83f
 SetOnStage(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,1);
 
 IF
-DialogEnded(DIALOGRESOURCEGUID_Vel_Main_49fbe3e3-5535-4458-be49-d5490576cdea, _)
+DialogEnded(DIALOGRESOURCEGUID_Vel_Recruit_49fbe3e3-5535-4458-be49-d5490576cdea, _)
 AND
 DB_GlobalFlag((FLAG)Vel_Druid_Den_38c30936-128f-4e83-8b9e-1c1e6bcf5df3)
 THEN
