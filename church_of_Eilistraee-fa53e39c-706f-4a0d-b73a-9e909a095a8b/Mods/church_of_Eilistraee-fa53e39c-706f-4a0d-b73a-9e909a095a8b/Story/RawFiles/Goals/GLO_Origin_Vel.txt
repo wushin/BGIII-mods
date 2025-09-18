@@ -28,7 +28,7 @@ DB_OriginRecruitmentDialog((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7
 DB_OriginInPartyDialog((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, TUT_Start_Laezel_c62d7e26-beb5-0afe-becd-68a25c7f4314);
 DB_OriginWarning1Dialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,Vel_Warning1_13f527fb-5f03-4b39-b2db-598f262aa099);
 DB_OriginWarning2Dialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,Vel_Warning2_91fe85e6-f3f7-4090-b3e0-4f02046f0899);
-DB_OriginLeavingDialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,Laezel_Leaving_70e20de2-7314-a9ae-e5a2-be50225f97b1);
+DB_OriginLeavingDialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,Vel_Leaving_9f6a5426-81ce-4fe4-8a6c-7b7739e40dcf);
 
 // DB_OriginMayLeaveDialog(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,Laezel_InParty2_2e9a0be7-2255-463e-83e3-b76904d6dff2); this seems to only be for dialogue where the character might leave the party permanently, so, should only have this when i have dialogue where he can do that (outside of the regular leaving dialogue)
 
