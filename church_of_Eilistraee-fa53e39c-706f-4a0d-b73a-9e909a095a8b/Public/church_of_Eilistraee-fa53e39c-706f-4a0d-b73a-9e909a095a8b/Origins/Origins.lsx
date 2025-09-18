@@ -12,7 +12,7 @@
                     <attribute id="BodyType" type="uint8" value="1"/>
                     <attribute id="ClassUUID" type="guid" value="71e39703-444b-4ab6-955f-f2d6f346f56b"/>
                     <attribute id="Description" type="TranslatedString" handle="hw7m2p5m0m4f2zyp0a1a22pq8xtqtjgq3c8w4" version="1"/>
-                    <attribute id="DisplayName" type="TranslatedString" handle="h59mxt1in12mdf363i3xhj7btioyw1eq9gptt" version="1"/>
+                    <attribute id="DisplayName" type="TranslatedString" handle="hogkb19gn24el5fdv0n8es32pz3fpxparqwa0" version="1"/>
                     <attribute id="GlobalTemplate" type="guid" value="f83fe475-863b-4325-acf0-106d7bbccb5f"/>
                     <attribute id="LockBody" type="bool" value="true"/>
                     <attribute id="LockClass" type="bool" value="true"/>

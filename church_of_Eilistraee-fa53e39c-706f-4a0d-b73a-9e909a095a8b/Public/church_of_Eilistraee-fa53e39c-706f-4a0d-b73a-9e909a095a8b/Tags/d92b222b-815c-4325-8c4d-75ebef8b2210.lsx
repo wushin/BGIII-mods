@@ -5,7 +5,7 @@
 		<node id="Tags">
 			<attribute id="Description" type="LSString" value="| Vel, A Strong Drow Elf |" />
 			<attribute id="DisplayDescription" type="TranslatedString" handle="hw7m2p5m0m4f2zyp0a1a22pq8xtqtjgq3c8w4" version="1" />
-			<attribute id="DisplayName" type="TranslatedString" handle="h59mxt1in12mdf363i3xhj7btioyw1eq9gptt" version="1" />
+			<attribute id="DisplayName" type="TranslatedString" handle="hogkb19gn24el5fdv0n8es32pz3fpxparqwa0" version="1" />
 			<attribute id="Icon" type="FixedString" value="" />
 			<attribute id="Name" type="FixedString" value="VEL" />
 			<attribute id="UUID" type="guid" value="d92b222b-815c-4325-8c4d-75ebef8b2210" />

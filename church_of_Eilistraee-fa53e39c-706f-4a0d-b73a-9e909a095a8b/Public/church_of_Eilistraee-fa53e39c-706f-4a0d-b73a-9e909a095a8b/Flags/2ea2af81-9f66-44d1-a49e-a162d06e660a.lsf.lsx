@@ -4,7 +4,7 @@
   <region id="Flags">
     <node id="Flags">
       <attribute id="Description" type="LSString" value="ORI_Inclusion_End_Veldescription" />
-      <attribute id="Name" type="FixedString" value="ORI_Inclusion_End_Vel />
+      <attribute id="Name" type="FixedString" value="ORI_Inclusion_End_Vel" />
       <attribute id="UUID" type="guid" value="2ea2af81-9f66-44d1-a49e-a162d06e660a" />
       <attribute id="Usage" type="uint8" value="4" />
     </node>
