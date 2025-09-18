@@ -127,6 +127,16 @@ NOT DB_Avatars(S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f)
 THEN
 DB_NOOP(1);
 
+IF
+TemplateUseFinished((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f,(ITEMROOT)UNI_MagicMirror_72ae7a39-d0ce-4cb6-8d74-ebdf7cdccf91,_Mirror,1)
+AND
+IsTagged((CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f, FULL_CEREMORPH_3797bfc4-8004-4a19-9578-61ce0714cc0b, 0)
+AND
+QRY_StartDialog_Fixed((DIALOGRESOURCE)GLO_MagicMirror_f9af5a3b-fb57-b69d-7526-9abdaf50db78,_Mirror,(CHARACTER)S_Player_Vel_f83fe475-863b-4325-acf0-106d7bbccb5f)
+THEN
+DB_NOOP(1);
+
+
 //END_REGION
 
 EXITSECTION

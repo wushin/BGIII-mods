@@ -5,7 +5,7 @@
         <node id="root">
             <children>
                 <node id="Origin">
-                    <attribute id="AppearanceLocked" type="bool" value="true"/>
+                    <attribute id="AppearanceLocked" type="bool" value="false"/>
                     <attribute id="AvailableInCharacterCreation" type="uint8" value="2"/>
                     <attribute id="BackgroundUUID" type="guid" value="00fe0145-2c18-47dd-b969-6223e8c12f8f"/>
                     <attribute id="BodyShape" type="uint8" value="1"/>
