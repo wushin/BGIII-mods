@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="TimelineBank">
+    <node id="TimelineBank">
+      <children>
+        <node id="Resource">
+          <attribute id="BodyPartMocap" type="int32" value="1" />
+          <attribute id="DialogResourceId" type="guid" value="91fe85e6-f3f7-4090-b3e0-4f02046f0899" />
+          <attribute id="EditorSourceFile" type="LSString" value="Editor/Mods/Gustav/Timeline/Generated/Vel_Warning2.tml" />
+          <attribute id="EditorTimelineType" type="int32" value="0" />
+          <attribute id="FadeOutDuration" type="float" value="0" />
+          <attribute id="FadeOutOnEnd" type="bool" value="False" />
+          <attribute id="ID" type="FixedString" value="d32a3a98-167e-4044-9fb3-f8c516fc2d6a" />
+          <attribute id="IsGenerated" type="bool" value="True" />
+          <attribute id="Name" type="LSString" value="Vel_Warning2" />
+          <attribute id="SourceFile" type="LSString" value="Public/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Timeline/Generated/Vel_Warning2.lsf" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144818875517633112" />
+          <children>
+            <node id="DependencyCache">
+              <attribute id="Object" type="guid" value="91fe85e6-f3f7-4090-b3e0-4f02046f0899" />
+            </node>
+            <node id="DependencyCache">
+              <attribute id="Object" type="guid" value="58a69333-40bf-8358-1d17-fff240d7fb12" />
+            </node>
+            <node id="DependencyCache">
+              <attribute id="Object" type="guid" value="e2badbf0-159a-4ef5-9e73-7bbeb3d1015a" />
+            </node>
+            <node id="DependencyCache">
+              <attribute id="Object" type="guid" value="0b7ea449-763f-49bb-b802-63b2262fb908" />
+            </node>
+            <node id="DependencyCache">
+              <attribute id="Object" type="guid" value="71a17426-fc51-4944-aea3-0dcd39019c4f" />
+            </node>
+            <node id="DependencyCache">
+              <attribute id="Object" type="guid" value="bb1dba89-8cb8-4207-b9e7-c290b08853ed" />
+            </node>
+            <node id="DependencyCache">
+              <attribute id="Object" type="guid" value="150a5fad-8429-4aa5-ac43-e7f5a4f504f7" />
+            </node>
+            <node id="DependencyCache">
+              <attribute id="Object" type="guid" value="cdf239df-d336-408b-8bcd-648037a109de" />
+            </node>
+            <node id="DependencyCache">
+              <attribute id="Object" type="guid" value="19dc6cab-aa38-4f09-b9cf-546e1c0ecb8a" />
+            </node>
+            <node id="DependencyCache">
+              <attribute id="Object" type="guid" value="0be0c8c4-8e49-4f03-839b-6a75878a0896" />
+            </node>
+            <node id="DependencyCache">
+              <attribute id="Object" type="guid" value="6ac26a7c-27e7-4577-9ab6-fee340420745" />
+            </node>
+            <node id="DependencyCache">
+              <attribute id="Object" type="guid" value="acaf9225-b284-4444-beb9-5bba0975c690" />
+            </node>
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

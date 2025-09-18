@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save> 
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="DialogBank">
+    <node id="DialogBank">
+      <children>        
+        <node id="Resource">
+          <attribute id="AllowDeadSpeakers" type="bool" value="False" />
+          <attribute id="BlockFTB" type="bool" value="False" />
+          <attribute id="EnableTimeline" type="bool" value="True" />
+          <attribute id="ID" type="FixedString" value="91fe85e6-f3f7-4090-b3e0-4f02046f0899" />
+          <attribute id="IsAllowingJoinCombat" type="bool" value="False" />
+          <attribute id="Name" type="LSString" value="Vel_Warning2" />
+          <attribute id="SourceFile" type="LSString" value="Mods/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Story/Dialogs/Companions/Vel_Warning2.lsj" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115207403209008" />
+          <attribute id="automated" type="bool" value="False" />
+          <attribute id="isBehaviour" type="bool" value="False" />
+          <attribute id="isSubbedDialog" type="bool" value="False" />
+          <attribute id="isWorld" type="bool" value="False" />
+          <children>
+            <node id="SpeakerSlotsWithLines">
+              <attribute id="HasLines" type="bool" value="True" />
+            </node>
+            <node id="SpeakerSlotsWithLines">
+              <attribute id="HasLines" type="bool" value="False" />
+            </node>
+          </children>
+        </node>
+      </children>
+    </node> 
+  </region>   
+</save>        
