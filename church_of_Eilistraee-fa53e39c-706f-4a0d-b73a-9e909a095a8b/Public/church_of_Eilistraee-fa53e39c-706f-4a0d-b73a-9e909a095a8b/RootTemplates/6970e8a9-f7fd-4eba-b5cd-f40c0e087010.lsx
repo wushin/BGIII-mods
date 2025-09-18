@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hafaye5m6syianfu8z917prsf5am3sc4kdwtr" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h857z8n93bqw6pcrotp0qw4uhq5w5g4ub6sdy" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Shoes_Faersel_Magic_Step" />
+          <attribute id="MapKey" type="FixedString" value="6970e8a9-f7fd-4eba-b5cd-f40c0e087010" />
+          <attribute id="Name" type="LSString" value="ARM_Shoes_Faersel_Magic_Step" />
+          <attribute id="Icon" type="FixedString" value="Item_ARM_Shoes_G_Magic" />
+          <attribute id="ParentTemplateId" type="FixedString" value="6c194c79-51c7-4cbd-a5b1-ef0d06b7c559" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="a4c77b5e-bf2f-771a-ba49-a40e3dfa1e8f" />
+          <attribute id="VisualTemplate" type="FixedString" value="7ae2c844-1269-40b3-9b1c-15b74dbe7483" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

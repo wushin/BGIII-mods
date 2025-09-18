@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hheab7plrsxxht9wsdyxb7df23rgitdiaiy8h" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hqxpvwb13cb4rygk62ccwnwmln3dexpkmucs8" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_StuddedLeather_Body_Zhaunzress_Knowledge_Strength" />
+          <attribute id="MapKey" type="FixedString" value="40e75353-7bcf-4585-893f-3aa41cc8dd81" />
+          <attribute id="Name" type="LSString" value="ARM_StuddedLeather_Body_Zhaunzress_Knowledge_Strength" />
+          <attribute id="Icon" type="FixedString" value="Item_ARM_StuddedLeather_Drow_Magic" />
+          <attribute id="ParentTemplateId" type="FixedString" value="3ce4d5d2-3ed0-470e-8cea-bdac81a60583" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="004e659d-8256-376a-2079-decbad9c71ee" />
+          <attribute id="VisualTemplate" type="FixedString" value="5792b6ab-628b-e1cf-4c37-34c3124f5d5e" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

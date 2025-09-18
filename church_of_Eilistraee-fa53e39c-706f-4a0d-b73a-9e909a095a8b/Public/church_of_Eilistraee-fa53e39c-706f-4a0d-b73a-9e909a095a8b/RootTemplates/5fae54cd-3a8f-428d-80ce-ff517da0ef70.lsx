@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h3dwur2hhq0ks6mc7irxpdcz1k3bw7mgrtjd0" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h4ax6szvlpzvlw6myewq6v2ogts83ad8koh1w" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Cloak_Olothdrynn_Shadow_Embrace" />
+          <attribute id="MapKey" type="FixedString" value="5fae54cd-3a8f-428d-80ce-ff517da0ef70" />
+          <attribute id="Name" type="LSString" value="ARM_Cloak_Olothdrynn_Shadow_Embrace" />
+          <attribute id="Icon" type="FixedString" value="Generated_ARM_Cloak_Long_D" />
+          <attribute id="ParentTemplateId" type="FixedString" value="fc49414b-49d6-4f57-ae92-721d9d912d83" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="753392b7-a79e-7c88-ab4f-6e20eb2a6f28" />
+          <attribute id="VisualTemplate" type="FixedString" value="2f747db9-2e62-f095-936a-c018103145db" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

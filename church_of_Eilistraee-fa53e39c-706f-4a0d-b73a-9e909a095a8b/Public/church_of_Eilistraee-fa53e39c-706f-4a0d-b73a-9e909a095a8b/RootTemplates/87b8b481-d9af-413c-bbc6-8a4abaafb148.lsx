@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h2cftqpdlxlr6an105t0jkfdcs7m3mipp37xq" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hifynfeqrj8y1le97kdgmkmsor61v3irimif7" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_StuddedLeather_Body_Ilharilhar_Matrons_Matron" />
+          <attribute id="MapKey" type="FixedString" value="87b8b481-d9af-413c-bbc6-8a4abaafb148" />
+          <attribute id="Name" type="LSString" value="ARM_StuddedLeather_Body_Ilharilhar_Matrons_Matron" />
+          <attribute id="Icon" type="FixedString" value="Item_ARM_StuddedLeather_1" />
+          <attribute id="ParentTemplateId" type="FixedString" value="58d7927f-c6eb-4635-85b6-70265c621b3d" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="004e659d-8256-376a-2079-decbad9c71ee" />
+          <attribute id="VisualTemplate" type="FixedString" value="5d8a3615-2040-d19d-bcf2-b28dc8c7b419" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

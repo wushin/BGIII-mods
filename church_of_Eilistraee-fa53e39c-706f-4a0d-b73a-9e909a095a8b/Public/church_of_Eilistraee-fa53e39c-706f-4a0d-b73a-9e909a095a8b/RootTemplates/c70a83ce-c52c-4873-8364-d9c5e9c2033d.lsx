@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hnxguqadi9nokoavyw2uh99kd5mxhr5i0umym" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h7ltpoff10xwb7fw3fdbgbbo1913062j78q1m" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Cloak_Faervyn_Magic_Veil" />
+          <attribute id="MapKey" type="FixedString" value="c70a83ce-c52c-4873-8364-d9c5e9c2033d" />
+          <attribute id="Name" type="LSString" value="ARM_Cloak_Faervyn_Magic_Veil" />
+          <attribute id="Icon" type="FixedString" value="Generated_ARM_Cloak_Long_C" />
+          <attribute id="ParentTemplateId" type="FixedString" value="a5f5a875-932b-44c4-8b45-88d2ed379787" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="753392b7-a79e-7c88-ab4f-6e20eb2a6f28" />
+          <attribute id="VisualTemplate" type="FixedString" value="2460d287-1640-1f53-bcc8-9998d5197fd8" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

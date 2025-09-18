@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h5vtdihbd2hy8a79nm1o0f95cyn9jb8zuaawb" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hu0bvr2ai04a9nqwwxcucxwfiixwmdpd1h7ui" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Cloak_Aurora_Veil" />
+          <attribute id="MapKey" type="FixedString" value="97b8cf72-5c33-4775-87db-d40ec8014ca0" />
+          <attribute id="Name" type="LSString" value="ARM_Cloak_Aurora_Veil" />
+          <attribute id="Icon" type="FixedString" value="Generated_ARM_Cloak_Long_B" />
+          <attribute id="ParentTemplateId" type="FixedString" value="8ed92d35-159c-493c-a8da-fba455f181e4" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="f3110b5c-f53e-c1f0-72b1-6fdcd3c68a42" />
+          <attribute id="VisualTemplate" type="FixedString" value="e0982a2a-910a-badd-b519-a26b87b66bdf" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

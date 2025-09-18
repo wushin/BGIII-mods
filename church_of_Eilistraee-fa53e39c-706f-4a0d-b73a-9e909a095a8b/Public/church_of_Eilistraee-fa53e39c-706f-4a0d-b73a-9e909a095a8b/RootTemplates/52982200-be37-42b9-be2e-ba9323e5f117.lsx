@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hilei91ec46xtv4he24ma7vu8xasb2tsnpeqk" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h7y48ftbhmgvoekh0w3s7ww7j8ui3gttbrgz4" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Circlet_Radiant_Diadem" />
+          <attribute id="MapKey" type="FixedString" value="52982200-be37-42b9-be2e-ba9323e5f117" />
+          <attribute id="Name" type="LSString" value="ARM_Circlet_Radiant_Diadem" />
+          <attribute id="Icon" type="FixedString" value="Item_ARM_CircletOfBlasting" />
+          <attribute id="ParentTemplateId" type="FixedString" value="3abdbb8a-4701-4397-8fce-7a8dd8a0bb84" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="8542a974-9aa8-8b2b-21c7-395dfd7b96be" />
+          <attribute id="VisualTemplate" type="FixedString" value="21f8ec11-2ecf-73e8-123b-a5da10ebd800" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

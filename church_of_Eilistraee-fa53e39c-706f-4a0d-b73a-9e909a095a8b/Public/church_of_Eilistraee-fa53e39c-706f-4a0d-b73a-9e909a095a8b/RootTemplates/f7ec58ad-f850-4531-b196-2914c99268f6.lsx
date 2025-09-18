@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hr4nuobpna2250hkfyjmfiz3hk8iw5lfw6puc" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hzh4t28a0vu0bx4dfi1bj4u6gvr764vfm4f9a" version="1" />
+          <attribute id="Stats" type="FixedString" value="WPN_Dagger_Whispering_Note" />
+          <attribute id="MapKey" type="FixedString" value="f7ec58ad-f850-4531-b196-2914c99268f6" />
+          <attribute id="Name" type="LSString" value="WPN_Dagger_Whispering_Note" />
+          <attribute id="Icon" type="FixedString" value="Item_WPN_Dagger_Shar" />
+          <attribute id="ParentTemplateId" type="FixedString" value="258ce9f3-3f32-4546-ae6e-196b3e8e91b5" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="76fd694e-35c8-9109-0d8c-78bf8e107c76" />
+          <attribute id="VisualTemplate" type="FixedString" value="cb8ea426-fecc-de0f-ffb2-be1596ae68c0" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hlhbm4bthihwdp39v7nyuunc3wzt43egb7sp8" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h5ttaemjk94fjgz64pnp3b0h0gvk9nworoaxh" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Robe_Body_Lunar_Guard" />
+          <attribute id="MapKey" type="FixedString" value="394ba1de-9eaa-4489-9688-31250ed10e61" />
+          <attribute id="Name" type="LSString" value="ARM_Robe_Body_Lunar_Guard" />
+          <attribute id="Icon" type="FixedString" value="Item_ARM_Cloth_B_2" />
+          <attribute id="ParentTemplateId" type="FixedString" value="11efdb40-8246-4707-b40c-1e57635dfbc1" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="5f57d1d8-256f-66c3-c242-e71fcfd803f1" />
+          <attribute id="VisualTemplate" type="FixedString" value="9f57541a-2db4-8e16-7b3b-621e81dcd6c0" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

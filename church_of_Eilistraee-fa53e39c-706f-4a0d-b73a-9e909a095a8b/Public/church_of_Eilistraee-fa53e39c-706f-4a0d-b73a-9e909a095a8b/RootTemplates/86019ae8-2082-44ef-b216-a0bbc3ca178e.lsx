@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h5jycng08xodfpum4lx16z80ordkpvwbhfn37" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h7ilfjioznn6jftl19blbr0iha7q4ubp4vrab" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Amulet_Ssussunmithrae_Moonlit_Gift" />
+          <attribute id="MapKey" type="FixedString" value="86019ae8-2082-44ef-b216-a0bbc3ca178e" />
+          <attribute id="Name" type="LSString" value="ARM_Amulet_Ssussunmithrae_Moonlit_Gift" />
+          <attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Amulet_Necklace_A_Silver_A_1" />
+          <attribute id="ParentTemplateId" type="FixedString" value="d6b70158-3493-4c76-9f8d-e410e2e36cec" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="b4572f2e-08c0-1ecc-2f60-ff5207f6111d" />
+          <attribute id="VisualTemplate" type="FixedString" value="c8b72a5f-ee93-6689-3cd5-1408f1741d75" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

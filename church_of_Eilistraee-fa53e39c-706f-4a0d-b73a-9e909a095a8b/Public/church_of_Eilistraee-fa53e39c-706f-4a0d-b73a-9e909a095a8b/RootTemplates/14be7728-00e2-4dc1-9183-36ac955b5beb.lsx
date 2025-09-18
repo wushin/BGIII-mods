@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h1okzt2g7ntmpdsith78f4pu7e6qox353jagw" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hlnmy7usdqfy851j2cpbumspq8qbzl08xap7h" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Circlet_Ssussunmorath_Moonlit_Path" />
+          <attribute id="MapKey" type="FixedString" value="14be7728-00e2-4dc1-9183-36ac955b5beb" />
+          <attribute id="Name" type="LSString" value="ARM_Circlet_Ssussunmorath_Moonlit_Path" />
+          <attribute id="Icon" type="FixedString" value="Item_ARM_HeadbandOfIntellect" />
+          <attribute id="ParentTemplateId" type="FixedString" value="8779b30f-dc6f-4264-b7af-9dc0eff51bb0" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="2e1a42e4-0d6a-afd1-adbb-5c978f90ce58" />
+          <attribute id="VisualTemplate" type="FixedString" value="21f8ec11-2ecf-73e8-123b-a5da10ebd800" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

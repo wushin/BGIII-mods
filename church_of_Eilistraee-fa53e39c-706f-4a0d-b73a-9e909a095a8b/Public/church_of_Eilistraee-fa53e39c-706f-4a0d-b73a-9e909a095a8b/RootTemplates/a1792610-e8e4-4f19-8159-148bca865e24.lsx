@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hj3ulnyslahnxj6o7sr0nihs6s2ztln1ypi77" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hg2ugmuqnvzr7szs2839m3v6mixyzb1n9neoz" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Circlet_Moonwoven_Circlet" />
+          <attribute id="MapKey" type="FixedString" value="a1792610-e8e4-4f19-8159-148bca865e24" />
+          <attribute id="Name" type="LSString" value="ARM_Circlet_Moonwoven_Circlet" />
+          <attribute id="Icon" type="FixedString" value="Generated_ARM_Headwear_Cloth_A_2_Magic" />
+          <attribute id="ParentTemplateId" type="FixedString" value="529be51a-a2ba-4354-afeb-0b533a194917" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="2f2ad33d-7818-720d-e794-0b1808f7b7a4" />
+          <attribute id="VisualTemplate" type="FixedString" value="388d9eca-e37c-60a9-60b9-7045e644e03f" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

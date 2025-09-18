@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h7j6huqn7ysjim4qc3wl2rtehd91xorxdhrlf" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hh5jqzvv0tf7bkvg0ekdjoti9adh3ojjwsag0" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Ring_Druumalla_Peaceful_Beauty" />
+          <attribute id="MapKey" type="FixedString" value="8ec21d78-f44d-459e-a31c-6ed1e91bb717" />
+          <attribute id="Name" type="LSString" value="ARM_Ring_Druumalla_Peaceful_Beauty" />
+          <attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Ring_B_Silver_A_1" />
+          <attribute id="ParentTemplateId" type="FixedString" value="68262d1e-aa97-41c3-8daf-9910359705f9" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="362b929e-842b-f295-4ff2-b9453cb6b33e" />
+          <attribute id="VisualTemplate" type="FixedString" value="f002834d-a643-7b13-0f47-c43f662a96cc" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

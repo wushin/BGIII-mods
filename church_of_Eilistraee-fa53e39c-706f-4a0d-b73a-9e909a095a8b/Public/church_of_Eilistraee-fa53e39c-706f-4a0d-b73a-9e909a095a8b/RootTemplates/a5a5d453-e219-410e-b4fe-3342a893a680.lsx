@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h6gdxx2vvgt6pkxfwkv2mutjnwev1ecqtpl4z" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h0jcb1np3xp95e1wbvgekpf70hse218zn1zp6" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Robe_Body_Ultrinnanzar_Dance_of_Blade" />
+          <attribute id="MapKey" type="FixedString" value="a5a5d453-e219-410e-b4fe-3342a893a680" />
+          <attribute id="Name" type="LSString" value="ARM_Robe_Body_Ultrinnanzar_Dance_of_Blade" />
+          <attribute id="Icon" type="FixedString" value="Generated_ARM_Cloth_A_2_Magic" />
+          <attribute id="ParentTemplateId" type="FixedString" value="0f2e59b9-c244-4e3c-836e-4f1e7b755b12" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="c02733f7-992e-6e54-52c3-592af751b1a6" />
+          <attribute id="VisualTemplate" type="FixedString" value="0d2daba6-a1fc-2d32-8f59-40b2a2c6c516" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

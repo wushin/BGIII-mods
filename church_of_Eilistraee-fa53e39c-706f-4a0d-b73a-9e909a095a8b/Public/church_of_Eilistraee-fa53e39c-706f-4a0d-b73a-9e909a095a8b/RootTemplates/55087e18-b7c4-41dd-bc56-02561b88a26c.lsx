@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hv3sqzd4miik8v2filgd6bux6qw55gkdtezrd" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hfo99rqn5go6rpf50lyttt72q3vd3xvs4djy5" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Boots_Leather_Zhaunmorath_Knowledge_Path" />
+          <attribute id="MapKey" type="FixedString" value="55087e18-b7c4-41dd-bc56-02561b88a26c" />
+          <attribute id="Name" type="LSString" value="ARM_Boots_Leather_Zhaunmorath_Knowledge_Path" />
+          <attribute id="Icon" type="FixedString" value="Item_ARM_Boots_Leather_Drow" />
+          <attribute id="ParentTemplateId" type="FixedString" value="cda7838e-f619-4eea-913c-817ae3f2df09" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="a4c77b5e-bf2f-771a-ba49-a40e3dfa1e8f" />
+          <attribute id="VisualTemplate" type="FixedString" value="36a435f9-6228-f46d-f6bd-67bf9e68b932" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

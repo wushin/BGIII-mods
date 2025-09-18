@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hxd4uh7zv9we7mz9pthx7a0vcn0ed8yymiesu" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h155795zdncc5w4pjlfxeqgy9jdpq1o366pzy" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Instrument_Moonwoven_Lyre" />
+          <attribute id="MapKey" type="FixedString" value="d717bf15-f47e-477e-90e1-e85353e4f6e5" />
+          <attribute id="Name" type="LSString" value="ARM_Instrument_Moonwoven_Lyre" />
+          <attribute id="Icon" type="FixedString" value="Item_TOOL_GEN_Music_Lyre_A" />
+          <attribute id="ParentTemplateId" type="FixedString" value="13739f15-7366-4d7f-9926-991e98b9e964" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="f0acac13-2e32-c047-378e-4087af902d05" />
+          <attribute id="VisualTemplate" type="FixedString" value="7fccc115-7155-af61-ad8f-0f27e2f92644" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

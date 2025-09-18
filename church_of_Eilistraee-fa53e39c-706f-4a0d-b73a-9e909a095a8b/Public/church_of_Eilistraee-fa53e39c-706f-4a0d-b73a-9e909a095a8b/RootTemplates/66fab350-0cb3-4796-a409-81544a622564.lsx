@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hbns5gd0j3jefxt591l2bhaa4y78bl3twh9vi" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hiev8sy9yio363c0rbp6033rxrgq30mc7z6y2" version="1" />
+          <attribute id="Stats" type="FixedString" value="WPN_Longsword_Truthdancer" />
+          <attribute id="MapKey" type="FixedString" value="66fab350-0cb3-4796-a409-81544a622564" />
+          <attribute id="Name" type="LSString" value="WPN_Longsword_Truthdancer" />
+          <attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Longsword_A_0" />
+          <attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="0671a245-3533-6589-a71b-e5948c9c6826" />
+          <attribute id="VisualTemplate" type="FixedString" value="c1319fce-3d47-ac75-e502-a3e965500038" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h1wid0c7xj4j8mafei46rforccam0iiog9ra4" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="had9rpjsqhbcl7jhne20s4qy3z2bv0o2cg20u" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Cloak_Quellartalinth_Houses_Grace" />
+          <attribute id="MapKey" type="FixedString" value="1761d322-c62c-4e0d-b9eb-f7030b0025a5" />
+          <attribute id="Name" type="LSString" value="ARM_Cloak_Quellartalinth_Houses_Grace" />
+          <attribute id="Icon" type="FixedString" value="Generated_ARM_Cloak_Long_C_1" />
+          <attribute id="ParentTemplateId" type="FixedString" value="c2f0ea14-9384-4b5e-a0eb-81909ce72d38" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="753392b7-a79e-7c88-ab4f-6e20eb2a6f28" />
+          <attribute id="VisualTemplate" type="FixedString" value="3cda6ee8-7165-d606-8a74-a032cd461ae7" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

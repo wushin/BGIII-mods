@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hidisi23milmbmkgi8mefjwp00cgssnd0l5gg" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="htlhshax693ejj6vjmlf3vhp7893f6qh9nveu" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Monk_Ssussunvharcana_Moonlit_Glory" />
+          <attribute id="MapKey" type="FixedString" value="1e3045cc-d98c-4308-928a-ff01d7366372" />
+          <attribute id="Name" type="LSString" value="ARM_Monk_Ssussunvharcana_Moonlit_Glory" />
+          <attribute id="Icon" type="FixedString" value="Generated_ARM_Gloves_Cloth_A_2_Magic" />
+          <attribute id="ParentTemplateId" type="FixedString" value="4d8f4081-d0ed-4649-b2d3-974706a3e102" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="e0e99996-ea3c-019f-c5c6-aa691874f6d0" />
+          <attribute id="VisualTemplate" type="FixedString" value="5f62a315-7a4b-3c99-e1d9-8188b56cd918" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

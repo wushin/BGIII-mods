@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hv3u076ewbag8213aw218wshgb3nwifo7x8ka" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hfykmkvifbp63sj3rpufcyxr01ljmg8djixib" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Robe_Body_Whispering_Tunic" />
+          <attribute id="MapKey" type="FixedString" value="379dfd9e-a45e-48f3-8a0d-c88e9b5d53d3" />
+          <attribute id="Name" type="LSString" value="ARM_Robe_Body_Whispering_Tunic" />
+          <attribute id="Icon" type="FixedString" value="Item_ARM_Robe_Bard_A" />
+          <attribute id="ParentTemplateId" type="FixedString" value="da345d08-2186-4e4a-857c-3fd6a104cec6" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="4b41b623-431f-56ac-f251-18f16a9a614d" />
+          <attribute id="VisualTemplate" type="FixedString" value="0d1223c9-86f0-876e-8fb0-b2717838a9b0" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

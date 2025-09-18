@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hangtjcl2brbn7e62yo5475d5o2ynvc2v7nmm" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hnnhc0dftb5zv8brr22vx60kn42g3v2ii0tu4" version="1" />
+          <attribute id="Stats" type="FixedString" value="WPN_Scimitar_Ssinsra_Dancer_Dance_of_Grace" />
+          <attribute id="MapKey" type="FixedString" value="eb668c90-9085-4bb6-878d-737382391cfe" />
+          <attribute id="Name" type="LSString" value="WPN_Scimitar_Ssinsra_Dancer_Dance_of_Grace" />
+          <attribute id="Icon" type="FixedString" value="Item_WPN_Djinni_Scimitar_A" />
+          <attribute id="ParentTemplateId" type="FixedString" value="1576903a-cb77-4a05-be24-1714d8c61e34" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="fcb1bf2e-16e2-0cb3-c82e-300a4fa316f9" />
+          <attribute id="VisualTemplate" type="FixedString" value="73b649c5-3c6c-3b17-0853-a917484b9afd" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

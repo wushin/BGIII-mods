@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h9sju3u1lvd6rt9gg2fvytqwien1n3nht3bxz" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="ht3mwl0hhunbjfen4lgn9gq1b6kruvl5aapul" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Ring_Olothzira_Shadow_Jewel" />
+          <attribute id="MapKey" type="FixedString" value="dc29d795-16bc-4f49-8692-21a5c9625c33" />
+          <attribute id="Name" type="LSString" value="ARM_Ring_Olothzira_Shadow_Jewel" />
+          <attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Ring_H_Silver_A_1" />
+          <attribute id="ParentTemplateId" type="FixedString" value="3324ec12-1c95-4eef-ac0d-99375a5ff88e" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="b36cb83e-0859-e8c3-3439-17f5d1732792" />
+          <attribute id="VisualTemplate" type="FixedString" value="4aa98ff1-b8f0-9b2c-39b9-5e499082c806" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

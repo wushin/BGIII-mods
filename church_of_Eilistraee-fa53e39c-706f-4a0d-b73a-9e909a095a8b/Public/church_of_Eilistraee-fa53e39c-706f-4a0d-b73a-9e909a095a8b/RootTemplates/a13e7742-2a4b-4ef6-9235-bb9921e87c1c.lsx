@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hceqw1son6rz5v9323n7o2j9rmnlz2uceua1v" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hvcjudpmukz9b9kmaennz620iu9vw6kdp7g3q" version="1" />
+          <attribute id="Stats" type="FixedString" value="WPN_Longsword_Selvetarms_Rejection" />
+          <attribute id="MapKey" type="FixedString" value="a13e7742-2a4b-4ef6-9235-bb9921e87c1c" />
+          <attribute id="Name" type="LSString" value="WPN_Longsword_Selvetarms_Rejection" />
+          <attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Longsword_GuardianOfFaith_Evil" />
+          <attribute id="ParentTemplateId" type="FixedString" value="083ddacf-e03c-4681-887b-80dee8158b26" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="04e52de8-3bc3-5321-ddf4-bd6863ab80e9" />
+          <attribute id="VisualTemplate" type="FixedString" value="8a32ccbc-31b9-0623-079f-4b252e26409e" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

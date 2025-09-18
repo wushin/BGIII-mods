@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h7f28ah34czcd6ywmqpsb60kfcdziablcjvak" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h5kf6vd1x2c246tuug16zcp48pg34kxbxrkie" version="1" />
+          <attribute id="Stats" type="FixedString" value="WPN_Dagger_Quellars_Thorn_Houses_Thorn" />
+          <attribute id="MapKey" type="FixedString" value="b56abf1a-5906-497f-8751-6b4c9049cf6a" />
+          <attribute id="Name" type="LSString" value="WPN_Dagger_Quellars_Thorn_Houses_Thorn" />
+          <attribute id="Icon" type="FixedString" value="Item_WPN_DROW_Dagger_Dolor_A" />
+          <attribute id="ParentTemplateId" type="FixedString" value="e8df5166-5a68-42ec-b71f-4dfb754f7aa4" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="b35643b5-6ecb-9477-9438-a87825a80e92" />
+          <attribute id="VisualTemplate" type="FixedString" value="f20422c3-5ff2-0ef0-02a2-dade286845a5" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

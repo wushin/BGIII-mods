@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hevrsr8vljo2prc3811y9mbh8grpr8ke38a6y" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hz7ejoknz2rd4augd9605x7rvs01jh2si21ol" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Robe_Body_Harmonious_Aegis" />
+          <attribute id="MapKey" type="FixedString" value="265ac9e7-1d42-49c1-9a52-a1c6f7efd320" />
+          <attribute id="Name" type="LSString" value="ARM_Robe_Body_Harmonious_Aegis" />
+          <attribute id="Icon" type="FixedString" value="Item_ARM_Robe_Sorcerer" />
+          <attribute id="ParentTemplateId" type="FixedString" value="37be86c0-f4af-48af-86c9-e91c57ce04bc" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="55f51913-5383-d402-d81d-4d179c66eb54" />
+          <attribute id="VisualTemplate" type="FixedString" value="464e8fd3-3a49-3c47-7027-fc1aef4be362" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

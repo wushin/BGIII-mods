@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hg0o4dzmoqm6ai5o7ovk7xb5y3r4yc933mv4p" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hrrkl2ppd17b4i0yl1yedkd6d3r6rk2nl04um" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Circlet_Olothzara_Shadow_Blade" />
+          <attribute id="MapKey" type="FixedString" value="63766723-8808-40d1-ad5c-1d523107fc94" />
+          <attribute id="Name" type="LSString" value="ARM_Circlet_Olothzara_Shadow_Blade" />
+          <attribute id="Icon" type="FixedString" value="Item_ARM_Headwear_Circlet_Isobele_A" />
+          <attribute id="ParentTemplateId" type="FixedString" value="0eadc734-3ffd-4a87-9185-54e3e4cbacbf" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="02b3b387-eb7e-33f5-b7dc-33c5ebba23fe" />
+          <attribute id="VisualTemplate" type="FixedString" value="065b8db8-5a3f-eb96-46b6-1038020ede8d" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hdyxte2wzd91amnq7v2oct2aoa0vfwucoy8rs" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h3f6klusguun6nbrg3v4971vta21kvndhnl48" version="1" />
+          <attribute id="Stats" type="FixedString" value="WPN_Longsword_Eilmystrazar_Blade_of_Light_and_Magic" />
+          <attribute id="MapKey" type="FixedString" value="6cf60df3-b7c3-4d8a-95d6-91d3cf0233f5" />
+          <attribute id="Name" type="LSString" value="WPN_Longsword_Eilmystrazar_Blade_of_Light_and_Magic" />
+          <attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Longsword_Adamantine_A" />
+          <attribute id="ParentTemplateId" type="FixedString" value="d116f35c-4399-408c-ba90-b455a5d29a1f" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="cd4a8a69-8f43-bfe1-5998-5831c52ffd19" />
+          <attribute id="VisualTemplate" type="FixedString" value="56d90029-423f-e537-a8e2-bcc797d7cdc7" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h9yd53vfe448q8zzxjqv6z48e9tfupxdlnfnx" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hyai6xqxh2jppbla6gqojkfiq082k99293yyh" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Leather_Body_Duskwalkers_Shroud" />
+          <attribute id="MapKey" type="FixedString" value="c89d53a0-4036-440d-ab52-ccda29f68f98" />
+          <attribute id="Name" type="LSString" value="ARM_Leather_Body_Duskwalkers_Shroud" />
+          <attribute id="Icon" type="FixedString" value="Item_ARM_Leather_3" />
+          <attribute id="ParentTemplateId" type="FixedString" value="02ae5d88-8044-43df-8363-02a2900776db" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="25f3ab03-a693-b347-07c8-6e7a0b29efb9" />
+          <attribute id="VisualTemplate" type="FixedString" value="34224022-5848-75f4-28c2-89994c3218e3" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

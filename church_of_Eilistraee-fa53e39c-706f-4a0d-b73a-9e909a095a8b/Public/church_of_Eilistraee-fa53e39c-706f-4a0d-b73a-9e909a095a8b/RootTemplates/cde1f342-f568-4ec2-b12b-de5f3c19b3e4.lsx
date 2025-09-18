@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hbujz1my3t7q5p1tsoxwvekr7ssuzdld4y1vb" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h9mr2n39525whtratty8drwpcyzhn4jei017a" version="1" />
+          <attribute id="Stats" type="FixedString" value="WPN_Longsword_The_Wandering_Radiance" />
+          <attribute id="MapKey" type="FixedString" value="cde1f342-f568-4ec2-b12b-de5f3c19b3e4" />
+          <attribute id="Name" type="LSString" value="WPN_Longsword_The_Wandering_Radiance" />
+          <attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Longsword_A_1" />
+          <attribute id="ParentTemplateId" type="FixedString" value="3fc2ba50-3070-4caa-abe8-3bf885969bde" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="cd4a8a69-8f43-bfe1-5998-5831c52ffd19" />
+          <attribute id="VisualTemplate" type="FixedString" value="91a755e7-f02c-19cd-8d61-3da7192a8396" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

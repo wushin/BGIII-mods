@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hygwh65f09yye5sw1782xnnpl3ahoeufarchn" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hm5exvfds1s0mfrign8pz01ei5qx4nmiebrt3" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Robe_Body_Windswept_Vestments" />
+          <attribute id="MapKey" type="FixedString" value="77de414e-a533-47ab-bc18-129c329eddf9" />
+          <attribute id="Name" type="LSString" value="ARM_Robe_Body_Windswept_Vestments" />
+          <attribute id="Icon" type="FixedString" value="Item_ARM_Robe_B" />
+          <attribute id="ParentTemplateId" type="FixedString" value="69302808-57a0-4fbb-9938-137bce5421d1" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="55f51913-5383-d402-d81d-4d179c66eb55" />
+          <attribute id="VisualTemplate" type="FixedString" value="47471e6f-0055-5232-091e-40224e86eedd" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

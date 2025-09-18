@@ -560,6 +560,666 @@
   <content contentuid="hyz2wuyr6h673rfpx3iws4awz25ftscltzuaa" version="1">Daarra of Respec</content>
   <content contentuid="hmuuvaoarno6x7xza74v09cmb6dduh989xxbp" version="1">Daarra of LevelUp</content>
   <content contentuid="hkwlvejc9kk5h08zlykschmmo8fs0o0hfz5ob" version="1">Daarra of Position</content>
+  <content contentuid="hx68w423zr5a1k45i9gz828per61adotlluqj" version="1">Eilistraean Ritual</content>
+  <content contentuid="hpev7didq6le9xvn6i5bgp1oj8gktsy8duau4" version="1">Forged for sacred rites beneath silver moons, it sings only in the hands of the faithful.</content>
+  <content contentuid="hkpxellzz5ysdsmt09amuzqkt3elnulcba7ph" version="1">The Follow</content>
+  <content contentuid="hbdr50lb0slq3jknvcfyuclxrt8zgjzf9xu8q" version="1">A blade that finds the rhythm of battle as effortlessly as a dancer follows the beat.</content>
+  <content contentuid="hqvo32fwxz7ou988mec4wl3wacnjvp1fxdr6l" version="1">Two Step</content>
+  <content contentuid="h2zu2gep02nbdfamojxabonepatc4mlqjb3ey" version="1">Quick as a heartbeat, graceful as a waltz - each strike lands in perfect tempo.</content>
+  <content contentuid="hivyl0r8ba6j0qz3ap29svy3s1s5wnhvcmzb6" version="1">Moonfang</content>
+  <content contentuid="h3gtcw5bfa3trnrsi0szrd2vdonrm1j879urm" version="1">Its edge glimmers with the cold hunger of the moon; beautiful, merciless.</content>
+  <content contentuid="hy6mwk0ybridtdxhum9l3fm3inz001cdgu6eb" version="1">Twilight Twirl</content>
+  <content contentuid="hxr72mql3bjnzzws0p944r7dc0pyrh6i1d0ap" version="1">Spinning in dusk’s embrace, this blade leaves trails of starlight in its wake.</content>
+  <content contentuid="hcyfe0qli5e8kbge5ruuytfa9beo3okwjm85s" version="1">Whisper of the Moon</content>
+  <content contentuid="hxfs5e7sjzs2v4piyct034gd6rai8k5v6o6et" version="1">Not all strikes roar; some whisper - soft as moonlight, just as deadly.</content>
+  <content contentuid="hfe2kxnfto7y0mpc7hn0uadtet0xpmk587s3j" version="1">Evensong Fang</content>
+  <content contentuid="hwy6nqairn07h084ukgb8zoc0v079ic8ph13i" version="1">The song at dusk becomes a weapon - a melodic promise of peace, or the end.</content>
+  <content contentuid="hzoxgy9aqhf2i05zyel3aplgis6v5bsb1uiou" version="1">Dancer’s Mercy</content>
+  <content contentuid="hvhwnrozvsjgc0q4ybb8lintbl8zxt5n86agq" version="1">Swift and silent, it grants release with a final, forgiving step.</content>
+  <content contentuid="h2hkeu2jxkj6durypp1tuq9jmjhwtxpojjdfb" version="1">Silverthorn of Redemption</content>
+  <content contentuid="hazkhv4m2b2532efzhhu7q2jga5fbafqnbgbg" version="1">Born from guilt and grace, it redeems the fallen with every pierce of silver light.</content>
+  <content contentuid="hh73cl8v6hcwffkx5cp9nd99jh4qey11emaco" version="1">Duskslip</content>
+  <content contentuid="haeoxet7kgzfzowgiybtm8vp2j2xqkhnasr8m" version="1">This slender blade glides through shadow like a dancer slipping between curtains.</content>
+  <content contentuid="htpf0cw4x1r6ta8iud4zb7l8nvqf7u40ygyrb" version="1">Velve Maelthra "Silken Sin"</content>
+  <content contentuid="h8pjkpecvsw9xdtmbk2nby06sx56o8581wj4u" version="1">Soft as a lover’s touch, lethal as betrayal - elegance woven with death.</content>
+  <content contentuid="hmrg83768aw774eeyl6s75dcb6g3l7a7u66zq" version="1">Luth Z'ress "Dance of Strength"</content>
+  <content contentuid="hgmcnka1old0dl7ue9wwsyx2skp6waat2ew4v" version="1">Each arc is a step of battle’s ballet; strength expressed in beautiful motion.</content>
+  <content contentuid="h3gdd34w9tewhy61emz57o3inc2uqtid4poa8" version="1">T’rei’enil "Silence"</content>
+  <content contentuid="hr0lnhy0h5577yks5t2a43lbdkj9czuusx87c" version="1">No clashing steel, no screams - only the hush of the void left behind.</content>
+  <content contentuid="h6vo35d207s2pnvxafxk68vvop1zfae2lou5w" version="1">Veldrin Kiss "Shadow Kiss"</content>
+  <content contentuid="hkuavrc1x5nc96x4c6wxpu99lb6amxw0saar0" version="1">It kisses the skin like shadowfall - gentle, then gone, leaving only the wound.</content>
+  <content contentuid="h5kf6vd1x2c246tuug16zcp48pg34kxbxrkie" version="1">Qu’ellar’s Thorn "House’s Thorn"</content>
+  <content contentuid="h7f28ah34czcd6ywmqpsb60kfcdziablcjvak" version="1">A hidden pain from within, this dagger carries old grudges and deeper truths.</content>
+  <content contentuid="h024miard86hxmr9nxzekzoiatu35d0go37wt" version="1">Shynt’lara "Flickering One"</content>
+  <content contentuid="hgpz3cny1qcz5os0dzujjo71kqayth1znpoki" version="1">Unpredictable and graceful, it dances like candlelight before the storm.</content>
+  <content contentuid="hdo067n2otsgossqvmf57g0ld7f5vcrk997w8" version="1">Starlace</content>
+  <content contentuid="hxi68isto1qcyaog61nulmo1h81x5nta6qopb" version="1">Woven with threads of divine light, it snags fate itself with each swing.</content>
+  <content contentuid="h7l959ot8dnf4pnjvbrphall355dvcnz822yp" version="1">Moonneedle</content>
+  <content contentuid="hbh49tgw4yvs5m4tpck686t9ir68wlrr3f16o" version="1">Precise and piercing, it sews dusk and dawn together with threads of pain.</content>
+  <content contentuid="h40jdo27xejjv9h8vnixdqig5t0ey8akmw942" version="1">Veilpiercer</content>
+  <content contentuid="hicq7xk65w73bdtfvb140t3i5pgrmq3fxaa0u" version="1">No glamour or illusion withstands its gaze - it cuts through lies as through flesh.</content>
+  <content contentuid="h78c1cim4asb6y1uq743kie8uwulz0vjg5wam" version="1">Midnight Aria</content>
+  <content contentuid="hbil6lg3dnud3on95ari562gqd7k7nnm6kt35" version="1">The blade hums with a haunting melody that only the doomed can truly hear.</content>
+  <content contentuid="h7tywqh0gehs81zgajaz79sstsnwcadrolyjo" version="1">Glinting Reproach</content>
+  <content contentuid="hmdqzkj9ig2c0ydvgr8fkf0vkha8239dbfc4p" version="1">Each flash of its edge is a lesson - gleaming judgment from a graceful hand.</content>
+  <content contentuid="hod4sraenkrn9z9oeueenoyxuea6sso2hgm7p" version="1">Lament of Lolth</content>
+  <content contentuid="hmu9nhv5pbsorz7qmwfh77cqlw6bw75qrk7iw" version="1">Forged from betrayal, it weeps not for its victims, but for what they might have been.</content>
+  <content contentuid="h5basojet76mk5qctszl5z36yu6gvd4rq4lb2" version="1">Bel’la Faer "Beautiful Blade"</content>
+  <content contentuid="ht849xyuzo00t8w8nrvj5n30reqmnvpkbr0we" version="1">Its deadly curves inspire awe before fear; beauty that cuts deeper than steel.</content>
+  <content contentuid="h2823u4t8755qo7e3e7frp1aoay6ca8immn3t" version="1">Zin’zarith "Silver Duel"</content>
+  <content contentuid="hf88epmq9txw18e051j1g3k3l6gilj40h7xpv" version="1">Bound to tradition, it gleams in honor - a duelist’s promise etched in silver.</content>
+  <content contentuid="hf0vmws95bsgqvwmpjsx24qh8pg858xbvhn0r" version="1">Lys’zuruul "Edge of Light"</content>
+  <content contentuid="henokxdyhvd79uf05tx2uerrikzx2664sqmf8" version="1">At the boundary between moonlight and shadow, this blade shines with serene resolve.</content>
+  <content contentuid="h5gooufg8a9yqovo8pde1y2ynenkquve5q2qw" version="1">Zhaun'oril "Blade of Understanding"</content>
+  <content contentuid="hl31eabvafmgaj94fhetewmitoob7zm96xlqe" version="1">A scholar’s sword, meant not to conquer, but to reveal the truth within conflict.</content>
+  <content contentuid="hytnv77blj2lc5raeuar6k65mo5rp9x2cvnrs" version="1">Linthlaren "Moon's Duet"</content>
+  <content contentuid="hogpzsb5t3m59a87v7qucqly8yuu6qt3aqak6" version="1">Two blades, one purpose - to sing in harmony with the goddess’s will.</content>
+  <content contentuid="hus5cyac0cdfr3owt0af2a1phzoeeo98mwtr1" version="1">Rilyn’Quarvalsharess "Loyal to the Goddess"</content>
+  <content contentuid="h0pyxtxmdbl89s303e0amx8jq1i50bc9euhxd" version="1">It will not rest while her enemies draw breath; every strike a prayer in motion.</content>
+  <content contentuid="hrh30n2o4zbn0bebb4zhw2qpd7u4wii5zceg2" version="1">Windcoil</content>
+  <content contentuid="h7l2e3vdrj2ekh1emfvxcc08ldptkgakyu51d" version="1">It arcs with the grace of a tempest dancer, each motion catching wind and fate alike.</content>
+  <content contentuid="he6azmw9vdzk09dk1sfay2zl4qqam29a0wcte" version="1">Flicker</content>
+  <content contentuid="hwfiiamfrut58bh4ce9igepthj1xan6297ls5" version="1">Seen only in the corner of your eye - by the time you notice, it’s too late.</content>
+  <content contentuid="hjj5qu00rs8uz7aqy8jbmnkosbicvn88221ul" version="1">Nightgroove</content>
+  <content contentuid="hdstt2mug3rkytr4pe0im5eglgjud66qd57rf" version="1">A rhythm born in shadows, this blade strikes to a beat only its wielder hears.</content>
+  <content contentuid="hhu1k1065xpwtist5xqhuru8t1l1a3tqq8vjy" version="1">Wave of the Maiden</content>
+  <content contentuid="hy0lsyeinzkmwz19avta6thqjp88rn835wiev" version="1">Flowing, fluid, and relentless - the embodiment of Eilistraee’s eternal dance.</content>
+  <content contentuid="hoxvm8hf5tejdgcmdlhthhy558e8g3lyan3cl" version="1">Glimmer</content>
+  <content contentuid="huk6d0o8joym90zwmltn3rj6xgs5v8kfwfx42" version="1">Its light is faint, but focused - a shard of the moon caught in a mortal’s hand.</content>
+  <content contentuid="h3mevhp2uryd0m33s59xblcg66sedv3utt5nd" version="1">Crescent of Harmony</content>
+  <content contentuid="hq7ip61x98gf8yvdjf8oqb3xuj78yrsoipgrw" version="1">Balanced in form and intent, it brings peace through perfect, deliberate violence.</content>
+  <content contentuid="hhcq9nthool7plghaq8s1wue2r80s4fu3ufci" version="1">Olath’sul "Shadow Wind"</content>
+  <content contentuid="hst3v0wro7r7a8ozyx9aitqsdrgd4evj1by70" version="1">Silent and swift, it cuts like a breeze through silk - unnoticed until the end.</content>
+  <content contentuid="h2c2af15fj82kxsn9n7gahpe0ahg0ukp5ycr0" version="1">Qil’tel’arith "Flowing Crescent"</content>
+  <content contentuid="hcc9oa52uunjoprofbbmmhq49cg2ach384krd" version="1">Curved and ever-moving, it dances like water caught in lunar tide.</content>
+  <content contentuid="h6rkdky5js5ol6l2aiqprah0ov5t7q38dsa8f" version="1">Ril’ussta "Beauty in Battle"</content>
+  <content contentuid="hkxgrtzpchgmtbcy8oa7tvwkw40kfxm57cwvw" version="1">Wielded with grace, it turns war into art and combat into choreography.</content>
+  <content contentuid="hl55onksqguv58azj3gic0cuwhf4qhcyrsedp" version="1">Sarn’el Ilhar "Moon of the Matron"</content>
+  <content contentuid="hjlf76swdi4w7z1ynpuuhfk7xvcfndpfzji5b" version="1">A noble relic, radiant with matriarchal power and divine reverence.</content>
+  <content contentuid="hosgamtlnflnqfgusoy4h74l6g5p7mqvq2aia" version="1">Vhid’zres’diir "Defiant Light"</content>
+  <content contentuid="hz7v0qce2c8sj2qfy49e7d5j7egzs5ytj5ff5" version="1">It shines not in obedience but defiance - a beacon against oppressive dark.</content>
+  <content contentuid="hc1q1uzc6pt46fz2xx8gpr1ur0r03hnf8sbhy" version="1">Eil’sevir "Eilistraee’s Call"</content>
+  <content contentuid="h7qpu1by0zxi6fu9l5mssyz9fj8nnfqdt58y8" version="1">To wield it is to answer - to dance, to sing, to fight for a brighter night.</content>
+  <content contentuid="hsjsfhyenpt9in9xlx5cjcoc00m4mz7snkgib" version="1">Harmony</content>
+  <content contentuid="hfl198mngevbumoij1ozadjq0d184sylbaqic" version="1">Balanced and pure, it sings with each strike - a hymn to peace.</content>
+  <content contentuid="hhmdyq5oy9e6mv3hefyyy6gfq9xc5h0avjz70" version="1">The Chime</content>
+  <content contentuid="hz2zfv549c6ftmvtyd16tl0yh3cxfko14dw1y" version="1">A single note from this blade echoes into eternity.</content>
+  <content contentuid="h2ltnro18l8dtbb7nog0elycovman08ssizhr" version="1">Ripple</content>
+  <content contentuid="h0thyus59u5vtz7br40zfi3gcx02szoralfxs" version="1">Each movement begins a wave, subtle but unstoppable.</content>
+  <content contentuid="h7sxm2tkpozsjhslx1nw8zn4krfn2kyebgsja" version="1">Bloom</content>
+  <content contentuid="h822za7d5xzhhz1pdijd7jcbefs2hgflhqi3b" version="1">In the heart of battle, it blossoms with radiant power.</content>
+  <content contentuid="ha5m5714fpsha8fd920001i9xziszu0a8uh2z" version="1">Silent Step</content>
+  <content contentuid="h36nonqfz35e02xod7pg8glswwt8eux3wueao" version="1">Its passage is felt, not heard - death in perfect poise.</content>
+  <content contentuid="hzefrju19eeh9jx0qmkmzkjkscaxfurzxt1gi" version="1">Rhythm</content>
+  <content contentuid="h43b96d535cawqss3bn7bf3v8wu1duhrgmn5j" version="1">A cadence of steel, keeping time with the beat of battle.</content>
+  <content contentuid="h78li864924o1p8se5szsm1k07m7nswfp2us9" version="1">Moondart</content>
+  <content contentuid="h4etimbahw2qr0npbmfi0pn7vfo0tfgai61xh" version="1">Fast and small, yet guided by divine grace.</content>
+  <content contentuid="hxmcr8fs7h2lzdu956fkyvnc2rwiws9okje3j" version="1">Requiem</content>
+  <content contentuid="hcqljuu8k4gcvufb60jbflmo8z67aiybem14f" version="1">A final lullaby for the fallen, sung in steel and sorrow.</content>
+  <content contentuid="h5aqf6vepy3lpoteg6waqkcat896i6ciq8iyu" version="1">Grace</content>
+  <content contentuid="h1hwinb84mkqmqgmayr77rn1zi3efbtj9or05" version="1">A blade that never falters, its movements a dance of mercy.</content>
+  <content contentuid="hzn4rxc86rjgx367hti1rnglmcg9hv7qhck6j" version="1">Twins of Qu'el'doruk "City of Hope"</content>
+  <content contentuid="hj8aonntzpirn39p4yez9nbjjrgb84z9zvnvs" version="1">Forged in hope, they strike as one - swift and sure.</content>
+  <content contentuid="ha38kjn5ss6s7s1cp463y4ecx0u7c8nql5sdj" version="1">Natha Ilythiiri "Redeemed Drow"</content>
+  <content contentuid="hywqyevpid5ujnfe7j8htfpplzr34q03kiqfj" version="1">Born of redemption, it carries the hopes of a changing people.</content>
+  <content contentuid="hnb2xfg2o6xxv2hlttyu8744whyefwlg8z8xu" version="1">Kyorlin’tar "Watch the Blade"</content>
+  <content contentuid="hoai1o9b3oadzlvirlit365nzfmy9tldh044o" version="1">It watches with intent, and strikes with purpose.</content>
+  <content contentuid="hr9dp39mcgqxgh4f7xn614pznnc5i3jmbyqpw" version="1">Rilyn Velvorn "Loyal Silken Fang"</content>
+  <content contentuid="h76ad0oqivxv4awxmd6v7gj8ntrdrkitus5af" version="1">Loyal and silent, its velvet bite is swift and sure.</content>
+  <content contentuid="htzz4ea3jp8pvkg324kick2thl7tcu8w7ljnz" version="1">Dalninil’s Gift "Sister’s Gift"</content>
+  <content contentuid="hxz2tsih2w0yoa6h57b4v6k5n53ttpnjgj6gw" version="1">A sister’s love forged into steel, delicate and fierce.</content>
+  <content contentuid="h0gwg07pgxzkaig1cmq8bgwdpae4yvf81i7xl" version="1">Ilmryn's Light "Secret Light"</content>
+  <content contentuid="hp3bdab9cxjsxz0j358ycumho02f7bytb8m5x" version="1">Its glow is faint, but never fades - a hidden strength.</content>
+  <content contentuid="h69jd470bvp7nybscylbwqdmjioeqs3x7blly" version="1">Phindarshyn "Woven Dancer"</content>
+  <content contentuid="huh0zaqv9pwz6qvawzzm9hack8ej4tk63lsw2" version="1">Every thread sings; each movement is a story woven in war.</content>
+  <content contentuid="h1y2sl2hhsgkfs8vkrbkwmb2r96np0fx6jqbv" version="1">Starforged Mercy</content>
+  <content contentuid="hoz7qbh50sn62s0lt715qpmce5mwrpxvl3wzq" version="1">Formed in celestial fire, it tempers wrath with compassion.</content>
+  <content contentuid="hd3tkzkx27gw0mkoe8h0gym9vwrgre3c2ezxj" version="1">Eclipse</content>
+  <content contentuid="hnl617nryd3huwinlsznunnzy742wmsxpouvm" version="1">Where light and shadow meet, it reigns in twilight sovereignty.</content>
+  <content contentuid="hqzwwmlr04ldq4tvsbeeagxrxcwd3a2cs6f6y" version="1">Redeemer’s Grace</content>
+  <content contentuid="hs0tzrrxy2sa0308vvfoe61bnct9cz463sych" version="1">Forgiveness in form - a blade that restores as it protects.</content>
+  <content contentuid="hfalqz3aickz347vcs7m5pi71qxn4tgnx46wv" version="1">Gleam in the Gloom</content>
+  <content contentuid="hwb2f7q7uvdqk1wklh3a20q37fop72tji04ke" version="1">A flicker of light in endless dark, guiding the lost to safety.</content>
+  <content contentuid="h8065jxwow9czh7acffxy972t9io47qaxt5zu" version="1">Aurora’s Oath</content>
+  <content contentuid="hya2y1usdsp58y6f7vgsvgmgvbinpr98bhstr" version="1">It bears the promise of dawn, sworn under shimmering skies.</content>
+  <content contentuid="h02tol354o6jvjp4s30umd6jughk4dvfnzx3x" version="1">Solace</content>
+  <content contentuid="hq5hp22khapc4y3gpg76s7r5xk1u5u7332lkb" version="1">In its presence, fear fades - a quiet refuge amid chaos.</content>
+  <content contentuid="hiev8sy9yio363c0rbp6033rxrgq30mc7z6y2" version="1">Truthdancer</content>
+  <content contentuid="hbns5gd0j3jefxt591l2bhaa4y78bl3twh9vi" version="1">It moves in harmony with truth, each strike revealing the real.</content>
+  <content contentuid="hvcjudpmukz9b9kmaennz620iu9vw6kdp7g3q" version="1">Selvetarm’s Rejection</content>
+  <content contentuid="hceqw1son6rz5v9323n7o2j9rmnlz2uceua1v" version="1">A defiant blade turned away from cruelty, wielded in purpose.</content>
+  <content contentuid="hnjocyzrwi9adcz0gpcf0pa5dvbd0rht4yngc" version="1">Bae’queshel Blade "Sacred Music Blade"</content>
+  <content contentuid="h0xgpvzb61jvoooz3jn2i6i6v6oh16j2zhl01" version="1">Each strike is music, sacred and savage.</content>
+  <content contentuid="huo8dwlrvr4asxu05tq67u7khxrrmwnrdq6wy" version="1">Ultrinnan Velve "Dance of Silk"</content>
+  <content contentuid="hopllsrd9o1yn9t6nkf2v4hlx14ly0hresrel" version="1">Soft as silk, but in motion, it becomes lethal beauty.</content>
+  <content contentuid="hlyfdmbw0evhmmqs2rga8518q0qsy1p3r5xk3" version="1">Z'ress Tlu Malla "Strength is Beauty"</content>
+  <content contentuid="hd1xvr7h4sqmjwdyk9yr9por8asyknt3897l4" version="1">Strength and elegance are one - this blade proves it.</content>
+  <content contentuid="h6fer1pjugwk9nu1kban8larqit2ku8hsasxd" version="1">Zhaunil’Malla "Holy Knowledge"</content>
+  <content contentuid="htp0d5mm5uurnoxxi16ufuun91wf1tff1lg97" version="1">It sings of ancient truths, holy and terrible.</content>
+  <content contentuid="hsvr5jjmr7uij4xzl45liseqhmq93hbm5tkwq" version="1">Duum’mor’laa "Peaceful Justice"</content>
+  <content contentuid="hpzmwq8hpcgsif69nj19d9iqo7j7e5ncopxki" version="1">Calm and unwavering, it delivers justice with a still heart.</content>
+  <content contentuid="hs88nab0vc1knrqgavfgk4ku80rwuof1zfuzi" version="1">The Crescent Requiem</content>
+  <content contentuid="hbhtj6pto6vau2w4k6hhc5jvu0n2fef7rqg33" version="1">It weeps for the night, and ends those who taint it.</content>
+  <content contentuid="ha6y71hxmf8xcfdu8sv04e8k18ivm7yob27xz" version="1">Moonfall's Embrace</content>
+  <content contentuid="h4by2c7hoa7p41ozxwap1d5j307otgf7t56yo" version="1">To fall under its arc is to be held by moonlight... and end.</content>
+  <content contentuid="h2jki4r55gewcaitugonhxo89os7fyv65sbog" version="1">The Light That Guides</content>
+  <content contentuid="hzpk57ln3pe739glpgi6f71ee0n02rkos36sg" version="1">It shines brightest in despair, leading the way home.</content>
+  <content contentuid="hqrmuq1ivyoj7pt4b4urneybh7rm67kle4jow" version="1">Darkness Divided</content>
+  <content contentuid="h9taqretmqkugy8mq5t60lefit453tt0pwuol" version="1">Splits shadow from soul, revealing what lies beneath.</content>
+  <content contentuid="h0j50sls2mevyphw4v89wubxxadq12mbyn6ss" version="1">Eilistraee’s Reach</content>
+  <content contentuid="hji56dczoq1xvbmdrdw70jb70ccyi8i4nwrkh" version="1">Her blessing made blade, extended to shield the innocent.</content>
+  <content contentuid="higd0u396b2rwdz5iont9jf8miv9f1vdjjqsp" version="1">Sovereign of the Silver Dance</content>
+  <content contentuid="hj6bu4n04bc24lsqnnoqnzku1y81tp0wlxzij" version="1">Crowned in moonlight, it leads the battle’s final waltz.</content>
+  <content contentuid="h04pfdhvh6k3qpfbmavrlkz5756trax84mix8" version="1">Nightmother’s Wrath</content>
+  <content contentuid="hdnr9q3sc6ctmoe34s3qtebg5wcu9f8cy0u4d" version="1">The dance ends in fury, and none are spared her final note.</content>
+  <content contentuid="hdycib5tjw6p7fm0g5l11fdams6ltvckaxu9x" version="1">Zhu’lu’malla "The Holy Severance"</content>
+  <content contentuid="hxkeslfunixvotc7tlg2osbd91hned1rmg7ju" version="1">Sacred, serene, and merciless - the final severance of evil.</content>
+  <content contentuid="h89qcv356rrdvzren7xglemyx78dco16ewyu2" version="1">Faer Oloth’ilhar "Magic of the Shadow Matron"</content>
+  <content contentuid="h18g11sdb179smn22hizkstfgv8h1uakr1ipx" version="1">Mystic and maternal, it guides shadow with divine clarity.</content>
+  <content contentuid="hydsvsf70tjmb4b0c2r1tqj1t776fvj2svas2" version="1">Ilindith Vharcana "Glory of the Surface"</content>
+  <content contentuid="hc2kmhas64xvfdeuzjhc6924i2ojgd3i3ihzl" version="1">It burns with pride and purpose, for those who walk the light.</content>
+  <content contentuid="h8ejcx6jxsem4o7slzwz844hgpb9bozl4xkbk" version="1">Selûne’zra Elg’caress "Selûne’s Moon Daughter"</content>
+  <content contentuid="h4nmkcy31cz4i7vhhhccj7wlok7280gx2aypd" version="1">A daughter of moonlight, her blade protects the innocent night.</content>
+  <content contentuid="hzxo0fp5vx4xbzw5yk3vo571vxi6bzdaas9la" version="1">Shynt’tel Zhaunil "Blade of Knowing Grace"</content>
+  <content contentuid="hv31if5mv7akmjn27kwlw6xi3u06v2zp47awg" version="1">Sharp as thought, fluid as faith - wielded with reverent grace.</content>
+  <content contentuid="h40wcgddxogtmb1clwxzivq6k5wveqw3dv0ac" version="1">Elg’verin Kyorl’solenurn "Sacred Watcher’s Wrath"</content>
+  <content contentuid="hndsjlrtdd6g36663b3eem10e64bxlpmar82a" version="1">It watches over all, and strikes when justice is denied.</content>
+  <content contentuid="hzh4t28a0vu0bx4dfi1bj4u6gvr764vfm4f9a" version="1">Whispering Note</content>
+  <content contentuid="hr4nuobpna2250hkfyjmfiz3hk8iw5lfw6puc" version="1">Barely heard, but deeply felt - each swing a secret revealed.</content>
+  <content contentuid="hp2kksncaf321a7k929ji5dtcfmos4jildfhb" version="1">Velvet Silence</content>
+  <content contentuid="hozxds5nrjhtwps8ue59d5u2kvicsyu5164rx" version="1">A hush on the battlefield, broken only by breath and blood.</content>
+  <content contentuid="hd7gcuepj77vdl8bd5146t1swgqqji517t1aj" version="1">Illythiiri’s Grace "Drow’s Grace"</content>
+  <content contentuid="h528z3myv9m8ylqq33uxypdwven5evewdrhaj" version="1">Refined elegance, reborn from shadow into sacred duty.</content>
+  <content contentuid="hgegpkv0aq8vr8livm7rcmiikb0g0l3ydd9w6" version="1">Ssussunil "Moonlit Dagger"</content>
+  <content contentuid="hs0n6svtal306kfljd0y0hbya8ja19etr33ze" version="1">A glimmer in the gloom, as sudden as it is final.</content>
+  <content contentuid="hunggygfz0cgegkra04kdkosy0s8i4gbxbueh" version="1">Twilight Touche</content>
+  <content contentuid="hg826dfod4ms9xp8vs2a1s5k2bd3k0caclqbm" version="1">A playful kiss of dusk - light, teasing, and fatal.</content>
+  <content contentuid="h9iaxfaev2j5h863ee6sngdvtdjzvqbvoauep" version="1">Duet of the Blade</content>
+  <content contentuid="h8h0zb5fuu0sdmozj9u8w89rxpb2wro8qq7tb" version="1">Two blades, one song - a harmony only battle can play.</content>
+  <content contentuid="hkhaep8urqr8gp5tuy7rol2ngncj8bsvsl1w4" version="1">Xunor Z'ressa "Perform the Dance"</content>
+  <content contentuid="h0su8hnf6hk7n3a00vlx0g9x0arbe2hpm4el4" version="1">Every motion is a verse, every strike a stanza.</content>
+  <content contentuid="h9tm4veutztbtiq3i43y6ird3kobkf7iatyri" version="1">Faern’tel’quess "Spell of the People"</content>
+  <content contentuid="hydijaltdienh6nq0073pna0dg06m00nmkr5j" version="1">An ancient spell given form - it protects the people with poetry.</content>
+  <content contentuid="hqucg5z2ll9pl7ugts5sya8dw0r8m3voxxc6o" version="1">Crescent Moon</content>
+  <content contentuid="h873c1tgps4fobzxh6vlzyroqfvz9g4xqqkus" version="1">Perfectly curved, it arcs with divine rhythm.</content>
+  <content contentuid="h7pgp5cfzyonv09waqupmt6nswloo5ujtx972" version="1">Serenade</content>
+  <content contentuid="hlesss3ytcqe4o1xovpj0f6vppm7w69qej96s" version="1">Its melody enthralls, even as it ends the dance.</content>
+  <content contentuid="hvyvfxtzld5uc9om10gm3tywhjzvjwfyeixje" version="1">Faerz’un’ar "Magic in Motion"</content>
+  <content contentuid="h9fearpdywtj06v8hrywwl26lrlf0wdratni8" version="1">Magic in constant motion, a lyrical blur of destruction.</content>
+  <content contentuid="hg9zk9o8yn26ju70t89g9r0drjefe772qitnh" version="1">D’ssin'niir "Twilight Caress"</content>
+  <content contentuid="hc6a3ou8k5rfnru3xw73lr3bmvw98dvei1vn9" version="1">Soft as a lover’s sigh, deadly as the dusk.</content>
+  <content contentuid="hogqbp1j3w5xr9ogq93urjvw3jeu7lp49yga3" version="1">Echo</content>
+  <content contentuid="h3e6bw67en8i369530hpv656ezoc8s9fe1x1h" version="1">Each strike reverberates, calling back the will of the goddess.</content>
+  <content contentuid="hov4n7eax5556ccjjpwgosmr6ybfxjx3qfrr4" version="1">Waltz</content>
+  <content contentuid="hz3qyurq2hqntps9am4oz6dr0fn8a5sxy9750" version="1">A dance in death, graceful and unstoppable.</content>
+  <content contentuid="h01devulqg51cvyqu5nuxcuo6hppd253ri57o" version="1">Lolth’tarath "Lolth’s Bane"</content>
+  <content contentuid="hjkxl23ote7riyp7tpywn0nbmfg20iwrwdms9" version="1">Born to end a tyrant’s reign - each cut defies her venom.</content>
+  <content contentuid="h0sbnify25c6gsr37vx2qgvji9sqdcqk9814x" version="1">Seldarine's Wrath "Holy Judgment"</content>
+  <content contentuid="hii5qdn67zays4726e0g98skq4x2r7tqzsuvg" version="1">A divine fury tempered by light - holy justice made blade.</content>
+  <content contentuid="hele6oybv9ipygd5ro4150vu2iktetb27q9bt" version="1">Moonlit Vow</content>
+  <content contentuid="h14zut8922k3m0dnefgckqv869yxjgxiz0kc1" version="1">It swears loyalty under the stars and never breaks its word.</content>
+  <content contentuid="h9mr2n39525whtratty8drwpcyzhn4jei017a" version="1">The Wandering Radiance</content>
+  <content contentuid="hbujz1my3t7q5p1tsoxwvekr7ssuzdld4y1vb" version="1">It drifts between hands, always drawn to those who hope.</content>
+  <content contentuid="he58a6826d456xwbsx7bao03ktqgap1n0ro9s" version="1">Faer Tel'Baequi "Spell of the Moon-Song"</content>
+  <content contentuid="hggrwqdq003o06cighs47mwdozdalz4d48tgb" version="1">Spellsong and swordplay united in radiant devotion.</content>
+  <content contentuid="h2t0piirecm4hhspgtx80hhxacjcv957bpkh0" version="1">Ziln’rel Shinduago "Truth under Darkness"</content>
+  <content contentuid="ho4x8a8kt0468zohw3v2ud81y55zhmth24xj4" version="1">Its edge reveals hidden truths cloaked in darkness.</content>
+  <content contentuid="h3c1jd0bz2jwg7zpag1r251mv9hy3gskddrvy" version="1">Veilbreaker</content>
+  <content contentuid="ho49c1kothzrk3qy3pacxcfqyy2wjfj8lrnxt" version="1">It shreds illusions and deceptions alike - no veil survives.</content>
+  <content contentuid="hd3kx0k8motqwb4ajpxrf60aafi5e6wh4ckfk" version="1">Radiance Untamed</content>
+  <content contentuid="he5d89dtiqdms37xuo1oup6leh9j1ygcl6xjd" version="1">Brighter than fire, wilder than wind - it cannot be caged.</content>
+  <content contentuid="haiky6gw5rxcbx1zxguayhqicxl20ouqllltz" version="1">Rrinnoroth of the Crescent "Crescent Blade of Justice"</content>
+  <content contentuid="h1vlzp0127kbnsidbn6v283ka7et5jj4uni10" version="1">Justice arcs wide and true - a blade shaped by faith.</content>
+  <content contentuid="hel73lqemvu10s7mc6zvvd7wyp6b3x6plu69e" version="1">Tlu Bel'lae Eilistraee "To Be Beautiful Is to Follow Eilistraee"</content>
+  <content contentuid="hcp79kwa9sr8x6djt8igcyxlb64fmz6jd5khn" version="1">To wield it is to honor beauty, mercy, and the moonlit path.</content>
+  <content contentuid="hzyajwr08j02bxkmmjdcblu1okwgzeuq19szz" version="1">Last Kiss of the Maiden</content>
+  <content contentuid="hao76m2ap3b5z71yv7igpoidronxy7vykg0cx" version="1">Bestowed in the final moments before death, this blade carries the sorrow of parting. It delivers its touch with the softness of a farewell and the finality of an oath.</content>
+  <content contentuid="h2q8hdgdkjnov1v7o8hfsk5arco1542nlfjnm" version="1">Zhaunil's Whisper "Priestess's Whisper"</content>
+  <content contentuid="hb0lfhtgcos6pffxvufboj4din68hwc3qfkhy" version="1">This sacred dagger hums with barely audible prayers. Its wielder speaks not with words, but with the divine will of the Dark Maiden carried in every strike.</content>
+  <content contentuid="h9s4hbssweylznu2uevrngxr9zdb446uhj248" version="1">Il’haress Mercy "Matron’s Mercy"</content>
+  <content contentuid="hjppy0dknsxafs1w2zikyaov8jpcawnkile0q" version="1">Both punishment and forgiveness flow from its edge. The matron who wields it offers peace through steel, tempered by duty and devotion.</content>
+  <content contentuid="hhxlbkqqas76dg32pilnd8ii7bknysjtejkbd" version="1">Spellsong’s Edge</content>
+  <content contentuid="hycerzwaxe59z1rmf1u8vsv8y1ithfb34h5lo" version="1">Forged where music meets magic, this blade harmonizes with its wielder’s spellcraft. Each swing echoes with a chord of power that resonates deep into the soul.</content>
+  <content contentuid="h4tws7j62wwtbesx3ow0wc2gmadzbcgpgj9i3" version="1">T’rei’tar "Swift Dance"</content>
+  <content contentuid="ht0bxgscim8vzoh83hw7btsqcgchxnrlfv50w" version="1">Faster than the eye, this blade spins like a dancer in full flight. It needs no flourish - only motion, rhythm, and lethal precision.</content>
+  <content contentuid="hdhi7f42gxotfq98e3pp13gv0cyno43lpm1qu" version="1">Draa'zilrae "Echo of the Dark Maiden"</content>
+  <content contentuid="hy8rvw44g2442d94y6snpewnqtoei2kt0t5th" version="1">A remnant of Eilistraee’s first song lingers within this sword. It answers her call in battle, echoing her sorrow, love, and fierce protection.</content>
+  <content contentuid="hxszeizylibn8n0t2r1rdn1g8fekwhp0k5c2v" version="1">Promise of the Promenade</content>
+  <content contentuid="h4li1s71ric8nz7kohtgbatdx57sciz73nget" version="1">This blade was given to those who vowed to protect the sacred groves of Eilistraee. It gleams with quiet conviction and never fails those who walk her moonlit path.</content>
+  <content contentuid="hpyxz2p3pbrimch8kpo8qizw1ohm3ay1qdyq6" version="1">Dance of the Silver Crescent</content>
+  <content contentuid="hrvewynop68ipeddq8nzp5fy4z98zzg8tjtk9" version="1">Arcing like moonlight over still waters, its motion is a sacred dance. Each strike is as graceful as it is devastating, honoring the rhythm of battle.</content>
+  <content contentuid="hnnhc0dftb5zv8brr22vx60kn42g3v2ii0tu4" version="1">Ssin'sra Dancer "Dance of Grace"</content>
+  <content contentuid="hangtjcl2brbn7e62yo5475d5o2ynvc2v7nmm" version="1">Elegant in its lethality, it flows with the perfect grace of practiced art. Wielders of this blade fight as if performing before the goddess herself.</content>
+  <content contentuid="h305vpz9r3mqcfvk95yith4vp9ehh66p2w7bq" version="1">Darklight Twin "Left Eye"</content>
+  <content contentuid="hztrha1b1zgotsbhl9rmu6on2xft5mhepit8l" version="1">One half of a paired set, this blade flickers between light and shadow. When united with its twin, they create a perfect balance of brilliance and gloom.</content>
+  <content contentuid="haadppppiaxvfvhs6c3t344t4zbybo9hxgmqo" version="1">Darklight Twin "Right Eye"</content>
+  <content contentuid="hn9nkn6igb8smy5p4y4chis4p7dqb4wyjiftd" version="1">Crafted alongside its sibling, it mirrors the moon's dual nature - luminous above, secretive below. Wielded together, they strike as one soul in two forms.</content>
+  <content contentuid="hp80t7s9wquq3657pv4074bhzr41h94dw6iud" version="1">Blade of the Last Dance</content>
+  <content contentuid="hjzqjxipe73vh3kotyj8yc0l4m8dp5bkro7pj" version="1">Said to be wielded in the final battle of a fallen priestess, this blade remembers her last steps. It now moves with the memory of defiance, sorrow, and sublime beauty.</content>
+  <content contentuid="hje1d7gtmxlr4dnqrbsfme4rjsi92sn1oe6g5" version="1">Quar'valsharess Requiem "Goddess's Requiem"</content>
+  <content contentuid="hudsyf5eeece09cmv56nyiz8wari2t2eo14d3" version="1">A divine lament forged into steel, it mourns every lost soul who strayed from the light. Each strike carries both the sorrow and forgiveness of Eilistraee herself.</content>
+  <content contentuid="hxj5iovh653eefh0a6qb9mrmcxz3el5llisjr" version="1">Z'ress D’tel’quessir "Power for All Peoples"</content>
+  <content contentuid="h4c5tnw8136kaz5iue3q6cm2qc9fuolws75h0" version="1">This blade was made in the vision of unity, not conquest. It empowers those who wield it with righteous purpose, whether elf, drow, or otherwise.</content>
+  <content contentuid="hgolspsncou3bd8vw2gm0vl7ya3wqwnyp7fqx" version="1">Vhaer tlu Sarn "Truth Shall Be Moonlight"</content>
+  <content contentuid="hugnfhk4iokbig3khur35306nf60opmhy34mn" version="1">Inscribed with ancient vows, its edge reflects the truth in every lie. Those who carry it are bound to justice, even when it comes cloaked in shadow.</content>
+  <content contentuid="hxap45c1r437uk4im1gmskblpss89rggkv6oc" version="1">Tear of Eilistraee</content>
+  <content contentuid="hunc2q5dcs2yjvcwts63mw3fb56e2m585w8e4" version="1">Shed in divine sorrow during the banishment of the drow, this crystalline blade holds the compassion of a goddess. Its radiant edge heals as it cuts, mending broken souls even as it defends the innocent. Those who wield it are blessed with visions of Eilistraee’s path. To strike with it is to weep for what could have been, and fight for what still can be.</content>
+  <content contentuid="ht9y2midefmjpvjhip3vx2l21d2pk1faedix4" version="1">Ultrinnan’zil "Moon-Dance Blade"</content>
+  <content contentuid="hlxf7dwz5ax6nxeyt4pujycvu83deroo8f0ts" version="1">Forged in the heart of a moonlit grove, this blade dances of its own accord, guiding even the untrained in the goddess's sacred rhythm. In battle, it arcs with luminous grace, leaving stardust in its wake. Its motion is mesmerizing, almost hypnotic, as if the moon itself were wielding it. Only those who hear the music of the night can truly master its steps.</content>
+  <content contentuid="h0hqxtx36wjbpzt0andc16v5pibw01dx217j2" version="1">Z'resslin "Strengthling"</content>
+  <content contentuid="hyyjaa99cx2jp7f81dq8mup5cjsqwqj4ml41m" version="1">Though small and unassuming, this blade holds the strength of ten champions. It was forged for the frail and overlooked, granting them the might to challenge tyrants. Each strike roars with latent power, turning vulnerability into righteous fury. It reminds all who see it that strength is not size, but spirit.</content>
+  <content contentuid="h56xo5lzuqmtydx6nzz09nvhmsmvayl0na0xx" version="1">Veldrineth "Little Shadow"</content>
+  <content contentuid="hep0gd21f8q5jclz8wbu10357rhazqwn6yqj6" version="1">Born in deepest darkness, this blade slips between worlds like a whisper. It is silent, unseen, and ever vigilant - the perfect companion to those who walk the twilight path. Its shadowy edge leaves no wound upon flesh, only on the soul. Legends say it can pass through walls, dreams, and even regrets.</content>
+  <content contentuid="h3f6klusguun6nbrg3v4971vta21kvndhnl48" version="1">Eil’mystra’zar "Blade of Light and Magic"</content>
+  <content contentuid="hdyxte2wzd91amnq7v2oct2aoa0vfwucoy8rs" version="1">Infused with Eilistraee’s divine moonlight and Mystra’s arcane weave, this weapon bridges the divine and the arcane. It sings with pure resonance when wielded in defense of the weak. Each swing unleashes spiraling glyphs of light, weaving protective magic and destructive force in equal measure. Only those who honor both goddess and spell may hold its hilt without burning.</content>
+  <content contentuid="h0sa0x68xpqlblrkpm6sqsrydwilvlt65mujb" version="1">Sword of the Promenade</content>
+  <content contentuid="hzphpolxcpbppnj8oxa76mqn5uyiwk62cpkq7" version="1">An ancient relic, this blade once guarded the gates of the Promenade itself. It hums with reverence and memory, protecting not just a place, but a sacred ideal. When unsheathed, its glow draws courage from those nearby and fear from those who have lost their way. To bear it is to become a living prayer in steel.</content>
+  <content contentuid="hq3c7yeiodmv4jyl2ivs5e5ne4rua1teflopo" version="1">Faer’kyorl "Magic Watcher"</content>
+  <content contentuid="ht711e4v7oeeo105neq07zvmtbinvvzkbpzcu" version="1">Inscribed with sigils of the goddess, it channels divine energy through motion.</content>
+  <content contentuid="huuf3c3njn4lk91e74yof0ogf0poj7qjpnu6p" version="1">Blessed Raiment</content>
+  <content contentuid="hgfpo32q4vbzuzevlvduhujpdmsiw4k5991pi" version="1">Embroidered with spells of old, it shields the wearer from unseen danger.</content>
+  <content contentuid="h5sg8x86rxtxrgih3y2udy3dbzr65f739344p" version="1">Dancer’s Weave</content>
+  <content contentuid="h0c2fr5ys742ghmfg4nme7ewinlq30bazbwui" version="1">Soft and unassuming, it cradles the body in gentle warmth and subtle enchantment.</content>
+  <content contentuid="hc7984l34u5advk5xkwjqics7epbr5dqxanoh" version="1">Silken Hauberk</content>
+  <content contentuid="hkejwmdsvivsgzrk6cgncy6ht9p3cgppgpikz" version="1">Though simple in form, it holds protective magics woven into every thread.</content>
+  <content contentuid="hipd1y39hamoa8ph02vhdih6amdirnuxavr4z" version="1">Ultrinnan’shinduago "Dance of Truth"</content>
+  <content contentuid="htebbxneurhbb1b4epn0k0y49vr25qgikfjpp" version="1">Every movement in this garment reflects an ancient truth, etched into its fibers by celestial hands.</content>
+  <content contentuid="hc5w2lmkjdyjw92l3tv88hut90pmdre20ryhs" version="1">Zhaun’shinduago "Knowledge Truth"</content>
+  <content contentuid="h16x1e6gkqu33k2xsf779fx4ahmgqj0pbi8x1" version="1">Infused with clarity, it shields the mind as well as the body in moments of divine revelation.</content>
+  <content contentuid="hxoc44woterg9uo0srze6ao8xd8035q21q2vs" version="1">Ssussun’kyorl "Moonlit Watcher"</content>
+  <content contentuid="hgx0oi3s34xb49g12ln7kir8g71ie5b55s8qq" version="1">A robe of silent vigilance, it grants the wearer insight as sharp as the moon is bright.</content>
+  <content contentuid="h9xwxopha101arvj6aes24rgwh434m9e8fxnh" version="1">Zhaun’linth "Knowledge Harmony"</content>
+  <content contentuid="ht8i3mjl7j8eb5dq3gtuqdjfrog0yro6x68md" version="1">Laced with threads of wisdom, it grants quiet understanding and inner strength.</content>
+  <content contentuid="hmeoi6g6xn0a7gt4oiup05y549i8x5qdck483" version="1">Eclipsed Tunic</content>
+  <content contentuid="hg35ibf06i0npxi262crjve5h9lqtxe3jewnw" version="1">Wearing this grants the aura of a moon eclipsed - quiet, majestic, and dangerous.</content>
+  <content contentuid="h4vvizipx7sz7xthlz0toyxpweuugf01l0rpx" version="1">Faer’tel Coat</content>
+  <content contentuid="hicmm8rfcash63rqvbvyifgoch3ke6bnzdfg3" version="1">This coat hums with latent enchantment, perfect for those who guard with magic and grace.</content>
+  <content contentuid="hkf9u19a231bjq24u42dyll68aqprewjnb0t4" version="1">Dancer’s Wrap</content>
+  <content contentuid="h45m1cf3cc2wu9laykudou98prjpax2dv1ch6" version="1">Wrapped in this weave, the wearer becomes both observer and instrument of divine rhythm.</content>
+  <content contentuid="hvu1xeh2p6050hkp74sji69ni8h7abz5fr6r3" version="1">Faer’tel Mantle</content>
+  <content contentuid="h3wyqaxir8wyvv4xczwyy7dvxnijexizl3d0h" version="1">Draped in sacred intent, this mantle binds the wearer to the arcane song of the goddess.</content>
+  <content contentuid="h5umhrrih6sxpusq2n9wr8148mozdytkj624h" version="1">Ultrinnan’ilhar "Dance of Matron"</content>
+  <content contentuid="h5k4h01kicco1dlfz71l9ocdvwrg9si3hlrks" version="1">A matron’s pride spun into form, this robe radiates command and reverence alike.</content>
+  <content contentuid="hzdw09o545gk587oh06b8msr4s0i6exhgvt4w" version="1">T’rei’malla "Graceful Beauty"</content>
+  <content contentuid="hzzr7l6f2ppy3fdq2f5rjwy8vaacqbe78nuue" version="1">Adorned with sigils of elegance, it transforms each motion into an expression of beauty.</content>
+  <content contentuid="hbex9rwijsdv5qzsmuup2jvwr6jeuk5puxwr4" version="1">Oloth’vharcana "Shadow Glory"</content>
+  <content contentuid="hva343usaiadz29grc2a9wflp16qyhija2u31" version="1">Its shadowed folds conceal a brilliance that bursts forth when wielded in justice.</content>
+  <content contentuid="h5mf49gtihltk548mdbdyw67c3a1408moe719" version="1">Blessed Vest</content>
+  <content contentuid="htxs9b0p5mnhcn5vymm0bd5f0riarjfg0gncf" version="1">Sanctified in moonlight, it bears blessings in every stitch and fold.</content>
+  <content contentuid="hwvv8gcmg3feyb2r9urzu1chyvf0tmcgz8ii3" version="1">Warded Veil</content>
+  <content contentuid="h512267j3mz67rgwxaxcbnf83qm2hdzwt3e2f" version="1">A ward against spiritual darkness, it shields with grace as well as power.</content>
+  <content contentuid="hi4mm84sb2tkk5i7mwr6lewl06lrgua6yps2i" version="1">Glimmershade Shell</content>
+  <content contentuid="hy0rfz0gvejni99rl031mfbib8id2xzi2re0q" version="1">Shell-like in structure, it shields the soul as well as the skin from corruption.</content>
+  <content contentuid="hmlj8b8t9q2eeobwuc1dzefj1bqvcoyf01xvq" version="1">T’rei’vharcana "Graceful Glory"</content>
+  <content contentuid="h5b658hem03zijfcus16ncth8mzh59yz89fvk" version="1">With every movement, it shimmers like sunlight over polished stone.</content>
+  <content contentuid="hpkrjedsuascs5s9buic9ej6l91nybdp3t17o" version="1">Ultrinnan’malla "Dance of Beauty"</content>
+  <content contentuid="hhpgja7suzrvc1syn6xoi6pjy8kkezobvptub" version="1">Elegance perfected - each thread imbued with the intent to awe and endure.</content>
+  <content contentuid="hpiu474vp1jkfldqtyfg3saompfo73xxtrbt5" version="1">Velve’tlar "Silken Guard"</content>
+  <content contentuid="h6xt5no70qthw9o76m9i9rc9nrz84zotrdggr" version="1">Soft as silk, strong as resolve, it guards without ever resisting the dancer’s flow.</content>
+  <content contentuid="hn5k1kqmb7nznp4vrv9zwqyb9z4cl13pcxjyo" version="1">Veilbound</content>
+  <content contentuid="hfhsz9ogeketci3r9t6f1rh33hrakmc0ef43d" version="1">Skinned from illusions and shadows, it grants refuge to the worthy.</content>
+  <content contentuid="hddlojb5z1o1u9c016u486ky040fah9daey99" version="1">Glimmershade Aegis</content>
+  <content contentuid="hd1ii9uwgilfsgt9agc52nvjpoc7jfdd5j83z" version="1">A radiant shell against intrusion, strengthened by moon-blessed sigils.</content>
+  <content contentuid="hz7ejoknz2rd4augd9605x7rvs01jh2si21ol" version="1">Harmonious Aegis</content>
+  <content contentuid="hevrsr8vljo2prc3811y9mbh8grpr8ke38a6y" version="1">It vibrates gently with divine resonance, bringing peace to allies and dread to foes.</content>
+  <content contentuid="hmj3esmug25p8hzarxrjxpmrsbq7wyw6kjtfr" version="1">Duskwalker’s Guard</content>
+  <content contentuid="ha3pvdwnzwxhkaqadzf1ft9t7q2c0atez3nfz" version="1">Its dark hue hides sacred purpose - guardianship draped in mystery.</content>
+  <content contentuid="hq1ctpf5e6b3wq4k2mxhb8uyltykujf7dmchn" version="1">Oloth’malla "Shadow Beauty"</content>
+  <content contentuid="hn52magvttd51469kz4ig2g92gzwl4bwqbz3d" version="1">Robes such as this are gifted only to those who embody grace and song.</content>
+  <content contentuid="huzs2inyu18uh5wlslq5nhtqmd4d7wts11mxf" version="1">Lunar Weave</content>
+  <content contentuid="h5k8yvna4zl1876j4u5zja72g8g2q3luwentz" version="1">Woven from strands of moonlight and arcane thread, this robe resonates with divine energy.</content>
+  <content contentuid="h7r163gzlxvv6ay55o84xa57a5d6f3q0hspf6" version="1">Ssussun’tlar "Moonlit Guard"</content>
+  <content contentuid="hmu9g1yl5nkhv36wxdsqj7bpb0vx6a32t1fuz" version="1">Moonlit glyphs woven into the hem shimmer only when danger nears.</content>
+  <content contentuid="hm5exvfds1s0mfrign8pz01ei5qx4nmiebrt3" version="1">Windswept Vestments</content>
+  <content contentuid="hygwh65f09yye5sw1782xnnpl3ahoeufarchn" version="1">Each step in this vestment trails mist, as though the wind dances with the wearer.</content>
+  <content contentuid="htzlb5iu36snb5gr0ju6l7iwvtihqgg8cne7f" version="1">Faer’linth "Magic Harmony"</content>
+  <content contentuid="hkipmschqhj5vp8eu07i4kf5a6erwa1wdi6si" version="1">Blending arcane power and serenity, its harmony flows through every hem and fold.</content>
+  <content contentuid="h5ttaemjk94fjgz64pnp3b0h0gvk9nworoaxh" version="1">Lunar Guard</content>
+  <content contentuid="hlhbm4bthihwdp39v7nyuunc3wzt43egb7sp8" version="1">A robe that pulses with silver light, protecting and empowering the heart beneath it.</content>
+  <content contentuid="h0jcb1np3xp95e1wbvgekpf70hse218zn1zp6" version="1">Ultrinnan’zar "Dance of Blade"</content>
+  <content contentuid="h6gdxx2vvgt6pkxfwkv2mutjnwev1ecqtpl4z" version="1">Its swirling design mimics a dancer’s flourish - beautiful, swift, and fatal when provoked.</content>
+  <content contentuid="hfykmkvifbp63sj3rpufcyxr01ljmg8djixib" version="1">Whispering Tunic</content>
+  <content contentuid="hv3u076ewbag8213aw218wshgb3nwifo7x8ka" version="1">Whispers seem to rise from the fabric, shielding the wearer with unseen song.</content>
+  <content contentuid="h7ed6lgu7gtly5ibc8nrr6v6t662q4ldbsjcu" version="1">Zhaun’zhaunil "Knowledge Grace"</content>
+  <content contentuid="hkjiaxzm863k3cs0dbfjj6nts1u5wkcqdz4ps" version="1">The stitching forms subtle glyphs meant to turn away malevolent magic.</content>
+  <content contentuid="h74ru88l67o82ihtd9np07f44u0z9kfin7cuk" version="1">Xorlarrin’linth "Darkforge Harmony"</content>
+  <content contentuid="h0k4r1cfsr7mt7jj3tjyumkuh5opl3n13wilr" version="1">Crafted for stealth and serenity, it muffles movement and absorbs tension.</content>
+  <content contentuid="hmrgpvoxzitpqwlcczieuqhtsq20urnu071rj" version="1">Faer’tel Shell</content>
+  <content contentuid="hbemamedpn8sxm9i67oeukhdfbjbe6i64xmml" version="1">Enchanted with arcane wards, this shell cushions both body and spirit against intrusion.</content>
+  <content contentuid="hnp0of29t8mv3kctobknmjy4i6fc3lju1ohur" version="1">Windswept Skin</content>
+  <content contentuid="hy6myyxl9136c83q8wgbi0qh3kogcyph2enmp" version="1">Its light form hugs the body like a breeze, shielding its wearer without sound or drag.</content>
+  <content contentuid="h2pp61bxtm589wqfj3pfdrjd2hwn4ovjziioz" version="1">Radiant Coat</content>
+  <content contentuid="hi32hk0jeyntuwaweb4t9cxrqrh6qvzl8s0dv" version="1">Woven with sun-touched thread, it grants calm clarity in moments of chaos.</content>
+  <content contentuid="h8p1xristrqup42sqjj0ti0wgzq8po9fwy1yz" version="1">Veilbound Coat</content>
+  <content contentuid="hg9edtg8w6xgldwqguwyems8guzwq9kq4eas7" version="1">Bound in runes of concealment, it mutes footsteps and masks heartbeats.</content>
+  <content contentuid="h5c76ci9xqvm4qibp7wf6gbpvybqdw0dvt7er" version="1">Oloth’z'ress "Shadow Strength"</content>
+  <content contentuid="hyvjtbsbnupaxrchkhgkhcjzykmh2hdzbufsf" version="1">This armor glows faintly with the strength of deep shadow - a guardian’s mantle of resolve.</content>
+  <content contentuid="hl3acs821lbyreq8u2dsmm7aexsvpfrqwrg5i" version="1">Faer’shinduago "Magic Truth"</content>
+  <content contentuid="hixqodgvyjt1n1udrfi721v6uuzkjk12idb19" version="1">Etched with truths both spoken and hidden, it bolsters magic with each breath drawn.</content>
+  <content contentuid="h0rydemvs9ga00oxfjljs4yt9z0ysd3ydlzno" version="1">Ssussun’zhaunil "Moonlit Grace"</content>
+  <content contentuid="hr77mvrq143cs2iace1kab3s9yyvmq4wwhn80" version="1">Moonlight dwells in its core, diffusing warmth and serenity through every motion.</content>
+  <content contentuid="hkedb3rknj8lbcicb2jxh0pbpix2czs0qybza" version="1">Silken Mantle</content>
+  <content contentuid="hruiteyic2fctl7trf2uory84bhns3zx59elq" version="1">The soft sheen of its surface belies the strength interlaced within its layered weave.</content>
+  <content contentuid="h0s1m6ngfff84j5lf76jpqckyuwztigjlklhj" version="1">Whispering Skin</content>
+  <content contentuid="h9anggv46tdzewcjmb3vly8tlcabr7y31i2tb" version="1">It breathes like skin, whispering promises of protection in times of silence.</content>
+  <content contentuid="h68xi1tyd8l1hgbwco673mxkd794cimnqmsm1" version="1">Glimmershade Ward</content>
+  <content contentuid="htuays9k4ryxwwypmmacmg9ncqk7xb672c7k9" version="1">A faint shimmer trails its edges, like dew clinging to morning light.</content>
+  <content contentuid="h6coyhso15wtxf9c6crpunuvotpuqh3wmoo8y" version="1">Veilbound Shell</content>
+  <content contentuid="h7m5xhlud7ckta76qwq78tuddyw5tk75m014j" version="1">Crafted for defense through dignity, this armor folds around the wearer like second skin.</content>
+  <content contentuid="hzlk3gd86pqgosoteuh9a49ihy42g5ues9poa" version="1">Ilhar’shinduago "Matron’s Truth"</content>
+  <content contentuid="hasj7e7t375nasqa84kaeoqyvcjiyb7sd202d" version="1">Pillowed for silence, it offers comfort even in the thick of night.</content>
+  <content contentuid="h8yvlivvyl3q4ibqa2srhkg1omr1rk58ono6e" version="1">Qu’ellar’zhaunil "House’s Grace"</content>
+  <content contentuid="h5rskp9p1laobxzimt7l4rp44u8l3e3n797ie" version="1">Elegant yet unassuming, this armor carries a matron’s quiet grace into every step.</content>
+  <content contentuid="h07tyj9pdjrne0x8wzik0nkzouvzqze92p6iv" version="1">Velve’zar "Silken Blade"</content>
+  <content contentuid="h7a3l7p6ycnofiteqganahhunztvpd4z57wsn" version="1">Soft but sacred, this armor hums with quiet prayers woven between layers.</content>
+  <content contentuid="h06an1nbewsuoqf10te3qtomo2sinfuzb78zw" version="1">Ilhar’z'ress "Matron’s Strength"</content>
+  <content contentuid="hjpkima8dufkrolcnxludu2w77mkuoo3vevv3" version="1">With every fold stitched in reverence, it radiates confidence born of legacy and strength.</content>
+  <content contentuid="hq65iu7uw3y1vyqwmobysfxqap3l2xorvy5fk" version="1">Radiant Carapace</content>
+  <content contentuid="h9xjyy0gmhotd90gqtdve2mckqs4qja4qgtg9" version="1">Layered with radiant sigils, its form deflects harm through gentle repulsion.</content>
+  <content contentuid="hbckq5tcea0q42lxo6vj8l3btod1mv1170hvi" version="1">Radiant Weave</content>
+  <content contentuid="houvrwt6iqmb0k8k6n9gmdimpw874nxqx67a5" version="1">This weave sparkles softly under divine light, calming both heart and foe alike.</content>
+  <content contentuid="hxakya63tm0cv3u5se2bhxsb3xopcgvdklvx0" version="1">Faer’vharcana "Magic Glory"</content>
+  <content contentuid="hnqmsudx1kk7afahp0sut6osue73lwww5buxd" version="1">Etched with holy sigils, its hide pulses faintly with moonlit energy.</content>
+  <content contentuid="hxdu49g2im5btgsxvk94sqplspe2m5wocbp3w" version="1">Ilhar’tlar "Matron’s Guard"</content>
+  <content contentuid="hhxm8ydr3g5l6w1spyj0eifvzd1qadbjjc87o" version="1">Worn by duskblades and guardians of the Promenade alike.</content>
+  <content contentuid="ht7ak5lr0mtxbag7ktdj2tktwezck01dp02eh" version="1">Xorlarrin’zar "Darkforge Blade"</content>
+  <content contentuid="hnmt5yaxu83s2nbovspviib7o8rreqxeo9cni" version="1">This blade-forged armor bears the marks of ancient power, granting swift lethality in silent form.</content>
+  <content contentuid="hfaggrj475whhq686xmhxame2zfhhlumy590a" version="1">Windswept Hauberk</content>
+  <content contentuid="h1mjeqs160ogqusqlotgt6r21g6v1ywxjak6c" version="1">Light as wind, it shifts around the body like a storm on the cusp of movement.</content>
+  <content contentuid="homanupq4sok2jtzlhitlbukb9ph9qo2eqqgr" version="1">Sacred Embrace</content>
+  <content contentuid="hffy1tmitmz64vsqtshgmsywiq9i0sjq9hmer" version="1">Every stitch holds a blessing, radiating warmth and divine intention to its bearer.</content>
+  <content contentuid="huit3oczc1dppzfm9s69tn05pki997v45mkhf" version="1">Shadowkissed Leathers</content>
+  <content contentuid="hnwkwp4hjpb8izgtx5qgfipo5swoyzw9ms4l1" version="1">The supple surface absorbs light, allowing the wearer to vanish between heartbeats.</content>
+  <content contentuid="hxywh86fjpiyulgn8jq0g0kix54zsvq6dqbce" version="1">Velve’zhaunil "Silken Grace"</content>
+  <content contentuid="h7v7olcu80xw1n763hgew3ebezez7oitfjlrs" version="1">Woven from silken threads and reinforced with intent, it grants beauty without sacrificing defense.</content>
+  <content contentuid="heqqg3hzjoufh54b53zyjjiowyx1q9y6ludig" version="1">Zhaun’malla "Knowledge Beauty"</content>
+  <content contentuid="hdpc19ug4o6oilzbtjqp64hnnthke70ivijjd" version="1">A fusion of intellect and elegance, this armor invites calm precision with every breath.</content>
+  <content contentuid="haowvhk2aa3cbjc0w28co4fciiubg7jzaw9c0" version="1">Oloth’tlar "Shadow Guard"</content>
+  <content contentuid="h0ckk2jpt6y0kiocnnpi8ivrju9gktfoji37w" version="1">Anointed in darkness, this armor offers vigilance and unyielding resolve beneath its folds.</content>
+  <content contentuid="h4theosb6sbpcetkibk2qbfkc6c86x02jqkat" version="1">Faer’malla "Magic Beauty"</content>
+  <content contentuid="hi92e0fftz4btdn2jl5yh3f1dpb6dsz8romw0" version="1">Forged from the darkest steel and finest hide, this second skin moves with lethal elegance.</content>
+  <content contentuid="h2louyhqxvxkt8jt3m0u2ggtv8wfmebdrvcjy" version="1">Silken Garb</content>
+  <content contentuid="hvkddshf3p61q20s1b6wumlw8p3lrx6kn3jmf" version="1">Gossamer to the touch, it bends around the wearer like flowing water and layered mist.</content>
+  <content contentuid="h9b9vxur686cj26nd51unopwq13kms1fccqdh" version="1">Lunar Skin</content>
+  <content contentuid="hy6ncdtafm0xayhuqh3whrjwghhq7ftd8bcg8" version="1">Harvested from lunar-touched beasts, its pale hide grants comfort and uncanny resilience.</content>
+  <content contentuid="hm8eov6vkcptjyljmv6zr6e45qpue5fs807lg" version="1">Windswept Wrap</content>
+  <content contentuid="hx1q2uvbuhh81fcm3c4a14abst29w02s2cuei" version="1">Wrapped tight for travel and combat alike, its fabric breathes with the breath of wild winds.</content>
+  <content contentuid="hhe1ql74mmn2zd2kbkmv7xe0zfzyy3c9gaouj" version="1">Veilbound Weave</content>
+  <content contentuid="hfsaac9owmabddy3uhmd8wx8bgaob5wmxccvq" version="1">Threaded with veiled glyphs, this weave binds shadow and moonlight into seamless motion.</content>
+  <content contentuid="hcu7necx7o2kv0zu06pn6ky08jvfyyvlivtl5" version="1">Xorlarrin’zhaunil "Darkforge Grace"</content>
+  <content contentuid="hemzx8xc0bjglerjf6kwg16p271qh99vlgu0p" version="1">Silent in the dark, it offers flexibility to those who strike like shadow.</content>
+  <content contentuid="hyai6xqxh2jppbla6gqojkfiq082k99293yyh" version="1">Duskwalker’s Shroud</content>
+  <content contentuid="h9yd53vfe448q8zzxjqv6z48e9tfupxdlnfnx" version="1">Draped in shadowed folds, it blends perfectly into night and memory alike.</content>
+  <content contentuid="has5a5uda7kj0o405p8mgdhfm7onp87uyvsb5" version="1">Lunar Leathers</content>
+  <content contentuid="h98ojp7g099gd9ko790psg6t6ww6lgj9tb3nl" version="1">Soaked in silver light, this armor pulses with moon-born resilience and grace.</content>
+  <content contentuid="hmn5ok3k9en0jadolz59t1a2dlg9qce0ppaqa" version="1">Silvered Mail</content>
+  <content contentuid="hvebdu1xf27q83s2wfem09zd0igjpeh97k9wt" version="1">The silver sheen dazzles in low light, distracting foes just long enough for a deadly response.</content>
+  <content contentuid="hm9cu3xq9u2bxavhsczv3pzlk57dx5v90mqfm" version="1">T’rei’kyorl "Graceful Watcher"</content>
+  <content contentuid="h5i6waki3cm5ba68luyec1epiy3vizl3ofllq" version="1">Tempered from sacred beasts and blessed by priestesses of the moon.</content>
+  <content contentuid="h10ap7bc82a9opopxpcjhlbep9lyvhjd54kvq" version="1">T’rei’zar "Graceful Blade"</content>
+  <content contentuid="hhn0uobc3rgsody7n40vnptqrpfy9g9zj87h6" version="1">Sharp in line and fluid in fit, it responds to motion with an almost musical rhythm.</content>
+  <content contentuid="hqxpvwb13cb4rygk62ccwnwmln3dexpkmucs8" version="1">Zhaun’z'ress "Knowledge Strength"</content>
+  <content contentuid="hheab7plrsxxht9wsdyxb7df23rgitdiaiy8h" version="1">A hybrid of form and function, sacred and savage alike.</content>
+  <content contentuid="hq34m2mjlwlel7cwsoo26dtvtg5vudguix8es" version="1">Zhaun’vharcana "Knowledge Glory"</content>
+  <content contentuid="h0ab7wgtwro4z28ymv7kwjd53jb4vlzvacm58" version="1">Each stud is a blessing, hammered in place under moonrise.</content>
+  <content contentuid="hm4gn9w86vy7tdhjmm2ilhhzkj0a2tu8mvjtr" version="1">Lunar Aegis</content>
+  <content contentuid="hudvf8dyu9td5iblqb17pjo1rkcfmsg5poon6" version="1">Light and reinforced, it protects while enabling the rhythm of motion.</content>
+  <content contentuid="hd9h87lxehql32t625d3t41wxe9fgfe2wulz4" version="1">Veilbound Carapace</content>
+  <content contentuid="hy795hfd0gg2utxh0e7wap9pa4jolbh08zfrs" version="1">Bound with enchantments of concealment, this armor conceals the wearer in layers of shadowed grace.</content>
+  <content contentuid="hbzl309pwhvlfh93wg7kkckbngxh9dd77wjk1" version="1">Whispering Garb</content>
+  <content contentuid="hl56zdr4abw5iaux36jr62lc5o6fmj29gyc9o" version="1">Each step in this garb is hushed, as if the armor itself guards its bearer’s secrets.</content>
+  <content contentuid="hifynfeqrj8y1le97kdgmkmsor61v3irimif7" version="1">Ilhar’ilhar "Matron’s Matron"</content>
+  <content contentuid="h2cftqpdlxlr6an105t0jkfdcs7m3mipp37xq" version="1">Embodying the strength of a thousand matriarchs, this sacred leather grants unmatched authority.</content>
+  <content contentuid="hc4co7o69vcx0wok3nqzdk5j5z266r77sx9wc" version="1">Xorlarrin’kyorl "Darkforge Watcher"</content>
+  <content contentuid="hmj8usnfkyg5f7ttelfjvc89w3y2u75smu6hh" version="1">Built in ancient forges, its dark studs gleam with the light of purpose long hidden beneath the earth.</content>
+  <content contentuid="h96u90lita27r24825vp2t1x4nlbw1ksfehkm" version="1">Zhaun’kyorl "Knowledge Watcher"</content>
+  <content contentuid="htdj1tfzf71gj8yqgv4m7c8wf11biotrfqzbp" version="1">Infused with insight, it grants the wearer not only defense, but clarity in times of doubt.</content>
+  <content contentuid="hwraiw7cfq2lkzk93t5ns0byc4tj830j53n9w" version="1">Radiant Ward</content>
+  <content contentuid="h1ovfntqk3kvutz1gew9porxx758xzdxo3az2" version="1">Its radiant studs pulse with protective energy, shielding the faithful from harm and hesitation.</content>
+  <content contentuid="h1ze6g07rbwm6suk7c1e3715tynyeg55fldok" version="1">Dancer’s Embrace</content>
+  <content contentuid="h8sn74wflpz47rrkdc3aqcmsxev21zirke8rn" version="1">This armor holds the warmth of a guiding hand, offering security in the fluidity of motion.</content>
+  <content contentuid="hg6dz7jynuf90ugo0rql4ev9t19jvpa5uoauf" version="1">Veilbound Guard</content>
+  <content contentuid="hszenei9ikgdb1dsn8nwjvsckzi68pyize5zd" version="1">Woven in secrecy, the studs conceal sacred patterns only visible to those attuned to shadow.</content>
+  <content contentuid="h6enjjuz6vxkoh0lzq0lgis0t9znfngtyk376" version="1">Whispering Shroud</content>
+  <content contentuid="h0lhdsexasnlm2irq2gbk40ilg5hiqpwves44" version="1">Soft as breath and silent as silk, this shroud turns the wearer into a whisper of vengeance.</content>
+  <content contentuid="h241fdt8nieejrs6jqj0yoctlc31wzvpfjcka" version="1">Dancer’s Leathers</content>
+  <content contentuid="ha5k614khujb9ka0utwwxpjl6ysqam6a8z096" version="1">Tailored for movement and expression, it protects without hindering the flow of dance or battle.</content>
+  <content contentuid="hmsu17s3ibu7tnuql6dprqtsei96q4s13a91a" version="1">Faer’tel Mail</content>
+  <content contentuid="hujdifvei5qr2dqggs84bh76wlxclfkbljixt" version="1">Runes of moon-song magic pulse from each plate, anchoring enchantments of resilience and swiftness.</content>
+  <content contentuid="hpy81a5tsri8b9n0ysrlboxnepj1mhlmzfbhh" version="1">Xorlarrin’shinduago "Darkforge Truth"</content>
+  <content contentuid="hx4g4a41s0j8dmdg26gfsryb3rtivtt42b57v" version="1">The leather shifts like liquid shadow, studded with divine intent.</content>
+  <content contentuid="hciy19aea1gpy3y8yeynylcvx6npupnq1pjp8" version="1">Ilhar’vharcana "Matron’s Glory"</content>
+  <content contentuid="hv0elcsuqvxdwxnsdceluw42dlahdpef6hcsv" version="1">Glory clings to each reinforced plate, a matron’s pride sealed into form and function.</content>
+  <content contentuid="hsy5aezzlezgcisjdcdn458ytqcqr682qiz8q" version="1">Sacred Weave</content>
+  <content contentuid="h5znqg70gmy81nxeui5zjjadc1knj52qbxz3g" version="1">Studs etched with holy sigils enhance the divine energy woven into every seam of this armor.</content>
+  <content contentuid="hy5p7vyayztcxnw1c70auc187y9svz8xee1jq" version="1">Ssussun’ilhar "Moonlit Matron"</content>
+  <content contentuid="hearplkqc110ueuunh5x8z99utwy380kyx5cd" version="1">Blessed under a full moon, this armor protects with a mother’s care and a warrior’s poise.</content>
+  <content contentuid="h12hetntw4jrmi396l4p0lqmgc8azjqhlx7zn" version="1">Xorlarrin’z’ress "Darkforge Strength"</content>
+  <content contentuid="hqga6c1cz618klmhlq0prea9cz3fsm5nszu6q" version="1">This chainmail flows like water, offering unmatched agility and silent defense.</content>
+  <content contentuid="h28k3qajt9vezk2y8lgv7woonsb5g3ualtzr1" version="1">Oloth’kyorl "Shadow Watcher"</content>
+  <content contentuid="h8ee6si2471qvttxwslk5sc43vu2vuhws93ns" version="1">Forged in silence beneath the surface, this armor grants its wearer an unseen gaze and vigilant strength.</content>
+  <content contentuid="huulueb6grv4z2chftx6vpjannt5kzh4dqhet" version="1">Shadowkissed Carapace</content>
+  <content contentuid="h6o6jlaomjn7ifnrwe6yux7uf9ku0df17rdpj" version="1">Whispers of darkness linger across its surface, cloaking the bearer in comfort and concealment.</content>
+  <content contentuid="h4itmep5a7sykg88jaficfs6ernox30pb32ci" version="1">Eclipsed Mantle</content>
+  <content contentuid="hldl5byxpzxrtc7iuyhzol0u2up85sqy1e4tp" version="1">Shadows cling to its edges like silk, veiling the bearer in quiet reverence and subtle power.</content>
+  <content contentuid="h4sw05przgn89a215a91pz3lvksgu3iblgagn" version="1">Twilight Weave</content>
+  <content contentuid="hht31c8833f8ako01li5ucu0deb0e1ubu6yvb" version="1">Each thread hums with the resonance of sunset - light fading into purpose and poise.</content>
+  <content contentuid="hag29ch6owcsaxni2xawf6kkmyc2eh82rxlab" version="1">Oloth’shinduago "Shadow Truth"</content>
+  <content contentuid="hi0bs9c6kf5z6zktrk5nqsmikejxq9hf1txi8" version="1">Its shimmer shifts like lies revealed - darkness pierced by unwavering light.</content>
+  <content contentuid="h8sjbi5rmw3x50hsb6s462ef0ul68pjjxc91s" version="1">Ssussun’linth "Moonlit Harmony"</content>
+  <content contentuid="h6fx4xc49d1tcderbbdjhyxqzvdxggt0e0tmt" version="1">Moonlight ripples over this armor in rhythmic pulses, echoing the heartbeat of battle.</content>
+  <content contentuid="hs0f94722c5rji6vcj8anjj0rmgxslrugyqhy" version="1">Twilight Mail</content>
+  <content contentuid="h6hookvfb7x22j9zt9q9v66lpvh2rpgg7bss6" version="1">Refined for the twilight hour, its shine remains unseen until it is far too late.</content>
+  <content contentuid="he473pildsn0y9any5ru5us25h9k9pxxj1nw8" version="1">Moonwoven Grips</content>
+  <content contentuid="hj0jtruzqcgpnaq52mtqifag1t8fzldbd9wqt" version="1">Delicate gloves spun from silver-threaded cloth, imbued with soft lunar blessings.</content>
+  <content contentuid="h1f02vhk7untvs0ycc3txfl5hncyo6uao4rrs" version="1">Twilight Fingers</content>
+  <content contentuid="h48soszsvvezstg9vr16advinxy8m81qfek0i" version="1">Lightweight gloves dyed with twilight hues, ideal for both ritual and subtlety.</content>
+  <content contentuid="h9xtl0u4cii41pfmf811d1fnvfzs4fu7kxz5o" version="1">Zhaun’tlar "Knowledge Guard"</content>
+  <content contentuid="h6pgimmikq71nioxg2bwb7z2rgalguy494xn5" version="1">Infused with knowledge, these handguards aid their wearer in fine craftsmanship and precision.</content>
+  <content contentuid="hmux5jfrw3m1uw64h91wae48fourmlqe8figu" version="1">Qu’ellar’mysstra “House’s Magic Song”</content>
+  <content contentuid="h6xdxcgsg38eau4jcld4y7c8k4u70ed1th20q" version="1">Moonlight shines in each stitch of these gloves, guarding the wearer with silent vigilance.</content>
+  <content contentuid="h8eif7m9vnq6htk6xbxjx334kliw7svnx16xt" version="1">Whispering Handwraps</content>
+  <content contentuid="hv6zypp04hla024bgdmnnjbxw34nepcts610w" version="1">Whisper-thin layers of enchanted fabric, muffling touch and sound alike.</content>
+  <content contentuid="hmmlb4ljtdsrj2v4zcrw627mnec51m6jphf94" version="1">Ultrinnan’linth "Dance of Harmony"</content>
+  <content contentuid="hwzo2mhm2f85vt8ar2b57enezauva390wpk44" version="1">Woven for those who move like dancers, they grant a flowing harmony to every motion.</content>
+  <content contentuid="h2fwqnd7uizarn0tnyoxv7uw1g2k56wmpr7ip" version="1">Sacred Wraps</content>
+  <content contentuid="hv9aktm2tthc1jkh2mdghkglzn7co9ii0ps1v" version="1">Blessed wraps that radiate calm, shielding hands from harm while enhancing focus.</content>
+  <content contentuid="htlhshax693ejj6vjmlf3vhp7893f6qh9nveu" version="1">Ssussun’vharcana "Moonlit Glory"</content>
+  <content contentuid="hidisi23milmbmkgi8mefjwp00cgssnd0l5gg" version="1">Moonlight clings to the fingers of these gloves, offering grace and divine beauty.</content>
+  <content contentuid="hhyogw0b9hr9dfx72zwkjbfh365i8qffy1whr" version="1">Velvet Touch</content>
+  <content contentuid="ht6r14ublxl0p27uucdutdaxayhqj2cus6tmc" version="1">These gloves feel as gentle as velvet, perfect for intricate and precise work.</content>
+  <content contentuid="hjf4h1t5p6ke5pkktxwhek1mc1yjeglretzz4" version="1">Faer’tel Gloves "Magic Song Gloves"</content>
+  <content contentuid="h30kib17wpgkvhahtrx4anzv4um7mhfynwl5d" version="1">Threads of music and magic are interlaced in these gloves, making each gesture a spell.</content>
+  <content contentuid="hleawxc27udnzkwt4el2kb58tiantxsa56xji" version="1">Shadowbound Grips</content>
+  <content contentuid="h9mzs69it1sxlhjowy69sdm3mu565wkqjvdkj" version="1">Gloves crafted from soft but sturdy leather, bound with sigils that channel stealth and protection.</content>
+  <content contentuid="hkmsqiaoyuhh3fe845vaqqgocq50fo4ik940f" version="1">Duskwalker’s Fingers</content>
+  <content contentuid="h4txg92k9bq9he08xz9lbefi523cqnqo4ksds" version="1">Perfect for travelers, these gloves flow with the rhythm of silent, endless footsteps.</content>
+  <content contentuid="hy71fc9l8wnyur0t7v4p3odibsg7e9tg20oo3" version="1">T’rei’tlar "Graceful Guard"</content>
+  <content contentuid="h6nndq174yq3jq82zyzpflxxk742fkn2r0347" version="1">Elegant gloves that add grace to every action while protecting the hands in battle.</content>
+  <content contentuid="hnx5ohebhax71ab3qo6pcln1m355ego44exp2" version="1">Ilindith’tlar “Surface Guard"</content>
+  <content contentuid="ho26sczo63830f129xni1dqbvc1dzuc4hzejn" version="1">Gleaming with arcane energy, these gloves radiate magical glory with every gesture.</content>
+  <content contentuid="hkcvoer8xqlykekuqupzvhrkp5idppu1jjmct" version="1">Velvet Fang Gloves</content>
+  <content contentuid="ht6sqdlkvv070tr6r9n1a449ri6ljjkje5t5h" version="1">Supple leather reinforced with hidden threads, blending elegance with ferocity.</content>
+  <content contentuid="h8ufhqy1w7xwgf02l4q5yv3t04803surxndbz" version="1">Ultrinnan’malla "Dance of Beauty"</content>
+  <content contentuid="htitcnh0z76rf8j7xhyh784o64y8rzb04ur07" version="1">Every movement in these gloves becomes a step of elegance, a dance captured in leather.</content>
+  <content contentuid="hfvido3edhgzi44r92sppvj7w1nke87dnetlv" version="1">Moonlit Claws</content>
+  <content contentuid="hjw208twbjz5uq9rqg0yomtwuucj6wovopxir" version="1">Each claw-like fingertip gleams with silvered edges, enhancing both grip and precision.</content>
+  <content contentuid="hdg5aqqpvgy1q29oqhlwq65qz6wybb5lr9wcn" version="1">Oloth’zar "Shadow Blade"</content>
+  <content contentuid="hvrjtrngab7qh7gmlay3pbaj5u93ejpevyoe3" version="1">Forged in shadows, these gloves balance lethality and delicate control.</content>
+  <content contentuid="hq4fidd0zd3emjbjuvusab14tbw1amy25iudt" version="1">Silent Hunter Wraps</content>
+  <content contentuid="hjvxmmtx4tsbe4gcipg7bg6nxdlapoha5rl8q" version="1">Forged for silent stalkers, they mute movement and grant confidence in the hunt.</content>
+  <content contentuid="h97mqvnnt8ctr4hs4fy4lkceme6gz1j0qwgy1" version="1">Faer’zar "Magic Blade"</content>
+  <content contentuid="hyp764ywe64ub2ovd9h9frd11z8js1px7buuo" version="1">Charged with arcane power, these gloves enhance strikes with a flash of magical force.</content>
+  <content contentuid="h7y48ftbhmgvoekh0w3s7ww7j8ui3gttbrgz4" version="1">Radiant Diadem</content>
+  <content contentuid="hilei91ec46xtv4he24ma7vu8xasb2tsnpeqk" version="1">Sparkling gemstones line this diadem, imbuing it with a divine radiance.</content>
+  <content contentuid="hrw4dqcttof5isa0bvwhhrharqh2vxctutiwe" version="1">Faer’zara "Magic Blade"</content>
+  <content contentuid="hmowhx98ng83qugtg3d5y1nya0kn19s9c29fx" version="1">This circlet hums with arcane magic, granting focus for spells of sharp precision.</content>
+  <content contentuid="h0s4c317bv1h79i8e8w0pln4ze451brusrokw" version="1">Faer’dor "Magic Path"</content>
+  <content contentuid="he5cgvnmlmgih8pj41kd7aq7txv1sr2ca5wrv" version="1">Arcane threads guide the wearer’s movements with balance and elegance.</content>
+  <content contentuid="hlnmy7usdqfy851j2cpbumspq8qbzl08xap7h" version="1">Ssussun’morath "Moonlit Path"</content>
+  <content contentuid="h1okzt2g7ntmpdsith78f4pu7e6qox353jagw" version="1">Moonlight weaves through each seam, giving steps a calm and luminous grace.</content>
+  <content contentuid="hd231htizghbh2jakocr4ijzaujinpuxtycnq" version="1">Twilight Band</content>
+  <content contentuid="hsnqss7hhun8jn956mafsaiuley4gt8p9k8gt" version="1">Shaped like the fading sun, this band channels focus and balance.</content>
+  <content contentuid="hrrkl2ppd17b4i0yl1yedkd6d3r6rk2nl04um" version="1">Oloth’zara "Shadow Blade"</content>
+  <content contentuid="hg0o4dzmoqm6ai5o7ovk7xb5y3r4yc933mv4p" version="1">Forged in shadow and shaped like a blade, it sharpens focus and grants decisive clarity.</content>
+  <content contentuid="hqs3l10kh6mp5ueh5a2pzqvntl4xxeypzxz71" version="1">Velvet Crown</content>
+  <content contentuid="h6nuk8bxyjoujvcr3knuuvbfqzpk0jamka6ne" version="1">This delicate crown grants its wearer poise and an aura of quiet strength.</content>
+  <content contentuid="huvlqfvux5mi7i5s3h6l3tybn1xh64ocbm2d5" version="1">Ssussun’malla "Moonlit Beauty"</content>
+  <content contentuid="ho4snbp1gyzdre3fm0eaxy72kj6z01co7qf46" version="1">Moonlight blesses this piece, wrapping the wearer in gentle elegance.</content>
+  <content contentuid="hg2ugmuqnvzr7szs2839m3v6mixyzb1n9neoz" version="1">Moonwoven Circlet</content>
+  <content contentuid="hj3ulnyslahnxj6o7sr0nihs6s2ztln1ypi77" version="1">A circlet of woven silver and moonlight, enhancing clarity and calm.</content>
+  <content contentuid="h54x1e3shk0ql4f3uebue0nu98mxocxpkoz9v" version="1">Oloth’tel "Shadow Song"</content>
+  <content contentuid="heg4wcu2xhw6f9bfk42exzvfrh7sc0ps9f4i2" version="1">Forged in deep shadow, it grants subtle insight and a whispered song of guidance.</content>
+  <content contentuid="h4zjq80xeo70h1fgbl6zyd0i1eoh1msj9e7mi" version="1">Velvet Path Boots</content>
+  <content contentuid="hylocl27ynh50vnfg1i0girmytew9d20jsmc2" version="1">Boots lined with velvet, giving a gentle step and a refined look.</content>
+  <content contentuid="hf0n6bbve492oih166zaqkfov9gvnhmtqu358" version="1">Shadowbound March</content>
+  <content contentuid="haqrapzx6in72c2ghizvoojp4etize4aw9ad2" version="1">Reinforced yet light, these boots carry an aura of secrecy and silent power.</content>
+  <content contentuid="h49ku2vqou091r0jyd42cj3tyzu5h3ufe8y7s" version="1">Ilhar’dyn "Matron’s Journey"</content>
+  <content contentuid="hl5z4f7nnvfuq9kdaszit0p3qlo8fg03f89ti" version="1">Symbol of a matron’s journey, these boots blend tradition and resilience.</content>
+  <content contentuid="hfo99rqn5go6rpf50lyttt72q3vd3xvs4djy5" version="1">Zhaun’morath "Knowledge Path"</content>
+  <content contentuid="hv3sqzd4miik8v2filgd6bux6qw55gkdtezrd" version="1">Inscribed with ancient wisdom, these boots improve balance and awareness.</content>
+  <content contentuid="hfehposnv3ryww7f2zhk0ukgzp3d34lq4ux5b" version="1">Dancer’s Step Boots</content>
+  <content contentuid="h1e7pq46exbjq2e48t9vz3hlbqfgni471bevi" version="1">Built for fluid movement, these boots aid those who dance through battle.</content>
+  <content contentuid="h7dud7vq4zuwo6p3gfbpz7zeoedycsn1crrc2" version="1">Oloth’dar "Shadow March"</content>
+  <content contentuid="h58cwux26xgn42go5h5u5s65096bb98nfxfdc" version="1">Forged in the shadowed forges, these boots are perfect for quiet marches.</content>
+  <content contentuid="hj4u6ja9o6mzoxbythxclayuq64u12gr11mex" version="1">Moonveil Treads</content>
+  <content contentuid="ho6r7nd5omo866s3f7egiqa9ay794lz4f2ysa" version="1">Soft leather infused with moonlight makes every step lighter and quieter.</content>
+  <content contentuid="hh4qc5fh3m9n9vzkf5glognlccydqlplyixq2" version="1">Ssussun’lorath "Moonlit Path"</content>
+  <content contentuid="h97w8yvygl568o60uc1pvq55q6pragz3433dl" version="1">Blessed under a full moon, they guide the wearer’s feet with grace.</content>
+  <content contentuid="h6p8zt1gzs13oxe7oedbj81n7sqbi4owcxdzc" version="1">Silent Strider Boots</content>
+  <content contentuid="hm0wgk1dn04i2yxjsit7izx1xslptrof0zdxq" version="1">These boots are crafted to move without sound, ideal for stealthy travelers.</content>
+  <content contentuid="ha8wafif3zrukjtwqr065q3jvoabq8l45rukb" version="1">Faer’dyn "Magic Journey"</content>
+  <content contentuid="haitdmvq8zt3jnxcqhf6x939v1nw2ihy1daeh" version="1">Imbued with magical energy, each step feels guided and effortless.</content>
+  <content contentuid="hqvvskmehfj0gbb03v15e612of97zvdc65oqb" version="1">Twilight Softsteps</content>
+  <content contentuid="h93ugagbmrnkg6ntubth41ucejk9mxpzzing8" version="1">Boots crafted from soft fabric, ideal for slipping unnoticed in dim light.</content>
+  <content contentuid="hu08vizccgfc0snytqpt0wtcd9sl9y89v4da6" version="1">Velvet Drift Boots</content>
+  <content contentuid="hx29mhqlih9cbu93dpl627p86rv1wzem7zo97" version="1">These soft cloth boots glide as if walking on clouds, reducing noise and fatigue.</content>
+  <content contentuid="hw1xvws4rrj9hdlxr4b1xrbg7wen5pcjp9c15" version="1">Ssussun’lir "Moonlit Step"</content>
+  <content contentuid="hzqvd2srv0bv9drqnhqilryym8w0iag23zyw8" version="1">Threads of moonlight stitched into these boots guide every movement elegantly.</content>
+  <content contentuid="hscy7izijhielu6hfo7w0rilxgh6m8vnr0no2" version="1">Zhaun’vrae "Knowledge Step"</content>
+  <content contentuid="h9wjlt6iwsjrla1k99wyn398x6lksfq6n7dl4" version="1">Lined with sigils of learning, these boots help the wearer stay sure-footed.</content>
+  <content contentuid="hgxba5xec7eqlgs27hrywt5i0l9mqebw6ev2f" version="1">Whisperstep Boots</content>
+  <content contentuid="hcbdsheiwgnet3lxoo71yc9keqr69eiklw2g1" version="1">Light boots that allow the wearer to move like a whisper through quiet halls.</content>
+  <content contentuid="hnju69yp5jf9qd6vtejx4ze3swvovhitb420g" version="1">Oloth’sel "Shadow Step"</content>
+  <content contentuid="hivmhaqmerialsajcslhtd79mv5irvds3m9cn" version="1">Infused with shadows, these boots are nearly silent, perfect for subtle paths.</content>
+  <content contentuid="h34agg5r6frhjams93vj1dhoqjknseeimaci8" version="1">Moonlace Slippers</content>
+  <content contentuid="hd2a6k63qcvpbu5edq79u19854wrvs6zq7dso" version="1">Woven with moonlit threads, these slippers make even the heaviest feet graceful.</content>
+  <content contentuid="h857z8n93bqw6pcrotp0qw4uhq5w5g4ub6sdy" version="1">Faer’sel "Magic Step"</content>
+  <content contentuid="hafaye5m6syianfu8z917prsf5am3sc4kdwtr" version="1">Each step resonates faintly with arcane magic, quickening the wearer’s pace.</content>
+  <content contentuid="hmh5zs35y2lzippij3v82ervl3cwjfr62r6en" version="1">Dancer’s Tread</content>
+  <content contentuid="hx5k84kuqfzt9i7kkan5nvsdkvk6cap844k7b" version="1">Perfect for those who dance or fight with grace, aiding smooth and agile motion.</content>
+  <content contentuid="hhgp3fbj3rszlulwh4rpq8iyw253wi5w8o8o2" version="1">Ultrinnan’dor "Dance of the Step"</content>
+  <content contentuid="hj3hbr51tqze5sd0yuc6qyej2uagudt9r62dy" version="1">Made for sacred dancers, these boots carry a divine rhythm in every step.</content>
+  <content contentuid="hqvcpvmr7qkfn4zp3dcwsmknr9f3kkr8a9yog" version="1">Moonwoven Mirage</content>
+  <content contentuid="hd1frp96lgkyhymt7peepno4pvtukdd3g4833" version="1">Crafted from delicate moonlit fibers, its shape shifts like an illusion in the night.</content>
+  <content contentuid="h3fcjgpb33h81g9qtdwnrrfih6nopbsnch4sf" version="1">Silent Horizon Mantle</content>
+  <content contentuid="hdb2gm39zsyl470s5od0z2le70wfb12eiyfhd" version="1">Woven for travelers of silent horizons, it grants serenity under open skies.</content>
+  <content contentuid="he138cxuc7hkj04seqtgl4ln37tfa8jjzufi7" version="1">Duskmantle Embrace</content>
+  <content contentuid="heggi1qtooatglv5tcj6zia7e45vqco8biaux" version="1">A deep mantle of dusk-colored fabric, it offers protection like a lingering embrace.</content>
+  <content contentuid="hf91luu58jwclrr4npeclichrj6slnh13964d" version="1">Starlit Drift</content>
+  <content contentuid="hvhsddkpcc3slslaq007ub00ks1zbvrt3uq1x" version="1">Sparkling like constellations, it drifts behind the wearer with a faint, celestial glow.</content>
+  <content contentuid="hu0bvr2ai04a9nqwwxcucxwfiixwmdpd1h7ui" version="1">Aurora Veil</content>
+  <content contentuid="h5vtdihbd2hy8a79nm1o0f95cyn9jb8zuaawb" version="1">Iridescent threads of dawn and dusk mingle in this veil, reflecting the light of the aurora.</content>
+  <content contentuid="hywja2f86prd1oex5nndcm42p1qumiofrlk3t" version="1">Ultrinnan’dra "Dance of Shadows"</content>
+  <content contentuid="h8u8eenewpxuu01p8lrl0jyjpa6ck8v8yhc0s" version="1">Blessed by ancient dancers, this cloak moves as if in step with a shadowed rhythm.</content>
+  <content contentuid="h7ltpoff10xwb7fw3fdbgbbo1913062j78q1m" version="1">Faer’vyn "Magic Veil"</content>
+  <content contentuid="hnxguqadi9nokoavyw2uh99kd5mxhr5i0umym" version="1">Arcane and elegant, it cloaks the bearer with layers of subtle, protective magic.</content>
+  <content contentuid="h4ax6szvlpzvlw6myewq6v2ogts83ad8koh1w" version="1">Oloth’drynn "Shadow Embrace"</content>
+  <content contentuid="h3dwur2hhq0ks6mc7irxpdcz1k3bw7mgrtjd0" version="1">Forged in dark halls, this garment shields as if embraced by the deepest shadow.</content>
+  <content contentuid="hudvujygh7ali9n8xwrsa6vhsktnizhy0qk2l" version="1">Zhaun’selune "Knowledge of the Moon"</content>
+  <content contentuid="h3gjyxw9k2qvp5mljytlj9akqzdty2o5ipiso" version="1">Woven with wisdom and lunar light, it channels insight and quiet grace.</content>
+  <content contentuid="had9rpjsqhbcl7jhne20s4qy3z2bv0o2cg20u" version="1">Qu’ellar’talinth "House’s Grace"</content>
+  <content contentuid="h1wid0c7xj4j8mafei46rforccam0iiog9ra4" version="1">A gift of the noble houses, it grants protection and grace to those who lead.</content>
+  <content contentuid="hhkrtqglznwmsrhmlyew93hueyio1mri3k38z" version="1">Shadowfall Veil</content>
+  <content contentuid="hng4kqkmq4e0lypsghdtecqsxkmagegfw5cru" version="1">Dark and flowing, this veil cloaks the wearer as if night itself had fallen upon them.</content>
+  <content contentuid="h8d2ddle49r2g9l672hlpck3uiejsbru8ufqu" version="1">Ilhar’dryl "Matron’s Cloak"</content>
+  <content contentuid="hzi5c64m009cxs96hjiw6w85im18l8znyt9id" version="1">Stitched for the matriarchs, this cloak speaks of reverence and command.</content>
+  <content contentuid="hge0e59lwtw5pbk1rzxqzyh4by9uzh5wlsg7l" version="1">Silvercurrent Cloak</content>
+  <content contentuid="hll7pplr3dzx1av11w2yhzq2pc4mk2q4x6nlw" version="1">Threads of silver run through this cloak, creating ripples of light as if caught in a current.</content>
+  <content contentuid="hnc0vnrdteocx3ci4w0teqidv0hktlxxkesvo" version="1">Ssussun’mortri "Moonlit Sanctuary"</content>
+  <content contentuid="hyqiw170wuhvyu5gyrah4iricee7zm4496yxb" version="1">Runes of moonlight thread through its weave, forming a sanctuary for the wearer.</content>
+  <content contentuid="htk49b154reifsf0z3jini38lz61ls231sjrd" version="1">Eclipsed Serenity</content>
+  <content contentuid="hk22xv1wtmrcl4xrzzrvicdcqja9kb3g45gzf" version="1">A cloak that flows like a quiet eclipse, shielding its wearer in tranquil stillness.</content>
+  <content contentuid="hfulmgc9plfayyeswls7sx8zh5p85rtvt5f6x" version="1">Velve’thalra "Silken Whisper"</content>
+  <content contentuid="h3ul4x2exadldso1wf8tzaidgv11shycb6upe" version="1">Silken threads carry soft whispers, wrapping the wearer in concealed beauty.</content>
+  <content contentuid="hrih13kxpjp3lpch3buy1hvv6aqyy6fifmmzj" version="1">Lunar Echo Ring</content>
+  <content contentuid="hvhlkjojdhjnv2o5xw0gm42w9f2jb7yro8pnr" version="1">This ring resonates softly under moonlight, its faint glow bringing calm to those who wear it.</content>
+  <content contentuid="hm8mvr3x2a4pmjm4ym32fwq9i9e9226tcdkbo" version="1">Ring of Starlit Grace</content>
+  <content contentuid="hts5li3lauctltq2t7ggzdi6d6yptkpkwf8ph" version="1">Fine silver bands swirl like constellations, filling the wearer with gentle grace.</content>
+  <content contentuid="hc13xr14i6nxaxhuvq0rhp9uguskmhy975i6e" version="1">Harmony Loop</content>
+  <content contentuid="h5bx2ooqyftxd2lq8r6yhppd7ofk4le7umtkg" version="1">Two delicate loops entwine in harmony, a balance of form and spirit.</content>
+  <content contentuid="h61syxk25qy9x1p5gnl8txiolx25g36uxnu9b" version="1">Shadowveil Ring</content>
+  <content contentuid="hrjtf4mat1tyurvfsdpgjt5tscyfjzy0lnz26" version="1">A band cloaked in darkened metal, veiling its magic until the moment it is called upon.</content>
+  <content contentuid="hxe70x7fsd2xpv8pw7ksv8f1sy98cucyvfa4a" version="1">Celestial Drift Band</content>
+  <content contentuid="hrabfkh7ficovz1497cudwv9pa56flirkzb6g" version="1">Shaped as if from drifting stars, its presence inspires the clarity of the heavens.</content>
+  <content contentuid="h5ufeivfbc3kivquutkqw4pcgnempmrzn4rxx" version="1">Echo of Dawn</content>
+  <content contentuid="ht5mazw8igi105v7cgyr22mpyg5jws2w2zuzu" version="1">The warm hues of dawn live in this ring, promising renewal and resilience.</content>
+  <content contentuid="h0bcji2u8cxxj48junrjob8yct42ovyeiewgn" version="1">Aurora Spiral</content>
+  <content contentuid="hdl7ptomrfnjw2asu99zw74wyl1ycq3hmxqj7" version="1">Threads of shimmering light spiral across the band like ribbons of the aurora.</content>
+  <content contentuid="hm3vxl19e87hbuaiohtciody5lgb8i1sfcknw" version="1">Faer’zith "Magic Circle"</content>
+  <content contentuid="h22uuss152krclqyiodu5tn5odrzml7kxoj7b" version="1">A thin band humming with magic, it shields the heart and steadies the mind.</content>
+  <content contentuid="ht3mwl0hhunbjfen4lgn9gq1b6kruvl5aapul" version="1">Oloth’zira "Shadow Jewel"</content>
+  <content contentuid="h9sju3u1lvd6rt9gg2fvytqwien1n3nht3bxz" version="1">Polished obsidian holds a single gem that captures the silence of the Underdark.</content>
+  <content contentuid="h498el5jhll68antswfxhhfvnzgol8a1do9b1" version="1">Zhaun’quar "Knowledge’s Bond"</content>
+  <content contentuid="hi0632w9syfdz6v8mfs5acpjponq5q49jyc5p" version="1">This slender band strengthens memory and knowledge, guiding its wearer’s thoughts.</content>
+  <content contentuid="hzhgi0xk8vy5jqbh2nky52bzc04kuzhbuf2sf" version="1">Ilhar’ssin "Matron’s Blessing"</content>
+  <content contentuid="hb0wiat836aq99inkuxsac67dgvzk2unqwt3w" version="1">Blessed by matriarchs, this ring carries the weight of tradition and protective care.</content>
+  <content contentuid="hg7r3d20okjj7nx0otui7jivptp5glcb7fgyf" version="1">Qu’ellar’vrae "House’s Step"</content>
+  <content contentuid="hwtey2p6323g8v7st48mtndjztny2zzl78vxv" version="1">Crafted in reverence, this ring marks the steps of the noble house with quiet grace.</content>
+  <content contentuid="hh5jqzvv0tf7bkvg0ekdjoti9adh3ojjwsag0" version="1">Druu’malla "Peaceful Beauty"</content>
+  <content contentuid="h7j6huqn7ysjim4qc3wl2rtehd91xorxdhrlf" version="1">Peace imbued in every curve, this band calms disputes and sharpens diplomacy.</content>
+  <content contentuid="hu9dwmu4uhed0f81fxfazcqdoozxugvr1x99v" version="1">Rilyn’dra "Loyal Dance"</content>
+  <content contentuid="h5ed1til9rrxy9aaq78s3z4o6zl30luvoctpz" version="1">Forged for loyal hearts, its smooth silver dances like moonlight when in motion.</content>
+  <content contentuid="h610um9ef9ablhzp49q7ktbf3hp8fpdw09rmi" version="1">Silent Moon Band</content>
+  <content contentuid="himnh9bqkbweoxf5dza4ezag8voiqt6678vr9" version="1">Forged from the stillness of night, this band grants a quiet and unwavering focus.</content>
+  <content contentuid="hkq2i2xzc4fgf6im8hwwhr70dwmbp4z31m2fu" version="1">Ssussun’rilyn "Moonlit Loyalty"</content>
+  <content contentuid="hvl7t434gak1icrn06w0f64tekd7285oo8kbd" version="1">Etched with moonlit runes, this ring inspires steadfast devotion to goddess and kin.</content>
+  <content contentuid="hf1m63ccy3719826i00sqm5ozxywaf02qei77" version="1">Eclipsed Pledge</content>
+  <content contentuid="hicn33oddp5rv8hjg5oe2o4tzdgy1fdalo28r" version="1">Shadow and light converge into a single band, a pledge to endure balance eternal.</content>
+  <content contentuid="h6l4wmv91homspacjm89zp609kmxjcurle4lz" version="1">Ultrinnan’thalra "Dance of Grace"</content>
+  <content contentuid="hi9m2jm048eovr1avt7rrv7dl3xf5tkwpjfqw" version="1">A sacred ring worn by dancers, its magic quickens every graceful step.</content>
+  <content contentuid="hcrhkyp1s12126utytzhhxrznf06c9oyzm6bb" version="1">Twilight Oath</content>
+  <content contentuid="h77fsh31j7gf745dskhdc66s247n2uy46ears" version="1">A vow captured in silver and dusk, it binds its wearer to promises sworn beneath twilight skies.</content>
+  <content contentuid="h2q58ic13eyvb7rtkn8vmdeqvcglf5bmqzwml" version="1">Velve’nir "Silken Circle"</content>
+  <content contentuid="hm7ght1bz863ya6f1tn8onskadfxp2edszx6m" version="1">The delicate silver weave of this ring grants its wearer both poise and subtle strength.</content>
+  <content contentuid="hj3mb3k1mornu0gmjaumweormp0vmtl22n73a" version="1">Amulet of Moonlit Calm</content>
+  <content contentuid="hy0g5xgzh79znhirrxwycwrnixv4rkklil3rq" version="1">This silver amulet glows faintly under moonlight, calming the heart and mind.</content>
+  <content contentuid="htp6w1xmelrdbmlt0gqjfdktehr5hmnu3sy2o" version="1">Shadowveil Charm</content>
+  <content contentuid="hbq5tif4nht2h497yqgchrcb873k5omuv1x3u" version="1">A charm woven with shadowed threads, it grants secrecy and subtlety to its wearer.</content>
+  <content contentuid="h0e8h57ee0yhd1hg2jf7yu2jv2d8m527ubv0f" version="1">Twilight Heart</content>
+  <content contentuid="hcvz0c84qsuttoq7k2133vnoc3rgzmyjzqm5t" version="1">Forged at twilight, this heart-shaped talisman strengthens resolve and serenity.</content>
+  <content contentuid="h7ilfjioznn6jftl19blbr0iha7q4ubp4vrab" version="1">Ssussun’mithrae "Moonlit Gift"</content>
+  <content contentuid="h5jycng08xodfpum4lx16z80ordkpvwbhfn37" version="1">Blessed by the moon, this amulet brings harmony and quiet wisdom to its bearer.</content>
+  <content contentuid="hh3p6535unjz4vpxd2wpsyku90ghw8qk42gt8" version="1">Oloth’mir "Shadow Jewel"</content>
+  <content contentuid="hruk2wx2psvlmjpw1d9uokec2e9cw81lm7mg6" version="1">Polished obsidian framed in silver, it channels the silent strength of the Underdark.</content>
+  <content contentuid="hkme0l75and6ufmndrv8n54ib1txshaen2z9l" version="1">Velve’shrae "Silken Radiance"</content>
+  <content contentuid="h6rn2q3t0ba6hih4i98wa9jw5ov4am6xyluhc" version="1">Silken threads hold a crystal that radiates both beauty and protective magic.</content>
+  <content contentuid="hk3pywt0ttk2pbpjcv1b6tv45s5l8gkdgvd8a" version="1">Ilhar’dro "Matron’s Light"</content>
+  <content contentuid="hmpjttfjrwgv9ny7we17ajr23v0zgt1976jtb" version="1">A matron’s blessing in the form of a pendant, it shines like a watchful star.</content>
+  <content contentuid="hsbdi0ig92dce6v5wgzumlkmjb945e9wiyr3s" version="1">Aurora’s Locket</content>
+  <content contentuid="hdvu6ibvg37fyico38au35g14cvnc0pipgbzw" version="1">Gleaming softly, this locket holds an eternal promise of light against the dark.</content>
+  <content contentuid="hk28rkiq2m1fxx6wosarn22wy00fefe996tg7" version="1">Faer’loril "Magic Song"</content>
+  <content contentuid="hxnlrbdkqcknp8zk172nsiug2jx0cts6s3bi6" version="1">Its magical hum resonates with songs of power, shielding its wearer with unseen melody.</content>
+  <content contentuid="hqt2z4s2myjd8mt48i1cqgrulrmdy3qaiqpf1" version="1">Pendant of Starlit Paths</content>
+  <content contentuid="hq060rmaybxcqtqai6kc2ftk780jt3ttc3x6b" version="1">A guiding pendant that lights safe paths, like stars leading a traveler through night.</content>
+  <content contentuid="h155795zdncc5w4pjlfxeqgy9jdpq1o366pzy" version="1">Moonwoven Lyre</content>
+  <content contentuid="hxd4uh7zv9we7mz9pthx7a0vcn0ed8yymiesu" version="1">A lyre crafted of silverwood, strung with moonlit silk threads, its music calms and enchants.</content>
+  <content contentuid="hxjn9082jv3826halw4gikqqgj6mfrg0ladfd" version="1">Silverwind Flute</content>
+  <content contentuid="hhflph5pn4uqo3onmm5mjipl6dz7g7z76xzap" version="1">This flute carries the clear tone of the mountain winds, guiding travelers with its music.</content>
+  <content contentuid="hwu4kljyme43knixuf5yvefvd1irk6g3g5j9o" version="1">Eclipsed Strings Lute</content>
+  <content contentuid="hhzs00u89zg0t3fsf0fgltcqqoe2li4nohd09" version="1">Strings tuned to shadow and dawn, this lute can evoke deep sorrow or joy with equal grace.</content>
+  <content contentuid="hl475kyg6v1h87q71ue77bjs43qiw29pcvvis" version="1">Velve’song Lyre</content>
+  <content contentuid="h7nfj87jxaw3b5u7k1qmz36467cjvsw6qz9su" version="1">Carved from pale driftwood, this lyre’s song is as soft and intricate as a dancer’s steps.</content>
+  <content contentuid="h3v8kynj0wskrlb07vqzv66c13pzxhbu7spa7" version="1">Ssussun’flar "Moonlit Breath"</content>
+  <content contentuid="hb61baixvnhkorpt4i2ud918nrgv79t7p3i2s" version="1">Moon-blessed and carved of crystal, this flute’s breath sounds like silver light itself.</content>
+  <content contentuid="htwhx7pabblkmhs6k3imtjz67szffq0cs1hdh" version="1">Oloth’vrae "Shadow Step Lute"</content>
+  <content contentuid="haf8a68h7scq04j9ipxc9kk3i18g0037fkxr5" version="1">An ebony lute with silver inlays, its notes echo through caverns like a guiding lantern.</content>
+  <content contentuid="hkgtoxr224e4hzi7keddp3l5pa5zm5bjhtnps" version="1">Twilight Harmony Lyre</content>
+  <content contentuid="hz51ei83wpjht0m2yise54yb63m0j4acvkm2m" version="1">Each note from this lyre rings like twilight bells, filling the air with a warm, serene melody.</content>
+  <content contentuid="h9qry9w4e761br6o8zyj2uy20v9trntxhjlg6" version="1">Shadowwhisper Flute</content>
+  <content contentuid="hkn9oe7z5you98u7osb06m04tvc27pvemeu2h" version="1">Fashioned of darkwood, this flute whispers melodies as soft as shifting shadow.</content>
+  <content contentuid="hd61pppsqfj75gyjgozrjn7e1bxysbhlvbe5z" version="1">Starlace Lute</content>
+  <content contentuid="hps2ifng5mvntgou8m4kbnpeskpmf9vmdu9bz" version="1">Starlight dances on the polished wood of this lute, giving its songs a shimmering clarity.</content>
   <content contentuid="hpt1tgkbeoogbcwwy5u7nl72efz4e3cporpag" version="1">Respec</content>
   <content contentuid="huwg0tumumz30ysmpxbos1g9li41xo86hbuqz" version="1">Respec any character using this potion.</content>
   <content contentuid="hvn816el69605lcqay3ah1atec5rn7ggf2s77" version="1">Level Up</content>

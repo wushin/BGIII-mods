@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hq7ip61x98gf8yvdjf8oqb3xuj78yrsoipgrw" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h3mevhp2uryd0m33s59xblcg66sedv3utt5nd" version="1" />
+          <attribute id="Stats" type="FixedString" value="WPN_Scimitar_Crescent_of_Harmony" />
+          <attribute id="MapKey" type="FixedString" value="9d410d75-cb6c-47c9-b35f-1575a065df14" />
+          <attribute id="Name" type="LSString" value="WPN_Scimitar_Crescent_of_Harmony" />
+          <attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Scimitar_A_0" />
+          <attribute id="ParentTemplateId" type="FixedString" value="868217db-9dcb-414c-bb88-e321ab3e0349" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="01cd461d-8bf6-cbfc-8ef5-2000a9d91e3f" />
+          <attribute id="VisualTemplate" type="FixedString" value="2980f3d2-483b-f595-f466-a10cd26d555d" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

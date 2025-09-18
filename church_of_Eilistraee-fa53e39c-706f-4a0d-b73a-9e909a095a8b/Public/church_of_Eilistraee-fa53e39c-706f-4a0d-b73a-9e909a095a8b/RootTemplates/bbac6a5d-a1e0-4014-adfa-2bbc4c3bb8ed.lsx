@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h5k8yvna4zl1876j4u5zja72g8g2q3luwentz" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="huzs2inyu18uh5wlslq5nhtqmd4d7wts11mxf" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Robe_Body_Lunar_Weave" />
+          <attribute id="MapKey" type="FixedString" value="bbac6a5d-a1e0-4014-adfa-2bbc4c3bb8ed" />
+          <attribute id="Name" type="LSString" value="ARM_Robe_Body_Lunar_Weave" />
+          <attribute id="Icon" type="FixedString" value="Item_ARM_Robe_2" />
+          <attribute id="ParentTemplateId" type="FixedString" value="7ec40cde-4d96-4352-b93e-cdcab6383337" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="205d2bc1-a8cf-b5f8-6e51-f53869bcfb99" />
+          <attribute id="VisualTemplate" type="FixedString" value="47471e6f-0055-5232-091e-40224e86eedd" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

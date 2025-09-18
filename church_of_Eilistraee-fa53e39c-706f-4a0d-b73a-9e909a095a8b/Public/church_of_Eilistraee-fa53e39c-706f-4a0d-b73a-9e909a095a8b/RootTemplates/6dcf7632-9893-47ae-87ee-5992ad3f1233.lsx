@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hn9nkn6igb8smy5p4y4chis4p7dqb4wyjiftd" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="haadppppiaxvfvhs6c3t344t4zbybo9hxgmqo" version="1" />
+          <attribute id="Stats" type="FixedString" value="WPN_Shortsword_Darklight_Twin_Right_Eye" />
+          <attribute id="MapKey" type="FixedString" value="6dcf7632-9893-47ae-87ee-5992ad3f1233" />
+          <attribute id="Name" type="LSString" value="WPN_Shortsword_Darklight_Twin_Right_Eye" />
+          <attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Moonblade_A" />
+          <attribute id="ParentTemplateId" type="FixedString" value="0a6f620d-32f4-499a-9c11-db105441a57a" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="39a955c8-3039-cf14-0a7e-a3e15d62a0cf" />
+          <attribute id="VisualTemplate" type="FixedString" value="00c3c1d9-c723-c8c9-9251-97d6dda9e700" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

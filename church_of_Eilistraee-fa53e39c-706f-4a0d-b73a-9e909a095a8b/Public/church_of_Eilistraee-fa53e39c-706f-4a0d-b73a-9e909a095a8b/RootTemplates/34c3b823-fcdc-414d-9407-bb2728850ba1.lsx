@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hnwkwp4hjpb8izgtx5qgfipo5swoyzw9ms4l1" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="huit3oczc1dppzfm9s69tn05pki997v45mkhf" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Leather_Body_Shadowkissed_Leathers" />
+          <attribute id="MapKey" type="FixedString" value="34c3b823-fcdc-414d-9407-bb2728850ba1" />
+          <attribute id="Name" type="LSString" value="ARM_Leather_Body_Shadowkissed_Leathers" />
+          <attribute id="Icon" type="FixedString" value="Item_ARM_Leather_2" />
+          <attribute id="ParentTemplateId" type="FixedString" value="ac71c753-c207-465c-b28b-c10f95ed0745" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="25f3ab03-a693-b347-07c8-6e7a0b29efb9" />
+          <attribute id="VisualTemplate" type="FixedString" value="b7b5ed84-7ecf-b93c-7772-4dfd8aefe56d" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

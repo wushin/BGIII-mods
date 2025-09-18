@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h4by2c7hoa7p41ozxwap1d5j307otgf7t56yo" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="ha6y71hxmf8xcfdu8sv04e8k18ivm7yob27xz" version="1" />
+          <attribute id="Stats" type="FixedString" value="WPN_Greatsword_Moonfalls_Embrace" />
+          <attribute id="MapKey" type="FixedString" value="4b0e740d-df66-41ef-b0ed-82df2223f848" />
+          <attribute id="Name" type="LSString" value="WPN_Greatsword_Moonfalls_Embrace" />
+          <attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Greatsword_A_0" />
+          <attribute id="ParentTemplateId" type="FixedString" value="2798c9f8-b06b-44d4-9d6c-e6d982c502fa" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="928451e2-5f3a-6d4c-8e9b-182ce189114b" />
+          <attribute id="VisualTemplate" type="FixedString" value="037c06e4-86e9-6a94-93b2-0bdccd467356" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

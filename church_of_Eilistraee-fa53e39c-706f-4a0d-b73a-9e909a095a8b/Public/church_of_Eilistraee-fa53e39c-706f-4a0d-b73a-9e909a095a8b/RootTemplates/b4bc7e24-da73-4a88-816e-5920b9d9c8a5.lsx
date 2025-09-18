@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h3ul4x2exadldso1wf8tzaidgv11shycb6upe" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hfulmgc9plfayyeswls7sx8zh5p85rtvt5f6x" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Cloak_Velvethalra_Silken_Whisper" />
+          <attribute id="MapKey" type="FixedString" value="b4bc7e24-da73-4a88-816e-5920b9d9c8a5" />
+          <attribute id="Name" type="LSString" value="ARM_Cloak_Velvethalra_Silken_Whisper" />
+          <attribute id="Icon" type="FixedString" value="Generated_ARM_Cloak_Long_D_Magic" />
+          <attribute id="ParentTemplateId" type="FixedString" value="fc49414b-49d6-4f57-ae92-721d9d912d83" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="753392b7-a79e-7c88-ab4f-6e20eb2a6f28" />
+          <attribute id="VisualTemplate" type="FixedString" value="2f747db9-2e62-f095-936a-c018103145db" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

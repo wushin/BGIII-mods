@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hcp79kwa9sr8x6djt8igcyxlb64fmz6jd5khn" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hel73lqemvu10s7mc6zvvd7wyp6b3x6plu69e" version="1" />
+          <attribute id="Stats" type="FixedString" value="WPN_Greatsword_Tlu_Bellae_Eilistraee_To_Be_Beautiful_Is_to_Follow_Eilistraee" />
+          <attribute id="MapKey" type="FixedString" value="0e67d787-0a0e-4a86-b7b4-8165b69248c1" />
+          <attribute id="Name" type="LSString" value="WPN_Greatsword_Tlu_Bellae_Eilistraee_To_Be_Beautiful_Is_to_Follow_Eilistraee" />
+          <attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Greatsword_B_1" />
+          <attribute id="ParentTemplateId" type="FixedString" value="81a83529-5bb6-4c72-b1af-6fc8f45c5706" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="6ec34d6f-a904-0a28-33e7-ad5c8cb4fa5a" />
+          <attribute id="VisualTemplate" type="FixedString" value="421b7547-1981-8a88-e706-8bb4e956c568" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

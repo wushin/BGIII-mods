@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hzpk57ln3pe739glpgi6f71ee0n02rkos36sg" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h2jki4r55gewcaitugonhxo89os7fyv65sbog" version="1" />
+          <attribute id="Stats" type="FixedString" value="WPN_Greatsword_The_Light_That_Guides" />
+          <attribute id="MapKey" type="FixedString" value="c5c5543e-e6ac-4425-97d4-2dd696280eb8" />
+          <attribute id="Name" type="LSString" value="WPN_Greatsword_The_Light_That_Guides" />
+          <attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Greatsword_A_0" />
+          <attribute id="ParentTemplateId" type="FixedString" value="2798c9f8-b06b-44d4-9d6c-e6d982c502fa" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="928451e2-5f3a-6d4c-8e9b-182ce189114b" />
+          <attribute id="VisualTemplate" type="FixedString" value="037c06e4-86e9-6a94-93b2-0bdccd467356" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hl31eabvafmgaj94fhetewmitoob7zm96xlqe" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h5gooufg8a9yqovo8pde1y2ynenkquve5q2qw" version="1" />
+          <attribute id="Stats" type="FixedString" value="WPN_Rapier_Zhaunoril_Blade_of_Understanding" />
+          <attribute id="MapKey" type="FixedString" value="14c49497-4421-48d4-82d4-34060848e2f0" />
+          <attribute id="Name" type="LSString" value="WPN_Rapier_Zhaunoril_Blade_of_Understanding" />
+          <attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Rapier_A_0" />
+          <attribute id="ParentTemplateId" type="FixedString" value="6ccc6f4d-f2a7-4e38-a96d-c3fec92fc2de" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="867843bd-2188-1292-1bb6-d5ad6c5374d9" />
+          <attribute id="VisualTemplate" type="FixedString" value="98cfbc55-27b7-baca-fa67-b2af3ffb824b" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h77fsh31j7gf745dskhdc66s247n2uy46ears" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hcrhkyp1s12126utytzhhxrznf06c9oyzm6bb" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Ring_Twilight_Oath" />
+          <attribute id="MapKey" type="FixedString" value="b8906348-5f0c-4fa0-8a16-2256f3d1e924" />
+          <attribute id="Name" type="LSString" value="ARM_Ring_Twilight_Oath" />
+          <attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Ring_I_Silver_A_1" />
+          <attribute id="ParentTemplateId" type="FixedString" value="f56496ba-a50e-49b9-8697-778160376416" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="a66957f1-6a2a-cc1c-13eb-5a19690469f1" />
+          <attribute id="VisualTemplate" type="FixedString" value="8a3db3d1-ad87-8ac9-71a6-4f53bb0a4bfd" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h9wjlt6iwsjrla1k99wyn398x6lksfq6n7dl4" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hscy7izijhielu6hfo7w0rilxgh6m8vnr0no2" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Shoes_Zhaunvrae_Knowledge_Step" />
+          <attribute id="MapKey" type="FixedString" value="b8aa594f-dc4f-4693-807a-601e6ed212d5" />
+          <attribute id="Name" type="LSString" value="ARM_Shoes_Zhaunvrae_Knowledge_Step" />
+          <attribute id="Icon" type="FixedString" value="Item_ARM_Shoes_E_Magic" />
+          <attribute id="ParentTemplateId" type="FixedString" value="c3f02e6c-d519-40d1-b686-a241a9f9972e" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="6624ea7a-b46e-78fa-f3fb-c1b9794ab583" />
+          <attribute id="VisualTemplate" type="FixedString" value="28efb600-a2e9-3cfa-ce83-323219ed6378" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

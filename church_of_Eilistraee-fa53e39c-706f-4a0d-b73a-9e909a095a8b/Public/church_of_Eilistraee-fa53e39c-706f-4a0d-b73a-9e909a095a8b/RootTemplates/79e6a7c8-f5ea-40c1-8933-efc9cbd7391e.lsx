@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hemzx8xc0bjglerjf6kwg16p271qh99vlgu0p" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hcu7necx7o2kv0zu06pn6ky08jvfyyvlivtl5" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Leather_Body_Xorlarrinzhaunil_Darkforge_Grace" />
+          <attribute id="MapKey" type="FixedString" value="79e6a7c8-f5ea-40c1-8933-efc9cbd7391e" />
+          <attribute id="Name" type="LSString" value="ARM_Leather_Body_Xorlarrinzhaunil_Darkforge_Grace" />
+          <attribute id="Icon" type="FixedString" value="Item_ARM_Leather_Drow" />
+          <attribute id="ParentTemplateId" type="FixedString" value="181383f0-c2db-4a15-9786-7d5a396dbfdd" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="25f3ab03-a693-b347-07c8-6e7a0b29efb9" />
+          <attribute id="VisualTemplate" type="FixedString" value="b81997b7-91ee-3c84-5ff4-e0abf8919d9a" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

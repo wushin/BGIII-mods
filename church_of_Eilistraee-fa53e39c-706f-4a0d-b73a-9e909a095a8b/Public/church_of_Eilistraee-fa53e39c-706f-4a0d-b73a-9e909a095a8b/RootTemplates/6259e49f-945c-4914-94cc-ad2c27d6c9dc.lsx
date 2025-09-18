@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h6pgimmikq71nioxg2bwb7z2rgalguy494xn5" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h9xtl0u4cii41pfmf811d1fnvfzs4fu7kxz5o" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Monk_Zhauntlar_Knowledge_Guard" />
+          <attribute id="MapKey" type="FixedString" value="6259e49f-945c-4914-94cc-ad2c27d6c9dc" />
+          <attribute id="Name" type="LSString" value="ARM_Monk_Zhauntlar_Knowledge_Guard" />
+          <attribute id="Icon" type="FixedString" value="Item_ARM_Gloves_Monk" />
+          <attribute id="ParentTemplateId" type="FixedString" value="d06d06dc-0aa6-407e-b4b4-3225978be1c7" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="2bed84c1-4574-06cc-c2a0-03bda2284e1f" />
+          <attribute id="VisualTemplate" type="FixedString" value="b44f2874-99eb-0e7a-c3c9-e9014b2294a8" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h8u8eenewpxuu01p8lrl0jyjpa6ck8v8yhc0s" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hywja2f86prd1oex5nndcm42p1qumiofrlk3t" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Cloak_Ultrinnandra_Dance_of_Shadows" />
+          <attribute id="MapKey" type="FixedString" value="862471ad-cc7b-44d3-a637-c77f37add7cb" />
+          <attribute id="Name" type="LSString" value="ARM_Cloak_Ultrinnandra_Dance_of_Shadows" />
+          <attribute id="Icon" type="FixedString" value="Generated_ARM_Cloak_Long_C_1" />
+          <attribute id="ParentTemplateId" type="FixedString" value="c2f0ea14-9384-4b5e-a0eb-81909ce72d38" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="753392b7-a79e-7c88-ab4f-6e20eb2a6f28" />
+          <attribute id="VisualTemplate" type="FixedString" value="3cda6ee8-7165-d606-8a74-a032cd461ae7" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

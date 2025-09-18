@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h5i6waki3cm5ba68luyec1epiy3vizl3ofllq" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hm9cu3xq9u2bxavhsczv3pzlk57dx5v90mqfm" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Leather_Body_Treikyorl_Graceful_Watcher" />
+          <attribute id="MapKey" type="FixedString" value="577b0230-6513-4cf2-8e55-d5cfb55a6c9e" />
+          <attribute id="Name" type="LSString" value="ARM_Leather_Body_Treikyorl_Graceful_Watcher" />
+          <attribute id="Icon" type="FixedString" value="Generated_MAG_Druid_Magic_Leather_Armor_Magic" />
+          <attribute id="ParentTemplateId" type="FixedString" value="10338c7e-39c8-44b3-a0a2-2a76af453718" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="a255f5d8-7ac8-7f40-74d0-3a97cd4abc8f" />
+          <attribute id="VisualTemplate" type="FixedString" value="4ca00d0c-4279-24cd-58dc-7c20dec761db" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

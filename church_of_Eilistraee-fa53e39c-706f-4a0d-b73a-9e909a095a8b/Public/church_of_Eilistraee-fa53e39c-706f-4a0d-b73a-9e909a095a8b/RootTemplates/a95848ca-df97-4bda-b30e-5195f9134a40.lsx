@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hvrjtrngab7qh7gmlay3pbaj5u93ejpevyoe3" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hdg5aqqpvgy1q29oqhlwq65qz6wybb5lr9wcn" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Gloves_Leather_Olothzar_Shadow_Blade" />
+          <attribute id="MapKey" type="FixedString" value="a95848ca-df97-4bda-b30e-5195f9134a40" />
+          <attribute id="Name" type="LSString" value="ARM_Gloves_Leather_Olothzar_Shadow_Blade" />
+          <attribute id="Icon" type="FixedString" value="Item_ARM_Gloves_Leather_Drow" />
+          <attribute id="ParentTemplateId" type="FixedString" value="f740cc6f-c7dd-4c31-8dbd-04138f59801e" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="d57abb81-7bd6-41dd-b5bd-cf4fbcd33576" />
+          <attribute id="VisualTemplate" type="FixedString" value="f034a35c-39ce-126f-0b65-cd8d0ea57daf" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

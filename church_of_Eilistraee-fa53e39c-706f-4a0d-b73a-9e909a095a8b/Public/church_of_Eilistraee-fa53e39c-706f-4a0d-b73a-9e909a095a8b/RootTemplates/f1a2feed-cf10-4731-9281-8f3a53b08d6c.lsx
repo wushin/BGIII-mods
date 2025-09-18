@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hjzqjxipe73vh3kotyj8yc0l4m8dp5bkro7pj" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hp80t7s9wquq3657pv4074bhzr41h94dw6iud" version="1" />
+          <attribute id="Stats" type="FixedString" value="WPN_Longsword_Blade_of_the_Last_Dance" />
+          <attribute id="MapKey" type="FixedString" value="f1a2feed-cf10-4731-9281-8f3a53b08d6c" />
+          <attribute id="Name" type="LSString" value="WPN_Longsword_Blade_of_the_Last_Dance" />
+          <attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Longsword_Adamantine_A" />
+          <attribute id="ParentTemplateId" type="FixedString" value="d116f35c-4399-408c-ba90-b455a5d29a1f" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="cd4a8a69-8f43-bfe1-5998-5831c52ffd19" />
+          <attribute id="VisualTemplate" type="FixedString" value="56d90029-423f-e537-a8e2-bcc797d7cdc7" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

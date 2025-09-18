@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hs0tzrrxy2sa0308vvfoe61bnct9cz463sych" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hqzwwmlr04ldq4tvsbeeagxrxcwd3a2cs6f6y" version="1" />
+          <attribute id="Stats" type="FixedString" value="WPN_Longsword_Redeemers_Grace" />
+          <attribute id="MapKey" type="FixedString" value="6fc8421f-4b36-4676-98b7-a5c150a80f9f" />
+          <attribute id="Name" type="LSString" value="WPN_Longsword_Redeemers_Grace" />
+          <attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Longsword_A_0" />
+          <attribute id="ParentTemplateId" type="FixedString" value="1865323f-b428-4791-a0a9-578841e57463" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="0671a245-3533-6589-a71b-e5948c9c6826" />
+          <attribute id="VisualTemplate" type="FixedString" value="c1319fce-3d47-ac75-e502-a3e965500038" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hn52magvttd51469kz4ig2g92gzwl4bwqbz3d" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hq1ctpf5e6b3wq4k2mxhb8uyltykujf7dmchn" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Robe_Body_Olothmalla_Shadow_Beauty" />
+          <attribute id="MapKey" type="FixedString" value="62579f40-d122-435a-82c9-43c46880a88b" />
+          <attribute id="Name" type="LSString" value="ARM_Robe_Body_Olothmalla_Shadow_Beauty" />
+          <attribute id="Icon" type="FixedString" value="Item_ARM_Cloth_B_1" />
+          <attribute id="ParentTemplateId" type="FixedString" value="e52d44c-ecda-4dcb-aefa-058e5df0d849" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="5f57d1d8-256f-66c3-c242-e71fcfd803f1" />
+          <attribute id="VisualTemplate" type="FixedString" value="e90a01fe-f187-f592-93d3-02549c8e24af" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

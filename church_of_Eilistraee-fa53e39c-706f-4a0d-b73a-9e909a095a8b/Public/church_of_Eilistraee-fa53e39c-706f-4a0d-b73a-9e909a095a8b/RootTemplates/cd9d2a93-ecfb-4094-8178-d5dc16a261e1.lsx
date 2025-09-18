@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h4c5tnw8136kaz5iue3q6cm2qc9fuolws75h0" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hxj5iovh653eefh0a6qb9mrmcxz3el5llisjr" version="1" />
+          <attribute id="Stats" type="FixedString" value="WPN_Greatsword_Zress_Dtelquessir_Power_for_All_Peoples" />
+          <attribute id="MapKey" type="FixedString" value="cd9d2a93-ecfb-4094-8178-d5dc16a261e1" />
+          <attribute id="Name" type="LSString" value="WPN_Greatsword_Zress_Dtelquessir_Power_for_All_Peoples" />
+          <attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Greatsword_B_1" />
+          <attribute id="ParentTemplateId" type="FixedString" value="81a83529-5bb6-4c72-b1af-6fc8f45c5706" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="6ec34d6f-a904-0a28-33e7-ad5c8cb4fa5a" />
+          <attribute id="VisualTemplate" type="FixedString" value="421b7547-1981-8a88-e706-8bb4e956c568" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

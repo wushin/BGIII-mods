@@ -1,1 +1,1370 @@
 treasure itemtypes "Common","Uncommon","Rare","Epic","Legendary","Divine","Unique"
+new treasuretable "Eilistraean_WPN_Dagger_Uncommon"
+new subtable "1,1"
+object category "I_WPN_Dagger_Eilistraean_Ritual",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_The_Follow",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_Two_Step",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_Moonfang",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_Twilight_Twirl",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_Whisper_of_the_Moon",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_Evensong_Fang",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_Dancers_Mercy",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_Silverthorn_of_Redemption",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_Duskslip",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_Velve_Maelthra_Silken_Sin",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_Luth_Zress_Dance_of_Strength",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_Treienil_Silence",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_Veldrin_Kiss_Shadow_Kiss",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_Quellars_Thorn_Houses_Thorn",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_Shyntlara_Flickering_One",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Rapier_Uncommon"
+new subtable "1,1"
+object category "I_WPN_Rapier_Starlace",1,0,0,0,0,0,0,0
+object category "I_WPN_Rapier_Moonneedle",1,0,0,0,0,0,0,0
+object category "I_WPN_Rapier_Veilpiercer",1,0,0,0,0,0,0,0
+object category "I_WPN_Rapier_Midnight_Aria",1,0,0,0,0,0,0,0
+object category "I_WPN_Rapier_Glinting_Reproach",1,0,0,0,0,0,0,0
+object category "I_WPN_Rapier_Lament_of_Lolth",1,0,0,0,0,0,0,0
+object category "I_WPN_Rapier_Bella_Faer_Beautiful_Blade",1,0,0,0,0,0,0,0
+object category "I_WPN_Rapier_Zinzarith_Silver_Duel",1,0,0,0,0,0,0,0
+object category "I_WPN_Rapier_Lyszuruul_Edge_of_Light",1,0,0,0,0,0,0,0
+object category "I_WPN_Rapier_Zhaunoril_Blade_of_Understanding",1,0,0,0,0,0,0,0
+object category "I_WPN_Rapier_Linthlaren_Moons_Duet",1,0,0,0,0,0,0,0
+object category "I_WPN_Rapier_RilynQuarvalsharess_Loyal_to_the_Goddess",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Scimitar_Uncommon"
+new subtable "1,1"
+object category "I_WPN_Scimitar_Windcoil",1,0,0,0,0,0,0,0
+object category "I_WPN_Scimitar_Flicker",1,0,0,0,0,0,0,0
+object category "I_WPN_Scimitar_Nightgroove",1,0,0,0,0,0,0,0
+object category "I_WPN_Scimitar_Wave_of_the_Maiden",1,0,0,0,0,0,0,0
+object category "I_WPN_Scimitar_Glimmer",1,0,0,0,0,0,0,0
+object category "I_WPN_Scimitar_Crescent_of_Harmony",1,0,0,0,0,0,0,0
+object category "I_WPN_Scimitar_Olathsul_Shadow_Wind",1,0,0,0,0,0,0,0
+object category "I_WPN_Scimitar_Qiltelarith_Flowing_Crescent",1,0,0,0,0,0,0,0
+object category "I_WPN_Scimitar_Rilussta_Beauty_in_Battle",1,0,0,0,0,0,0,0
+object category "I_WPN_Scimitar_Sarnel_Ilhar_Moon_of_the_Matron",1,0,0,0,0,0,0,0
+object category "I_WPN_Scimitar_Vhidzresdiir_Defiant_Light",1,0,0,0,0,0,0,0
+object category "I_WPN_Scimitar_Eilsevir_Eilistraees_Call",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Shortsword_Uncommon"
+new subtable "1,1"
+object category "I_WPN_Shortsword_Harmony",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_The_Chime",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_Ripple",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_Bloom",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_Silent_Step",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_Rhythm",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_Moondart",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_Requiem",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_Grace",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_Twins_of_Queldoruk_City_of_Hope",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_Natha_Ilythiiri_Redeemed_Drow",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_Kyorlintar_Watch_the_Blade",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_Rilyn_Velvorn_Loyal_Silken_Fang",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_Dalninils_Gift_Sisters_Gift",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_Ilmryns_Light_Secret_Light",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_Phindarshyn_Woven_Dancer",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Longsword_Uncommon"
+new subtable "1,1"
+object category "I_WPN_Longsword_Starforged_Mercy",1,0,0,0,0,0,0,0
+object category "I_WPN_Longsword_Eclipse",1,0,0,0,0,0,0,0
+object category "I_WPN_Longsword_Redeemers_Grace",1,0,0,0,0,0,0,0
+object category "I_WPN_Longsword_Gleam_in_the_Gloom",1,0,0,0,0,0,0,0
+object category "I_WPN_Longsword_Auroras_Oath",1,0,0,0,0,0,0,0
+object category "I_WPN_Longsword_Solace",1,0,0,0,0,0,0,0
+object category "I_WPN_Longsword_Truthdancer",1,0,0,0,0,0,0,0
+object category "I_WPN_Longsword_Selvetarms_Rejection",1,0,0,0,0,0,0,0
+object category "I_WPN_Longsword_Baequeshel_Blade_Sacred_Music_Blade",1,0,0,0,0,0,0,0
+object category "I_WPN_Longsword_Ultrinnan_Velve_Dance_of_Silk",1,0,0,0,0,0,0,0
+object category "I_WPN_Longsword_Zress_Tlu_Malla_Strength_is_Beauty",1,0,0,0,0,0,0,0
+object category "I_WPN_Longsword_ZhaunilMalla_Holy_Knowledge",1,0,0,0,0,0,0,0
+object category "I_WPN_Longsword_Duummorlaa_Peaceful_Justice",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Greatsword_Uncommon"
+new subtable "1,1"
+object category "I_WPN_Greatsword_The_Crescent_Requiem",1,0,0,0,0,0,0,0
+object category "I_WPN_Greatsword_Moonfalls_Embrace",1,0,0,0,0,0,0,0
+object category "I_WPN_Greatsword_The_Light_That_Guides",1,0,0,0,0,0,0,0
+object category "I_WPN_Greatsword_Darkness_Divided",1,0,0,0,0,0,0,0
+object category "I_WPN_Greatsword_Eilistraees_Reach",1,0,0,0,0,0,0,0
+object category "I_WPN_Greatsword_Sovereign_of_the_Silver_Dance",1,0,0,0,0,0,0,0
+object category "I_WPN_Greatsword_Nightmothers_Wrath",1,0,0,0,0,0,0,0
+object category "I_WPN_Greatsword_Zhulumalla_The_Holy_Severance",1,0,0,0,0,0,0,0
+object category "I_WPN_Greatsword_Faer_Olothilhar_Magic_of_the_Shadow_Matron",1,0,0,0,0,0,0,0
+object category "I_WPN_Greatsword_Ilindith_Vharcana_Glory_of_the_Surface",1,0,0,0,0,0,0,0
+object category "I_WPN_Greatsword_Selûnezra_Elgcaress_Selûnes_Moon_Daughter",1,0,0,0,0,0,0,0
+object category "I_WPN_Greatsword_Shynttel_Zhaunil_Blade_of_Knowing_Grace",1,0,0,0,0,0,0,0
+object category "I_WPN_Greatsword_Elgverin_Kyorlsolenurn_Sacred_Watchers_Wrath",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Dagger_Rare"
+new subtable "1,1"
+object category "I_WPN_Dagger_Whispering_Note",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_Velvet_Silence",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_Illythiiris_Grace_Drows_Grace",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_Ssussunil_Moonlit_Dagger",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Rapier_Rare"
+new subtable "1,1"
+object category "I_WPN_Rapier_Twilight_Touche",1,0,0,0,0,0,0,0
+object category "I_WPN_Rapier_Duet_of_the_Blade",1,0,0,0,0,0,0,0
+object category "I_WPN_Rapier_Xunor_Zressa_Perform_the_Dance",1,0,0,0,0,0,0,0
+object category "I_WPN_Rapier_Faerntelquess_Spell_of_the_People",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Scimitar_Rare"
+new subtable "1,1"
+object category "I_WPN_Scimitar_Crescent_Moon",1,0,0,0,0,0,0,0
+object category "I_WPN_Scimitar_Serenade",1,0,0,0,0,0,0,0
+object category "I_WPN_Scimitar_Faerzunar_Magic_in_Motion",1,0,0,0,0,0,0,0
+object category "I_WPN_Scimitar_Dssinniir_Twilight_Caress",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Shortsword_Rare"
+new subtable "1,1"
+object category "I_WPN_Shortsword_Echo",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_Waltz",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_Lolthtarath_Lolths_Bane",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_Seldarines_Wrath_Holy_Judgment",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Longsword_Rare"
+new subtable "1,1"
+object category "I_WPN_Longsword_Moonlit_Vow",1,0,0,0,0,0,0,0
+object category "I_WPN_Longsword_The_Wandering_Radiance",1,0,0,0,0,0,0,0
+object category "I_WPN_Longsword_Faer_TelBaequi_Spell_of_the_Moon-Song",1,0,0,0,0,0,0,0
+object category "I_WPN_Longsword_Zilnrel_Shinduago_Truth_under_Darkness",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Greatsword_Rare"
+new subtable "1,1"
+object category "I_WPN_Greatsword_Veilbreaker",1,0,0,0,0,0,0,0
+object category "I_WPN_Greatsword_Radiance_Untamed",1,0,0,0,0,0,0,0
+object category "I_WPN_Greatsword_Rrinnoroth_of_the_Crescent_Crescent_Blade_of_Justice",1,0,0,0,0,0,0,0
+object category "I_WPN_Greatsword_Tlu_Bellae_Eilistraee_To_Be_Beautiful_Is_to_Follow_Eilistraee",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Dagger_VeryRare"
+new subtable "1,1"
+object category "I_WPN_Dagger_Last_Kiss_of_the_Maiden",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_Zhaunils_Whisper_Priestesss_Whisper",1,0,0,0,0,0,0,0
+object category "I_WPN_Dagger_Ilharess_Mercy_Matrons_Mercy",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Rapier_VeryRare"
+new subtable "1,1"
+object category "I_WPN_Rapier_Spellsongs_Edge",1,0,0,0,0,0,0,0
+object category "I_WPN_Rapier_Treitar_Swift_Dance",1,0,0,0,0,0,0,0
+object category "I_WPN_Rapier_Draazilrae_Echo_of_the_Dark_Maiden",1,0,0,0,0,0,0,0
+object category "I_WPN_Rapier_Promise_of_the_Promenade",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Scimitar_VeryRare"
+new subtable "1,1"
+object category "I_WPN_Scimitar_Dance_of_the_Silver_Crescent",1,0,0,0,0,0,0,0
+object category "I_WPN_Scimitar_Ssinsra_Dancer_Dance_of_Grace",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Shortsword_VeryRare"
+new subtable "1,1"
+object category "I_WPN_Shortsword_Darklight_Twin_Left_Eye",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_Darklight_Twin_Right_Eye",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Longsword_VeryRare"
+new subtable "1,1"
+object category "I_WPN_Longsword_Blade_of_the_Last_Dance",1,0,0,0,0,0,0,0
+object category "I_WPN_Longsword_Quarvalsharess_Requiem_Goddesss_Requiem",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Greatsword_VeryRare"
+new subtable "1,1"
+object category "I_WPN_Greatsword_Zress_Dtelquessir_Power_for_All_Peoples",1,0,0,0,0,0,0,0
+object category "I_WPN_Greatsword_Vhaer_tlu_Sarn_Truth_Shall_Be_Moonlight",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Dagger_Legendary"
+new subtable "1,1"
+object category "I_WPN_Dagger_Tear_of_Eilistraee",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Scimitar_Legendary"
+new subtable "1,1"
+object category "I_WPN_Scimitar_Ultrinnanzil_Moon-Dance_Blade",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Shortsword_Legendary"
+new subtable "1,1"
+object category "I_WPN_Shortsword_Zresslin_Strengthling",1,0,0,0,0,0,0,0
+object category "I_WPN_Shortsword_Veldrineth_Little_Shadow",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Longsword_Legendary"
+new subtable "1,1"
+object category "I_WPN_Longsword_Eilmystrazar_Blade_of_Light_and_Magic",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Greatsword_Legendary"
+new subtable "1,1"
+object category "I_WPN_Greatsword_Sword_of_the_Promenade",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Robe_Body_Uncommon"
+new subtable "1,1"
+object category "I_ARM_Robe_Body_Faerkyorl_Magic_Watcher",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Blessed_Raiment",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Dancers_Weave",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Silken_Hauberk",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Ultrinnanshinduago_Dance_of_Truth",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Zhaunshinduago_Knowledge_Truth",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Ssussunkyorl_Moonlit_Watcher",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Zhaunlinth_Knowledge_Harmony",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Eclipsed_Tunic",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Faertel_Coat",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Dancers_Wrap",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Faertel_Mantle",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Ultrinnanilhar_Dance_of_Matron",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Treimalla_Graceful_Beauty",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Olothvharcana_Shadow_Glory",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Blessed_Vest",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Warded_Veil",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Glimmershade_Shell",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Treivharcana_Graceful_Glory",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Ultrinnanmalla_Dance_of_Beauty",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Velvetlar_Silken_Guard",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Veilbound",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Glimmershade_Aegis",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Harmonious_Aegis",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Duskwalkers_Guard",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Robe_Body_Rare"
+new subtable "1,1"
+object category "I_ARM_Robe_Body_Olothmalla_Shadow_Beauty",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Lunar_Weave",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Ssussuntlar_Moonlit_Guard",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Windswept_Vestments",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Robe_Body_VeryRare"
+new subtable "1,1"
+object category "I_ARM_Robe_Body_Faerlinth_Magic_Harmony",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Lunar_Guard",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Robe_Body_Legendary"
+new subtable "1,1"
+object category "I_ARM_Robe_Body_Ultrinnanzar_Dance_of_Blade",1,0,0,0,0,0,0,0
+object category "I_ARM_Robe_Body_Whispering_Tunic",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Padded_Body_Uncommon"
+new subtable "1,1"
+object category "I_ARM_Padded_Body_Zhaunzhaunil_Knowledge_Grace",1,0,0,0,0,0,0,0
+object category "I_ARM_Padded_Body_Xorlarrinlinth_Darkforge_Harmony",1,0,0,0,0,0,0,0
+object category "I_ARM_Padded_Body_Faertel_Shell",1,0,0,0,0,0,0,0
+object category "I_ARM_Padded_Body_Windswept_Skin",1,0,0,0,0,0,0,0
+object category "I_ARM_Padded_Body_Radiant_Coat",1,0,0,0,0,0,0,0
+object category "I_ARM_Padded_Body_Veilbound_Coat",1,0,0,0,0,0,0,0
+object category "I_ARM_Padded_Body_Olothzress_Shadow_Strength",1,0,0,0,0,0,0,0
+object category "I_ARM_Padded_Body_Faershinduago_Magic_Truth",1,0,0,0,0,0,0,0
+object category "I_ARM_Padded_Body_Ssussunzhaunil_Moonlit_Grace",1,0,0,0,0,0,0,0
+object category "I_ARM_Padded_Body_Silken_Mantle",1,0,0,0,0,0,0,0
+object category "I_ARM_Padded_Body_Whispering_Skin",1,0,0,0,0,0,0,0
+object category "I_ARM_Padded_Body_Glimmershade_Ward",1,0,0,0,0,0,0,0
+object category "I_ARM_Padded_Body_Veilbound_Shell",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Padded_Body_Rare"
+new subtable "1,1"
+object category "I_ARM_Padded_Body_Ilharshinduago_Matrons_Truth",1,0,0,0,0,0,0,0
+object category "I_ARM_Padded_Body_Quellarzhaunil_Houses_Grace",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Padded_Body_VeryRare"
+new subtable "1,1"
+object category "I_ARM_Padded_Body_Velvezar_Silken_Blade",1,0,0,0,0,0,0,0
+object category "I_ARM_Padded_Body_Ilharzress_Matrons_Strength",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Padded_Body_Legendary"
+new subtable "1,1"
+object category "I_ARM_Padded_Body_Radiant_Carapace",1,0,0,0,0,0,0,0
+object category "I_ARM_Padded_Body_Radiant_Weave",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Leather_Body_Uncommon"
+new subtable "1,1"
+object category "I_ARM_Leather_Body_Faervharcana_Magic_Glory",1,0,0,0,0,0,0,0
+object category "I_ARM_Leather_Body_Ilhartlar_Matrons_Guard",1,0,0,0,0,0,0,0
+object category "I_ARM_Leather_Body_Xorlarrinzar_Darkforge_Blade",1,0,0,0,0,0,0,0
+object category "I_ARM_Leather_Body_Windswept_Hauberk",1,0,0,0,0,0,0,0
+object category "I_ARM_Leather_Body_Sacred_Embrace",1,0,0,0,0,0,0,0
+object category "I_ARM_Leather_Body_Shadowkissed_Leathers",1,0,0,0,0,0,0,0
+object category "I_ARM_Leather_Body_Velvezhaunil_Silken_Grace",1,0,0,0,0,0,0,0
+object category "I_ARM_Leather_Body_Zhaunmalla_Knowledge_Beauty",1,0,0,0,0,0,0,0
+object category "I_ARM_Leather_Body_Olothtlar_Shadow_Guard",1,0,0,0,0,0,0,0
+object category "I_ARM_Leather_Body_Faermalla_Magic_Beauty",1,0,0,0,0,0,0,0
+object category "I_ARM_Leather_Body_Silken_Garb",1,0,0,0,0,0,0,0
+object category "I_ARM_Leather_Body_Lunar_Skin",1,0,0,0,0,0,0,0
+object category "I_ARM_Leather_Body_Windswept_Wrap",1,0,0,0,0,0,0,0
+object category "I_ARM_Leather_Body_Veilbound_Weave",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Leather_Body_Rare"
+new subtable "1,1"
+object category "I_ARM_Leather_Body_Xorlarrinzhaunil_Darkforge_Grace",1,0,0,0,0,0,0,0
+object category "I_ARM_Leather_Body_Duskwalkers_Shroud",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Leather_Body_VeryRare"
+new subtable "1,1"
+object category "I_ARM_Leather_Body_Lunar_Leathers",1,0,0,0,0,0,0,0
+object category "I_ARM_Leather_Body_Silvered_Mail",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Leather_Body_Legendary"
+new subtable "1,1"
+object category "I_ARM_Leather_Body_Treikyorl_Graceful_Watcher",1,0,0,0,0,0,0,0
+object category "I_ARM_Leather_Body_Treizar_Graceful_Blade",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_StuddedLeather_Body_Uncommon"
+new subtable "1,1"
+object category "I_ARM_StuddedLeather_Body_Zhaunzress_Knowledge_Strength",1,0,0,0,0,0,0,0
+object category "I_ARM_StuddedLeather_Body_Zhaunvharcana_Knowledge_Glory",1,0,0,0,0,0,0,0
+object category "I_ARM_StuddedLeather_Body_Lunar_Aegis",1,0,0,0,0,0,0,0
+object category "I_ARM_StuddedLeather_Body_Veilbound_Carapace",1,0,0,0,0,0,0,0
+object category "I_ARM_StuddedLeather_Body_Whispering_Garb",1,0,0,0,0,0,0,0
+object category "I_ARM_StuddedLeather_Body_Ilharilhar_Matrons_Matron",1,0,0,0,0,0,0,0
+object category "I_ARM_StuddedLeather_Body_Xorlarrinkyorl_Darkforge_Watcher",1,0,0,0,0,0,0,0
+object category "I_ARM_StuddedLeather_Body_Zhaunkyorl_Knowledge_Watcher",1,0,0,0,0,0,0,0
+object category "I_ARM_StuddedLeather_Body_Radiant_Ward",1,0,0,0,0,0,0,0
+object category "I_ARM_StuddedLeather_Body_Dancers_Embrace",1,0,0,0,0,0,0,0
+object category "I_ARM_StuddedLeather_Body_Veilbound_Guard",1,0,0,0,0,0,0,0
+object category "I_ARM_StuddedLeather_Body_Whispering_Shroud",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_StuddedLeather_Body_Rare"
+new subtable "1,1"
+object category "I_ARM_StuddedLeather_Body_Dancers_Leathers",1,0,0,0,0,0,0,0
+object category "I_ARM_StuddedLeather_Body_Faertel_Mail",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_StuddedLeather_Body_VeryRare"
+new subtable "1,1"
+object category "I_ARM_StuddedLeather_Body_Xorlarrinshinduago_Darkforge_Truth",1,0,0,0,0,0,0,0
+object category "I_ARM_StuddedLeather_Body_Ilharvharcana_Matrons_Glory",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_StuddedLeather_Body_Legendary"
+new subtable "1,1"
+object category "I_ARM_StuddedLeather_Body_Sacred_Weave",1,0,0,0,0,0,0,0
+object category "I_ARM_StuddedLeather_Body_Ssussunilhar_Moonlit_Matron",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_ElvenChain_Rare"
+new subtable "1,1"
+object category "I_ARM_ElvenChain_Xorlarrinzress_Darkforge_Strength",1,0,0,0,0,0,0,0
+object category "I_ARM_ElvenChain_Olothkyorl_Shadow_Watcher",1,0,0,0,0,0,0,0
+object category "I_ARM_ElvenChain_Shadowkissed_Carapace",1,0,0,0,0,0,0,0
+object category "I_ARM_ElvenChain_Eclipsed_Mantle",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_ElvenChain_VeryRare"
+new subtable "1,1"
+object category "I_ARM_ElvenChain_Twilight_Weave",1,0,0,0,0,0,0,0
+object category "I_ARM_ElvenChain_Olothshinduago_Shadow_Truth",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_ElvenChain_Legendary"
+new subtable "1,1"
+object category "I_ARM_ElvenChain_Ssussunlinth_Moonlit_Harmony",1,0,0,0,0,0,0,0
+object category "I_ARM_ElvenChain_Twilight_Mail",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Monk_Uncommon"
+new subtable "1,1"
+object category "I_ARM_Monk_Moonwoven_Grips",1,0,0,0,0,0,0,0
+object category "I_ARM_Monk_Twilight_Fingers",1,0,0,0,0,0,0,0
+object category "I_ARM_Monk_Zhauntlar_Knowledge_Guard",1,0,0,0,0,0,0,0
+object category "I_ARM_Monk_Quellarmysstra_“Houses_Magic_Song”",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Monk_Rare"
+new subtable "1,1"
+object category "I_ARM_Monk_Whispering_Handwraps",1,0,0,0,0,0,0,0
+object category "I_ARM_Monk_Ultrinnanlinth_Dance_of_Harmony",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Monk_VeryRare"
+new subtable "1,1"
+object category "I_ARM_Monk_Sacred_Wraps",1,0,0,0,0,0,0,0
+object category "I_ARM_Monk_Ssussunvharcana_Moonlit_Glory",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Monk_Legendary"
+new subtable "1,1"
+object category "I_ARM_Monk_Velvet_Touch",1,0,0,0,0,0,0,0
+object category "I_ARM_Monk_Faertel_Gloves_Magic_Song_Gloves",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Gloves_Leather_Uncommon"
+new subtable "1,1"
+object category "I_ARM_Gloves_Leather_Shadowbound_Grips",1,0,0,0,0,0,0,0
+object category "I_ARM_Gloves_Leather_Duskwalkers_Fingers",1,0,0,0,0,0,0,0
+object category "I_ARM_Gloves_Leather_Treitlar_Graceful_Guard",1,0,0,0,0,0,0,0
+object category "I_ARM_Gloves_Leather_Ilindithtlar_“Surface_Guard",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Gloves_Leather_Rare"
+new subtable "1,1"
+object category "I_ARM_Gloves_Leather_Velvet_Fang_Gloves",1,0,0,0,0,0,0,0
+object category "I_ARM_Gloves_Leather_Ultrinnanmalla_Dance_of_Beauty",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Gloves_Leather_VeryRare"
+new subtable "1,1"
+object category "I_ARM_Gloves_Leather_Moonlit_Claws",1,0,0,0,0,0,0,0
+object category "I_ARM_Gloves_Leather_Olothzar_Shadow_Blade",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Gloves_Leather_Legendary"
+new subtable "1,1"
+object category "I_ARM_Gloves_Leather_Silent_Hunter_Wraps",1,0,0,0,0,0,0,0
+object category "I_ARM_Gloves_Leather_Faerzar_Magic_Blade",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Circlet_Uncommon"
+new subtable "1,1"
+object category "I_ARM_Circlet_Radiant_Diadem",1,0,0,0,0,0,0,0
+object category "I_ARM_Circlet_Faerzara_Magic_Blade",1,0,0,0,0,0,0,0
+object category "I_ARM_Circlet_Faerdor_Magic_Path",1,0,0,0,0,0,0,0
+object category "I_ARM_Circlet_Ssussunmorath_Moonlit_Path",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Circlet_Rare"
+new subtable "1,1"
+object category "I_ARM_Circlet_Twilight_Band",1,0,0,0,0,0,0,0
+object category "I_ARM_Circlet_Olothzara_Shadow_Blade",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Circlet_VeryRare"
+new subtable "1,1"
+object category "I_ARM_Circlet_Velvet_Crown",1,0,0,0,0,0,0,0
+object category "I_ARM_Circlet_Ssussunmalla_Moonlit_Beauty",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Circlet_Legendary"
+new subtable "1,1"
+object category "I_ARM_Circlet_Moonwoven_Circlet",1,0,0,0,0,0,0,0
+object category "I_ARM_Circlet_Olothtel_Shadow_Song",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Boots_Leather_Uncommon"
+new subtable "1,1"
+object category "I_ARM_Boots_Leather_Velvet_Path_Boots",1,0,0,0,0,0,0,0
+object category "I_ARM_Boots_Leather_Shadowbound_March",1,0,0,0,0,0,0,0
+object category "I_ARM_Boots_Leather_Ilhardyn_Matrons_Journey",1,0,0,0,0,0,0,0
+object category "I_ARM_Boots_Leather_Zhaunmorath_Knowledge_Path",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Boots_Leather_Rare"
+new subtable "1,1"
+object category "I_ARM_Boots_Leather_Dancers_Step_Boots",1,0,0,0,0,0,0,0
+object category "I_ARM_Boots_Leather_Olothdar_Shadow_March",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Boots_Leather_VeryRare"
+new subtable "1,1"
+object category "I_ARM_Boots_Leather_Moonveil_Treads",1,0,0,0,0,0,0,0
+object category "I_ARM_Boots_Leather_Ssussunlorath_Moonlit_Path",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Boots_Leather_Legendary"
+new subtable "1,1"
+object category "I_ARM_Boots_Leather_Silent_Strider_Boots",1,0,0,0,0,0,0,0
+object category "I_ARM_Boots_Leather_Faerdyn_Magic_Journey",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Shoes_Uncommon"
+new subtable "1,1"
+object category "I_ARM_Shoes_Twilight_Softsteps",1,0,0,0,0,0,0,0
+object category "I_ARM_Shoes_Velvet_Drift_Boots",1,0,0,0,0,0,0,0
+object category "I_ARM_Shoes_Ssussunlir_Moonlit_Step",1,0,0,0,0,0,0,0
+object category "I_ARM_Shoes_Zhaunvrae_Knowledge_Step",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Shoes_Rare"
+new subtable "1,1"
+object category "I_ARM_Shoes_Whisperstep_Boots",1,0,0,0,0,0,0,0
+object category "I_ARM_Shoes_Olothsel_Shadow_Step",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Shoes_VeryRare"
+new subtable "1,1"
+object category "I_ARM_Shoes_Moonlace_Slippers",1,0,0,0,0,0,0,0
+object category "I_ARM_Shoes_Faersel_Magic_Step",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Shoes_Legendary"
+new subtable "1,1"
+object category "I_ARM_Shoes_Dancers_Tread",1,0,0,0,0,0,0,0
+object category "I_ARM_Shoes_Ultrinnandor_Dance_of_the_Step",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Cloak_Uncommon"
+new subtable "1,1"
+object category "I_ARM_Cloak_Moonwoven_Mirage",1,0,0,0,0,0,0,0
+object category "I_ARM_Cloak_Silent_Horizon_Mantle",1,0,0,0,0,0,0,0
+object category "I_ARM_Cloak_Duskmantle_Embrace",1,0,0,0,0,0,0,0
+object category "I_ARM_Cloak_Starlit_Drift",1,0,0,0,0,0,0,0
+object category "I_ARM_Cloak_Aurora_Veil",1,0,0,0,0,0,0,0
+object category "I_ARM_Cloak_Ultrinnandra_Dance_of_Shadows",1,0,0,0,0,0,0,0
+object category "I_ARM_Cloak_Faervyn_Magic_Veil",1,0,0,0,0,0,0,0
+object category "I_ARM_Cloak_Olothdrynn_Shadow_Embrace",1,0,0,0,0,0,0,0
+object category "I_ARM_Cloak_Zhaunselune_Knowledge_of_the_Moon",1,0,0,0,0,0,0,0
+object category "I_ARM_Cloak_Quellartalinth_Houses_Grace",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Cloak_Rare"
+new subtable "1,1"
+object category "I_ARM_Cloak_Shadowfall_Veil",1,0,0,0,0,0,0,0
+object category "I_ARM_Cloak_Ilhardryl_Matrons_Cloak",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Cloak_VeryRare"
+new subtable "1,1"
+object category "I_ARM_Cloak_Silvercurrent_Cloak",1,0,0,0,0,0,0,0
+object category "I_ARM_Cloak_Ssussunmortri_Moonlit_Sanctuary",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Cloak_Legendary"
+new subtable "1,1"
+object category "I_ARM_Cloak_Eclipsed_Serenity",1,0,0,0,0,0,0,0
+object category "I_ARM_Cloak_Velvethalra_Silken_Whisper",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Ring_Uncommon"
+new subtable "1,1"
+object category "I_ARM_Ring_Lunar_Echo_Ring",1,0,0,0,0,0,0,0
+object category "I_ARM_Ring_Ring_of_Starlit_Grace",1,0,0,0,0,0,0,0
+object category "I_ARM_Ring_Harmony_Loop",1,0,0,0,0,0,0,0
+object category "I_ARM_Ring_Shadowveil_Ring",1,0,0,0,0,0,0,0
+object category "I_ARM_Ring_Celestial_Drift_Band",1,0,0,0,0,0,0,0
+object category "I_ARM_Ring_Echo_of_Dawn",1,0,0,0,0,0,0,0
+object category "I_ARM_Ring_Aurora_Spiral",1,0,0,0,0,0,0,0
+object category "I_ARM_Ring_Faerzith_Magic_Circle",1,0,0,0,0,0,0,0
+object category "I_ARM_Ring_Olothzira_Shadow_Jewel",1,0,0,0,0,0,0,0
+object category "I_ARM_Ring_Zhaunquar_Knowledges_Bond",1,0,0,0,0,0,0,0
+object category "I_ARM_Ring_Ilharssin_Matrons_Blessing",1,0,0,0,0,0,0,0
+object category "I_ARM_Ring_Quellarvrae_Houses_Step",1,0,0,0,0,0,0,0
+object category "I_ARM_Ring_Druumalla_Peaceful_Beauty",1,0,0,0,0,0,0,0
+object category "I_ARM_Ring_Rilyndra_Loyal_Dance",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Ring_Rare"
+new subtable "1,1"
+object category "I_ARM_Ring_Silent_Moon_Band",1,0,0,0,0,0,0,0
+object category "I_ARM_Ring_Ssussunrilyn_Moonlit_Loyalty",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Ring_VeryRare"
+new subtable "1,1"
+object category "I_ARM_Ring_Eclipsed_Pledge",1,0,0,0,0,0,0,0
+object category "I_ARM_Ring_Ultrinnanthalra_Dance_of_Grace",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Ring_Legendary"
+new subtable "1,1"
+object category "I_ARM_Ring_Twilight_Oath",1,0,0,0,0,0,0,0
+object category "I_ARM_Ring_Velvenir_Silken_Circle",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Amulet_Uncommon"
+new subtable "1,1"
+object category "I_ARM_Amulet_Amulet_of_Moonlit_Calm",1,0,0,0,0,0,0,0
+object category "I_ARM_Amulet_Shadowveil_Charm",1,0,0,0,0,0,0,0
+object category "I_ARM_Amulet_Twilight_Heart",1,0,0,0,0,0,0,0
+object category "I_ARM_Amulet_Ssussunmithrae_Moonlit_Gift",1,0,0,0,0,0,0,0
+object category "I_ARM_Amulet_Olothmir_Shadow_Jewel",1,0,0,0,0,0,0,0
+object category "I_ARM_Amulet_Velveshrae_Silken_Radiance",1,0,0,0,0,0,0,0
+object category "I_ARM_Amulet_Ilhardro_Matrons_Light",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Amulet_Rare"
+new subtable "1,1"
+object category "I_ARM_Amulet_Auroras_Locket",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Amulet_VeryRare"
+new subtable "1,1"
+object category "I_ARM_Amulet_Faerloril_Magic_Song",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Amulet_Legendary"
+new subtable "1,1"
+object category "I_ARM_Amulet_Pendant_of_Starlit_Paths",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Instrument_Rare"
+new subtable "1,1"
+object category "I_ARM_Instrument_Moonwoven_Lyre",1,0,0,0,0,0,0,0
+object category "I_ARM_Instrument_Silverwind_Flute",1,0,0,0,0,0,0,0
+object category "I_ARM_Instrument_Eclipsed_Strings_Lute",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Instrument_VeryRare"
+new subtable "1,1"
+object category "I_ARM_Instrument_Velvesong_Lyre",1,0,0,0,0,0,0,0
+object category "I_ARM_Instrument_Ssussunflar_Moonlit_Breath",1,0,0,0,0,0,0,0
+object category "I_ARM_Instrument_Olothvrae_Shadow_Step_Lute",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Instrument_Legendary"
+new subtable "1,1"
+object category "I_ARM_Instrument_Twilight_Harmony_Lyre",1,0,0,0,0,0,0,0
+object category "I_ARM_Instrument_Shadowwhisper_Flute",1,0,0,0,0,0,0,0
+object category "I_ARM_Instrument_Starlace_Lute",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Dagger"
+new subtable "1,1"
+StartLevel "2"
+EndLevel "4"
+object category "T_Eilistraean_WPN_Dagger_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_WPN_Dagger_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_WPN_Dagger_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "10"
+object category "T_Eilistraean_WPN_Dagger_Legendary",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Rapier"
+new subtable "1,1"
+StartLevel "2"
+EndLevel "4"
+object category "T_Eilistraean_WPN_Rapier_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_WPN_Rapier_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_WPN_Rapier_VeryRare",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Scimitar"
+new subtable "1,1"
+StartLevel "2"
+EndLevel "4"
+object category "T_Eilistraean_WPN_Scimitar_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_WPN_Scimitar_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_WPN_Scimitar_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "10"
+object category "T_Eilistraean_WPN_Scimitar_Legendary",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Shortsword"
+new subtable "1,1"
+StartLevel "2"
+EndLevel "4"
+object category "T_Eilistraean_WPN_Shortsword_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_WPN_Shortsword_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_WPN_Shortsword_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "10"
+object category "T_Eilistraean_WPN_Shortsword_Legendary",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Longsword"
+new subtable "1,1"
+StartLevel "2"
+EndLevel "4"
+object category "T_Eilistraean_WPN_Longsword_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_WPN_Longsword_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_WPN_Longsword_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "10"
+object category "T_Eilistraean_WPN_Longsword_Legendary",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_WPN_Greatsword"
+new subtable "1,1"
+StartLevel "2"
+EndLevel "4"
+object category "T_Eilistraean_WPN_Greatsword_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_WPN_Greatsword_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_WPN_Greatsword_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "10"
+object category "T_Eilistraean_WPN_Greatsword_Legendary",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Robe_Body"
+new subtable "1,1"
+StartLevel "2"
+EndLevel "4"
+object category "T_Eilistraean_ARM_Robe_Body_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_ARM_Robe_Body_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_ARM_Robe_Body_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "10"
+object category "T_Eilistraean_ARM_Robe_Body_Legendary",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Padded_Body"
+new subtable "1,1"
+StartLevel "2"
+EndLevel "4"
+object category "T_Eilistraean_ARM_Padded_Body_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_ARM_Padded_Body_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_ARM_Padded_Body_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "10"
+object category "T_Eilistraean_ARM_Padded_Body_Legendary",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Leather_Body"
+new subtable "1,1"
+StartLevel "2"
+EndLevel "4"
+object category "T_Eilistraean_ARM_Leather_Body_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_ARM_Leather_Body_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_ARM_Leather_Body_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "10"
+object category "T_Eilistraean_ARM_Leather_Body_Legendary",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_StuddedLeather_Body"
+new subtable "1,1"
+StartLevel "2"
+EndLevel "4"
+object category "T_Eilistraean_ARM_StuddedLeather_Body_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_ARM_StuddedLeather_Body_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_ARM_StuddedLeather_Body_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "10"
+object category "T_Eilistraean_ARM_StuddedLeather_Body_Legendary",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_ElvenChain"
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_ARM_ElvenChain_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_ARM_ElvenChain_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "10"
+object category "T_Eilistraean_ARM_ElvenChain_Legendary",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Monk"
+new subtable "1,1"
+StartLevel "2"
+EndLevel "4"
+object category "T_Eilistraean_ARM_Monk_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_ARM_Monk_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_ARM_Monk_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "10"
+object category "T_Eilistraean_ARM_Monk_Legendary",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Gloves_Leather"
+new subtable "1,1"
+StartLevel "2"
+EndLevel "4"
+object category "T_Eilistraean_ARM_Gloves_Leather_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_ARM_Gloves_Leather_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_ARM_Gloves_Leather_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "10"
+object category "T_Eilistraean_ARM_Gloves_Leather_Legendary",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Circlet"
+new subtable "1,1"
+StartLevel "2"
+EndLevel "4"
+object category "T_Eilistraean_ARM_Circlet_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_ARM_Circlet_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_ARM_Circlet_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "10"
+object category "T_Eilistraean_ARM_Circlet_Legendary",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Boots_Leather"
+new subtable "1,1"
+StartLevel "2"
+EndLevel "4"
+object category "T_Eilistraean_ARM_Boots_Leather_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_ARM_Boots_Leather_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_ARM_Boots_Leather_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "10"
+object category "T_Eilistraean_ARM_Boots_Leather_Legendary",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Shoes"
+new subtable "1,1"
+StartLevel "2"
+EndLevel "4"
+object category "T_Eilistraean_ARM_Shoes_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_ARM_Shoes_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_ARM_Shoes_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "10"
+object category "T_Eilistraean_ARM_Shoes_Legendary",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Cloak"
+new subtable "1,1"
+StartLevel "2"
+EndLevel "4"
+object category "T_Eilistraean_ARM_Cloak_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_ARM_Cloak_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_ARM_Cloak_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "10"
+object category "T_Eilistraean_ARM_Cloak_Legendary",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Ring"
+new subtable "1,1"
+StartLevel "2"
+EndLevel "4"
+object category "T_Eilistraean_ARM_Ring_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_ARM_Ring_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_ARM_Ring_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "10"
+object category "T_Eilistraean_ARM_Ring_Legendary",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Amulet"
+new subtable "1,1"
+StartLevel "2"
+EndLevel "4"
+object category "T_Eilistraean_ARM_Amulet_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_ARM_Amulet_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_ARM_Amulet_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "10"
+object category "T_Eilistraean_ARM_Amulet_Legendary",1,0,0,0,0,0,0,0
+new treasuretable "Eilistraean_ARM_Instrument"
+new subtable "1,1"
+StartLevel "5"
+EndLevel "7"
+object category "T_Eilistraean_ARM_Instrument_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "8"
+object category "T_Eilistraean_ARM_Instrument_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+StartLevel "10"
+object category "T_Eilistraean_ARM_Instrument_Legendary",1,0,0,0,0,0,0,0
+new treasuretable "ST_SimpleMeleeWeapons_1"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Dagger",1,0,0,0,0,0,0,0
+new treasuretable "ST_Finesse_MeleeWeapons_Magic"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Dagger",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Rapier",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Scimitar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Shortsword",1,0,0,0,0,0,0,0
+new treasuretable "ST_MartialMeleeWeapons_1"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Rapier",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Scimitar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Shortsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Longsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Greatsword",1,0,0,0,0,0,0,0
+new treasuretable "EquipmentTrader_BodyArmor_Light_Magic"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Robe_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Padded_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Leather_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_StuddedLeather_Body",1,0,0,0,0,0,0,0
+new treasuretable "ST_Generic_Magic_LightArmor_ACT2_A"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Robe_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Padded_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Leather_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_StuddedLeather_Body",1,0,0,0,0,0,0,0
+new treasuretable "ST_Generic_Magic_LightArmor_ACT2_B"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Robe_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Padded_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Leather_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_StuddedLeather_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_ElvenChain",1,0,0,0,0,0,0,0
+new treasuretable "EquipmentTrader_SecondaryArmor"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Monk",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Circlet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Shoes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Cloak",1,0,0,0,0,0,0,0
+new treasuretable "EquipmentTrader_SecondaryArmor_Leather"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Gloves_Leather",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Boots_Leather",1,0,0,0,0,0,0,0
+new treasuretable "GOB_Quartermaster"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Robe_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Padded_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Leather_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Circlet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Shoes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Cloak",1,0,0,0,0,0,0,0
+new treasuretable "MOO_ZhentQuartermaster"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Scimitar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Shortsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Longsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Robe_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Padded_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Leather_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_ElvenChain",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Circlet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Shoes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Cloak",1,0,0,0,0,0,0,0
+new treasuretable "UND_MycoVillage_AlchemistDwarf_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Monk",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Shoes",1,0,0,0,0,0,0,0
+new treasuretable "UND_SocietyOfBrilliance_Hobgoblin"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Circlet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Cloak",1,0,0,0,0,0,0,0
+new treasuretable "UND_SocietyOfBrilliance_Mindflayer"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Amulet",1,0,0,0,0,0,0,0
+new treasuretable "CRE_Expeditioner_Magic_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Monk",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Shoes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Amulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Robe_Body",1,0,0,0,0,0,0,0
+new treasuretable "CRE_MagicItem_Gith_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Dagger",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Longsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Greatsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Gloves_Leather",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Boots_Leather",1,0,0,0,0,0,0,0
+new treasuretable "HAV_HarperQuarterMaster_Magic_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Robe_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Padded_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Leather_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_StuddedLeather_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Gloves_Leather",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Circlet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Cloak",1,0,0,0,0,0,0,0
+new treasuretable "HAV_Thiefling_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring",1,0,0,0,0,0,0,0
+new treasuretable "WYR_Thiefling_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Amulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Circlet",1,0,0,0,0,0,0,0
+new treasuretable "WYR_Danthelon_Trader"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Robe_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Amulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Circlet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Monk",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Shoes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Cloak",1,0,0,0,0,0,0,0
+new treasuretable "WYR_Ironhand_Magic_Merchant"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Monk",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Gloves_Leather",1,0,0,0,0,0,0,0
+new treasuretable "WYR_Bridge_Trader_Clothes"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Robe_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Monk",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Shoes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Cloak",1,0,0,0,0,0,0,0
+new treasuretable "LOW_SorcerousSundries_Trade_Magic"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Robe_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Circlet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Shoes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Amulet",1,0,0,0,0,0,0,0
+new treasuretable "LOW_SteepsTrader_Weapons"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Dagger",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Rapier",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Scimitar",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Shortsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Longsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Greatsword",1,0,0,0,0,0,0,0
+new treasuretable "LOW_SteepsTrader_Armor"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Robe_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Padded_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Leather_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_StuddedLeather_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_ElvenChain",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Gloves_Leather",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Boots_Leather",1,0,0,0,0,0,0,0
+new treasuretable "LOW_DevilsFee_Diabolist_Trade_Magic"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Monk",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Shoes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Cloak",1,0,0,0,0,0,0,0
+new treasuretable "LOW_Figaro_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Robe_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Padded_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Leather_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Monk",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Shoes",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Cloak",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Gloves_Leather",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Boots_Leather",1,0,0,0,0,0,0,0
+new treasuretable "LOW_Weaponsmith_Trade"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Dagger",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Longsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Greatsword",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Gloves_Leather",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Boots_Leather",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Robe_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Padded_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Leather_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_StuddedLeather_Body",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_ElvenChain",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Circlet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Cloak",1,0,0,0,0,0,0,0
+new treasuretable "ST_GEN_Valuables_Ring_Silver"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring",1,0,0,0,0,0,0,0
+new treasuretable "ST_GEN_Valuables_Necklace_Silver"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Amulet",1,0,0,0,0,0,0,0
+new treasuretable "ST_GEN_Valuables_Jewelry_Silver"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Amulet",1,0,0,0,0,0,0,0
+new treasuretable "Valuables_Jewelry"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Amulet",1,0,0,0,0,0,0,0
+new treasuretable "LOW_JewelTrader"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Amulet",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Circlet",1,0,0,0,0,0,0,0
+new treasuretable "LOW_MusicTrader"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Instrument",1,0,0,0,0,0,0,0
+new treasuretable "ST_MusicInstrument_Rare"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Instrument",1,0,0,0,0,0,0,0
+new treasuretable "BGO_MagicArmor_FlamingFist_Armory"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_StuddedLeather_Body_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Gloves_Leather_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Boots_Leather_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "CHA_Exterior_Bandit_Leader"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Leather_Body_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "CHA_Exterior_Bandit_Caster"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Robe_Body_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "CHA_Container_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "CRA_HarperTreasureBox"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Amulet_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "CRE_Axemaster_Buried_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "CRE_TreasuryVault_4_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Monk_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Shoes_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "DEN_Harpy_Nest"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Circlet_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "FOR_DeathOfATrueSoul_SeluneStash"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Circlet_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Cloak_Rare",1,0,0,0,0,0,0,0
+new treasuretable "FOR_ThayanCellar_JewelledChest_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Dagger_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "GOB_Goblin_Generic_Rare"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Leather_Body_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "GOB_King_MagicItems"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Robe_Body_Rare",1,0,0,0,0,0,0,0
+new treasuretable "GOB_Minthara_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_StuddedLeather_Body_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Boots_Leather_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Monk_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "GOB_PriestChamber_Belongings_Valuables"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Dagger_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "GOB_WaterfallChest"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Shoes_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "GOB_ZhentQuarters_Chest_Gold"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Longsword_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Greatsword_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "HAG_MuderousFrog_Pouch"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Amulet_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "MOO_KethericCombat_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Shortsword_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Leather_Body_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Gloves_Leather_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Boots_Leather_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "MOO_StudyReward_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "PLA_AncientHarper_Melee"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Scimitar_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "SCL_Distillery_BrewerRoseStash_Additional"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Robe_Body_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Padded_Body_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "SCL_MasonGuild_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Rapier_Rare",1,0,0,0,0,0,0,0
+new treasuretable "SCL_MorgueHidden_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Amulet_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "SCL_TollHouseCollectorRichChest_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring_Uncommon_Rare",1,0,0,0,0,0,0,0
+new treasuretable "SHA_LastJusticiar_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Dagger_Rare",1,0,0,0,0,0,0,0
+new treasuretable "SHA_Necromancer"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Amulet_Rare",1,0,0,0,0,0,0,0
+new treasuretable "TUT_Chest_Potions"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Shoes_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "TWN_Brewer_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Monk_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Shoes_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "TWN_Surgeon_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Dagger_Rare",1,0,0,0,0,0,0,0
+new treasuretable "TWN_TollCollector_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Amulet_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "UND_DrowResupply_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Rapier_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Leather_Body_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Cloak_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "UND_KC_AdamantineGolem"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Longsword_Rare",1,0,0,0,0,0,0,0
+new treasuretable "UND_KC_HiddenStash"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "UND_KuoToa_MushroomChest"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Cloak_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "UND_PetrifiedDrow_Drow_Commander"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_StuddedLeather_Body_Rare",1,0,0,0,0,0,0,0
+new treasuretable "UND_SeluneOutpost_Paladin_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Greatsword_Rare",1,0,0,0,0,0,0,0
+new treasuretable "UND_SocietyOfBrilliance_Chest"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Amulet_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Cloak_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "UND_Tower_SecretCellar_RewardChest"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Robe_Body_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Padded_Body_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "LOW_CazadorsPalace_Crypt_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Cloak_VeryRare",1,0,0,0,0,0,0,0
+new treasuretable "LOW_CazadorsPlace_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Robe_Body_VeryRare",1,0,0,0,0,0,0,0
+new treasuretable "LOW_DeathKnight_Elite_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Greatsword_VeryRare",1,0,0,0,0,0,0,0
+new treasuretable "LOW_Grotto_Viconia"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Shortsword_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Leather_Body_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Gloves_Leather_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Boots_Leather_Uncommon",1,0,0,0,0,0,0,0
+new treasuretable "LOW_Sarevok_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Longsword_Rare",1,0,0,0,0,0,0,0
+new treasuretable "LOW_SorcerousSundries_MystraVault_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Amulet_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Ring_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Cloak_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Cloak_VeryRare",1,0,0,0,0,0,0,0
+new treasuretable "LOW_Undercity_Ambush_Treasure"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Monk_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Shoes_Rare",1,0,0,0,0,0,0,0
+new treasuretable "WYR_WyrmsCastle_Banites_OpulentChest"
+CanMerge 1
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Scimitar_VeryRare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Shortsword_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_WPN_Longsword_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Robe_Body_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_ElvenChain_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Circlet_Rare",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Shoes_Uncommon",1,0,0,0,0,0,0,0
+new subtable "1,1"
+object category "T_Eilistraean_ARM_Cloak_Uncommon",1,0,0,0,0,0,0,0

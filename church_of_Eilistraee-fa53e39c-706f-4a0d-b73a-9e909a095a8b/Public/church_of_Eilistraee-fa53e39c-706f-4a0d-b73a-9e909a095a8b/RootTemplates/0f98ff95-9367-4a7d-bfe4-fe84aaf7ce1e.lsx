@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hzphpolxcpbppnj8oxa76mqn5uyiwk62cpkq7" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h0sa0x68xpqlblrkpm6sqsrydwilvlt65mujb" version="1" />
+          <attribute id="Stats" type="FixedString" value="WPN_Greatsword_Sword_of_the_Promenade" />
+          <attribute id="MapKey" type="FixedString" value="0f98ff95-9367-4a7d-bfe4-fe84aaf7ce1e" />
+          <attribute id="Name" type="LSString" value="WPN_Greatsword_Sword_of_the_Promenade" />
+          <attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Greatsword_A_2" />
+          <attribute id="ParentTemplateId" type="FixedString" value="2741505a-9d0b-4c9e-adcd-2e6339491e95" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="f7a9b81c-f4b5-fe8d-e13c-c39665436596" />
+          <attribute id="VisualTemplate" type="FixedString" value="3f21a54d-9731-6b12-4bde-430be278c9dd" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

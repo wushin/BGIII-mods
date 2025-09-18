@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="ho6r7nd5omo866s3f7egiqa9ay794lz4f2ysa" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hj4u6ja9o6mzoxbythxclayuq64u12gr11mex" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Boots_Leather_Moonveil_Treads" />
+          <attribute id="MapKey" type="FixedString" value="de14e453-117a-4a9f-ac59-4d2732f84014" />
+          <attribute id="Name" type="LSString" value="ARM_Boots_Leather_Moonveil_Treads" />
+          <attribute id="Icon" type="FixedString" value="Generated_ARM_BootsOfSpeed_Magic" />
+          <attribute id="ParentTemplateId" type="FixedString" value="8b22d15a-85bb-4c8d-90cf-a773fc451eac" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="8be0d494-a364-5ec6-6ee9-5ac30fa8cf49" />
+          <attribute id="VisualTemplate" type="FixedString" value="28efb600-a2e9-3cfa-ce83-323219ed6378" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

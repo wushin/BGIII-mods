@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hdvu6ibvg37fyico38au35g14cvnc0pipgbzw" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hsbdi0ig92dce6v5wgzumlkmjb945e9wiyr3s" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Amulet_Auroras_Locket" />
+          <attribute id="MapKey" type="FixedString" value="4616a42f-b19d-45cd-8045-1bab6e1cdbd6" />
+          <attribute id="Name" type="LSString" value="ARM_Amulet_Auroras_Locket" />
+          <attribute id="Icon" type="FixedString" value="Item_LOOT_GEN_Amulet_Necklace_B_Silver_A_1" />
+          <attribute id="ParentTemplateId" type="FixedString" value="a117bf60-4623-485d-8fd8-a2d2273fea00" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="d75d3546-087c-0026-969d-0edbe022fae3" />
+          <attribute id="VisualTemplate" type="FixedString" value="f2366fad-c8fa-39ae-6c05-0df580ac804d" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

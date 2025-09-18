@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hydijaltdienh6nq0073pna0dg06m00nmkr5j" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h9tm4veutztbtiq3i43y6ird3kobkf7iatyri" version="1" />
+          <attribute id="Stats" type="FixedString" value="WPN_Rapier_Faerntelquess_Spell_of_the_People" />
+          <attribute id="MapKey" type="FixedString" value="f58ef029-4046-4fc2-bd30-c5294ed93a3d" />
+          <attribute id="Name" type="LSString" value="WPN_Rapier_Faerntelquess_Spell_of_the_People" />
+          <attribute id="Icon" type="FixedString" value="Item_WPN_HUM_Rapier_A_1" />
+          <attribute id="ParentTemplateId" type="FixedString" value="705662e8-2a7f-4c7e-b0a0-e505395a45e3" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="c8a89cc2-7213-40d6-f0a0-c0a9d7a26de1" />
+          <attribute id="VisualTemplate" type="FixedString" value="d88ec5c6-e76e-c73c-8260-936ab342b1dd" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

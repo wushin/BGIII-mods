@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="hkn9oe7z5you98u7osb06m04tvc27pvemeu2h" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="h9qry9w4e761br6o8zyj2uy20v9trntxhjlg6" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_Instrument_Shadowwhisper_Flute" />
+          <attribute id="MapKey" type="FixedString" value="e91906cb-c05c-4b6c-bce2-4de009f04ed3" />
+          <attribute id="Name" type="LSString" value="ARM_Instrument_Shadowwhisper_Flute" />
+          <attribute id="Icon" type="FixedString" value="Item_TOOL_GEN_Music_Flute_A" />
+          <attribute id="ParentTemplateId" type="FixedString" value="848ad8dc-59f3-464b-b8b2-95eab6022446" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="a77e159b-e71e-be55-f103-f8737f745ff8" />
+          <attribute id="VisualTemplate" type="FixedString" value="3925e752-71e1-d24b-feed-e4c8d6579b80" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>

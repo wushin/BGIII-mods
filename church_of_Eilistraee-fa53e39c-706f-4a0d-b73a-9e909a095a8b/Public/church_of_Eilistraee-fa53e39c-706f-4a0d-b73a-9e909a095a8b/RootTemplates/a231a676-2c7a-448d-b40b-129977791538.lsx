@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="Description" type="TranslatedString" handle="h6hookvfb7x22j9zt9q9v66lpvh2rpgg7bss6" version="1" />
+          <attribute id="DisplayName" type="TranslatedString" handle="hs0f94722c5rji6vcj8anjj0rmgxslrugyqhy" version="1" />
+          <attribute id="Stats" type="FixedString" value="ARM_ElvenChain_Twilight_Mail" />
+          <attribute id="MapKey" type="FixedString" value="a231a676-2c7a-448d-b40b-129977791538" />
+          <attribute id="Name" type="LSString" value="ARM_ElvenChain_Twilight_Mail" />
+          <attribute id="Icon" type="FixedString" value="Generated_MAG_PHB_ElvenChain_Armor_Magic" />
+          <attribute id="ParentTemplateId" type="FixedString" value="391bccb7-8199-41e3-9aa3-261def2ebf26" />
+          <attribute id="PhysicsTemplate" type="FixedString" value="576d3a67-0602-d215-df08-bca3dff41007" />
+          <attribute id="VisualTemplate" type="FixedString" value="ac0b0670-d6e9-c806-4b77-2e4cb8599a5e" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="item" />
+          <attribute id="_OriginalFileVersion_" type="int64" value="144115205255725059" />
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
