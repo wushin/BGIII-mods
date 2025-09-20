@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="0" lslib_meta="v1,bswap_guids,lsf_adjacency" />
+	<region id="DialogBank">
+		<node id="DialogBank">
+			<children>
+				<node id="Resource">
+					<attribute id="AllowDeadSpeakers" type="bool" value="True" />
+					<attribute id="BlockFTB" type="bool" value="True" />
+					<attribute id="EnableTimeline" type="bool" value="True" />
+					<attribute id="ID" type="FixedString" value="77cd9638-3a49-41d2-9a1f-45e2773928ba" />
+					<attribute id="IsAllowingJoinCombat" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Vel_InParty_Nested_PartyMemberThoughts" />
+					<attribute id="SourceFile" type="LSString" value="Mods/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Story/Dialogs/Companions/Vel_InParty_Nested_PartyMemberThoughts.lsj" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144818875517633112" />
+					<attribute id="automated" type="bool" value="False" />
+					<attribute id="isBehaviour" type="bool" value="False" />
+					<attribute id="isPrivateDialog" type="bool" value="False" />
+					<attribute id="isSubbedDialog" type="bool" value="False" />
+					<attribute id="isWorld" type="bool" value="False" />
+					<children>
+						<node id="SpeakerSlotsWithLines">
+							<attribute id="HasLines" type="bool" value="True" />
+						</node>
+						<node id="SpeakerSlotsWithLines">
+							<attribute id="HasLines" type="bool" value="True" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AllowDeadSpeakers" type="bool" value="True" />
+					<attribute id="BlockFTB" type="bool" value="True" />
+					<attribute id="EnableTimeline" type="bool" value="True" />
+					<attribute id="ID" type="FixedString" value="57fba102-3ed1-4920-934c-bcc5d448d465" />
+					<attribute id="IsAllowingJoinCombat" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Vel_InParty" />
+					<attribute id="SourceFile" type="LSString" value="Mods/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Story/Dialogs/Companions/Vel_InParty.lsj" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="145100350494343169" />
+					<attribute id="automated" type="bool" value="False" />
+					<attribute id="isBehaviour" type="bool" value="False" />
+					<attribute id="isPrivateDialog" type="bool" value="False" />
+					<attribute id="isSubbedDialog" type="bool" value="False" />
+					<attribute id="isWorld" type="bool" value="False" />
+					<children>
+						<node id="SpeakerSlotsWithLines">
+							<attribute id="HasLines" type="bool" value="True" />
+						</node>
+						<node id="SpeakerSlotsWithLines">
+							<attribute id="HasLines" type="bool" value="True" />
+						</node>
+						<node id="childResources">
+							<attribute id="Object" type="guid" value="e3571881-a20b-4422-9442-bbbc002ea1db" />
+						</node>
+						<node id="childResources">
+							<attribute id="Object" type="guid" value="fdaa6bcf-2f9b-4140-94d6-a487cc4f8f65" />
+						</node>
+						<node id="childResources">
+							<attribute id="Object" type="guid" value="7fd362f1-3c16-48a2-9d1d-1b32cc3b6d28" />
+						</node>
+						<node id="childResources">
+							<attribute id="Object" type="guid" value="d77421ff-f4d6-409d-a153-b5803fcc91a3" />
+						</node>
+						<node id="childResources">
+							<attribute id="Object" type="guid" value="77cd9638-3a49-41d2-9a1f-45e2773928ba" />
+						</node>
+						<node id="childResources">
+							<attribute id="Object" type="guid" value="002e501b-6f1b-8357-1fde-20b1b4b7c1b9" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AllowDeadSpeakers" type="bool" value="False" />
+					<attribute id="BlockFTB" type="bool" value="True" />
+					<attribute id="EnableTimeline" type="bool" value="True" />
+					<attribute id="ID" type="FixedString" value="41c9b1e1-e0ed-4fc3-9cd4-56d44010371b" />
+					<attribute id="IsAllowingJoinCombat" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Vel_InPartyEND" />
+					<attribute id="SourceFile" type="LSString" value="Mods/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Story/Dialogs/Companions/Vel_InPartyEND.lsj" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144959613005987841" />
+					<attribute id="automated" type="bool" value="False" />
+					<attribute id="isBehaviour" type="bool" value="False" />
+					<attribute id="isPrivateDialog" type="bool" value="False" />
+					<attribute id="isSubbedDialog" type="bool" value="False" />
+					<attribute id="isWorld" type="bool" value="False" />
+					<children>
+						<node id="SpeakerSlotsWithLines">
+							<attribute id="HasLines" type="bool" value="True" />
+						</node>
+						<node id="SpeakerSlotsWithLines">
+							<attribute id="HasLines" type="bool" value="True" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AllowDeadSpeakers" type="bool" value="True" />
+					<attribute id="BlockFTB" type="bool" value="True" />
+					<attribute id="EnableTimeline" type="bool" value="True" />
+					<attribute id="ID" type="FixedString" value="fdaa6bcf-2f9b-4140-94d6-a487cc4f8f65" />
+					<attribute id="IsAllowingJoinCombat" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Vel_InParty_Nested_IPRDs" />
+					<attribute id="SourceFile" type="LSString" value="Mods/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Story/Dialogs/Companions/Vel_InParty_Nested_IPRDs.lsj" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144818875517633112" />
+					<attribute id="automated" type="bool" value="False" />
+					<attribute id="isBehaviour" type="bool" value="False" />
+					<attribute id="isPrivateDialog" type="bool" value="False" />
+					<attribute id="isSubbedDialog" type="bool" value="False" />
+					<attribute id="isWorld" type="bool" value="False" />
+					<children>
+						<node id="SpeakerSlotsWithLines">
+							<attribute id="HasLines" type="bool" value="True" />
+						</node>
+						<node id="SpeakerSlotsWithLines">
+							<attribute id="HasLines" type="bool" value="True" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AllowDeadSpeakers" type="bool" value="False" />
+					<attribute id="BlockFTB" type="bool" value="True" />
+					<attribute id="EnableTimeline" type="bool" value="True" />
+					<attribute id="ID" type="FixedString" value="e3571881-a20b-4422-9442-bbbc002ea1db" />
+					<attribute id="IsAllowingJoinCombat" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Vel_InParty_Nested_Affections" />
+					<attribute id="SourceFile" type="LSString" value="Mods/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Story/Dialogs/Companions/Vel_InParty_Nested_Affections.lsj" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144818875517633112" />
+					<attribute id="automated" type="bool" value="False" />
+					<attribute id="isBehaviour" type="bool" value="False" />
+					<attribute id="isPrivateDialog" type="bool" value="False" />
+					<attribute id="isSubbedDialog" type="bool" value="False" />
+					<attribute id="isWorld" type="bool" value="False" />
+					<children>
+						<node id="SpeakerSlotsWithLines">
+							<attribute id="HasLines" type="bool" value="True" />
+						</node>
+						<node id="SpeakerSlotsWithLines">
+							<attribute id="HasLines" type="bool" value="True" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AllowDeadSpeakers" type="bool" value="True" />
+					<attribute id="BlockFTB" type="bool" value="True" />
+					<attribute id="EnableTimeline" type="bool" value="True" />
+					<attribute id="ID" type="FixedString" value="d77421ff-f4d6-409d-a153-b5803fcc91a3" />
+					<attribute id="IsAllowingJoinCombat" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Vel_InParty_Nested_Backstory" />
+					<attribute id="SourceFile" type="LSString" value="Mods/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Story/Dialogs/Companions/Vel_InParty_Nested_Backstory.lsj" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144959613005988540" />
+					<attribute id="automated" type="bool" value="False" />
+					<attribute id="isBehaviour" type="bool" value="False" />
+					<attribute id="isPrivateDialog" type="bool" value="False" />
+					<attribute id="isSubbedDialog" type="bool" value="False" />
+					<attribute id="isWorld" type="bool" value="False" />
+					<children>
+						<node id="SpeakerSlotsWithLines">
+							<attribute id="HasLines" type="bool" value="True" />
+						</node>
+						<node id="SpeakerSlotsWithLines">
+							<attribute id="HasLines" type="bool" value="True" />
+						</node>
+					</children>
+				</node>
+				<node id="Resource">
+					<attribute id="AllowDeadSpeakers" type="bool" value="False" />
+					<attribute id="BlockFTB" type="bool" value="True" />
+					<attribute id="EnableTimeline" type="bool" value="True" />
+					<attribute id="ID" type="FixedString" value="7fd362f1-3c16-48a2-9d1d-1b32cc3b6d28" />
+					<attribute id="IsAllowingJoinCombat" type="bool" value="False" />
+					<attribute id="Name" type="LSString" value="Vel_InParty_Nested_TopicalGreetings" />
+					<attribute id="SourceFile" type="LSString" value="Mods/church_of_Eilistraee-fa53e39c-706f-4a0d-b73a-9e909a095a8b/Story/Dialogs/Companions/Vel_InParty_Nested_TopicalGreetings.lsj" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="145100350494343169" />
+					<attribute id="automated" type="bool" value="False" />
+					<attribute id="isBehaviour" type="bool" value="False" />
+					<attribute id="isPrivateDialog" type="bool" value="False" />
+					<attribute id="isSubbedDialog" type="bool" value="False" />
+					<attribute id="isWorld" type="bool" value="False" />
+					<children>
+						<node id="SpeakerSlotsWithLines">
+							<attribute id="HasLines" type="bool" value="True" />
+						</node>
+						<node id="SpeakerSlotsWithLines">
+							<attribute id="HasLines" type="bool" value="True" />
+						</node>
+					</children>
+				</node>
+			</children>
+		</node>
+	</region>
+</save>

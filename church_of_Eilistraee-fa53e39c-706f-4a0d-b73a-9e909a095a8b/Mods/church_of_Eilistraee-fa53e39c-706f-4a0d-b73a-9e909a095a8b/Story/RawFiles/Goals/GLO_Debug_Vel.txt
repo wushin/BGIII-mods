@@ -60,7 +60,7 @@ PROC_DebugBook_AddConditionalEntries((CHARACTER)_Player)
 AND
 GetFlag((FLAG)GLO_Origin_PartOfTheTeam_Vel_d9621904-c5a6-4e06-a060-f96b56e977aa, NULL_00000000-0000-0000-0000-000000000000, 0)
 THEN
-DB_DebugBookEntry_Temp("Vel", "Recruit", "Play recruitment situation at the spike trap", "Teleport to the goblins at the spikecage", "Vel_Recruit_RecruitmentTrap", 1);
+DB_DebugBookEntry_Temp("Vel", "Recruit", "Play recruitment situation at the spike trap", "Teleport to the goblins at the spike trap", "Vel_Recruit_RecruitmentTrap", 1);
 
 //Act1
 PROC
