@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="303" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Flags">
+		<node id="Flags">
+			<attribute id="UUID" type="guid" value="b8c613be-80cb-462c-a358-73f252c36165" />
+			<attribute id="Name" type="FixedString" value="ORI_Vel_HasMet_BaldursMouth" />
+			<attribute id="Description" type="LSString" value="Vel HasMet for Baldur's Mouth" />
+			<attribute id="Usage" type="uint8" value="6" />
+		</node>
+	</region>
+</save>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="331" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Flags">
+		<node id="Flags">
+			<attribute id="UUID" type="guid" value="580ad1e7-2b90-4cc2-88ba-c5255d066e21" />
+			<attribute id="Name" type="FixedString" value="ORI_Vel_Asked_AboutLaezel" />
+			<attribute id="Description" type="LSString" value="Asked about Laezel" />
+			<attribute id="Usage" type="uint8" value="4" />
+		</node>
+	</region>
+</save>

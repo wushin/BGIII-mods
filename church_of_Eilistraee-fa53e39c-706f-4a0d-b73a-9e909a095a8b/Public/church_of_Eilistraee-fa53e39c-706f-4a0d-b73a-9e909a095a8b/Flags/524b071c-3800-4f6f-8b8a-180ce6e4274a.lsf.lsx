@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="319" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Flags">
+		<node id="Flags">
+			<attribute id="UUID" type="guid" value="524b071c-3800-4f6f-8b8a-180ce6e4274a" />
+			<attribute id="Name" type="FixedString" value="GOB_DrowCommander_Event_MetVisitors" />
+			<attribute id="Description" type="LSString" value="Set when players talked to Vel in GOB: to avoid AD with Zurga about visitors that Vel already met" />
+			<attribute id="Usage" type="uint8" value="5" />
+		</node>
+	</region>
+</save>

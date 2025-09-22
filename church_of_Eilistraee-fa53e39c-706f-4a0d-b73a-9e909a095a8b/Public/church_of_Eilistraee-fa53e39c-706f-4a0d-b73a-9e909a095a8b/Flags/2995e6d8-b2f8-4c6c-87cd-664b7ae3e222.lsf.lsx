@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="319" lslib_meta="v1,bswap_guids,lsf_keys_adjacency" />
+	<region id="Flags">
+		<node id="Flags">
+			<attribute id="UUID" type="guid" value="2995e6d8-b2f8-4c6c-87cd-664b7ae3e222" />
+			<attribute id="Name" type="FixedString" value="ORI_Vel_IPRD_PickedUpTadopleAfterRecruited" />
+			<attribute id="Description" type="LSString" value="Vel saw player pick up but not use a tadpole after being recruited" />
+			<attribute id="Usage" type="uint8" value="4" />
+		</node>
+	</region>
+</save>
