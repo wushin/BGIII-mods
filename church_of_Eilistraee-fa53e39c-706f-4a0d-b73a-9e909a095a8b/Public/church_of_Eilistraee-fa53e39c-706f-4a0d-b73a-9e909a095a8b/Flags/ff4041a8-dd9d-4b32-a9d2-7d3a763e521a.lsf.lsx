@@ -4,8 +4,8 @@
 	<region id="Flags">
 		<node id="Flags">
 			<attribute id="UUID" type="guid" value="ff4041a8-dd9d-4b32-a9d2-7d3a763e521a" />
-			<attribute id="Name" type="FixedString" value="ORI_Vel_Event_AsksAboutKethericInvulnerability" />
-			<attribute id="Description" type="LSString" value="Ask Vel what she knows about Ketheric's invulnerability" />
+			<attribute id="Name" type="FixedString" value="ORI_Vel_Event_AsksAboutUnderdark" />
+			<attribute id="Description" type="LSString" value="Ask Vel what she knows about the Underdark" />
 			<attribute id="Usage" type="uint8" value="4" />
 		</node>
 	</region>

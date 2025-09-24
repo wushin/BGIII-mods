@@ -4,8 +4,8 @@
 	<region id="Flags">
 		<node id="Flags">
 			<attribute id="UUID" type="guid" value="2e3677b0-7bf6-4a9e-b548-c2f9c7d3231b" />
-			<attribute id="Name" type="FixedString" value="ORI_Vel_Event_AsksAboutKethericDying" />
-			<attribute id="Description" type="LSString" value="Asked Vel about her thoughts on Ketheric Dying" />
+			<attribute id="Name" type="FixedString" value="ORI_Vel_Event_AsksAboutShadowCurse" />
+			<attribute id="Description" type="LSString" value="Asked Vel about her thoughts on the Shadow Curse" />
 			<attribute id="Usage" type="uint8" value="4" />
 		</node>
 	</region>

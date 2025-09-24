@@ -4,8 +4,8 @@
 	<region id="Flags">
 		<node id="Flags">
 			<attribute id="UUID" type="guid" value="96cfd8e8-ca62-4569-9926-8b61ee7a2de9" />
-			<attribute id="Name" type="FixedString" value="ORI_Vel_Event_AsksAboutJoiningCult" />
-			<attribute id="Description" type="LSString" value="Player Aksed Vel about joining the cult" />
+			<attribute id="Name" type="FixedString" value="ORI_Vel_Event_AsksAboutMezzo" />
+			<attribute id="Description" type="LSString" value="Player Aksed Vel about Mezzo" />
 			<attribute id="Usage" type="uint8" value="4" />
 		</node>
 	</region>

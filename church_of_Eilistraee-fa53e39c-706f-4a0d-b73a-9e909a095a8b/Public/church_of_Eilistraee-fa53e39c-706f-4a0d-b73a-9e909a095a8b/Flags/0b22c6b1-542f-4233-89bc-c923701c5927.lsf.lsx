@@ -4,8 +4,8 @@
 	<region id="Flags">
 		<node id="Flags">
 			<attribute id="UUID" type="guid" value="0b22c6b1-542f-4233-89bc-c923701c5927" />
-			<attribute id="Name" type="FixedString" value="ORI_Vel_Event_AsksAboutCultReminesce" />
-			<attribute id="Description" type="LSString" value="Asked about Vel's actions while in the Cult" />
+			<attribute id="Name" type="FixedString" value="ORI_Vel_Event_AsksAboutMezzoReminesce" />
+			<attribute id="Description" type="LSString" value="Asked about Vel's actions while in Mezzo" />
 			<attribute id="Usage" type="uint8" value="4" />
 		</node>
 	</region>

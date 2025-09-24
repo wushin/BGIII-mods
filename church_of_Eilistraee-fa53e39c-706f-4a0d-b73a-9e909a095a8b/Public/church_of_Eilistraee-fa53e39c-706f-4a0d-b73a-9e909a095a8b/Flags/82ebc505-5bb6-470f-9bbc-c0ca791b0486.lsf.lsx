@@ -4,8 +4,8 @@
 	<region id="Flags">
 		<node id="Flags">
 			<attribute id="UUID" type="guid" value="82ebc505-5bb6-470f-9bbc-c0ca791b0486" />
-			<attribute id="Name" type="FixedString" value="ORI_Vel_Event_AsksAboutOrinHistory" />
-			<attribute id="Description" type="LSString" value="Asked Vel about her history with Orin" />
+			<attribute id="Name" type="FixedString" value="ORI_Vel_Event_AsksAboutMintharaHistory" />
+			<attribute id="Description" type="LSString" value="Asked Vel about her history with Minthara" />
 			<attribute id="Usage" type="uint8" value="4" />
 		</node>
 	</region>
